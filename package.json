@@ -1,0 +1,11 @@
+{
+  "name": "famitsu-news-slack-feed",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
