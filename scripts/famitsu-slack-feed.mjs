@@ -135,11 +135,31 @@ async function postSlack(webhookUrl, articles) {
 async function readState(statePath) {
   try {
     const parsed = JSON.parse(await fs.readFile(statePath, "utf8"));
-    return { initialized: Boolean(parsed.initialized), seen: parsed.seen ?? {} };
+    return {
+      initialized: Boolean(parsed.initialized),
+      seen: parsed.seen ?? {},
+      maxArticleId: Number.isFinite(Number(parsed.maxArticleId)) ? Number(parsed.maxArticleId) : null,
+      lastCheckedAt: parsed.lastCheckedAt ?? null
+    };
   } catch (error) {
-    if (error.code === "ENOENT") return { initialized: false, seen: {} };
+    if (error.code === "ENOENT") return { initialized: false, seen: {}, maxArticleId: null, lastCheckedAt: null };
     throw error;
   }
+}
+
+export function highestArticleId(articles) {
+  return articles.reduce((highest, article) => {
+    const id = Number.parseInt(article.id, 10);
+    return Number.isFinite(id) ? Math.max(highest, id) : highest;
+  }, 0);
+}
+
+export function selectNewArticles(articles, state) {
+  if (!Number.isFinite(state.maxArticleId)) return [];
+  return articles.filter((article) => {
+    const id = Number.parseInt(article.id, 10);
+    return Number.isFinite(id) && id > state.maxArticleId && !state.seen[article.url];
+  });
 }
 
 async function writeJsonAtomic(filePath, value) {
@@ -150,6 +170,7 @@ async function writeJsonAtomic(filePath, value) {
 }
 
 export async function main() {
+  const runStartedAt = new Date();
   const statePath = process.env.STATE_PATH || DEFAULT_STATE;
   const rssPath = process.env.RSS_PATH || "feed.xml";
   const maxPages = Math.max(1, Number.parseInt(process.env.MAX_PAGES || "10", 10));
@@ -160,15 +181,21 @@ export async function main() {
 
   await fs.writeFile(rssPath, buildRss(articles));
   const state = await readState(statePath);
-  const newArticles = articles.filter((article) => !state.seen[article.url]);
+  const currentHighestId = highestArticleId(articles);
 
-  if (!state.initialized && !bootstrapNotify) {
+  // 旧バージョンからの移行時も、現在の記事を基準点として通知しない。
+  // ページ内容が揺れて過去記事が後から現れても、IDが基準以下なら誤通知しない。
+  if ((!state.initialized && !bootstrapNotify) || !Number.isFinite(state.maxArticleId)) {
     for (const article of articles) state.seen[article.url] = article.publishedAt;
     state.initialized = true;
+    state.maxArticleId = currentHighestId;
+    state.lastCheckedAt = runStartedAt.toISOString();
     await writeJsonAtomic(statePath, state);
-    console.log(`初期化完了: ${articles.length}件を既読登録（Slack通知なし）`);
+    console.log(`基準点を更新: ID ${currentHighestId} / ${articles.length}件を既読登録（Slack通知なし）`);
     return;
   }
+
+  const newArticles = selectNewArticles(articles, state);
 
   if (newArticles.length > 0 && !webhookUrl) throw new Error("SLACK_WEBHOOK_URL が設定されていません");
   for (let index = 0; index < newArticles.length; index += 10) {
@@ -183,6 +210,8 @@ export async function main() {
   const retained = Object.entries(state.seen).sort((a, b) => String(b[1]).localeCompare(String(a[1]))).slice(0, 20_000);
   state.seen = Object.fromEntries(retained);
   state.initialized = true;
+  state.maxArticleId = Math.max(state.maxArticleId, currentHighestId);
+  state.lastCheckedAt = runStartedAt.toISOString();
   await writeJsonAtomic(statePath, state);
   console.log(`確認 ${articles.length}件 / 新着通知 ${newArticles.length}件`);
 }
