@@ -3,8 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node --test",
-    "check": "node --test"
+    "test": "node --test test/*.test.mjs",
+    "check": "node --test test/*.test.mjs"
   },
   "engines": {
     "node": ">=20"
