@@ -1,0 +1,55 @@
+name: Famitsu news to Slack
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+    inputs:
+      notify_existing:
+        description: "初回でも既存記事を通知する"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: famitsu-news-to-slack
+  cancel-in-progress: false
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Test
+        run: npm test
+
+      - name: Fetch and notify
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          MAX_PAGES: "10"
+          BOOTSTRAP_NOTIFY: ${{ inputs.notify_existing || 'false' }}
+        run: node scripts/famitsu-slack-feed.mjs
+
+      - name: Persist feed state
+        if: always()
+        run: |
+          if git diff --quiet -- data/seen.json feed.xml; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/seen.json feed.xml
+          git commit -m "chore: update Famitsu feed state"
+          git pull --rebase
+          git push
