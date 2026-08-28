@@ -79,7 +79,11 @@ function escapeXml(value) {
   return String(value).replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;").replaceAll("'", "&apos;");
 }
 
-export function buildRss(articles, generatedAt = new Date()) {
+export function buildRss(articles, generatedAt) {
+  // 新着がない実行ではRSSを変化させない。毎回現在時刻を使うと、
+  // GitHub Actionsが10分ごとに不要な状態コミットを作ってしまう。
+  const latestPublishedAt = [...articles].map((article) => article.publishedAt).sort().at(-1);
+  const buildDate = generatedAt ?? new Date(latestPublishedAt);
   const items = [...articles].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt)).slice(0, 100).map((article) => `    <item>
       <title>${escapeXml(article.title)}</title>
       <link>${escapeXml(article.url)}</link>
@@ -94,7 +98,7 @@ export function buildRss(articles, generatedAt = new Date()) {
     <link>${BASE_URL}/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>${generatedAt.toUTCString()}</lastBuildDate>
+    <lastBuildDate>${buildDate.toUTCString()}</lastBuildDate>
 ${items}
   </channel>
 </rss>
