@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 22:30:00 GMT</lastBuildDate>
+    <item>
+      <title>『Mortal Shell II』大型アプデ第1弾がPCで配信。シェルの絆リセット機能追加のほか、全シェル＆ターストーンを1周目でフルアップグレード可能に</title>
+      <link>https://www.famitsu.com/article/202608/86015</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202608/86015</guid>
+      <pubDate>Sat, 29 Aug 2026 22:30:00 GMT</pubDate>
+      <description>アクションRPG『Mortal Shell II』で大型アップデート第1弾が配信。周回プレイをしなくてもフルアップグレードがやりやすくなるなど、多岐にわたる内容となっている。</description>
+    </item>
     <item>
       <title>『PengPong（ペンポン）』武器やアイテムを“弾いて”戦うピンボール・ローグライクが発売中。ユニークなアクションと多彩なビルドを楽しめる</title>
       <link>https://www.famitsu.com/article/202608/85991</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/85626</guid>
       <pubDate>Wed, 26 Aug 2026 05:59:00 GMT</pubDate>
       <description>『Villion:Code』が初セールで31％オフ。ほか最大80％オフの“コンパイルハート残暑見舞いセール2026”が8/26から9/9まで開催。</description>
-    </item>
-    <item>
-      <title>『都市伝説解体センター』リアルイベント“都市伝説解体・センター試験”がPC・スマホでいつでも体験できるアーカイブ版が発売。合格すると廻屋渉から特別な依頼が届く</title>
-      <link>https://www.famitsu.com/article/202608/85615</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85615</guid>
-      <pubDate>Wed, 26 Aug 2026 05:00:00 GMT</pubDate>
-      <description>“都市伝説解体・センター試験 Archive”が8月26日（水）より販売する。2026年3月から4月にかけて東京・大阪でリアルイベントとして開催された“都市伝説解体・センター試験”がPC・スマートフォンでいつでも体験できるようになって登場。</description>
     </item>
   </channel>
 </rss>
