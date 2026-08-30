@@ -357,13 +357,6 @@
       <description>Nintendo Switch向けタイトル『ONI零～復活～Reboot』がメビウスより発表。東京ゲームショウ2026のコナミパートナーブースにて試遊出展される。</description>
     </item>
     <item>
-      <title>人間関係と思い出でデッキを構築する『ドリームカード』がSteamで“非常に好評”。コンボの組み合わせでぶっ壊れビルドも構築できる</title>
-      <link>https://www.famitsu.com/article/202608/85727</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85727</guid>
-      <pubDate>Thu, 27 Aug 2026 11:30:00 GMT</pubDate>
-      <description>ローグライクデッキ構築ゲーム『ドリームカード』がSteamで”非常に好評”の評価を獲得。コンボの組み合わせでぶっ壊れビルドの構築も可能。</description>
-    </item>
-    <item>
       <title>『13Z-十三座戦記-』動物の霊を宿した戦士たちが十三番目の干支を目指す3Dアクションローグライク。Switch2/PS5版が2027年1月に発売</title>
       <link>https://www.famitsu.com/article/202608/85793</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/85793</guid>
@@ -553,18 +546,18 @@
       <description>ダンジョンズ&amp;ドラゴンズ（D&amp;D）の世界の宿屋の亭主になる経営シム『Dungeons &amp; Dragons: Long Rest Tavern』が発表。</description>
     </item>
     <item>
-      <title>『ペルソナ4 リバイバル』ストーリートレーラーが公開。仲間との日常を描いたエモいシーンから不穏＆激しいバトルまで【P4R】</title>
-      <link>https://www.famitsu.com/article/202608/85706</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85706</guid>
-      <pubDate>Wed, 26 Aug 2026 16:16:00 GMT</pubDate>
-      <description>配信イベント“XBOX @ gamescom Broadcast 2026 | Day 1”にて、『ペルソナ４ リバイバル』の新映像が公開された。</description>
-    </item>
-    <item>
       <title>Xbox Series X/Xbox Oneで、ディスク版ゲームからデジタル版のプレイ権を得られる新たな取り組みが発表。まずはInsiderプログラム参加者から提供</title>
       <link>https://www.famitsu.com/article/202608/85704</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/85704</guid>
       <pubDate>Wed, 26 Aug 2026 16:16:00 GMT</pubDate>
       <description>Xbox Series XとXbox Oneのディスク版ゲームからデジタル版ライセンスが得られるようになる、Xboxの新たな取り組みが発表。</description>
+    </item>
+    <item>
+      <title>『ペルソナ4 リバイバル』ストーリートレーラーが公開。仲間との日常を描いたエモいシーンから不穏＆激しいバトルまで【P4R】</title>
+      <link>https://www.famitsu.com/article/202608/85706</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85706</guid>
+      <pubDate>Wed, 26 Aug 2026 16:16:00 GMT</pubDate>
+      <description>配信イベント“XBOX @ gamescom Broadcast 2026 | Day 1”にて、『ペルソナ４ リバイバル』の新映像が公開された。</description>
     </item>
     <item>
       <title>『夜明けの笛吹き者』発売日が9月23日に決定。『ヨグ=ソトースの庭』のBone Nailが贈る100万字超えのテキスト量を誇るマルチエンド経営シミュ。</title>
@@ -705,6 +698,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/85624</guid>
       <pubDate>Wed, 26 Aug 2026 06:28:00 GMT</pubDate>
       <description>ポストアポカリプス世界が舞台のメカアクション『TankRat』2027年1月15日リリース。対応機種はプレイステーション5（PS5）、PC（Steam）。プレイヤーはフルカスタマイズ可能な戦車と融合する能力を持つ存在となり、タンクラットと呼ばれる機械が徘徊する戦火の荒野を生き抜いていく。</description>
+    </item>
+    <item>
+      <title>『ヴィリオン:コード』31％オフの初セール。コンパイルハートの残暑見舞いセールが本日（8/26）より開催</title>
+      <link>https://www.famitsu.com/article/202608/85626</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85626</guid>
+      <pubDate>Wed, 26 Aug 2026 05:59:00 GMT</pubDate>
+      <description>『Villion:Code』が初セールで31％オフ。ほか最大80％オフの“コンパイルハート残暑見舞いセール2026”が8/26から9/9まで開催。</description>
     </item>
   </channel>
 </rss>
