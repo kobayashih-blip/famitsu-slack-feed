@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 09:28:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:00:00 GMT</lastBuildDate>
+    <item>
+      <title>東映ゲームズが東京ゲームショウに初出展。『HINO』『KILLA』『デバッグネフェミー』の3タイトルが試遊できる</title>
+      <link>https://www.famitsu.com/article/202608/86030</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202608/86030</guid>
+      <pubDate>Sun, 30 Aug 2026 11:00:00 GMT</pubDate>
+      <description>東映ゲームズは東京ゲームショウ2026に初出展。3つの試遊タイトルやプレゼントありのクレーンゲームが体験できる。</description>
+    </item>
     <item>
       <title>『呪術廻戦 ランブル サバイバトン』羂索と禪院直哉がボスとして登場。『ヴァンサバ』開発陣が手がけるサバイバーズロワイアル</title>
       <link>https://www.famitsu.com/article/202608/86048</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/85644</guid>
       <pubDate>Wed, 26 Aug 2026 08:00:00 GMT</pubDate>
       <description>Nintendo Switch、PS4向けに『アーケードアーカイブス サタン オブ サターン』が、PS5、Xbox Series X|S向けに『アーケードアーカイブス2 サタン オブ サターン』が2026年8月27日より配信される。</description>
-    </item>
-    <item>
-      <title>老舗FPS『AVA』が10月28日をもってサービス終了。新プロジェクト『AVA RE:BIRTH（アヴァ・リバース）』は2026年秋始動予定</title>
-      <link>https://www.famitsu.com/article/202608/85653</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85653</guid>
-      <pubDate>Wed, 26 Aug 2026 07:56:00 GMT</pubDate>
-      <description>『Alliance of Valiant Arms』公式X（旧：Twitter）にて、同作が2026年10月28日をもってサービスを終了することが発表。本作のIPを使用した新プロジェクト『AVA RE:BIRTH（アヴァ・リバース）』は2026年秋に正式リリースを予定。</description>
     </item>
   </channel>
 </rss>
