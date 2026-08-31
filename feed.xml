@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 31 Aug 2026 10:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『ナニワアンダーグラウンド』治安崩壊した大阪を舞台としたライフシミュレーション。おでんをツンツンする悪人として生きるなど生き方は自由</title>
+      <link>https://www.famitsu.com/article/202608/86110</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202608/86110</guid>
+      <pubDate>Mon, 31 Aug 2026 11:00:00 GMT</pubDate>
+      <description>PC（Steam）用ライフシミュレーションゲーム『ナニワアンダーグラウンド』のSteamストアページが公開された。治安が崩壊した大阪で個性豊かな市民との交流や生活体験が楽しめる。2026年12月26日より大阪で開催されるインディーゲーム展示イベント“大阪ゲームダンジョン2”での試遊出展も決定した。</description>
+    </item>
     <item>
       <title>DMM GAMESのiOS版アプリ「GAMES STORE」が本日いよいよ（8/31）配信。App Storeを経由せずに『マブガル』や『クルスタ』が遊べる</title>
       <link>https://www.famitsu.com/article/202608/86146</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/85701</guid>
       <pubDate>Thu, 27 Aug 2026 03:00:00 GMT</pubDate>
       <description>MAGES.の完全新作オリジナルアドベンチャーゲーム『覗怪』（しかい）がNintendo Switch（スイッチ）、プレイステーション5（PS5）で今冬に発売決定。本作は、『シュタインズ・ゲート』』や『カオスチャイルド』などの科学アドベンチャー（科学ADV）シリーズのスタッフによる“非”科学サスペンス。</description>
-    </item>
-    <item>
-      <title>『スーパーリアル麻雀VR』本日（8/27）発売。令和に復活した伝説の麻雀ゲーム。クラファンで1690%を達成した注目作がついに解禁</title>
-      <link>https://www.famitsu.com/article/202608/85687</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85687</guid>
-      <pubDate>Thu, 27 Aug 2026 03:00:00 GMT</pubDate>
-      <description>ILLUMINATIONが開発する『スーパーリアル麻雀 Venus Returns』が2026年8月27日12時にリリースを開始した。</description>
     </item>
   </channel>
 </rss>
