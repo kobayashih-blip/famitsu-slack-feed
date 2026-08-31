@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 00:30:00 GMT</lastBuildDate>
+    <item>
+      <title>『ハロウィン ザ・ゲーム』CEROレーティングを取得できずPS5版が発売中止に。予約者には返金対応。Xbox/PCでは9月9日発売</title>
+      <link>https://www.famitsu.com/article/202608/86081</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202608/86081</guid>
+      <pubDate>Mon, 31 Aug 2026 00:30:00 GMT</pubDate>
+      <description>新作ホラーゲーム『ハロウィン ザ・ゲーム』プレイステーション5版の発売中止が発表。</description>
+    </item>
     <item>
       <title>ラヴクラフト長編の新訳『未知なるカダスを夢に求めて』発売。『サルナスに訪れし破滅』『眠りの壁の向こう』など9編収録</title>
       <link>https://www.famitsu.com/article/202608/86038</link>
@@ -350,13 +357,6 @@
       <description>ファミ通発表の売上ランキング。今回は2026年8月17日～8月23日のゲームソフト＆ハード週間推定販売数まとめをお届け。</description>
     </item>
     <item>
-      <title>Switch 2版『ステラーブレイド コンプリートエディション』東京ゲームショウで試遊出展。キム・ヒョンテ氏登壇のスペシャルステージも</title>
-      <link>https://www.famitsu.com/article/202608/85805</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85805</guid>
-      <pubDate>Thu, 27 Aug 2026 12:54:00 GMT</pubDate>
-      <description>Nintendo Switch 2版『Stellar Blade コンプリートエディション』が東京ゲームショウ2026に出展、世界初の一般向け試遊を実施する</description>
-    </item>
-    <item>
       <title>『ライザチャットAI』発話数100万回突破を記念して900会話トークン（無償）をプレゼント。あわせて“悪質な利用規約違反”への対応も</title>
       <link>https://www.famitsu.com/article/202608/85823</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/85823</guid>
@@ -539,18 +539,18 @@
       <description>PlayStation Plusのフリープレイに『Sniper Elite: Resistance』『MLB The Show 26』『ウォブリーライフ』『Chained Echoes』の4タイトルが追加される。フリープレイ期間は2026年9月1日～10月5日。</description>
     </item>
     <item>
-      <title>おじさんパーティーゲーム『BLOKES on BLOCKS!』ステージやルールを追加するアップデートが9月3日に配信。アプデ記念のセールも開催予定</title>
-      <link>https://www.famitsu.com/article/202608/85683</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85683</guid>
-      <pubDate>Thu, 27 Aug 2026 03:00:00 GMT</pubDate>
-      <description>Nintendo Switch、Steam向けに配信されているおじさんパーティーゲーム『BLOKES on BLOCKS!』が、2026年9月3日に無料アップデートを配信することが発表。アップデートでは2種類のステージと3種のルールが追加。アップデートを記念したセールも開催。</description>
-    </item>
-    <item>
       <title>『シュタインズ・ゲート』などを手掛けた科学ADVシリーズのスタッフによる完全新作“非”科学サスペンス『覗怪』が今冬発売決定。ティザーサイト＆ムービーが公開</title>
       <link>https://www.famitsu.com/article/202608/85701</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/85701</guid>
       <pubDate>Thu, 27 Aug 2026 03:00:00 GMT</pubDate>
       <description>MAGES.の完全新作オリジナルアドベンチャーゲーム『覗怪』（しかい）がNintendo Switch（スイッチ）、プレイステーション5（PS5）で今冬に発売決定。本作は、『シュタインズ・ゲート』』や『カオスチャイルド』などの科学アドベンチャー（科学ADV）シリーズのスタッフによる“非”科学サスペンス。</description>
+    </item>
+    <item>
+      <title>おじさんパーティーゲーム『BLOKES on BLOCKS!』ステージやルールを追加するアップデートが9月3日に配信。アプデ記念のセールも開催予定</title>
+      <link>https://www.famitsu.com/article/202608/85683</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85683</guid>
+      <pubDate>Thu, 27 Aug 2026 03:00:00 GMT</pubDate>
+      <description>Nintendo Switch、Steam向けに配信されているおじさんパーティーゲーム『BLOKES on BLOCKS!』が、2026年9月3日に無料アップデートを配信することが発表。アップデートでは2種類のステージと3種のルールが追加。アップデートを記念したセールも開催。</description>
     </item>
     <item>
       <title>『スーパーリアル麻雀VR』本日（8/27）発売。令和に復活した伝説の麻雀ゲーム。クラファンで1690%を達成した注目作がついに解禁</title>
@@ -700,11 +700,11 @@
       <description>『THANKS, LIGHT.』PS5、Steamで10月15日に発売。光と影を操作する3Dパズルアクションゲーム。</description>
     </item>
     <item>
-      <title>ハピネットが“東京ホラー特区!! 2026”に出展。日本ホラーゲーム大賞にノミネートされた『ポピープレイタイム トリプルパック』などの試遊出展を実施</title>
-      <link>https://www.famitsu.com/article/202608/85479</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85479</guid>
+      <title>【アケアカ/アケアカ2】『サタン オブ サターン』が8月27日より配信開始。地球を侵略するUFOやロケットを撃退するシューティングゲーム</title>
+      <link>https://www.famitsu.com/article/202608/85644</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85644</guid>
       <pubDate>Wed, 26 Aug 2026 08:00:00 GMT</pubDate>
-      <description>ハピネットが2026年9月11日から9月13日にかけて東京ドームシティで開催されるイベント&quot;東京ホラー特区!! 2026”に出展することを発表。“日本ホラーゲーム大賞”の各アワードにノミネートされた『FAITH: The Unholy Trinity』『ポピープレイタイムトリプルパック』の試遊出展や立体物展示が実施される。</description>
+      <description>Nintendo Switch、PS4向けに『アーケードアーカイブス サタン オブ サターン』が、PS5、Xbox Series X|S向けに『アーケードアーカイブス2 サタン オブ サターン』が2026年8月27日より配信される。</description>
     </item>
   </channel>
 </rss>
