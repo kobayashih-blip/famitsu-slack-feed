@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 04:55:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 05:15:00 GMT</lastBuildDate>
+    <item>
+      <title>「カスのコーヒートーク」で話題になった『Living on Plain Pasta』が9月10日に発売決定。酒カス先輩に料理を振る舞う会話アドベンチャー</title>
+      <link>https://www.famitsu.com/article/202609/86213</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86213</guid>
+      <pubDate>Tue, 01 Sep 2026 05:15:00 GMT</pubDate>
+      <description>PC向け新作アドベンチャー『Living on Plain Pasta』は2026年9月10日に発売。「カスのコーヒートーク」のコンセプトで注目を集めたグラニテワークスの新作だ。</description>
+    </item>
     <item>
       <title>『マブラヴ』第1作を無料でゲットできるキャンペーンがDMM GAMESで開催。新規会員、久しぶりにログインした人を対象に先着30000名にプレゼント</title>
       <link>https://www.famitsu.com/article/202609/86222</link>
@@ -350,11 +357,11 @@
       <description>リズムゲームとビジュアルノベルが融合した『COMETROX!』のSteamストアページが公開。PCキーボードをコントローラー代わりにしてギターを演奏できる。</description>
     </item>
     <item>
-      <title>『ペルソナ4 リバイバル』新戦闘曲の動画が公開。曲名はPrime Time Golden Hour Show。音楽ストリーミングサービスでも先行配信</title>
-      <link>https://www.famitsu.com/article/202608/86016</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/86016</guid>
-      <pubDate>Sun, 30 Aug 2026 01:34:00 GMT</pubDate>
-      <description>『ペルソナ4 リバイバル』新戦闘曲“Prime Time Golden Hour Show”の公式リリックビデオが公開。</description>
+      <title>『Mortal Shell II』大型アプデ第1弾がPCで配信。シェルの絆リセット機能追加のほか、全シェル＆ターストーンを1周目でフルアップグレード可能に</title>
+      <link>https://www.famitsu.com/article/202608/86015</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202608/86015</guid>
+      <pubDate>Sat, 29 Aug 2026 22:30:00 GMT</pubDate>
+      <description>アクションRPG『Mortal Shell II』で大型アップデート第1弾が配信。周回プレイをしなくてもフルアップグレードがやりやすくなるなど、多岐にわたる内容となっている。</description>
     </item>
     <item>
       <title>『PengPong（ペンポン）』武器やアイテムを“弾いて”戦うピンボール・ローグライクが発売中。ユニークなアクションと多彩なビルドを楽しめる</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/85727</guid>
       <pubDate>Thu, 27 Aug 2026 11:30:00 GMT</pubDate>
       <description>ローグライクデッキ構築ゲーム『ドリームカード』がSteamで”非常に好評”の評価を獲得。コンボの組み合わせでぶっ壊れビルドの構築も可能。</description>
-    </item>
-    <item>
-      <title>『13Z-十三座戦記-』動物の霊を宿した戦士たちが十三番目の干支を目指す3Dアクションローグライク。Switch2/PS5版が2027年1月に発売</title>
-      <link>https://www.famitsu.com/article/202608/85793</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85793</guid>
-      <pubDate>Thu, 27 Aug 2026 11:00:00 GMT</pubDate>
-      <description>Switch2/PS5向けゲーム『13Z-十三座戦記-』2027年1月14日に発売。動物の霊を宿した戦士たちを操り、十三番目の干支の座を目指す3Dアクションローグライク。</description>
     </item>
   </channel>
 </rss>
