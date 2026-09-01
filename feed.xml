@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:25:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:39:00 GMT</lastBuildDate>
+    <item>
+      <title>『フロンタクティクス』自分だけの部隊や戦術を構成して敵に挑んでいくローグライト・オートバトラーが2026年に発売。体験版が配信開始</title>
+      <link>https://www.famitsu.com/article/202609/86152</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86152</guid>
+      <pubDate>Tue, 01 Sep 2026 11:39:00 GMT</pubDate>
+      <description>PC（Steam）用ソフト『Frontactics』（フロンタクティクス）が2026年に発売。体験版が配信開始。獲得した報酬で自分だけの編成を作り上げていく戦略ローグライク・オートバトラーゲーム。</description>
+    </item>
     <item>
       <title>『OMG: Oh My Gravity』重力弾を使って宇宙のゴミをみんなで片付ける、絶対にうまくいくはずない最大4人協力型パズル。Steamで11月発売</title>
       <link>https://www.famitsu.com/article/202609/86268</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/85792</guid>
       <pubDate>Fri, 28 Aug 2026 02:20:00 GMT</pubDate>
       <description>『ミルモでポン！』とサンキューマートのコラボレーション雑貨が、2026年9月中旬よりALL390円（税込429円）で発売される。</description>
-    </item>
-    <item>
-      <title>【アマプラ9月配信作品】『チェンソーマン レゼ篇』『ランニング・マン』、CGアニメ『バイオハザード』シリーズなど見放題</title>
-      <link>https://www.famitsu.com/article/202608/85778</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85778</guid>
-      <pubDate>Fri, 28 Aug 2026 01:00:00 GMT</pubDate>
-      <description>アマゾンプライムビデオにて2026年9月に配信される作品ラインアップが公開された。『バイオハザード』実写映画＆CGアニメシリーズにくわえ、劇場版『チェンソーマン レゼ篇』、映画『ランニング・マン』なども順次見放題へ。</description>
     </item>
   </channel>
 </rss>
