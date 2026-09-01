@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 07:54:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 08:11:00 GMT</lastBuildDate>
+    <item>
+      <title>映画『まどマギ〈ワルプルギスの廻天〉』興収10億円を突破、約13年ぶりの新作が公開から4日間で大ヒットを記録。新規カット使用の最新CMも公開中</title>
+      <link>https://www.famitsu.com/article/202609/86249</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86249</guid>
+      <pubDate>Tue, 01 Sep 2026 08:11:00 GMT</pubDate>
+      <description>『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』は2026年8月28日～8月31日の公開4日間で、興行収入10億円を突破する大ヒットを記録した。</description>
+    </item>
     <item>
       <title>【ポケモン】ヘアケアブランド“Straine”とのコラボシャンプー＆トリートメントが9月18日発売。すやすや眠るポケモンがパッケージに</title>
       <link>https://www.famitsu.com/article/202609/86245</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/85739</guid>
       <pubDate>Thu, 27 Aug 2026 13:00:00 GMT</pubDate>
       <description>ファミ通発表の売上ランキング。今回は2026年8月17日～8月23日のゲームソフト＆ハード週間推定販売数まとめをお届け。</description>
-    </item>
-    <item>
-      <title>Switch 2版『ステラーブレイド コンプリートエディション』東京ゲームショウで試遊出展。キム・ヒョンテ氏登壇のスペシャルステージも</title>
-      <link>https://www.famitsu.com/article/202608/85805</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85805</guid>
-      <pubDate>Thu, 27 Aug 2026 12:54:00 GMT</pubDate>
-      <description>Nintendo Switch 2版『Stellar Blade コンプリートエディション』が東京ゲームショウ2026に出展、世界初の一般向け試遊を実施する</description>
     </item>
   </channel>
 </rss>
