@@ -70,18 +70,18 @@
       <description>ドラマティック探索アクションRPG『CODE VEIN II』（コードヴェイン2）について、拡張DLC“Mask of Idris”と無料アップデートVer.2.0の最新情報が公開された。</description>
     </item>
     <item>
-      <title>『グリザイアの新果実 -集結の百果-』が2027年に発売。『集結の百果』とリンクした物語を描く新作アドベンチャー。風見雄二の娘を名乗る6人の少女たちが登場</title>
-      <link>https://www.famitsu.com/article/202609/86145</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86145</guid>
-      <pubDate>Tue, 01 Sep 2026 03:00:00 GMT</pubDate>
-      <description>『グリザイア』シリーズの新作タイトル『グリザイアの新果実 -集結の百果-』が2027年に発売。スマートフォン向けタイトル『グリザイア 集結の百果』とリンクした物語が展開されるアドベンチャーゲーム。</description>
-    </item>
-    <item>
       <title>『Chromascape』色が喪失していく世界の謎を追う2Dアドベンチャーゲームが10月1日に発売。色を分け与えてパズルを解き世界の彩りを取り戻そう</title>
       <link>https://www.famitsu.com/article/202609/86128</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86128</guid>
       <pubDate>Tue, 01 Sep 2026 03:00:00 GMT</pubDate>
       <description>Nintendo Switch、PC（Steam）用ソフト『Chromascape』が2026年10月1日に発売。手描きアートで描かれた世界で、色を受け取り、別の場所に分け与えることができる主人公を操作し、各地で色が喪失している原因を探る2Dアドベンチャーゲーム。</description>
+    </item>
+    <item>
+      <title>『グリザイアの新果実 -集結の百果-』が2027年に発売。『集結の百果』とリンクした物語を描く新作アドベンチャー。風見雄二の娘を名乗る6人の少女たちが登場</title>
+      <link>https://www.famitsu.com/article/202609/86145</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86145</guid>
+      <pubDate>Tue, 01 Sep 2026 03:00:00 GMT</pubDate>
+      <description>『グリザイア』シリーズの新作タイトル『グリザイアの新果実 -集結の百果-』が2027年に発売。スマートフォン向けタイトル『グリザイア 集結の百果』とリンクした物語が展開されるアドベンチャーゲーム。</description>
     </item>
     <item>
       <title>『ガルパン最終章』第5話（10/9公開）キービジュアル＆本予告第2弾解禁。“宿命の決勝戦”がいま始まる。『もっとらぶらぶ作戦です！』TV放送も決定</title>
@@ -355,6 +355,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/86020</guid>
       <pubDate>Sun, 30 Aug 2026 03:44:00 GMT</pubDate>
       <description>リズムゲームとビジュアルノベルが融合した『COMETROX!』のSteamストアページが公開。PCキーボードをコントローラー代わりにしてギターを演奏できる。</description>
+    </item>
+    <item>
+      <title>『ペルソナ4 リバイバル』新戦闘曲の動画が公開。曲名はPrime Time Golden Hour Show。音楽ストリーミングサービスでも先行配信</title>
+      <link>https://www.famitsu.com/article/202608/86016</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202608/86016</guid>
+      <pubDate>Sun, 30 Aug 2026 01:34:00 GMT</pubDate>
+      <description>『ペルソナ4 リバイバル』新戦闘曲“Prime Time Golden Hour Show”の公式リリックビデオが公開。</description>
     </item>
     <item>
       <title>『Mortal Shell II』大型アプデ第1弾がPCで配信。シェルの絆リセット機能追加のほか、全シェル＆ターストーンを1周目でフルアップグレード可能に</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/85813</guid>
       <pubDate>Thu, 27 Aug 2026 11:41:00 GMT</pubDate>
       <description>Nintendo Switch向けタイトル『ONI零～復活～Reboot』がメビウスより発表。東京ゲームショウ2026のコナミパートナーブースにて試遊出展される。</description>
-    </item>
-    <item>
-      <title>人間関係と思い出でデッキを構築する『ドリームカード』がSteamで“非常に好評”。コンボの組み合わせでぶっ壊れビルドも構築できる</title>
-      <link>https://www.famitsu.com/article/202608/85727</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85727</guid>
-      <pubDate>Thu, 27 Aug 2026 11:30:00 GMT</pubDate>
-      <description>ローグライクデッキ構築ゲーム『ドリームカード』がSteamで”非常に好評”の評価を獲得。コンボの組み合わせでぶっ壊れビルドの構築も可能。</description>
     </item>
   </channel>
 </rss>
