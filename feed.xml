@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 02 Sep 2026 04:37:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 05:19:00 GMT</lastBuildDate>
+    <item>
+      <title>『マイクラ』腕時計が登場。ネザー、ジ・エンドの世界観を腕に巻こう、フォッシルコラボ</title>
+      <link>https://www.famitsu.com/article/202609/86324</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86324</guid>
+      <pubDate>Wed, 02 Sep 2026 05:19:00 GMT</pubDate>
+      <description>『Minecraft（マインクラフト）』×FOSSIL（フォッシル）限定ウォッチコレクションが2026年8月28日（金）より公式オンラインストアで先行発売。直営店では9月1日（火）から販売開始。正規取扱店では9月1日（火）に予約受付を開始し、9月8日（火）から販売予定となっている。</description>
+    </item>
     <item>
       <title>『エルデンリング ナイトレイン』ポップアップストアが9月30日より伊勢丹新宿店で開催。雑貨等の先行販売商品やノベルティを用意</title>
       <link>https://www.famitsu.com/article/202609/86328</link>
@@ -350,11 +357,32 @@
       <description>『OU』発売3周年記念したグッズを発表。オリジナルサントラも各種音楽配信サービスにて配信開始した。昨年実施された原画展の再開催も決定。</description>
     </item>
     <item>
-      <title>“State of Play／State of Play 日本”が9月3日22時より連続で放送決定。前半は各社タイトルと『FF7リベレーション』の広大な世界を紹介。後半は日本・アジア発の新作を深堀りする構成に</title>
-      <link>https://www.famitsu.com/article/202608/86169</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/86169</guid>
-      <pubDate>Mon, 31 Aug 2026 12:08:00 GMT</pubDate>
-      <description>ソニー・インタラクティブエンタテインメント（SIE）は、プレイステーションの最新情報を公開する動画配信番組“State of Play”と“State of Play 日本”の2本立て連続放送を2026年9月3日（木）22時より放送することを発表した。</description>
+      <title>『ナニワアンダーグラウンド』治安崩壊した大阪を舞台としたライフシミュレーション。おでんをツンツンする悪人として生きるなど生き方は自由</title>
+      <link>https://www.famitsu.com/article/202608/86110</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202608/86110</guid>
+      <pubDate>Mon, 31 Aug 2026 11:00:00 GMT</pubDate>
+      <description>PC（Steam）用ライフシミュレーションゲーム『ナニワアンダーグラウンド』のSteamストアページが公開された。治安が崩壊した大阪で個性豊かな市民との交流や生活体験が楽しめる。2026年12月26日より大阪で開催されるインディーゲーム展示イベント“大阪ゲームダンジョン2”での試遊出展も決定した。</description>
+    </item>
+    <item>
+      <title>DMM GAMESのiOS版アプリ「GAMES STORE」が本日（8/31）いよいよ配信。App Storeを経由せずに『マブガル』や『クルスタ』が遊べる</title>
+      <link>https://www.famitsu.com/article/202608/86146</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202608/86146</guid>
+      <pubDate>Mon, 31 Aug 2026 10:13:00 GMT</pubDate>
+      <description>DMM GAMESのiOS版ストアアプリ“GAMES STORE”が、本日2026年8月31日にリリース。ダウンロード～インストール方法も公開。</description>
+    </item>
+    <item>
+      <title>『Aeruta（アルタ）』ディッシュプレートや缶バッジ9種などがついてくるファミ通DXパック”が予約受付中。チャヤの3DクリスタルセットやコレクターズBOXも</title>
+      <link>https://www.famitsu.com/article/202608/86127</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202608/86127</guid>
+      <pubDate>Mon, 31 Aug 2026 10:00:00 GMT</pubDate>
+      <description>『Aeruta（アルタ）』ファミ通DXパックが予約受付中。オリジナルディッシュプレートやキャラ缶バッジ（全9種）、マイクロファイバータオルなどが付属する。価格は20878円［税込］。</description>
+    </item>
+    <item>
+      <title>【TGS2026】『ガンダム ローグオービット』がバンナムブースで試遊出展。『BLEACH Mirrors High』『ワンピース 海のごちそうレストラン』『エースコンバット8』などとともに</title>
+      <link>https://www.famitsu.com/article/202608/86111</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202608/86111</guid>
+      <pubDate>Mon, 31 Aug 2026 09:18:00 GMT</pubDate>
+      <description>“東京ゲームショウ2026”バンダイナムコエンターテインメントの出展情報が公開。『GUNDAM ROGUE ORBIT』、『ONE PIECE 海のごちそうレストラン』などの試遊台設置</description>
     </item>
     <item>
       <title>『クレセント・タワー ライジング』8bit風グラフィック＆BGMで展開するコマンドRPGの続編。Steam版が本日（8/31）リリース。</title>
@@ -677,34 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/85883</guid>
       <pubDate>Fri, 28 Aug 2026 08:50:00 GMT</pubDate>
       <description>『Hell Let Loose』シリーズの完全新作『Hell Let Loose: Vietnam』プレイステーション5（PS5）パッケージ版が2026年10月29日に発売。初回特典として、DLC“USアーミーボートクルー・ユニフォーム”が同梱される。</description>
-    </item>
-    <item>
-      <title>『BLACK WALLS』月の裏側に広がるリミナルスペース脱出ホラー。モノクロームの迷宮、静寂に潜む違和感、そして命を狙う“何か”――</title>
-      <link>https://www.famitsu.com/article/202608/85893</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85893</guid>
-      <pubDate>Fri, 28 Aug 2026 08:10:00 GMT</pubDate>
-      <description>『BLACK WALLS』の最新シネマティックトレーラーが“FGS Live From gamescom”で世界初公開。リミナルスペースとサイコロジカルホラーを融合したシュールなパズルホラーで、鮮烈なモノクロームの世界が描かれる。</description>
-    </item>
-    <item>
-      <title>映画『まどマギ〈ワルプルギスの廻天〉』まどか＆ほむらが超特大ぬいぐるみに。高さ約100cmで存在感バツグン。本日（8/28）より予約受付開始</title>
-      <link>https://www.famitsu.com/article/202608/85882</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85882</guid>
-      <pubDate>Fri, 28 Aug 2026 08:00:00 GMT</pubDate>
-      <description>『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』の超特大ぬいぐるみが2026年8月28日より予約受付が開始。鹿目まどかと暁美ほむらの2種にて展開され、各価格は66000円［税込］、発送時期は2027年3月に予定されている。</description>
-    </item>
-    <item>
-      <title>『サイバーパンク2077』ジョニーの左腕レプリカなど人気グッズをゲットするチャンス。ポップアップストアが9月4日より池袋パルコにて開催</title>
-      <link>https://www.famitsu.com/article/202608/85866</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85866</guid>
-      <pubDate>Fri, 28 Aug 2026 07:00:00 GMT</pubDate>
-      <description>『サイバーパンク2077』POP UP STOREが2026年9月4日（金）から9月14日（月）まで池袋PARCO本館6Fで開催。ルーシー＆レベッカの描きおろしアクリルスタンドやジョニー・シルヴァーハンドの左腕を精巧に再現したレプリカなどの人気グッズを多数販売。</description>
-    </item>
-    <item>
-      <title>【ポケカ】ポケセンで30周年パックやエーフィ＆ブラッキーデッキなどの抽選販売応募が開始【ポケモンカード】</title>
-      <link>https://www.famitsu.com/article/202608/85889</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/85889</guid>
-      <pubDate>Fri, 28 Aug 2026 07:00:00 GMT</pubDate>
-      <description>ポケモンセンターオンラインで、ポケモンカードゲーム MEGA拡張パック“30th CELEBRATION”、“30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー”、“30th CELEBRATION カードセット（9種セット）”の抽選販売の応募が開始した。</description>
     </item>
   </channel>
 </rss>
