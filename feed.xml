@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 03:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 03:23:00 GMT</lastBuildDate>
+    <item>
+      <title>【UNDERTALE展覧会】Temmie描きおろしキービジュアルが公開。ピンズ＆小判風お守りセットがもらえるチケットも販売</title>
+      <link>https://www.famitsu.com/article/202609/86447</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86447</guid>
+      <pubDate>Thu, 03 Sep 2026 03:23:00 GMT</pubDate>
+      <description>『UNDERTALE』初の大規模展覧会“UNDERTALE MUSEUM”。キービジュアルと東京会場チケットの詳細が公開。</description>
+    </item>
     <item>
       <title>『オービタルズ』1980～90年代アニメ風に描かれるふたり協力アクションがSwitch2にて本日（9/3）発売。固い絆で宇宙の脅威に立ち向う大冒険</title>
       <link>https://www.famitsu.com/article/202609/86436</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/86030</guid>
       <pubDate>Sun, 30 Aug 2026 11:00:00 GMT</pubDate>
       <description>東映ゲームズは東京ゲームショウ2026に初出展。3つの試遊タイトルやプレゼントありのクレーンゲームが体験できる。</description>
-    </item>
-    <item>
-      <title>『呪術廻戦 ランブル サバイバトン』羂索と禪院直哉がボスとして登場。『ヴァンサバ』開発陣が手がけるサバイバーズロワイアル</title>
-      <link>https://www.famitsu.com/article/202608/86048</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/86048</guid>
-      <pubDate>Sun, 30 Aug 2026 09:28:00 GMT</pubDate>
-      <description>『呪術廻戦 RUMBLE: SURVIVATON』（ランブル サバイバトン）に羂索、禪院直哉がボスキャラクターとして登場決定。ヴァンサバこと『Vampire Survivors』の開発と集英社ゲームズがタッグを組んだ新作。</description>
     </item>
   </channel>
 </rss>
