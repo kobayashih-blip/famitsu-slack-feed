@@ -147,18 +147,18 @@
       <description>『Fate/EXTRA』のフルリメイク作品『Fate/EXTRA Record（フェイト エクストラ レコード）』の発売日が2027年1月28日に決定。対応機種はNintendo Switch 2、Nintendo Switch、プレイステーション5（PS5）、プレイステーション4（PS4）、PC（Steam）。</description>
     </item>
     <item>
-      <title>『歌マクロス』オフライン版のプロジェクト始動。9月10日よりコンテンツ拡充のためのクラファンも開始</title>
-      <link>https://www.famitsu.com/article/202609/86511</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86511</guid>
-      <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
-      <description>『歌マクロス』復活プロジェクトが始動。スマートフォン向けリズムゲーム『歌マクロス スマホDeカルチャー』をベースに、PCとスマートフォン向けに最適化したオフライン版。クラウドファンディングも実施予定。</description>
-    </item>
-    <item>
       <title>初代プレステをレゴブロックで再現。『レゴ PlayStation』が10月4日発売。内部には『グランツーリスモ』のコースや『サルゲッチュ』のピポサルも</title>
       <link>https://www.famitsu.com/article/202609/86533</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86533</guid>
       <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
       <description>初代プレイステーションをレゴブロック（1911ピース）で再現した『レゴ PlayStation』が2026年10月4日より一般販売スタート。サイズも実物にほぼ近しくなっている。</description>
+    </item>
+    <item>
+      <title>『歌マクロス』オフライン版のプロジェクト始動。9月10日よりコンテンツ拡充のためのクラファンも開始</title>
+      <link>https://www.famitsu.com/article/202609/86511</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86511</guid>
+      <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
+      <description>『歌マクロス』復活プロジェクトが始動。スマートフォン向けリズムゲーム『歌マクロス スマホDeカルチャー』をベースに、PCとスマートフォン向けに最適化したオフライン版。クラウドファンディングも実施予定。</description>
     </item>
     <item>
       <title>『グランツーリスモ7』スペック4アップデートが10月と12月に配信。日本のSUGOサーキット、合計12台のクルマなどが登場【State of Play】</title>
@@ -224,18 +224,18 @@
       <description>『GUNDAM ROGUE ORBIT（ガンダム ローグオービット）』武器や機体カスタマイズ、新キャラクターなど最新情報が公開。“MODスキン”として、機体の見た目を“RX-78-2ガンダム”などに変えられる機能も用意。</description>
     </item>
     <item>
-      <title>人食いサメが帰ってきた！『マンイーター2』発表。2027年発売。人間の捕食シーンはもちろん、シャチや巨大カメ、巨大カニとの死闘シーンも</title>
-      <link>https://www.famitsu.com/article/202609/86584</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86584</guid>
-      <pubDate>Thu, 03 Sep 2026 13:25:00 GMT</pubDate>
-      <description>2026年9月3日に配信されたプレイステーション関連の最新情報を公開する公式配信“State of Play（ステートオブプレイ）／State of Play 日本”。『マンイーター2』が発表。2027年に発売予定。</description>
-    </item>
-    <item>
       <title>『紅の砂漠』DLC“Charting The Unknown”が10月15日に配信。最新映像も公開【State of Play】</title>
       <link>https://www.famitsu.com/article/202609/86551</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86551</guid>
       <pubDate>Thu, 03 Sep 2026 13:25:00 GMT</pubDate>
       <description>プレイステーションの公式配信“State of Play（ステートオブプレイ）／State of Play 日本”にて、『紅の砂漠』のDLC“Charting The Unknown”の最新映像が公開。配信日が2026年10月15日となることが明らかにされた。</description>
+    </item>
+    <item>
+      <title>人食いサメが帰ってきた！『マンイーター2』発表。2027年発売。人間の捕食シーンはもちろん、シャチや巨大カメ、巨大カニとの死闘シーンも</title>
+      <link>https://www.famitsu.com/article/202609/86584</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86584</guid>
+      <pubDate>Thu, 03 Sep 2026 13:25:00 GMT</pubDate>
+      <description>2026年9月3日に配信されたプレイステーション関連の最新情報を公開する公式配信“State of Play（ステートオブプレイ）／State of Play 日本”。『マンイーター2』が発表。2027年に発売予定。</description>
     </item>
     <item>
       <title>『メトロ2039』2027年2月5日に発売決定。PS5 Proで収録した最新ゲームプレイ映像も公開【State of Play】</title>
@@ -490,6 +490,13 @@
       <description>『オービタルズ』1980～90年代日本風アニメで描かれる協力プレイアクションゲームがSwitch2にて本日（9/3）発売。ローンチトレーラー公開＆サントラ配信。</description>
     </item>
     <item>
+      <title>『薬屋のひとりごと』実写ドラマ化。猫猫役は芦田愛菜。2028年にアマプラのオリジナルドラマとして独占配信</title>
+      <link>https://www.famitsu.com/article/202609/86435</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86435</guid>
+      <pubDate>Thu, 03 Sep 2026 03:00:00 GMT</pubDate>
+      <description>小説、漫画、アニメで人気の『薬屋のひとりごと』がプライムビデオのオリジナルドラマとして実写化決定。主人公の猫猫（マオマオ）を芦田愛菜さんが演じる。</description>
+    </item>
+    <item>
       <title>『BLOKES on BLOCKS!』おじさんパーティーゲームに新ステージ＆ルールが追加。無料アプデが本日（9/3）配信。TGS2026でオリジナルグッズが発売</title>
       <link>https://www.famitsu.com/article/202609/86387</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86387</guid>
@@ -502,13 +509,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86432</guid>
       <pubDate>Thu, 03 Sep 2026 03:00:00 GMT</pubDate>
       <description>大ヒットアニメ『日本三國』の続編が制作決定。原作はマンガワン/裏サンデーで連載中の松木いっか氏によるSF戦国エンターテインメント。</description>
-    </item>
-    <item>
-      <title>『薬屋のひとりごと』実写ドラマ化。猫猫役は芦田愛菜。2028年にアマプラのオリジナルドラマとして独占配信</title>
-      <link>https://www.famitsu.com/article/202609/86435</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86435</guid>
-      <pubDate>Thu, 03 Sep 2026 03:00:00 GMT</pubDate>
-      <description>小説、漫画、アニメで人気の『薬屋のひとりごと』がプライムビデオのオリジナルドラマとして実写化決定。主人公の猫猫（マオマオ）を芦田愛菜さんが演じる。</description>
     </item>
     <item>
       <title>『ときメモGS 1st Love』とTHE KISSのコラボジュエリーが予約開始。各キャラクターをイメージしたシルバーリング全10種</title>
