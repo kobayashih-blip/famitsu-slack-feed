@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 15:55:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 23:00:00 GMT</lastBuildDate>
+    <item>
+      <title>ブランコ靴飛ばしゲーム『Shoe it All!』が配信開始。靴を飛ばして目標を豪快にぶっ壊す、シンプルで童心に返れる物理演算パズル</title>
+      <link>https://www.famitsu.com/article/202609/86549</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86549</guid>
+      <pubDate>Thu, 03 Sep 2026 23:00:00 GMT</pubDate>
+      <description>ブランコをこいで靴を蹴り飛ばす物理演算パズル『Shoe it All!』が配信開始。ブランコを揺らして、狙いを定め、靴を飛ばして目標を壊す、シンプルだけど豪快なギミックも登場。</description>
+    </item>
     <item>
       <title>『Uncanyon』が2027年発売。『Maquette』の開発元による新作アドベンチャーでは謎とパズルに満ちた遺跡が点在する忘れられた世界を探索【State of Play】</title>
       <link>https://www.famitsu.com/article/202609/86553</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86323</guid>
       <pubDate>Wed, 02 Sep 2026 03:50:00 GMT</pubDate>
       <description>ドラゴンクエスト40周年　キングスライム×Z！コラボ目薬の受注販売が発表された。発売から人気で品切れが続出していた本製品。期間限定で受注販売という形で改めて販売をすることとなった。</description>
-    </item>
-    <item>
-      <title>NVIDIA DLSS 5が9月4日より『NBA 2K27』に対応開始。4K表示にレイトレーシング設定も載せた状態で、さらにFPSを向上させる驚異の技術</title>
-      <link>https://www.famitsu.com/article/202609/86314</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86314</guid>
-      <pubDate>Wed, 02 Sep 2026 03:38:00 GMT</pubDate>
-      <description>NVIDIAは、NVIDIA DLSS 5が日本時間の2026年9月4日14時より『NBA 2K27』に対応し始めることを発表した。対応しているのは、 GeForce RTX 50シリーズのグラフィックボードとGeForce RTX 50シリーズ ノート PC、およびGeForce NOW。</description>
     </item>
   </channel>
 </rss>
