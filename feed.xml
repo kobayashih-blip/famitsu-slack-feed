@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:55:00 GMT</lastBuildDate>
+    <item>
+      <title>『フレミング邸の殺人事件』死亡診断書作成ミステリーアドベンチャーの発売日が11/3に決定。1950年代の英国で、法医学的見地から悲劇の真相を追求</title>
+      <link>https://www.famitsu.com/article/202609/86479</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86479</guid>
+      <pubDate>Thu, 03 Sep 2026 11:55:00 GMT</pubDate>
+      <description>2026年11月3日、Steamにて『フレミング邸の殺人事件』がリリースされる。本作は、法医学調査官の視点で事件を解き明かす推理アドベンチャーゲーム。1950年代の英国にある大邸宅を舞台に、死亡診断書などをプレイヤーが作成することで真相に迫っていく。</description>
+    </item>
     <item>
       <title>『【重大告知】橘リルリ転生いたします！』9月11日に発売。VTuberや“転生”を題材にした一人称視点ホラー。女性ライバーを襲う怪奇現象を描く</title>
       <link>https://www.famitsu.com/article/202609/86492</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/86143</guid>
       <pubDate>Mon, 31 Aug 2026 12:20:00 GMT</pubDate>
       <description>『OU』発売3周年記念したグッズを発表。オリジナルサントラも各種音楽配信サービスにて配信開始した。昨年実施された原画展の再開催も決定。</description>
-    </item>
-    <item>
-      <title>“State of Play／State of Play 日本”が9月3日22時より連続で放送決定。前半は各社タイトルと『FF7リベレーション』の広大な世界を紹介。後半は日本・アジア発の新作を深堀りする構成に</title>
-      <link>https://www.famitsu.com/article/202608/86169</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/86169</guid>
-      <pubDate>Mon, 31 Aug 2026 12:08:00 GMT</pubDate>
-      <description>ソニー・インタラクティブエンタテインメント（SIE）は、プレイステーションの最新情報を公開する動画配信番組“State of Play”と“State of Play 日本”の2本立て連続放送を2026年9月3日（木）22時より放送することを発表した。</description>
     </item>
   </channel>
 </rss>
