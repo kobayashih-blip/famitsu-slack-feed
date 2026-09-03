@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:05:00 GMT</lastBuildDate>
+    <item>
+      <title>『【重大告知】橘リルリ転生いたします！』9月11日に発売。VTuberや“転生”を題材にした一人称視点ホラー。女性ライバーを襲う怪奇現象を描く</title>
+      <link>https://www.famitsu.com/article/202609/86492</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86492</guid>
+      <pubDate>Thu, 03 Sep 2026 11:05:00 GMT</pubDate>
+      <description>PC（Steam）向けゲーム『【重大告知】橘リルリ転生いたします！』を2026年9月11日に発売。VTuberや“転生”を題材にした一人称視点ホラーアドベンチャー。</description>
+    </item>
     <item>
       <title>『最終楽章 響け！ユーフォニアム 前編』アマプラなどで9月4日12時より配信スタート。9月11日公開の後編の前におさらいするチャンス</title>
       <link>https://www.famitsu.com/article/202609/86542</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/86169</guid>
       <pubDate>Mon, 31 Aug 2026 12:08:00 GMT</pubDate>
       <description>ソニー・インタラクティブエンタテインメント（SIE）は、プレイステーションの最新情報を公開する動画配信番組“State of Play”と“State of Play 日本”の2本立て連続放送を2026年9月3日（木）22時より放送することを発表した。</description>
-    </item>
-    <item>
-      <title>『ナニワアンダーグラウンド』治安崩壊した大阪を舞台としたライフシミュレーション。おでんをツンツンする悪人として生きるなど生き方は自由</title>
-      <link>https://www.famitsu.com/article/202608/86110</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/86110</guid>
-      <pubDate>Mon, 31 Aug 2026 11:00:00 GMT</pubDate>
-      <description>PC（Steam）用ライフシミュレーションゲーム『ナニワアンダーグラウンド』のSteamストアページが公開された。治安が崩壊した大阪で個性豊かな市民との交流や生活体験が楽しめる。2026年12月26日より大阪で開催されるインディーゲーム展示イベント“大阪ゲームダンジョン2”での試遊出展も決定した。</description>
     </item>
   </channel>
 </rss>
