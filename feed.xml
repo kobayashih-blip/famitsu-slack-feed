@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:28:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:40:00 GMT</lastBuildDate>
+    <item>
+      <title>『最終楽章 響け！ユーフォニアム 前編』アマプラなどで9月4日12時より配信スタート。9月11日公開の後編の前におさらいするチャンス</title>
+      <link>https://www.famitsu.com/article/202609/86542</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86542</guid>
+      <pubDate>Thu, 03 Sep 2026 10:40:00 GMT</pubDate>
+      <description>アニメ『最終楽章 響け！ユーフォニアム 前編』が2026年9月4日12時よりアマプラ含む各種プラットフォームで順次配信開始される。</description>
+    </item>
     <item>
       <title>『ペルソナ4 リバイバル』ジュネスのエプロンとエコバッグが商品化。公式グッズがTGS2026物販コーナーにて先行販売</title>
       <link>https://www.famitsu.com/article/202609/86543</link>
@@ -175,13 +182,6 @@
       <description>『オービタルズ』1980～90年代日本風アニメで描かれる協力プレイアクションゲームがSwitch2にて本日（9/3）発売。ローンチトレーラー公開＆サントラ配信。</description>
     </item>
     <item>
-      <title>『薬屋のひとりごと』実写ドラマ化。猫猫役は芦田愛菜。2028年にアマプラのオリジナルドラマとして独占配信</title>
-      <link>https://www.famitsu.com/article/202609/86435</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86435</guid>
-      <pubDate>Thu, 03 Sep 2026 03:00:00 GMT</pubDate>
-      <description>小説、漫画、アニメで人気の『薬屋のひとりごと』がプライムビデオのオリジナルドラマとして実写化決定。主人公の猫猫（マオマオ）を芦田愛菜さんが演じる。</description>
-    </item>
-    <item>
       <title>『BLOKES on BLOCKS!』おじさんパーティーゲームに新ステージ＆ルールが追加。無料アプデが本日（9/3）配信。TGS2026でオリジナルグッズが発売</title>
       <link>https://www.famitsu.com/article/202609/86387</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86387</guid>
@@ -194,6 +194,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86432</guid>
       <pubDate>Thu, 03 Sep 2026 03:00:00 GMT</pubDate>
       <description>大ヒットアニメ『日本三國』の続編が制作決定。原作はマンガワン/裏サンデーで連載中の松木いっか氏によるSF戦国エンターテインメント。</description>
+    </item>
+    <item>
+      <title>『薬屋のひとりごと』実写ドラマ化。猫猫役は芦田愛菜。2028年にアマプラのオリジナルドラマとして独占配信</title>
+      <link>https://www.famitsu.com/article/202609/86435</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86435</guid>
+      <pubDate>Thu, 03 Sep 2026 03:00:00 GMT</pubDate>
+      <description>小説、漫画、アニメで人気の『薬屋のひとりごと』がプライムビデオのオリジナルドラマとして実写化決定。主人公の猫猫（マオマオ）を芦田愛菜さんが演じる。</description>
     </item>
     <item>
       <title>『ときメモGS 1st Love』とTHE KISSのコラボジュエリーが予約開始。各キャラクターをイメージしたシルバーリング全10種</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202608/86110</guid>
       <pubDate>Mon, 31 Aug 2026 11:00:00 GMT</pubDate>
       <description>PC（Steam）用ライフシミュレーションゲーム『ナニワアンダーグラウンド』のSteamストアページが公開された。治安が崩壊した大阪で個性豊かな市民との交流や生活体験が楽しめる。2026年12月26日より大阪で開催されるインディーゲーム展示イベント“大阪ゲームダンジョン2”での試遊出展も決定した。</description>
-    </item>
-    <item>
-      <title>DMM GAMESのiOS版アプリ「GAMES STORE」が本日（8/31）いよいよ配信。App Storeを経由せずに『マブガル』や『クルスタ』が遊べる</title>
-      <link>https://www.famitsu.com/article/202608/86146</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202608/86146</guid>
-      <pubDate>Mon, 31 Aug 2026 10:13:00 GMT</pubDate>
-      <description>DMM GAMESのiOS版ストアアプリ“GAMES STORE”が、本日2026年8月31日にリリース。ダウンロード～インストール方法も公開。</description>
     </item>
   </channel>
 </rss>
