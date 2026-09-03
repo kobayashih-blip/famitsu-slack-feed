@@ -147,18 +147,18 @@
       <description>『Fate/EXTRA』のフルリメイク作品『Fate/EXTRA Record（フェイト エクストラ レコード）』の発売日が2027年1月28日に決定。対応機種はNintendo Switch 2、Nintendo Switch、プレイステーション5（PS5）、プレイステーション4（PS4）、PC（Steam）。</description>
     </item>
     <item>
-      <title>初代プレステをレゴブロックで再現。『レゴ PlayStation』が10月4日発売。内部には『グランツーリスモ』のコースや『サルゲッチュ』のピポサルも</title>
-      <link>https://www.famitsu.com/article/202609/86533</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86533</guid>
-      <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
-      <description>初代プレイステーションをレゴブロック（1911ピース）で再現した『レゴ PlayStation』が2026年10月4日より一般販売スタート。サイズも実物にほぼ近しくなっている。</description>
-    </item>
-    <item>
       <title>『歌マクロス』オフライン版のプロジェクト始動。9月10日よりコンテンツ拡充のためのクラファンも開始</title>
       <link>https://www.famitsu.com/article/202609/86511</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86511</guid>
       <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
       <description>『歌マクロス』復活プロジェクトが始動。スマートフォン向けリズムゲーム『歌マクロス スマホDeカルチャー』をベースに、PCとスマートフォン向けに最適化したオフライン版。クラウドファンディングも実施予定。</description>
+    </item>
+    <item>
+      <title>初代プレステをレゴブロックで再現。『レゴ PlayStation』が10月4日発売。内部には『グランツーリスモ』のコースや『サルゲッチュ』のピポサルも</title>
+      <link>https://www.famitsu.com/article/202609/86533</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86533</guid>
+      <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
+      <description>初代プレイステーションをレゴブロック（1911ピース）で再現した『レゴ PlayStation』が2026年10月4日より一般販売スタート。サイズも実物にほぼ近しくなっている。</description>
     </item>
     <item>
       <title>『グランツーリスモ7』スペック4アップデートが10月と12月に配信。日本のSUGOサーキット、合計12台のクルマなどが登場【State of Play】</title>
@@ -224,18 +224,18 @@
       <description>『GUNDAM ROGUE ORBIT（ガンダム ローグオービット）』武器や機体カスタマイズ、新キャラクターなど最新情報が公開。“MODスキン”として、機体の見た目を“RX-78-2ガンダム”などに変えられる機能も用意。</description>
     </item>
     <item>
-      <title>『紅の砂漠』DLC“Charting The Unknown”が10月15日に配信。最新映像も公開【State of Play】</title>
-      <link>https://www.famitsu.com/article/202609/86551</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86551</guid>
-      <pubDate>Thu, 03 Sep 2026 13:25:00 GMT</pubDate>
-      <description>プレイステーションの公式配信“State of Play（ステートオブプレイ）／State of Play 日本”にて、『紅の砂漠』のDLC“Charting The Unknown”の最新映像が公開。配信日が2026年10月15日となることが明らかにされた。</description>
-    </item>
-    <item>
       <title>人食いサメが帰ってきた！『マンイーター2』発表。2027年発売。人間の捕食シーンはもちろん、シャチや巨大カメ、巨大カニとの死闘シーンも</title>
       <link>https://www.famitsu.com/article/202609/86584</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86584</guid>
       <pubDate>Thu, 03 Sep 2026 13:25:00 GMT</pubDate>
       <description>2026年9月3日に配信されたプレイステーション関連の最新情報を公開する公式配信“State of Play（ステートオブプレイ）／State of Play 日本”。『マンイーター2』が発表。2027年に発売予定。</description>
+    </item>
+    <item>
+      <title>『紅の砂漠』DLC“Charting The Unknown”が10月15日に配信。最新映像も公開【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86551</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86551</guid>
+      <pubDate>Thu, 03 Sep 2026 13:25:00 GMT</pubDate>
+      <description>プレイステーションの公式配信“State of Play（ステートオブプレイ）／State of Play 日本”にて、『紅の砂漠』のDLC“Charting The Unknown”の最新映像が公開。配信日が2026年10月15日となることが明らかにされた。</description>
     </item>
     <item>
       <title>『メトロ2039』2027年2月5日に発売決定。PS5 Proで収録した最新ゲームプレイ映像も公開【State of Play】</title>
@@ -355,6 +355,27 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86528</guid>
       <pubDate>Thu, 03 Sep 2026 09:20:00 GMT</pubDate>
       <description>レベルファイブのゲーム最新情報を公開する番組“LEVEL5 VISION 2026 Ⅱ 夢”が2026年9月10日21時より配信決定した。</description>
+    </item>
+    <item>
+      <title>『はしれへべれけEX』本日（9/3）発売。20時からの生配信には高橋名人が登場、天の声としてすけざえもん役の若本規夫ボイスも流れる</title>
+      <link>https://www.famitsu.com/article/202609/86521</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86521</guid>
+      <pubDate>Thu, 03 Sep 2026 09:11:00 GMT</pubDate>
+      <description>2026年9月3日、『はしれへべれけEX』が発売。本作は、1994年にSUNSOFTから発売されたスーパーファミコン用ソフト『はしれへべれけ』を現代風にフルリメイクしたレースアクションゲーム。同日20時より、本作の発売を記念した生配信が実施。</description>
+    </item>
+    <item>
+      <title>ぴえろ魔法少女シリーズ最新作『魔法の姉妹ルルットリリィ』第2クールの放送開始日が10月4日に決定。白井悠介・夏吉ゆうこが追加キャストに</title>
+      <link>https://www.famitsu.com/article/202609/86505</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86505</guid>
+      <pubDate>Thu, 03 Sep 2026 09:00:00 GMT</pubDate>
+      <description>ぴえろ魔法少女シリーズ最新作『魔法の姉妹ルルットリリィ』第2クールの放送開始日が、2026年10月4日（日）に決定した。</description>
+    </item>
+    <item>
+      <title>『Unlucky Swordsmith』剣を叩くほど強化、失敗すれば粉々。確率で鍛えた剣がオシャカになる博打系カジュアル鍛冶屋ゲーム発表。どこまで攻めるかはあなた次第</title>
+      <link>https://www.famitsu.com/article/202609/86499</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86499</guid>
+      <pubDate>Thu, 03 Sep 2026 08:43:00 GMT</pubDate>
+      <description>PC向け新作カジュアル鍛冶職人ゲーム『Unlucky Swordsmith』が発表。Steamストアページが公開された。リリース時期は未定で、近日登場の予定となっている。</description>
     </item>
     <item>
       <title>『The Blood of Dawnwalker』昼は人間、夜は吸血鬼の能力を駆使して戦うアクションRPG。本日（9/3）発売。ゲーム実況者“2BRO.”による配信は20時から</title>
@@ -684,27 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86314</guid>
       <pubDate>Wed, 02 Sep 2026 03:38:00 GMT</pubDate>
       <description>NVIDIAは、NVIDIA DLSS 5が日本時間の2026年9月4日14時より『NBA 2K27』に対応し始めることを発表した。対応しているのは、 GeForce RTX 50シリーズのグラフィックボードとGeForce RTX 50シリーズ ノート PC、およびGeForce NOW。</description>
-    </item>
-    <item>
-      <title>『Finding Polka』『Constance』『DEPERSON』の試遊展示、ノベルティ配布を実施。パルコゲームズがTGS2026に出展。バンドルセールが9月30日まで開催</title>
-      <link>https://www.famitsu.com/article/202609/86315</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86315</guid>
-      <pubDate>Wed, 02 Sep 2026 03:10:00 GMT</pubDate>
-      <description>2026年9月17日～9月21日に幕張メッセで開催される“東京ゲームショウ2026”（TGS2026）にPARCO GAMESが出展。ブースでは『Finding Polka』、『Constance』、『DEPERSON』の試遊展示が実施されるほか、各タイトルのノベルティが配布される。また、レーベル創設1周年を記念した“Stories of PARCO GAMES”セールが9月2日～9月30日にかけて開催される。</description>
-    </item>
-    <item>
-      <title>『Fenestra: my focus, her future』PCに住み着いた少女を育成する作業用ゲーム。育て方によってダウナー、甘えん坊、ツンデレなど9つの個性へ分岐</title>
-      <link>https://www.famitsu.com/article/202609/86253</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86253</guid>
-      <pubDate>Wed, 02 Sep 2026 03:00:00 GMT</pubDate>
-      <description>『Fenestra: my focus, her future』PCに住み着いた少女と一緒に作業する集中支援×プリメ系育成ADV。Steamストアページと最新映像が公開。</description>
-    </item>
-    <item>
-      <title>【INDIE Live Expo】紹介するインディーゲームの一般公募がスタート。TGS2026ではステッカーと川尻こだまが描く4コママンガ掲載パンフを配布</title>
-      <link>https://www.famitsu.com/article/202609/86312</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86312</guid>
-      <pubDate>Wed, 02 Sep 2026 03:00:00 GMT</pubDate>
-      <description>インディーゲーム紹介番組“INDIE Live Expo 2026.12.1”の紹介タイトル一般公募が開始。エントリー期間は2026年9月29日（火）11時59分まで。1団体につき1タイトルまで無料で応募できる。</description>
     </item>
   </channel>
 </rss>
