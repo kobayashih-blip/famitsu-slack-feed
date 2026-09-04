@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 04 Sep 2026 02:43:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 03:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『Phantom PHANTOM OF INFERNO』Steam版本日（9/4）発売。裏社旗で生きる少年少女の壮絶な運命を描く虚淵玄のデビュー作</title>
+      <link>https://www.famitsu.com/article/202609/86522</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86522</guid>
+      <pubDate>Fri, 04 Sep 2026 03:00:00 GMT</pubDate>
+      <description>ノベルゲーム『Phantom -PHANTOM OF INFERNO-』（ファントム ファントム オブ インフェルノ）のSteam版を2026年9月4日に発売。シナリオライター・虚淵玄氏のデビュー作。</description>
+    </item>
     <item>
       <title>『デジモンストーリー サイバースルゥース ハッカーズメモリー』が748円（90%オフ）で買えるSteamセール開催。デジモンと謎の事件を追う人気作2本を格安を遊べる</title>
       <link>https://www.famitsu.com/article/202609/86668</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86328</guid>
       <pubDate>Wed, 02 Sep 2026 04:37:00 GMT</pubDate>
       <description>フロム・ソフトウェアが手掛ける協力型サバイバルアクション『エルデンリング ナイトレイン』のポップアップストアが開催決定した。</description>
-    </item>
-    <item>
-      <title>『ドラゴンズドグマ 2：ダークアリズン』ハクスラが楽しそうなゲームサイクル紹介映像が公開。鑑定し得た新武具やスキルで強大な敵に挑もう</title>
-      <link>https://www.famitsu.com/article/202609/86322</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86322</guid>
-      <pubDate>Wed, 02 Sep 2026 04:33:00 GMT</pubDate>
-      <description>2026年10月9日に発売となる『ドラゴンズドグマ 2：ダークアリズン』のゲームサイクル紹介映像が公開。極北の地・ノルガンを舞台に描かれる冒険が紹介されている。あわせて、『ドラゴンズドグマ 2』の大型アップデートが9月2日より配信開始された。</description>
     </item>
   </channel>
 </rss>
