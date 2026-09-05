@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 05 Sep 2026 04:57:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 06:33:00 GMT</lastBuildDate>
+    <item>
+      <title>【TGS2026】『ヴァイスシュヴァルツ オンライン』初の試遊出展。2027年春に発売予定のキャラクターTCG『ヴァイスシュヴァルツ』デジタル版</title>
+      <link>https://www.famitsu.com/article/202609/86801</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86801</guid>
+      <pubDate>Sat, 05 Sep 2026 06:33:00 GMT</pubDate>
+      <description>オンライン対戦カードゲーム『ヴァイスシュヴァルツ オンライン』初の試遊出展が東京ゲームショウ2026のブシロードブースで実施される。</description>
+    </item>
     <item>
       <title>リメイク版『東方紅魔郷：New Classic』マスターアップを報告、予定通り9月10日に発売。ZUNが全BGMをアレンジし、グラフィックは高解像度化</title>
       <link>https://www.famitsu.com/article/202609/86795</link>
@@ -350,13 +357,6 @@
       <description>新作ゲーム『CONQ - Crown Of No Quarter』の映像が世界初公開。逃れることも、死ぬこともできない永遠に続く煉獄で戦うアクションRPG×リアルタイムストラテジー。</description>
     </item>
     <item>
-      <title>横スクロール3Dローグライク『SlashZero（スラッシュゼロ）』が2027年春発売。10時間以上プレイ可能な体験版が本日より配信開始に【State of Play】</title>
-      <link>https://www.famitsu.com/article/202609/86552</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86552</guid>
-      <pubDate>Thu, 03 Sep 2026 14:30:00 GMT</pubDate>
-      <description>“State of Play（ステートオブプレイ）／State of Play 日本”にて、Streetlamp Studioの横スクロール3Dローグライク『SlashZero』（スラッシュゼロ）の最新映像が公開。2027年発売となることが発表された。</description>
-    </item>
-    <item>
       <title>サイゲームスが小・中規模開発に特化した新ゲームブランド“サイゲームスエッジ”が発表。第1弾タイトル『崩落の国』が2026年11月5日に発売予定【State of Play】</title>
       <link>https://www.famitsu.com/article/202609/86591</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86591</guid>
@@ -406,18 +406,18 @@
       <description>『Fate/EXTRA』のフルリメイク作品『Fate/EXTRA Record（フェイト エクストラ レコード）』の発売日が2027年1月28日に決定。対応機種はNintendo Switch 2、Nintendo Switch、プレイステーション5（PS5）、プレイステーション4（PS4）、PC（Steam）。</description>
     </item>
     <item>
-      <title>初代プレステをレゴブロックで再現。『レゴ PlayStation』が10月4日発売。内部には『グランツーリスモ』のコースや『サルゲッチュ』のピポサルも</title>
-      <link>https://www.famitsu.com/article/202609/86533</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86533</guid>
-      <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
-      <description>初代プレイステーションをレゴブロック（1911ピース）で再現した『レゴ PlayStation』が2026年10月4日より一般販売スタート。サイズも実物にほぼ近しくなっている。</description>
-    </item>
-    <item>
       <title>『歌マクロス』オフライン版のプロジェクト始動。9月10日よりコンテンツ拡充のためのクラファンも開始</title>
       <link>https://www.famitsu.com/article/202609/86511</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86511</guid>
       <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
       <description>『歌マクロス』復活プロジェクトが始動。スマートフォン向けリズムゲーム『歌マクロス スマホDeカルチャー』をベースに、PCとスマートフォン向けに最適化したオフライン版。クラウドファンディングも実施予定。</description>
+    </item>
+    <item>
+      <title>初代プレステをレゴブロックで再現。『レゴ PlayStation』が10月4日発売。内部には『グランツーリスモ』のコースや『サルゲッチュ』のピポサルも</title>
+      <link>https://www.famitsu.com/article/202609/86533</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86533</guid>
+      <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
+      <description>初代プレイステーションをレゴブロック（1911ピース）で再現した『レゴ PlayStation』が2026年10月4日より一般販売スタート。サイズも実物にほぼ近しくなっている。</description>
     </item>
     <item>
       <title>『グランツーリスモ7』スペック4アップデートが10月と12月に配信。日本のSUGOサーキット、合計12台のクルマなどが登場【State of Play】</title>
