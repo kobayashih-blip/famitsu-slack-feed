@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 05 Sep 2026 06:33:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 07:39:00 GMT</lastBuildDate>
+    <item>
+      <title>『モンハンワイルズ：アセンダンス』新要素“ブーストブレイサー”を用いたハンマー紹介動画が公開。ブースト状態の機動力がすごすぎる</title>
+      <link>https://www.famitsu.com/article/202609/86806</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86806</guid>
+      <pubDate>Sat, 05 Sep 2026 07:39:00 GMT</pubDate>
+      <description>『モンスターハンターワイルズ：アセンダンス』のハンマーの武器紹介動画が公開。新要素“ブーストブレイサー”を用いたアクションが紹介されている。</description>
+    </item>
     <item>
       <title>【TGS2026】『ヴァイスシュヴァルツ オンライン』初の試遊出展。2027年春に発売予定のキャラクターTCG『ヴァイスシュヴァルツ』デジタル版</title>
       <link>https://www.famitsu.com/article/202609/86801</link>
@@ -350,11 +357,11 @@
       <description>『デジモンストーリー タイムストレンジャー』DLC「英雄の遺志」が2027年に発売される。エージェントやオリンポス12神たちの戦いから3年後を描き、新たな主人公による物語が展開するという。</description>
     </item>
     <item>
-      <title>新作ゲーム『CONQ（コンク）』2027年発売。永遠に続く煉獄で戦うアクションRPG×リアルタイムストラテジー【State of Play】</title>
-      <link>https://www.famitsu.com/article/202609/86616</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86616</guid>
+      <title>横スクロール3Dローグライク『SlashZero（スラッシュゼロ）』が2027年春発売。10時間以上プレイ可能な体験版が本日より配信開始に【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86552</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86552</guid>
       <pubDate>Thu, 03 Sep 2026 14:30:00 GMT</pubDate>
-      <description>新作ゲーム『CONQ - Crown Of No Quarter』の映像が世界初公開。逃れることも、死ぬこともできない永遠に続く煉獄で戦うアクションRPG×リアルタイムストラテジー。</description>
+      <description>“State of Play（ステートオブプレイ）／State of Play 日本”にて、Streetlamp Studioの横スクロール3Dローグライク『SlashZero』（スラッシュゼロ）の最新映像が公開。2027年発売となることが発表された。</description>
     </item>
     <item>
       <title>サイゲームスが小・中規模開発に特化した新ゲームブランド“サイゲームスエッジ”が発表。第1弾タイトル『崩落の国』が2026年11月5日に発売予定【State of Play】</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86454</guid>
       <pubDate>Thu, 03 Sep 2026 05:16:00 GMT</pubDate>
       <description>『都市伝説解体センター』が行政機関との初コラボレーションとして千葉県警察と連携。インターネット上に広がる偽・誤情報の拡散に対する注意喚起を目的とした取り組みを実施する。これを記念し、TGS2026の警察ブースではコラボクリアファイルを配布。</description>
-    </item>
-    <item>
-      <title>『配信少女ノ裏垢迷宮』がTGS2026で初のプレイアブル出展。フルボイスのストーリーに加え、初公開となるMVも収録</title>
-      <link>https://www.famitsu.com/article/202609/86462</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86462</guid>
-      <pubDate>Thu, 03 Sep 2026 05:11:00 GMT</pubDate>
-      <description>ジー・モードは、2026年9月17日より開催される“東京ゲームショウ20206”への出展を決定。『配信少女ノ裏垢迷宮』の初となるプレイアブル出展を実施することを発表。試遊版ではフルボイスでのストーリーが楽しめるほか、初公開となる特別なMVも収録。</description>
     </item>
   </channel>
 </rss>
