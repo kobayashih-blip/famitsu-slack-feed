@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 04 Sep 2026 13:56:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:55:00 GMT</lastBuildDate>
+    <item>
+      <title>【アマプラ】円谷プロ作品が広告なしで見放題のサブスクチャンネル“TSUBURAYA IMAGINATION for Prime Video”がサービス開始</title>
+      <link>https://www.famitsu.com/article/202609/86784</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86784</guid>
+      <pubDate>Sat, 05 Sep 2026 02:55:00 GMT</pubDate>
+      <description>Amazonプライムビデオにて、円谷プロダクション作品のサブスクリプションチャンネル“TSUBURAYA IMAGINATION for Prime Video”がサービス開始した。</description>
+    </item>
     <item>
       <title>【ニンダイ】ニンテンドーダイレクト9月9日（水）に実施。23時より約45分間。前日8日には“『ゼルダの伝説』40周年ダイレクト”も</title>
       <link>https://www.famitsu.com/article/202609/86774</link>
@@ -385,18 +392,18 @@
       <description>『Fate/EXTRA』のフルリメイク作品『Fate/EXTRA Record（フェイト エクストラ レコード）』の発売日が2027年1月28日に決定。対応機種はNintendo Switch 2、Nintendo Switch、プレイステーション5（PS5）、プレイステーション4（PS4）、PC（Steam）。</description>
     </item>
     <item>
-      <title>初代プレステをレゴブロックで再現。『レゴ PlayStation』が10月4日発売。内部には『グランツーリスモ』のコースや『サルゲッチュ』のピポサルも</title>
-      <link>https://www.famitsu.com/article/202609/86533</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86533</guid>
-      <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
-      <description>初代プレイステーションをレゴブロック（1911ピース）で再現した『レゴ PlayStation』が2026年10月4日より一般販売スタート。サイズも実物にほぼ近しくなっている。</description>
-    </item>
-    <item>
       <title>『歌マクロス』オフライン版のプロジェクト始動。9月10日よりコンテンツ拡充のためのクラファンも開始</title>
       <link>https://www.famitsu.com/article/202609/86511</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86511</guid>
       <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
       <description>『歌マクロス』復活プロジェクトが始動。スマートフォン向けリズムゲーム『歌マクロス スマホDeカルチャー』をベースに、PCとスマートフォン向けに最適化したオフライン版。クラウドファンディングも実施予定。</description>
+    </item>
+    <item>
+      <title>初代プレステをレゴブロックで再現。『レゴ PlayStation』が10月4日発売。内部には『グランツーリスモ』のコースや『サルゲッチュ』のピポサルも</title>
+      <link>https://www.famitsu.com/article/202609/86533</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86533</guid>
+      <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
+      <description>初代プレイステーションをレゴブロック（1911ピース）で再現した『レゴ PlayStation』が2026年10月4日より一般販売スタート。サイズも実物にほぼ近しくなっている。</description>
     </item>
     <item>
       <title>『グランツーリスモ7』スペック4アップデートが10月と12月に配信。日本のSUGOサーキット、合計12台のクルマなどが登場【State of Play】</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86451</guid>
       <pubDate>Thu, 03 Sep 2026 04:31:00 GMT</pubDate>
       <description>『ービィのエアライダー』の新作amiibo“コックカワサキ&amp;ホップスター”が、本日2026年9月3日に発売された。</description>
-    </item>
-    <item>
-      <title>『どこでもいっしょ』トロやクロたちのピアスが登場。収納アートボックスに入れると観賞用にも使える</title>
-      <link>https://www.famitsu.com/article/202609/86440</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86440</guid>
-      <pubDate>Thu, 03 Sep 2026 04:00:00 GMT</pubDate>
-      <description>2026年9月3日より、MSYのブランド・GRAPHTより『どこでもいっしょ アクセサリーピアス』が発売。公式ECサイトで購入できるほか、2026年9月17日より開催される“東京ゲームショウ2026”のGRAPHTブースでも販売される。</description>
     </item>
   </channel>
 </rss>
