@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Sep 2026 01:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 02:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『ペルソナ4 リバイバル』巽完二（声：関智一）の紹介動画が公開。伝説の不良と恐れられる1年生。タケミカヅチとのパワフルな戦闘シーンも</title>
+      <link>https://www.famitsu.com/article/202609/86839</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86839</guid>
+      <pubDate>Sun, 06 Sep 2026 02:00:00 GMT</pubDate>
+      <description>『ペルソナ4 リバイバル』の登場キャラクター・巽完二（声：関智一）の紹介動画が公開された。完二との会話シーンや専用ペルソナといっしょに戦うシーンが収録されている。</description>
+    </item>
     <item>
       <title>『十二国記』のグッズがフェリシモから受注生産販売中。“水禺刀”の手鏡、“楽俊”のストールや“泰麒”のルームウェア、 ぬいぐるみなど全7種</title>
       <link>https://www.famitsu.com/article/202609/86837</link>
@@ -357,6 +364,13 @@
       <description>『サイレントヒル タウンフォール』の日本語ボイスの声優が発表。サイモンは安元洋貴、ゾーイは甲斐田裕子、リチャードは大塚明夫が演じる。</description>
     </item>
     <item>
+      <title>【ゴースト オブ ヨウテイ】新ストーリー『関ケ原 慕情譚』の最新映像公開。かつて篤とともに戦った長門との出会い。過去と現在を描く【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86606</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86606</guid>
+      <pubDate>Thu, 03 Sep 2026 15:10:00 GMT</pubDate>
+      <description>『ゴースト オブ ヨウテイ』の新ストーリー拡張コンテンツ『Ghost of Yōtei: Echoes of Sekigahara／関ケ原 慕情譚』の最新映像が、2026年9月3日配信の“State of Play（ステートオブプレイ）／State of Play 日本”で公開。</description>
+    </item>
+    <item>
       <title>中国の開発スタジオDarkStar Gamesが手掛けるソウルライク『ダバ：水痕の地』の最新映像が公開。2027年春に発売予定【State of Play】</title>
       <link>https://www.famitsu.com/article/202609/86590</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86590</guid>
@@ -448,18 +462,18 @@
       <description>『Fate/EXTRA』のフルリメイク作品『Fate/EXTRA Record（フェイト エクストラ レコード）』の発売日が2027年1月28日に決定。対応機種はNintendo Switch 2、Nintendo Switch、プレイステーション5（PS5）、プレイステーション4（PS4）、PC（Steam）。</description>
     </item>
     <item>
-      <title>『歌マクロス』オフライン版のプロジェクト始動。9月10日よりコンテンツ拡充のためのクラファンも開始</title>
-      <link>https://www.famitsu.com/article/202609/86511</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86511</guid>
-      <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
-      <description>『歌マクロス』復活プロジェクトが始動。スマートフォン向けリズムゲーム『歌マクロス スマホDeカルチャー』をベースに、PCとスマートフォン向けに最適化したオフライン版。クラウドファンディングも実施予定。</description>
-    </item>
-    <item>
       <title>初代プレステをレゴブロックで再現。『レゴ PlayStation』が10月4日発売。内部には『グランツーリスモ』のコースや『サルゲッチュ』のピポサルも</title>
       <link>https://www.famitsu.com/article/202609/86533</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86533</guid>
       <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
       <description>初代プレイステーションをレゴブロック（1911ピース）で再現した『レゴ PlayStation』が2026年10月4日より一般販売スタート。サイズも実物にほぼ近しくなっている。</description>
+    </item>
+    <item>
+      <title>『歌マクロス』オフライン版のプロジェクト始動。9月10日よりコンテンツ拡充のためのクラファンも開始</title>
+      <link>https://www.famitsu.com/article/202609/86511</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86511</guid>
+      <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
+      <description>『歌マクロス』復活プロジェクトが始動。スマートフォン向けリズムゲーム『歌マクロス スマホDeカルチャー』をベースに、PCとスマートフォン向けに最適化したオフライン版。クラウドファンディングも実施予定。</description>
     </item>
     <item>
       <title>『グランツーリスモ7』スペック4アップデートが10月と12月に配信。日本のSUGOサーキット、合計12台のクルマなどが登場【State of Play】</title>
@@ -691,20 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86491</guid>
       <pubDate>Thu, 03 Sep 2026 08:15:00 GMT</pubDate>
       <description>2026年9月3日から9月29日にかけて、Nintendo SwitchおよびNintendo Switch 2にてカイロソフトのタイトル8本が半額以下で購入できる“秋の夜長にカイロゲーをぽちっとなセール for Switch”が開催。</description>
-    </item>
-    <item>
-      <title>ディズニーとFrontierのコラボゲームが発表。テーマパーク運営シミュレーション『プラネットコースター』などの経験を活かして開発を進める</title>
-      <link>https://www.famitsu.com/article/202609/86498</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86498</guid>
-      <pubDate>Thu, 03 Sep 2026 08:06:00 GMT</pubDate>
-      <description>テーマパーク運営シミュレーション『プラネットコースター』などを手掛けるFrontierが、ディズニーとのコラボゲームを開発すると発表した。</description>
-    </item>
-    <item>
-      <title>フランスでの『ドラゴンボール』テーマパーク建設、東映アニメーションや権利元関係各社がライセンス許諾を否定。把握している事実はないと説明</title>
-      <link>https://www.famitsu.com/article/202609/86460</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86460</guid>
-      <pubDate>Thu, 03 Sep 2026 07:25:00 GMT</pubDate>
-      <description>フランスでの『ドラゴンボール』のテーマパーク建設に関して、東映アニメーションの見解が公式サイトに掲載された。東映アニメーションならびに権利元関係各社はライセンス許諾を行っておらず、東映アニメーションが把握している事実はないと発表している。</description>
     </item>
   </channel>
 </rss>
