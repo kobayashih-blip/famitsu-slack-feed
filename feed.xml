@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Sep 2026 03:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 09:00:00 GMT</lastBuildDate>
+    <item>
+      <title>【OSAKA INDIE GAMES SUMMIT 2026】リョウガ、ユーキ（超特急）、橘柊生（DISH//）出演のハイドアウト404が10月4日開催</title>
+      <link>https://www.famitsu.com/article/202609/86846</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86846</guid>
+      <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
+      <description>インディーゲームイベント“OSAKA INDIE GAMES SUMMIT 2026”の最新情報が公開された。超特急らが出演するイベントやSiMのMAHさんを迎えた公開収録などが決定。</description>
+    </item>
     <item>
       <title>『アイマス』765プロと961プロが激突する。2027年7月開催ライブ、天海春香と天ヶ瀬冬馬が並ぶビジュアル公開</title>
       <link>https://www.famitsu.com/article/202609/86841</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86499</guid>
       <pubDate>Thu, 03 Sep 2026 08:43:00 GMT</pubDate>
       <description>PC向け新作カジュアル鍛冶職人ゲーム『Unlucky Swordsmith』が発表。Steamストアページが公開された。リリース時期は未定で、近日登場の予定となっている。</description>
-    </item>
-    <item>
-      <title>『The Blood of Dawnwalker』昼は人間、夜は吸血鬼の能力を駆使して戦うアクションRPG。本日（9/3）発売。ゲーム実況者“2BRO.”による配信は20時から</title>
-      <link>https://www.famitsu.com/article/202609/86457</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86457</guid>
-      <pubDate>Thu, 03 Sep 2026 08:20:00 GMT</pubDate>
-      <description>『The Blood of Dawnwalker』2026年9月3日発売＆ローンチトレーラー公開。本日（9/3）20時より、ゲーム実況配信者“2BRO.”によるゲームプレイが配信。</description>
     </item>
   </channel>
 </rss>
