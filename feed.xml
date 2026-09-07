@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 04:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:30:00 GMT</lastBuildDate>
+    <item>
+      <title>東京靴流通センター柄の靴下と靴袋がガチャ商品になって9月下旬発売。“転生前”でおなじみのハローマック柄も含め、全5種がラインアップ</title>
+      <link>https://www.famitsu.com/article/202609/86911</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86911</guid>
+      <pubDate>Mon, 07 Sep 2026 04:30:00 GMT</pubDate>
+      <description>“東京靴流通センター 靴下＆靴袋コレクション”が2026年9月下旬より全国のカプセル自販機にて発売。チヨダが展開する東京靴流通センター、SHOE PLAZA、そして現在は営業を終了した玩具店ハローマックをデザインした靴下と靴袋が全5種ラインアップされている。</description>
+    </item>
     <item>
       <title>PCをスマホで遠隔操作できるツール『CouchDeck』がSteamで9月23日に配信。専用アプリは不要。文字入力、バーチャルゲームパッド、ファイル転送など機能も充実</title>
       <link>https://www.famitsu.com/article/202609/86914</link>
@@ -546,18 +553,18 @@
       <description>『Fate/EXTRA』のフルリメイク作品『Fate/EXTRA Record（フェイト エクストラ レコード）』の発売日が2027年1月28日に決定。対応機種はNintendo Switch 2、Nintendo Switch、プレイステーション5（PS5）、プレイステーション4（PS4）、PC（Steam）。</description>
     </item>
     <item>
-      <title>初代プレステをレゴブロックで再現。『レゴ PlayStation』が10月4日発売。内部には『グランツーリスモ』のコースや『サルゲッチュ』のピポサルも</title>
-      <link>https://www.famitsu.com/article/202609/86533</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86533</guid>
-      <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
-      <description>初代プレイステーションをレゴブロック（1911ピース）で再現した『レゴ PlayStation』が2026年10月4日より一般販売スタート。サイズも実物にほぼ近しくなっている。</description>
-    </item>
-    <item>
       <title>『歌マクロス』オフライン版のプロジェクト始動。9月10日よりコンテンツ拡充のためのクラファンも開始</title>
       <link>https://www.famitsu.com/article/202609/86511</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86511</guid>
       <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
       <description>『歌マクロス』復活プロジェクトが始動。スマートフォン向けリズムゲーム『歌マクロス スマホDeカルチャー』をベースに、PCとスマートフォン向けに最適化したオフライン版。クラウドファンディングも実施予定。</description>
+    </item>
+    <item>
+      <title>初代プレステをレゴブロックで再現。『レゴ PlayStation』が10月4日発売。内部には『グランツーリスモ』のコースや『サルゲッチュ』のピポサルも</title>
+      <link>https://www.famitsu.com/article/202609/86533</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86533</guid>
+      <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
+      <description>初代プレイステーションをレゴブロック（1911ピース）で再現した『レゴ PlayStation』が2026年10月4日より一般販売スタート。サイズも実物にほぼ近しくなっている。</description>
     </item>
     <item>
       <title>『グランツーリスモ7』スペック4アップデートが10月と12月に配信。日本のSUGOサーキット、合計12台のクルマなどが登場【State of Play】</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86487</guid>
       <pubDate>Thu, 03 Sep 2026 12:05:00 GMT</pubDate>
       <description>『僕のヒーローアカデミア』の対戦アクション『僕のヒーローアカデミア All‘s Justice』のNintendo Switch 2版が本日2026年9月3日に発売。あわせてDLC第3弾“緑谷出久 オーバーレイフルスタイル”も配信開始された。</description>
-    </item>
-    <item>
-      <title>『フレミング邸の殺人事件』死亡診断書作成ミステリーアドベンチャーの発売日が11/3に決定。1950年代の英国で、法医学的見地から悲劇の真相を追求</title>
-      <link>https://www.famitsu.com/article/202609/86479</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86479</guid>
-      <pubDate>Thu, 03 Sep 2026 11:55:00 GMT</pubDate>
-      <description>2026年11月3日、Steamにて『フレミング邸の殺人事件』がリリースされる。本作は、法医学調査官の視点で事件を解き明かす推理アドベンチャーゲーム。1950年代の英国にある大邸宅を舞台に、死亡診断書などをプレイヤーが作成することで真相に迫っていく。</description>
     </item>
   </channel>
 </rss>
