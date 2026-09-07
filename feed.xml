@@ -5,14 +5,7 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 12:12:00 GMT</lastBuildDate>
-    <item>
-      <title>ホロライブのテレビアニメプロジェクト始動。謎のキーワードは「おでホロ」。9月23日に詳細解禁</title>
-      <link>https://www.famitsu.com/article/202609/87008</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87008</guid>
-      <pubDate>Mon, 07 Sep 2026 12:12:00 GMT</pubDate>
-      <description>ホロライブプロダクション初のテレビアニメプロジェクトが発表。アニメーション制作はスタジオKAI。</description>
-    </item>
+    <lastBuildDate>Mon, 07 Sep 2026 11:30:00 GMT</lastBuildDate>
     <item>
       <title>東京ゲームショウ2026に『Fallout』『サイバーパンク 2077』『プラグマタ』などグッズ販売。インフォレンズが物販出展</title>
       <link>https://www.famitsu.com/article/202609/86969</link>
@@ -705,6 +698,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86589</guid>
       <pubDate>Thu, 03 Sep 2026 13:42:00 GMT</pubDate>
       <description>PlayStation Plus（PS Plus）のプレミアムプラン向けに提供されている、クラシックスカタログに『ロックマンX コマンドミッション』、『ディノクライシス2』、初代『ラチェット＆クランク』（ラチェクラ）が追加されることが発表。</description>
+    </item>
+    <item>
+      <title>『ラプソディ・イン・スカーレット』発表。1920年のニューヨークを舞台にした魔法を駆使してパートナーの野獣と戦うKONAMIの新作アクションゲーム【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86550</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86550</guid>
+      <pubDate>Thu, 03 Sep 2026 13:40:00 GMT</pubDate>
+      <description>プレイステーションの公式配信“State of Play（ステートオブプレイ）／State of Play 日本”にて、KONAMIの完全新作アクションゲーム『Rhapsody in Scarlet』（ラプソディ・イン・スカーレット）が発表された。</description>
     </item>
   </channel>
 </rss>
