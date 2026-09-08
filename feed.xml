@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 07:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 07:27:00 GMT</lastBuildDate>
+    <item>
+      <title>Suicaのペンギンからバトンタッチ予定のイメージキャラ候補が公開。投票数がもっとも多いキャラが採用される</title>
+      <link>https://www.famitsu.com/article/202609/87104</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87104</guid>
+      <pubDate>Tue, 08 Sep 2026 07:27:00 GMT</pubDate>
+      <description>Suicaのペンギンが、2027年3月31日に卒業して、同年4月1日から新たなイメージキャラクターにバトンタッチ。その新イメージキャラの候補が公開された。</description>
+    </item>
     <item>
       <title>映画『ちいかわ』効果で大手シネコンのWebサイト訪問数が大幅増。『ちいぽけ』も映画合わせのアプデにより、前日比で6倍以上のDL数を達成</title>
       <link>https://www.famitsu.com/article/202609/87091</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86616</guid>
       <pubDate>Thu, 03 Sep 2026 14:30:00 GMT</pubDate>
       <description>新作ゲーム『CONQ - Crown Of No Quarter』の映像が世界初公開。逃れることも、死ぬこともできない永遠に続く煉獄で戦うアクションRPG×リアルタイムストラテジー。</description>
-    </item>
-    <item>
-      <title>横スクロール3Dローグライク『SlashZero（スラッシュゼロ）』が2027年春発売。10時間以上プレイ可能な体験版が本日より配信開始に【State of Play】</title>
-      <link>https://www.famitsu.com/article/202609/86552</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86552</guid>
-      <pubDate>Thu, 03 Sep 2026 14:30:00 GMT</pubDate>
-      <description>“State of Play（ステートオブプレイ）／State of Play 日本”にて、Streetlamp Studioの横スクロール3Dローグライク『SlashZero』（スラッシュゼロ）の最新映像が公開。2027年発売となることが発表された。</description>
     </item>
   </channel>
 </rss>
