@@ -5,28 +5,7 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 08:16:00 GMT</lastBuildDate>
-    <item>
-      <title>『遊戯王』青眼の究極竜とマンモスの融合シーンを再現したカード“属性反発作用”が発表。9月26日発売のスペシャルパックに収録</title>
-      <link>https://www.famitsu.com/article/202609/87111</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87111</guid>
-      <pubDate>Tue, 08 Sep 2026 08:16:00 GMT</pubDate>
-      <description>2026年9月26日発売のスペシャルパック『遊☆戯☆王 ORIGINAL ARTWORK COLLECTION』で登場する新カード10枚が公開された。</description>
-    </item>
-    <item>
-      <title>「肩こりとゲームに関する実態調査」をパナソニックが実施。ゲーマーの3人に2人が肩こりを自覚。うち62％が「体の不調で子どものころより集中できる時間が減った」と回答</title>
-      <link>https://www.famitsu.com/article/202609/87108</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87108</guid>
-      <pubDate>Tue, 08 Sep 2026 08:05:00 GMT</pubDate>
-      <description>パナソニックは、全国の18～59歳の男女4,388名へのスクリーニング調査、および週1回以上ゲームをする1,000名への本調査を通じて、“肩こりとゲームに関する実態調査”を実施。</description>
-    </item>
-    <item>
-      <title>『パトリサイド』自己責任が叫ばれる現代日本で父親を殺した少女たちの愛と憎しみを描くダークRPG。『インナートゥルース』から改題</title>
-      <link>https://www.famitsu.com/article/202609/87066</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87066</guid>
-      <pubDate>Tue, 08 Sep 2026 08:00:00 GMT</pubDate>
-      <description>父親を殺した少女たちによる愛と憎しみの戦いを描いたダークアドベンチャーRPG『パトリサイド』（PATRICIDE）。Steamストアページオープン＆“Steam Next Fest”に出展</description>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 07:27:00 GMT</lastBuildDate>
     <item>
       <title>Suicaのペンギンからバトンタッチ予定のイメージキャラ候補が公開。投票数がもっとも多いキャラが採用される</title>
       <link>https://www.famitsu.com/article/202609/87104</link>
@@ -700,11 +679,32 @@
       <description>中国の開発スタジオ“DarkStar Games”が手掛けるソウルライク『ダバ：水痕の地』の最新映像が公開された。発売は2027年春を予定。同作は、ソニー・インタラクティブエンタテインメント（SIE）による、中国デベロッパー支援プロジェクト“China Hero Project（中国之星計画）”の選出タイトルのひとつ。</description>
     </item>
     <item>
-      <title>【SAO】『エコーズ オブ アインクラッド』DLC「創世の巫女」が2026年冬発売。劇場版からミトが登場し、アニメや原作にない物語が展開【State of Play】</title>
-      <link>https://www.famitsu.com/article/202609/86622</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86622</guid>
-      <pubDate>Thu, 03 Sep 2026 14:38:00 GMT</pubDate>
-      <description>『ソードアート・オンライン』（SAO）家庭用ゲーム最新作『Echoes of Aincrad』（エコーズ オブ アインクラッド）のエキスパンションDLC“創世の巫女”が2026年冬に発売することが発表。劇場版に登場したミトが参戦するほか、新武器種や防具を強化する新システムが追加。</description>
+      <title>横スクロール3Dローグライク『SlashZero（スラッシュゼロ）』が2027年春発売。10時間以上プレイ可能な体験版が本日より配信開始に【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86552</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86552</guid>
+      <pubDate>Thu, 03 Sep 2026 14:30:00 GMT</pubDate>
+      <description>“State of Play（ステートオブプレイ）／State of Play 日本”にて、Streetlamp Studioの横スクロール3Dローグライク『SlashZero』（スラッシュゼロ）の最新映像が公開。2027年発売となることが発表された。</description>
+    </item>
+    <item>
+      <title>サイゲームスが小・中規模開発に特化した新ゲームブランド“サイゲームスエッジ”が発表。第1弾タイトル『崩落の国』が2026年11月5日に発売予定【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86591</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86591</guid>
+      <pubDate>Thu, 03 Sep 2026 14:22:00 GMT</pubDate>
+      <description>サイゲームスが小・中規模タイトルならではの機動力を活かし、実験的で尖ったゲーム体験に挑むために立ち上げた新たなゲームブランド“CygamesEdge（サイゲームスエッジ）”を発表。同ブランドの第1弾タイトルとして、『崩落の国』がNintendo Switch2（スイッチ2）、プレイステーション5（PS5）、Steam向けに2026年11月5日に発売予定。</description>
+    </item>
+    <item>
+      <title>『ステューピッド・ネバー・ダイズ』無料体験版“ファーストバイトデモ”が配信開始。冒頭約2時間がプレイでき、製品版への引継ぎも可能【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86577</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86577</guid>
+      <pubDate>Thu, 03 Sep 2026 14:22:00 GMT</pubDate>
+      <description>爆速成長アクションRPG『ステューピッド・ネバー・ダイズ』の体験版が配信。冒頭2時間をプレイでき、製品版へのセーブデータ引き継ぎが可能。</description>
+    </item>
+    <item>
+      <title>『ドラゴンボール ゼノバース3』新たな種族「人造人間」解禁、自分だけの超戦士でジースのクラッシャーボールを放つなど、多彩なカスタマイズ要素を楽しもう【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86597</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86597</guid>
+      <pubDate>Thu, 03 Sep 2026 14:17:00 GMT</pubDate>
+      <description>『ドラゴンボール ゼノバース3』の新たな種族“人造人間”情報が解禁。東京ゲームショウの試遊ノベルティとしてオリジナルチャームセットを配布。</description>
     </item>
   </channel>
 </rss>
