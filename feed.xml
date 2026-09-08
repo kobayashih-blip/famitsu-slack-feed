@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 01:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 02:09:00 GMT</lastBuildDate>
+    <item>
+      <title>『ToHeart』HMX-12マルチの頭部センサーユニットが製造・販売決定。TGS2026にて初公開と同時に先行販売</title>
+      <link>https://www.famitsu.com/article/202609/87054</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87054</guid>
+      <pubDate>Tue, 08 Sep 2026 02:09:00 GMT</pubDate>
+      <description>中央町戦術工芸（CTCTYO）は、コスパとの共同開発により『ToHeart』に登場する HMX-12“マルチ” センサーユニットを製造・販売決定した。</description>
+    </item>
     <item>
       <title>『プラグマタ』Steam版が初セールで20％オフ（6392円）に。ヒューとディアナの絆、パズル×TPSの融合で高評価のSFアクション</title>
       <link>https://www.famitsu.com/article/202609/87052</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86607</guid>
       <pubDate>Thu, 03 Sep 2026 13:54:00 GMT</pubDate>
       <description>『グランツーリスモ7』のスペックIVアップデートの詳細が“State of Play（ステートオブプレイ）／State of Play 日本”にて解禁。2026年10月、12月と2回に分けて配信する。追加予定の合計12車種も先行公開。</description>
-    </item>
-    <item>
-      <title>『アンティルドーン2』2027年1月28日に発売決定。若者がヒドい目に遭う直前までが描かれた最新映像が公開【State of Play】</title>
-      <link>https://www.famitsu.com/article/202609/86587</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86587</guid>
-      <pubDate>Thu, 03 Sep 2026 13:49:00 GMT</pubDate>
-      <description>ホラーアドベンチャーの新作『アンティルドーン2』の発売日が発表。発売日は2027年1月28日に。併せて新映像が公開された。</description>
     </item>
   </channel>
 </rss>
