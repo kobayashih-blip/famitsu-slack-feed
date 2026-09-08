@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 03:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:00:00 GMT</lastBuildDate>
+    <item>
+      <title>【日本ゲーム大賞2026】桜井政博氏が創設したゲームデザイナーズ大賞が今年で終了に。ラストイヤーの審査員は昨年の8人に上田文人氏、須田剛一氏、三上真司氏を加えた豪華11人体制</title>
+      <link>https://www.famitsu.com/article/202609/87072</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87072</guid>
+      <pubDate>Tue, 08 Sep 2026 04:00:00 GMT</pubDate>
+      <description>日本ゲーム大賞、ゲームデザイナーズ大賞が今年で終了に。審査員は桜井政博氏ら昨年同様の8名に加え上田文人氏、須田剛一氏、三上真司氏を加えた11人体制</description>
+    </item>
     <item>
       <title>『カイジ』沼編がヤンマガWebで無料公開。王位継承編をやっている某漫画の影響？　Xで話題になり急遽実施</title>
       <link>https://www.famitsu.com/article/202609/87069</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86593</guid>
       <pubDate>Thu, 03 Sep 2026 14:03:00 GMT</pubDate>
       <description>『Fate/EXTRA』のフルリメイク作品『Fate/EXTRA Record（フェイト エクストラ レコード）』の発売日が2027年1月28日に決定。対応機種はNintendo Switch 2、Nintendo Switch、プレイステーション5（PS5）、プレイステーション4（PS4）、PC（Steam）。</description>
-    </item>
-    <item>
-      <title>『歌マクロス』オフライン版のプロジェクト始動。9月10日よりコンテンツ拡充のためのクラファンも開始</title>
-      <link>https://www.famitsu.com/article/202609/86511</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86511</guid>
-      <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
-      <description>『歌マクロス』復活プロジェクトが始動。スマートフォン向けリズムゲーム『歌マクロス スマホDeカルチャー』をベースに、PCとスマートフォン向けに最適化したオフライン版。クラウドファンディングも実施予定。</description>
     </item>
   </channel>
 </rss>
