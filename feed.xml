@@ -5,356 +5,62 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Sep 2026 08:00:00 GMT</lastBuildDate>
-    <item>
-      <title>【アケアカ】『カルノフ』9月10日配信。火炎攻撃や空を飛ぶなど多彩な能力で悪の帝王に挑むデータイーストの名作アクション</title>
-      <link>https://www.famitsu.com/article/202609/87219</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87219</guid>
-      <pubDate>Wed, 09 Sep 2026 08:00:00 GMT</pubDate>
-      <description>データイーストのアクションゲーム『カルノフ』アーケードアーカイブス版が2026年9月10日発売。プレイヤーはカルノフを操作し、口から吹く火や9つの武器を駆使して各地の怪物たちと戦い、宝の地図を完成させて財宝を手に入れる。</description>
-    </item>
-    <item>
-      <title>『フェイト エクストラ レコード』セイバー（声：丹下桜）のキャラクターPVが公開。卓越した剣技と美しさを秘めたサーヴァントの魅力に迫る</title>
-      <link>https://www.famitsu.com/article/202609/87245</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87245</guid>
-      <pubDate>Wed, 09 Sep 2026 08:00:00 GMT</pubDate>
-      <description>『Fate/EXTRA』をフルリメイクしたダンジョン探索型RPG『Fate/EXTRA Record』の第1弾キャラクターPVが公開。丹下桜さんが声を演じるサーヴァント・セイバーを紹介している。</description>
-    </item>
-    <item>
-      <title>『REKA』“歩く家”と旅をする探索アドベンチャーの正式版が10月26日に配信。家を建築するクラフト要素も魅力、TGS2026での試遊出展も決定</title>
-      <link>https://www.famitsu.com/article/202609/87238</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87238</guid>
-      <pubDate>Wed, 09 Sep 2026 08:00:00 GMT</pubDate>
-      <description>『REKA』正式版が10月26日（月）に発売。魔女となって自分だけの“歩く魔法の家”を建築し、秋の森を旅する探索アドベンチャー。プレイヤーは伝説の魔女“バーバ・ヤーガ”の弟子となって、自然や大地の精霊の力を操り、魔法を学びながら、自動生成される世界を冒険する。</description>
-    </item>
-    <item>
-      <title>『モンハンワイルズ：アセンダンス』守りも強化されつつ機動力を得たガンランスがアツい。高速になった竜杭や属性が乗った砲撃も確認できる動画公開</title>
-      <link>https://www.famitsu.com/article/202609/87250</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87250</guid>
-      <pubDate>Wed, 09 Sep 2026 07:16:00 GMT</pubDate>
-      <description>『モンスターハンターワイルズ：アセンダンス』の新要素“ブーストブレイサー”を用いたアクションを含む、ガンランスの武器紹介動画が公開。相殺可能なブースト発動アクションや高速になった連装竜杭フルバーストなどのアクションで一気に畳み掛けられる。</description>
-    </item>
-    <item>
-      <title>『ウィッチャー3』リマスター版やDLC“追憶の調べ”の新情報が明かされる。CD PROJEKT REDのオンライン番組が9月18日に配信決定</title>
-      <link>https://www.famitsu.com/article/202609/87242</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87242</guid>
-      <pubDate>Wed, 09 Sep 2026 07:05:00 GMT</pubDate>
-      <description>『ウィッチャー3 ワイルドハント リマスター』および新DLC『追憶の調べ』の最新情報を公開するオンライン番組が2026年9月18日に配信決定した。</description>
-    </item>
-    <item>
-      <title>『ゼルダの伝説 ティアキン』Switch2用コントローラーが新登場。朽ちたマスターソードをデザイン、背面の割り当てボタンも搭載【10月9日発売】</title>
-      <link>https://www.famitsu.com/article/202609/87203</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87203</guid>
-      <pubDate>Wed, 09 Sep 2026 05:55:00 GMT</pubDate>
-      <description>PowerA（パワーエー）は、『ゼルダの伝説 ティアーズ オブ ザ キングダム』デザインのNintendo Switch 2向けワイヤレスコントローラーとプロテクションケースを2026年10月9日に発売。本日9月9日より、各販売店で予約受付が開始された。</description>
-    </item>
-    <item>
-      <title>1対4非対称マルチプレイ『ハロウィン ザ・ゲーム』が本日（9/9）発売。映画のように殺人鬼になるか住民として立ち向かうか</title>
-      <link>https://www.famitsu.com/article/202609/87223</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87223</guid>
-      <pubDate>Wed, 09 Sep 2026 05:50:00 GMT</pubDate>
-      <description>『ハロウィン ザ・ゲーム』本日(9/9)発売映画『ハロウィン』の世界を再現した非対称ステルスホラー。プレイヤーは“ブギーマン”ことマイケル・マイヤーズを操作して住民を襲うか、住民として互いに助け合いながら殺人鬼に立ち向かうかを選択してプレイできる。</description>
-    </item>
-    <item>
-      <title>PS純正ワイヤレスイヤホン“PULSE Explore”が12000円の値下げ。日本国内で9月15日より34980円→22980円へと価格改定</title>
-      <link>https://www.famitsu.com/article/202609/87201</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87201</guid>
-      <pubDate>Wed, 09 Sep 2026 05:14:00 GMT</pubDate>
-      <description>“PULSE Explore ワイヤレスイヤホン”が2026年9月15日より希望小売価格を34980円[税込]から22,980円[税込]へ改定。高品質な音響体験を持ち運んで楽しめるプレイステーションブランド初の公式ワイヤレスイヤホン。</description>
-    </item>
-    <item>
-      <title>【PSStore】『FF7リバース』70%オフ、『ペルソナ3R』60%オフ、『プラグマタ』20%オフ。人気タイトルがお得に買えるTGSセールが開催</title>
-      <link>https://www.famitsu.com/article/202609/87202</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87202</guid>
-      <pubDate>Wed, 09 Sep 2026 04:24:00 GMT</pubDate>
-      <description>PS Storeにて“Tokyo Game Show Sale”が開催中。期間は2026年9月9日（水）～9月23日（水）まで。『FF7 リバース』が70%オフ、『P3R デジタルプレミアムエディション PS4&amp;PS5』が60%オフ、『PRAGMATA Deluxe Edition』が20%オフで購入可能に。</description>
-    </item>
-    <item>
-      <title>『ブラック・ブレット』12年ぶりに再始動。リブート作品『ブラック・ブレット 新世界秩序（ザ・ニューワールド・オーダー）』11月より刊行決定</title>
-      <link>https://www.famitsu.com/article/202609/87209</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87209</guid>
-      <pubDate>Wed, 09 Sep 2026 03:41:00 GMT</pubDate>
-      <description>神崎紫電氏が手掛けるライトノベル『ブラック・ブレット』のリブート作品『ブラック・ブレット 新世界秩序』が発表された。</description>
-    </item>
-    <item>
-      <title>『Monster Cuisine』モンスターを狩って調理し、酒場を切り盛りするドット絵アクションRPG。戦場と厨房を行き来して大繁盛する酒場を目指せ</title>
-      <link>https://www.famitsu.com/article/202609/87190</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87190</guid>
-      <pubDate>Wed, 09 Sep 2026 03:30:00 GMT</pubDate>
-      <description>『Monster Cuisine：狩って、捌いて、いただきます。』発表。現在Steamにてウィッシュリスト登録と今後実施予定のプレイテスト登録を受付中。モンスターを狩り、それを調理し、酒場で提供するアクションRPG。</description>
-    </item>
-    <item>
-      <title>『デス桃太郎』がSteamに登場。おじいさんの包丁から逃げ、デス犬、デス猿、デスキジを従えて鬼を正義の銃弾で殲滅せよ！</title>
-      <link>https://www.famitsu.com/article/202609/87191</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87191</guid>
-      <pubDate>Wed, 09 Sep 2026 03:22:00 GMT</pubDate>
-      <description>PC（Steam）向けソフト『デス桃太郎』のSteamストアページが公開。本作は、日本昔話『桃太郎』をモチーフにしたホラーアクションコメディゲームで、プレイヤーは“デス桃太郎”となって数々の脅威に立ち向かう。発売時期は2026年9月下旬を予定している。</description>
-    </item>
-    <item>
-      <title>アニメ『チー付与』有名シーン集まるメインPV公開。マジギレ罵倒の「はっやっくっ振っれっよォォォオオオオ～～ッ!!!!」が凄まじい</title>
-      <link>https://www.famitsu.com/article/202609/87113</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87113</guid>
-      <pubDate>Wed, 09 Sep 2026 03:00:00 GMT</pubDate>
-      <description>アニメ『チー付与』は2026年10月6日から放送開始。sumikaが担当するオープニングテーマが聴けるメインPVが公開。どんぐり、バリオス、グレンダ役の声優陣も発表。</description>
-    </item>
-    <item>
-      <title>『つみみじかん』ボイス実装した体験版が9月公開。廃村調査配信に視聴者として介入するサイコホラーアドベンチャー</title>
-      <link>https://www.famitsu.com/article/202609/87125</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87125</guid>
-      <pubDate>Wed, 09 Sep 2026 03:00:00 GMT</pubDate>
-      <description>『つみみじかん 狂オシイホド愛シテル』のボイス実装最新体験版が9月公開。“東京ホラー特区!!”で先行試遊も実施される。</description>
-    </item>
-    <item>
-      <title>『デイヴ・ザ・ダイバー』累計販売本数1000万本を突破。昼に魚を獲り、夜は獲得した食材で寿司屋を経営するハイブリッド・海洋アドベンチャー</title>
-      <link>https://www.famitsu.com/article/202609/87188</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87188</guid>
-      <pubDate>Wed, 09 Sep 2026 02:12:00 GMT</pubDate>
-      <description>『デイヴ・ザ・ダイバー』の世界累計販売本数が1000万本を突破した。</description>
-    </item>
-    <item>
-      <title>【都市伝説解体センター】『サイレントヒルf』コラボ開催。あざみと雛子が登場するブラウザゲームやコラボイラストが公開</title>
-      <link>https://www.famitsu.com/article/202609/87185</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87185</guid>
-      <pubDate>Wed, 09 Sep 2026 01:21:00 GMT</pubDate>
-      <description>『都市伝説解体センター』と『SILENT HILL f』のコラボが2026年9月9日に開催された。</description>
-    </item>
-    <item>
-      <title>『シュタゲ』これが運命に抗う者たちの香り。オカリン、紅莉栖、まゆり、ダル、鈴羽をイメージしたフレグランス（香水）が登場</title>
-      <link>https://www.famitsu.com/article/202609/87123</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87123</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-      <description>FAIRYTAILより、『STEINS;GATE』のキャラクターをイメージしたフレグランスが2026年9月7日より予約開始。岡部倫太郎、牧瀬紅莉栖、椎名まゆり、橋田至、阿万音鈴羽の5種が登場。</description>
-    </item>
-    <item>
-      <title>【時オカリメイク】『ゼルダの伝説 時のオカリナ』キャラクターまとめ。リンク、ゼルダ、シーク、サリアなどのリメイク版の姿を一挙掲載【ゼルダの伝説40周年 Direct 2026.9.8】</title>
-      <link>https://www.famitsu.com/article/202609/87136</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87136</guid>
-      <pubDate>Tue, 08 Sep 2026 21:30:00 GMT</pubDate>
-      <description>『ゼルダの伝説 時のオカリナ』フルリメイク版の最新映像に登場したキャラクターをまとめて紹介。子どもリンク、大人リンク、ゼルダ、シーク、サリア、ダルニア、ルト、ガノンドロフなど、生まれ変わった姿を一挙掲載する。</description>
-    </item>
-    <item>
-      <title>“ゼルダノーツ”に『ゼルダの伝説 時のオカリナ』のコンテンツが追加決定。冒険に役立つさまざまな機能やミニゲーム・クイズが楽しめる【ゼルダの伝説40周年 Direct 2026.9.8】</title>
-      <link>https://www.famitsu.com/article/202609/87166</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87166</guid>
-      <pubDate>Tue, 08 Sep 2026 15:44:00 GMT</pubDate>
-      <description>2026年9月8日（火）23時から配信される、“Nintendo Direct”（ニンテンドーダイレクト）の派生版となる“ゼルダの伝説40周年 Direct 2026.9.8”。放送にて、Nintendo Switch Appにて利用できる“ZELDA NOTES（ゼルダノーツ）”に、Nintendo Switch 2版『ゼルダの伝説 時のオカリナ』のコンテンツが追加されることが発表された。</description>
-    </item>
-    <item>
-      <title>【時オカ】『ゼルダの伝説 時のオカリナ』こどもリンク・こどもゼルダのamiiboが2027年発売。ゲーム内でリメイク前の顔のお面が手に入る【ゼルダの伝説40周年 Direct 2026.9.8】</title>
-      <link>https://www.famitsu.com/article/202609/87158</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87158</guid>
-      <pubDate>Tue, 08 Sep 2026 15:38:00 GMT</pubDate>
-      <description>Nintendo Switch 2用タイトル『ゼルダの伝説 時のオカリナ』のこどもリンク・こどもゼルダのamiiboが発表された。</description>
-    </item>
-    <item>
-      <title>【Switch2】『ゼルダの伝説』40周年記念モデルが10月29日に登場。スタンド付きProコントローラーとキャリングケースも同時発売【ゼルダの伝説40周年 Direct 2026.9.8】</title>
-      <link>https://www.famitsu.com/article/202609/87165</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87165</guid>
-      <pubDate>Tue, 08 Sep 2026 15:16:00 GMT</pubDate>
-      <description>『ゼルダの伝説』40周年に合わせて、特別デザインのNintendo Switch 2本体、Proコントローラー、キャリングケースが発表された。</description>
-    </item>
-    <item>
-      <title>『ゼルダの伝説』さまざまなグッズが登場。時のオカリナ（楽器&amp;エレクトリック）やレゴのリンク&amp;エポナが初公開【ゼルダの伝説40周年 Direct 2026.9.8】</title>
-      <link>https://www.famitsu.com/article/202609/87157</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87157</guid>
-      <pubDate>Tue, 08 Sep 2026 15:05:00 GMT</pubDate>
-      <description>“Nintendo Direct”（ニンテンドーダイレクト）の派生版となる“ゼルダの伝説40周年 Direct 2026.9.8”にて、『ゼルダの伝説』シリーズのさまざまなグッズが一挙に紹介された。</description>
-    </item>
-    <item>
-      <title>【進撃の巨人の日】の9月9日を記念して99大ニュース発表。多い……多いよ……。うち5つは「諫山創ニュース」。原作者の近況がふんわり明らかに</title>
-      <link>https://www.famitsu.com/article/202609/87119</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87119</guid>
-      <pubDate>Tue, 08 Sep 2026 15:00:00 GMT</pubDate>
-      <description>諫山創氏が描くマンガ『進撃の巨人』連載開始日にちなみ、9月9日が[B]“進撃の巨人の日”[/B]として正式に制定されたことを受けて、本作にまつわる99大ニュースが発表された。</description>
-    </item>
-    <item>
-      <title>ニンテンドーミュージアムに『ゼルダの伝説』のコンテンツが登場。マスターソードをテーマとした特別なフォトスポットも【ゼルダの伝説40周年 Direct 2026.9.8】</title>
-      <link>https://www.famitsu.com/article/202609/87162</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87162</guid>
-      <pubDate>Tue, 08 Sep 2026 14:53:00 GMT</pubDate>
-      <description>『ゼルダの伝説』40周年と連動したニンテンドーミュージムの新たなコンテンツが発表された。マスターソードをテーマとした特別なフォトスポットなどが用意されるという。</description>
-    </item>
-    <item>
-      <title>【時オカリメイク】『ゼルダの伝説 時のオカリナ』Switch2の機能を使い、鼻歌や実物のオカリナによる演奏にあわせてリンクがオカリナを吹いてくれる【ゼルダの伝説40周年 Direct 2026.9.8】</title>
-      <link>https://www.famitsu.com/article/202609/87156</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87156</guid>
-      <pubDate>Tue, 08 Sep 2026 14:33:00 GMT</pubDate>
-      <description>Nintendo Switch 2タイトル『ゼルダの伝説 時のオカリナ』のハードの機能を活かした新要素が公開された。オカリナの演奏時、プレイヤーの鼻歌やグッズのオカリナなどを使った演奏によってゲーム内のリンクも演奏してくれる。</description>
-    </item>
-    <item>
-      <title>『ゼルダの伝説 時のオカリナ』Switch2版の発売日が11月5日に決定【ゼルダの伝説40周年 Direct 2026.9.8】</title>
-      <link>https://www.famitsu.com/article/202609/87159</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87159</guid>
-      <pubDate>Tue, 08 Sep 2026 14:29:00 GMT</pubDate>
-      <description>Nintendo Switch 2版『ゼルダの伝説 時のオカリナ』が2027年11月5日に発売されることが発表された。</description>
-    </item>
-    <item>
-      <title>【時オカ】『ゼルダの伝説 時のオカリナ』Switch2リメイク版のゲームプレイ映像が初公開。質感もわかる美麗グラフィックに【ゼルダの伝説40周年 Direct 2026.9.8】</title>
-      <link>https://www.famitsu.com/article/202609/87154</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87154</guid>
-      <pubDate>Tue, 08 Sep 2026 14:20:00 GMT</pubDate>
-      <description>“ゼルダの伝説40周年 Direct 2026.9.8”（ゼルダダイレクト）にて、『ゼルダの伝説 時のオカリナ』Switch2リメイク版のゲームプレイ映像が発表された。</description>
-    </item>
-    <item>
-      <title>『ゼルダの伝説』コンサートが2027年開催決定。日本5ヵ所のほか世界3地域で実施【ゼルダの伝説40周年 Direct 2026.9.8】</title>
-      <link>https://www.famitsu.com/article/202609/87160</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87160</guid>
-      <pubDate>Tue, 08 Sep 2026 14:14:00 GMT</pubDate>
-      <description>“Nintendo Direct”（ニンテンドーダイレクト）の派生版となる“ゼルダの伝説40周年 Direct 2026.9.8”。本放送にて、2027年1月23日から『ゼルダの伝説』のオーケストラコンサートが開催されることが発表された。</description>
-    </item>
-    <item>
-      <title>『ゼルダの伝説』の実写映画のタイトルはズバリ『ゼルダの伝説』に！ 宮本茂氏「理由は観ればわかる」【ゼルダの伝説40周年 Direct 2026.9.8】</title>
-      <link>https://www.famitsu.com/article/202609/87155</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87155</guid>
-      <pubDate>Tue, 08 Sep 2026 14:10:00 GMT</pubDate>
-      <description>実写映画版『ゼルダの伝説』のタイトルが『ゼルダの伝説』になることが発表された。</description>
-    </item>
-    <item>
-      <title>『P5X』キャラクター人気投票で1位に輝いた北里基良のアクスタやポスターが登場。アトラスDショップで本日（9/8）予約開始【ペルソナ5X】</title>
-      <link>https://www.famitsu.com/article/202609/87130</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87130</guid>
-      <pubDate>Tue, 08 Sep 2026 13:00:00 GMT</pubDate>
-      <description>『ペルソナ5:The Phantom X』より、北里基良のイラストを使用した新グッズが、アトラスDショップで本日2026年9月8日より予約を開始した。</description>
-    </item>
-    <item>
-      <title>ディストピア百合アドベンチャー『早咲きのくろゆり』Switch版（10/29発売）予約受付中。未知のウイルスで未成年の過半数が亡くなった世界を舞台に「好き」と「呪い」を描く</title>
-      <link>https://www.famitsu.com/article/202609/87142</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87142</guid>
-      <pubDate>Tue, 08 Sep 2026 11:58:00 GMT</pubDate>
-      <description>2026年10月29日に発売するNintendo Switch版『早咲きのくろゆり』がマスターアップ。エビテンでは“ファミ通DXパック”などの予約受付がスタートしている。</description>
-    </item>
-    <item>
-      <title>『放置少女』にてTVアニメ『転スラ』コラボ開催。リムル、ミリム、シオンがオリジナルデザインのバニーガール衣装で登場、録り下ろしボイスも実装</title>
-      <link>https://www.famitsu.com/article/202609/87126</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87126</guid>
-      <pubDate>Tue, 08 Sep 2026 11:00:00 GMT</pubDate>
-      <description>『放置少女』×TVアニメ『転生したらスライムだった件』コラボが9月8日より開催。リムル、ミリム、シオンがバニーガール衣装で登場するほか、MR副将“シオン”を無料で獲得可能。温泉姿のシオンや限定グッズが当たるXキャンペーンも開催。</description>
-    </item>
-    <item>
-      <title>【PUBG × 呪術廻戦】コラボの詳細が判明。虎杖悠仁や五条悟をモチーフにした限定コスチュームや武器スキンが9/10より登場。ゲーム内イベントも開催</title>
-      <link>https://www.famitsu.com/article/202609/87132</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87132</guid>
-      <pubDate>Tue, 08 Sep 2026 10:55:00 GMT</pubDate>
-      <description>『PUBG: BATTLEGROUNDS』とTVアニメ『呪術廻戦』のコラボが2026年9月10日より開始。虎杖悠仁、伏黒恵、釘崎野薔薇、五条悟の4人をモチーフにしたコスチュームや武器スキンが登場する。</description>
-    </item>
-    <item>
-      <title>『ペルソナ30周年』トーク&amp;ライブ生放送が9/20配信。『P4』『P5』主人公役の浪川大輔&amp;福山潤が共演。子安武人、石田彰が出演するラジオ配信も</title>
-      <link>https://www.famitsu.com/article/202609/87128</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87128</guid>
-      <pubDate>Tue, 08 Sep 2026 10:09:00 GMT</pubDate>
-      <description>『ペルソナ』シリーズが30周年を迎えることを記念したトーク&amp;ライブを行うスペシャル生放送が2026年9月20日（日）19:30より放送される。</description>
-    </item>
-    <item>
-      <title>『バイオハザード レクイエム』が30％オフの6293円、『バイオ RE:4』75％オフの997円、『モンハンワイルズ』25％オフの3742円など、カプコンのTGSセールがSteamで開催中</title>
-      <link>https://www.famitsu.com/article/202609/87115</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87115</guid>
-      <pubDate>Tue, 08 Sep 2026 09:30:00 GMT</pubDate>
-      <description>カプコンが東京ゲームショウの開催に先駆け、Steamで“CAPCOM TGS SALE”を開始。Steamでは初セールとなる『PRAGMATA』が20％オフに加え、『バイオハザード』シリーズ、『逆転裁判』シリーズなどが最大80％オフ</description>
-    </item>
-    <item>
-      <title>『カリアのアトリエ』2027年2月25日に発売決定。ノエルク（声：千葉翔也）、ケレス（声：ファイルーズあい）などを収めた最新映像が公開</title>
-      <link>https://www.famitsu.com/article/202609/87118</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87118</guid>
-      <pubDate>Tue, 08 Sep 2026 08:56:00 GMT</pubDate>
-      <description>錬金術RPG『アトリエ』シリーズの最新作『カリアのアトリエ ～夜の王国と追憶の道標～』の発売日が2027年2月25日に決定した。</description>
-    </item>
-    <item>
-      <title>エンゼルパイ発売65周年で“デビルズパイ”が登場。チョコレートやココアパウダーをたっぷり使用した、デビルズフードケーキをイメージ</title>
-      <link>https://www.famitsu.com/article/202609/87107</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87107</guid>
-      <pubDate>Tue, 08 Sep 2026 08:40:00 GMT</pubDate>
-      <description>森永製菓のエンゼルパイ発売65周年を記念して、“デビルズパイ”が2026年9月8日より期間限定販売。あわせて10月5日より正式サービス開始のMMORPG『AION2』とのコラボも開始した。</description>
-    </item>
-    <item>
-      <title>『遊戯王』青眼の究極竜とマンモスの融合シーンを再現したカード“属性反発作用”が発表。9月26日発売のスペシャルパックに収録</title>
-      <link>https://www.famitsu.com/article/202609/87111</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87111</guid>
-      <pubDate>Tue, 08 Sep 2026 08:16:00 GMT</pubDate>
-      <description>2026年9月26日発売のスペシャルパック『遊☆戯☆王 ORIGINAL ARTWORK COLLECTION』で登場する新カード10枚が公開された。</description>
-    </item>
-    <item>
-      <title>「肩こりとゲームに関する実態調査」をパナソニックが実施。ゲーマーの3人に2人が肩こりを自覚。うち62％が「体の不調で子どものころより集中できる時間が減った」と回答</title>
-      <link>https://www.famitsu.com/article/202609/87108</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87108</guid>
-      <pubDate>Tue, 08 Sep 2026 08:05:00 GMT</pubDate>
-      <description>パナソニックは、全国の18～59歳の男女4,388名へのスクリーニング調査、および週1回以上ゲームをする1,000名への本調査を通じて、“肩こりとゲームに関する実態調査”を実施。</description>
-    </item>
-    <item>
-      <title>『パトリサイド』自己責任が叫ばれる現代日本で父親を殺した少女たちの愛と憎しみを描くダークRPG。『インナートゥルース』から改題</title>
-      <link>https://www.famitsu.com/article/202609/87066</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87066</guid>
-      <pubDate>Tue, 08 Sep 2026 08:00:00 GMT</pubDate>
-      <description>父親を殺した少女たちによる愛と憎しみの戦いを描いたダークアドベンチャーRPG『パトリサイド』（PATRICIDE）。Steamストアページオープン＆“Steam Next Fest”に出展</description>
-    </item>
-    <item>
-      <title>Suicaのペンギンからバトンタッチ予定のイメージキャラ候補が公開。投票数がもっとも多いキャラが採用される</title>
-      <link>https://www.famitsu.com/article/202609/87104</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87104</guid>
-      <pubDate>Tue, 08 Sep 2026 07:27:00 GMT</pubDate>
-      <description>Suicaのペンギンが2027年3月31日に卒業して、同年4月1日から新たなイメージキャラクターにバトンタッチ。新イメージキャラの最終候補が公開され、投票受付が開始された。</description>
-    </item>
-    <item>
-      <title>映画『ちいかわ』効果で大手シネコンのWebサイト訪問数が大幅増。『ちいぽけ』も映画合わせのアプデにより、前日比で6倍以上のDL数を達成</title>
-      <link>https://www.famitsu.com/article/202609/87091</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87091</guid>
-      <pubDate>Tue, 08 Sep 2026 07:00:00 GMT</pubDate>
-      <description>映画『ちいかわ』効果で大手シネコンのWebサイト訪問数が大幅増。『ちいぽけ』やくら寿司アプリにも大きなインパクト</description>
-    </item>
-    <item>
-      <title>『原神』サーティワンコラボが本日（9/8）より開始。イルーガとオデットが仲良くアイスを食べたり、笑顔のリンネアがかわいいアニメPVが公開</title>
-      <link>https://www.famitsu.com/article/202609/87097</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87097</guid>
-      <pubDate>Tue, 08 Sep 2026 06:56:00 GMT</pubDate>
-      <description>『原神』とサーティワン アイスクリームのコラボが本日2026年9月8日より開始。イルーガ・フリンズ・リンネア・オデットが登場するコラボ記念アニメPVが公式X（Twitter）で公開された。</description>
-    </item>
-    <item>
-      <title>『モンハンワイルズ：アセンダンス』片手剣の紹介動画が公開。アイテムを使用しながら攻撃して効果も得られる“刃薬斬り”が追加される</title>
-      <link>https://www.famitsu.com/article/202609/87092</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87092</guid>
-      <pubDate>Tue, 08 Sep 2026 06:34:00 GMT</pubDate>
-      <description>『モンスターハンターワイルズ：アセンダンス』の片手剣の武器紹介動画が公開。新要素“ブーストブレイサー”を用いたアクションが紹介されている。</description>
-    </item>
-    <item>
-      <title>『チェンソーマン レゼ篇』“喫茶二道”イメージの喫茶店が10月1日より期間限定オープン。デンジとレゼをイメージした各種フード、ポチタのミニパフェなどを販売</title>
-      <link>https://www.famitsu.com/article/202609/87084</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87084</guid>
-      <pubDate>Tue, 08 Sep 2026 05:55:00 GMT</pubDate>
-      <description>“チェンソーマン喫茶”が、2026年10月1日より東京と愛知にて、10月8日より大阪にて期間限定でオープン。レゼがアルバイトしている“喫茶二道”をイメージした喫茶店となっているほか、デンジたちをイメージしたメニューが楽しめる。</description>
-    </item>
-    <item>
-      <title>マリオとヨッシーがデザインされたSwitch２ワイヤレスコントローラが9月30日発売。好みの操作を割り当てられる背面ボタンや、ドリフト防止のホールエフェクトセンサー搭載</title>
-      <link>https://www.famitsu.com/article/202609/87080</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87080</guid>
-      <pubDate>Tue, 08 Sep 2026 05:30:00 GMT</pubDate>
-      <description>マリオとヨッシーがデザインされたSwitch 2ワイヤレスコントローラーが9月30日発売。好みの操作を割り当てられる背面ボタンや、ドリフト防止のホールエフェクトセンサー搭載</description>
-    </item>
-    <item>
-      <title>【エースコンバット8】オンラインロビーで『ドラゴンスピリット』『パックマン』などクラシックタイトルが遊べる。シーズン1提供作品を紹介</title>
-      <link>https://www.famitsu.com/article/202609/87085</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87085</guid>
-      <pubDate>Tue, 08 Sep 2026 05:23:00 GMT</pubDate>
-      <description>『ACE COMBAT 8: WINGS OF THEVE』（エースコンバット8 ウイングス・オブ・シーヴ）のオンラインモード内で遊べるナムコクラシックタイトルの続報が公開。</description>
-    </item>
-    <item>
-      <title>【TGS2026】『NAME OF THE WILL: 集団後遺症』『Helcast』が日本初の試遊出展。笑顔の仮面が不気味なカルト教団ホラーがHYPER REALブースに登場</title>
-      <link>https://www.famitsu.com/article/202609/87070</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87070</guid>
-      <pubDate>Tue, 08 Sep 2026 04:30:00 GMT</pubDate>
-      <description>東京ゲームショウ2026（TGS2026）のHYPER REALにおける出展内容や配布物、物販コーナーの詳細情報が公開された。『NAME OF THE WILL: 集団後遺症』『Helcast（ヘルキャスト）』など計6タイトルが展示・試遊展開される。</description>
-    </item>
-    <item>
-      <title>【日本ゲーム大賞2026】桜井政博氏が創設したゲームデザイナーズ大賞が今年で終了に。ラストイヤーの審査員は昨年の8人に上田文人氏、須田剛一氏、三上真司氏を加えた豪華11人体制</title>
-      <link>https://www.famitsu.com/article/202609/87072</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87072</guid>
-      <pubDate>Tue, 08 Sep 2026 04:00:00 GMT</pubDate>
-      <description>日本ゲーム大賞、ゲームデザイナーズ大賞が今年で終了に。審査員は桜井政博氏ら昨年同様の8名に加え上田文人氏、須田剛一氏、三上真司氏を加えた11人体制</description>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 03:45:00 GMT</lastBuildDate>
     <item>
       <title>『カイジ』沼編がヤンマガWebで無料公開。王位継承編をやっている某漫画の影響？　Xで話題になり緊急実施</title>
       <link>https://www.famitsu.com/article/202609/87069</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/87069</guid>
       <pubDate>Tue, 08 Sep 2026 03:45:00 GMT</pubDate>
       <description>漫画サイト“ヤンマガWeb”にて『賭博黙示録カイジ』の沼編が無料で公開中。2026年9月13日まで。</description>
+    </item>
+    <item>
+      <title>2.5D「少女バディ」アドベンチャー『MONOPHOBIA』、シナリオは『わたなれ』みかみてれんが担当。壱百満天原サロメのデザイナー・緜とのタッグで絆の物語を描く</title>
+      <link>https://www.famitsu.com/article/202609/87061</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87061</guid>
+      <pubDate>Tue, 08 Sep 2026 03:00:00 GMT</pubDate>
+      <description>松竹ゲームズは、インディゲーム開発チームDendrobiumが手掛ける2.5D都市伝説アドベンチャー『MONOPHOBIA』のパブリッシングを行うことを発表。</description>
+    </item>
+    <item>
+      <title>『ToHeart』HMX-12マルチの頭部センサーユニットが製造・販売決定。TGS2026にて初公開と同時に先行販売</title>
+      <link>https://www.famitsu.com/article/202609/87054</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87054</guid>
+      <pubDate>Tue, 08 Sep 2026 02:09:00 GMT</pubDate>
+      <description>中央町戦術工芸（CTCTYO）は、コスパとの共同開発により『ToHeart』に登場する HMX-12“マルチ” センサーユニットを製造・販売決定した。</description>
+    </item>
+    <item>
+      <title>『プラグマタ』Steam版が初セールで20％オフ（6392円）に。ヒューとディアナの絆、パズル×TPSの融合で高評価のSFアクション</title>
+      <link>https://www.famitsu.com/article/202609/87052</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87052</guid>
+      <pubDate>Tue, 08 Sep 2026 01:40:00 GMT</pubDate>
+      <description>カプコンは、Steam版『プラグマタ』の初セールを実施。定価7990円［税込］のところ、20％オフとなる6392円［税込］で販売中だ。</description>
+    </item>
+    <item>
+      <title>『スト6』ステゴロヨガの新キャラ“アルジュン”のゲームプレイ映像がついに公開。ヨガ呼吸法で岩設置、飛び道具、パワープレイもこなす</title>
+      <link>https://www.famitsu.com/article/202609/87051</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87051</guid>
+      <pubDate>Tue, 08 Sep 2026 01:30:00 GMT</pubDate>
+      <description>2026年10月13日（火）に配信される『ストリートファイター6』の新キャラ・アルジュンのゲームプレイ映像が公開。ステゴロヨガで戦う使用技の内容も明らかに。</description>
+    </item>
+    <item>
+      <title>ホロライブのテレビアニメプロジェクト始動。謎のキーワードは「おでホロ」。9月23日に詳細解禁</title>
+      <link>https://www.famitsu.com/article/202609/87008</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87008</guid>
+      <pubDate>Mon, 07 Sep 2026 12:12:00 GMT</pubDate>
+      <description>ホロライブプロダクション初のテレビアニメプロジェクトが発表。アニメーション制作はスタジオKAI。</description>
+    </item>
+    <item>
+      <title>東京ゲームショウ2026に『Fallout』『サイバーパンク 2077』『プラグマタ』などグッズ販売。インフォレンズが物販出展</title>
+      <link>https://www.famitsu.com/article/202609/86969</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86969</guid>
+      <pubDate>Mon, 07 Sep 2026 11:30:00 GMT</pubDate>
+      <description>東京ゲームショウ2026（TGS2026）にインフォレンズが物販出展。『Fallout』『Cyberpunk 2077』『PRAGMATA』などの新作グッズを販売。</description>
+    </item>
+    <item>
+      <title>『ボーダーランズ4』新ヴォルト・ハンター“ラブレス”は実体化したデジタルウイルスで戦う超越的生命体。9/10より配信されるDLCの詳細が公開</title>
+      <link>https://www.famitsu.com/article/202609/86942</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86942</guid>
+      <pubDate>Mon, 07 Sep 2026 11:00:00 GMT</pubDate>
+      <description>『ボーダーランズ4』新ヴォルト・ハンター、ハッカー“ラブレス”の詳細が公開。9月10日（木）よりDLCが配信。ほかにも、バージョン1.10アップデート、“ストーリーパック2：FL4Kと忘却のリゾート”、“お尋ね者パック5：アマーラと悪逆の影”があわせて配信される。</description>
     </item>
     <item>
       <title>『終天教団』発売1周年で過去最大50％オフの3490円。『レインコード プラス』『風来のシレン6』も半額。スパチュンSteamセール開催中</title>
@@ -705,6 +411,300 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/86724</guid>
       <pubDate>Fri, 04 Sep 2026 08:07:00 GMT</pubDate>
       <description>『名探偵プリキュア！』のキュアアンサーが、『探偵！ナイトスクープ』の“特命局長”を務めることが決定した。放送は関西ローカルのABCテレビで2026年9月18日（金）23時17分から。放送終了後にはTVerで1週間の見逃し配信も行われる。</description>
+    </item>
+    <item>
+      <title>【TGS2026】『キャッスルヴァニア ベルモンドカース』コナミブースで国内初の試遊出展。コナミコマンド40周年を記念した特別企画も実施</title>
+      <link>https://www.famitsu.com/article/202609/86720</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86720</guid>
+      <pubDate>Fri, 04 Sep 2026 07:50:00 GMT</pubDate>
+      <description></description>
+    </item>
+    <item>
+      <title>『モンハンワイルズ：アセンダンス』双剣の紹介動画が公開。ブースト状態で赤や青の軌道を光らせながらハイスピードで斬りつける姿が爽快すぎる</title>
+      <link>https://www.famitsu.com/article/202609/86723</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86723</guid>
+      <pubDate>Fri, 04 Sep 2026 07:30:00 GMT</pubDate>
+      <description>『モンスターハンターワイルズ：アセンダンス』の公式X（旧：Twitter）にて、双剣のアクションを紹介する動画が公開。本作の新要素である“ブーストアクション”を使い、すさまじいスピードで斬撃を浴びせる姿が確認できる。</description>
+    </item>
+    <item>
+      <title>『不思議の国のアリス』モチーフのダークメルヘンホラー『ワンダーランドに帰らないで』体験版が9月5日配信。愛らしくも不穏なおとぎ話が幕を開ける</title>
+      <link>https://www.famitsu.com/article/202609/86710</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86710</guid>
+      <pubDate>Fri, 04 Sep 2026 07:20:00 GMT</pubDate>
+      <description>ダークメルヘン・ホラーアドベンチャー『ワンダーランドに帰らないで』の体験版が2026年9月5日19時より配信。物語の始まりから第2ステージ前半までを収録し、探索や謎解き、ボス戦、ミニゲームなどを体験できる。</description>
+    </item>
+    <item>
+      <title>『鬼武者 Way of the Sword』9月4日発売。約20年ぶりとなる進化を遂げたバッサリ感が味わえるシリーズ最新作。宮本武蔵と幻魔たちとの戦いをいざ</title>
+      <link>https://www.famitsu.com/article/202609/86715</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86715</guid>
+      <pubDate>Fri, 04 Sep 2026 07:00:00 GMT</pubDate>
+      <description>カプコンより『鬼武者 Way of the Sword』が本日2026年9月4日発売。剣豪・宮本武蔵を主人公に据えたシリーズ最新作。</description>
+    </item>
+    <item>
+      <title>『装甲騎兵ボトムズ 灰色の魔女』中村悠一、杉田智和、三木眞一郎、梶裕貴ら演じるメインキャラクターの情報が公開。声優陣からのコメントも</title>
+      <link>https://www.famitsu.com/article/202609/86722</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86722</guid>
+      <pubDate>Fri, 04 Sep 2026 07:00:00 GMT</pubDate>
+      <description>2026年11月20日に第1部が公開の『装甲騎兵ボトムズ 灰色の魔女』より、キャラクター情報と新予告映像が公開。声優陣からのコメントも到着</description>
+    </item>
+    <item>
+      <title>『サクラ大戦』30周年記念ポップアップショップが10月3日より有楽町マルイで開催。帝国華撃団・花組の描き下ろしグッズが販売</title>
+      <link>https://www.famitsu.com/article/202609/86719</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86719</guid>
+      <pubDate>Fri, 04 Sep 2026 06:48:00 GMT</pubDate>
+      <description>2026年10月2日～10月12日の期間、有楽町マルイにて『サクラ大戦』の30周年を記念したポップアップショップが開催。描き下ろしイラストを使用した新商品の販売や特典ミニカードの配布、等身大パネルの展示やプレゼントキャンペーンが行われる。</description>
+    </item>
+    <item>
+      <title>『ポケモン』オリンピック企画展が9月19日より開催。オオニューラやデカヌチャンなど59競技の“応援ポケモン”登場【入場無料】</title>
+      <link>https://www.famitsu.com/article/202609/86702</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86702</guid>
+      <pubDate>Fri, 04 Sep 2026 06:25:00 GMT</pubDate>
+      <description>“ポケモンとアスリートのわざ展”が2026年9月19日（土）より日本オリンピックミュージアムで開催。59競技の“応援ポケモン”を通して、アスリートとポケモンの“わざ”を見比べられるほか、競技用具の展示や体験エリアなどを入場無料で実施する。</description>
+    </item>
+    <item>
+      <title>SteamでKey作品が最大65％オフ。『AIR』『Kanon』『リトルバスターズ！』など名作ビジュアルノベル16本がセール中</title>
+      <link>https://www.famitsu.com/article/202609/86699</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86699</guid>
+      <pubDate>Fri, 04 Sep 2026 06:22:00 GMT</pubDate>
+      <description>Steamにて、『AIR』や『Kanon』、『リトルバスターズ！』などのKey作品がセール中。16作品が40%～65%オフ。うち6作品は日本語表示非対応との記載があるが、『Harmonia』と『Summer Pockets』は別バージョンが日本語に対応している。</description>
+    </item>
+    <item>
+      <title>漫画『こち亀』全1965話が50時間限定で無料公開。ジャンプ＋とゼブラックでコミックス202巻発売を記念して開催【9月6日14時まで】</title>
+      <link>https://www.famitsu.com/article/202609/86705</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86705</guid>
+      <pubDate>Fri, 04 Sep 2026 05:53:00 GMT</pubDate>
+      <description>コミックス202巻の発売を記念して、マンガ『こちら葛飾区亀有公園前派出所（こち亀）』全1965話の期間限定無料公開が実施されている。期間は本日2026年9月4日（金）12時から9月6日（日）14時までの50時間限定。少年ジャンプ＋とゼブラックで読むことができる。</description>
+    </item>
+    <item>
+      <title>『Needle In A Haystack Simulator』500万本の干し草からたった1本の針を探す苦行ゲーム、日本語対応が決定。最大8人で苦しみを分かち合える</title>
+      <link>https://www.famitsu.com/article/202609/86706</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86706</guid>
+      <pubDate>Fri, 04 Sep 2026 05:29:00 GMT</pubDate>
+      <description>500万本の干し草からたった1本の針を探し出す苦行ゲーム『Needle In A Haystack Simulator』の日本語対応が決定した。2026年第4四半期に発売予定。</description>
+    </item>
+    <item>
+      <title>『Dr. Oops!』ヤバい患者を診断して借金返済。無免許医師が挑む医療推理アドベンチャーの無料体験版が配信開始。開発者本人が全ボイスを担当する300名以上のイカした患者に注目</title>
+      <link>https://www.famitsu.com/article/202609/86691</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86691</guid>
+      <pubDate>Fri, 04 Sep 2026 05:15:00 GMT</pubDate>
+      <description>医療推理アドベンチャーゲーム『Dr. Oops!』無料体験版が2026年9月4日（金）より配信開始。奇妙な患者との会話や問診票をもとに病気を推理・治療し、稼いだお金で毎晩の借金を返済するDay1〜5までのゲームサイクル（約30分間）を体験できる。</description>
+    </item>
+    <item>
+      <title>【TGS2026】『FF7 リベレーション』や『モンハンワイルズ：アセンダンス』がソニーブースで試遊可能。PS Plus加入者が対象の試遊事前予約を予定</title>
+      <link>https://www.famitsu.com/article/202609/86688</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86688</guid>
+      <pubDate>Fri, 04 Sep 2026 04:25:00 GMT</pubDate>
+      <description>SIEは、2026年9月17日より開催される“TGS2026”にプレイステーションブースを出展。『Marvel’s Wolverine』、『モンスターハンターワイルズ：アセンダンス』、『FINAL FANTASY VII REVELATION』、『ACE COMBAT 8: WINGS OF THEVE』の4作が試遊可能。</description>
+    </item>
+    <item>
+      <title>『マナアルケミー』大魔女に支配された島では戦闘が日常？ ヴァンサバライクのオープンワールドRPGが2027年発売。釣りRPG『シーファンタジー』のスタジオによる、すべてを奪われた少女の復讐と選択の物語が描かれる</title>
+      <link>https://www.famitsu.com/article/202609/86693</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86693</guid>
+      <pubDate>Fri, 04 Sep 2026 04:12:00 GMT</pubDate>
+      <description>ヴァンサバライクのオープンワールドRPG『マナアルケミー』が2027年発売。『シーファンタジー』を制作したメタスラ最新作はすべてを奪われた少女の復讐と選択の物語。魔法の配置によって攻撃パターンが変化するほか、錬金で新たな魔法を生成といった幅広いビルドが特徴となっている。</description>
+    </item>
+    <item>
+      <title>『Fate/EXTRA Record』セイバー、アーチャー、キャスターの3Dクリスタルセットが予約開始。エビテン限定特典はオリジナルB3タペストリー</title>
+      <link>https://www.famitsu.com/article/202609/86670</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86670</guid>
+      <pubDate>Fri, 04 Sep 2026 04:09:00 GMT</pubDate>
+      <description>エビテンにて、『Fate/EXTRA Record』セイバー、アーチャー、キャスターの3Dクリスタルセットが予約開始された。</description>
+    </item>
+    <item>
+      <title>『Estella』音楽と星が交差する、新感覚音楽リズムゲーム。アーリーアクセス版が今冬リリース決定。TGS2026では新規楽曲を追加した特別デモ版をプレイアブル出展</title>
+      <link>https://www.famitsu.com/article/202609/86680</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86680</guid>
+      <pubDate>Fri, 04 Sep 2026 03:20:00 GMT</pubDate>
+      <description>『Estella』』音楽と星が交差する、新感覚音楽リズムゲーム。松竹ゲームズよりアーリーアクセス版が今冬リリース決定。TGS2026では新規楽曲を追加した特別デモ版をプレイアブル出展</description>
+    </item>
+    <item>
+      <title>『Phantom PHANTOM OF INFERNO』Steam版本日（9/4）発売。裏社旗で生きる少年少女の壮絶な運命を描く虚淵玄のデビュー作</title>
+      <link>https://www.famitsu.com/article/202609/86522</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86522</guid>
+      <pubDate>Fri, 04 Sep 2026 03:00:00 GMT</pubDate>
+      <description>ノベルゲーム『Phantom -PHANTOM OF INFERNO-』（ファントム ファントム オブ インフェルノ）のSteam版を2026年9月4日に発売。シナリオライター・虚淵玄氏のデビュー作。</description>
+    </item>
+    <item>
+      <title>『デジモンストーリー サイバースルゥース ハッカーズメモリー』が748円（90%オフ）で買えるSteamセール開催。デジモンと謎の事件を追う人気作2本を格安を遊べる</title>
+      <link>https://www.famitsu.com/article/202609/86668</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86668</guid>
+      <pubDate>Fri, 04 Sep 2026 02:43:00 GMT</pubDate>
+      <description>PC（Steam）版『デジモンストーリー サイバースルゥース ハッカーズメモリー』が90%オフの748円［税込］で購入できるセールが開催された。</description>
+    </item>
+    <item>
+      <title>『フェイト エクストラ レコード』最新情報を告知する番組が本日（9/4）20時よりYouTubeで配信。番組ナレーションは阿部敦、石川由依の主人公タッグ</title>
+      <link>https://www.famitsu.com/article/202609/86664</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86664</guid>
+      <pubDate>Fri, 04 Sep 2026 01:29:00 GMT</pubDate>
+      <description>2026年9月4日20時より、TYPE-MOON GAMES公式YouTubeチャンネルにて『Fate/EXTRA Record（フェイト エクストラ レコード）』に関する最新情報を告知する番組が配信。本作は2010年に発売された『Fate』シリーズ初のRPGのフルリメイク作品。</description>
+    </item>
+    <item>
+      <title>『Knights of Fiona ～フィオナ騎士団～』津田美波、大空直美ら出演のVRアクションRPG。Meta Quest 3/3S、Steam VR向けに本日（9/4）リリース</title>
+      <link>https://www.famitsu.com/article/202609/86605</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86605</guid>
+      <pubDate>Fri, 04 Sep 2026 01:00:00 GMT</pubDate>
+      <description>『RUINSMAGUS』開発元による新作VRアクションRPG『Knights of Fiona ～フィオナ騎士団～』が2026年9月4日にリリースされた。</description>
+    </item>
+    <item>
+      <title>ARグラス“RayNeo GT Max”が本日（9/4）発売。視界いっぱいに広がる267インチ相当の大画面。軽量ボディのスタンダードモデルも同日展開</title>
+      <link>https://www.famitsu.com/article/202609/86518</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86518</guid>
+      <pubDate>Fri, 04 Sep 2026 01:00:00 GMT</pubDate>
+      <description>RayNeoのARグラス“RayNeo GT Max”が2026年9月4日に発売。価格は67980円［税込］。映画、ドラマ、ゲームなどを267インチ相当の大画面で楽しめるアイテム。</description>
+    </item>
+    <item>
+      <title>ブランコ靴飛ばしゲーム『Shoe it All!』が配信開始。靴を飛ばして目標を豪快にぶっ壊す、シンプルで童心に返れる物理演算パズル</title>
+      <link>https://www.famitsu.com/article/202609/86549</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86549</guid>
+      <pubDate>Thu, 03 Sep 2026 23:00:00 GMT</pubDate>
+      <description>ブランコをこいで靴を蹴り飛ばす物理演算パズル『Shoe it All!』が配信開始。ブランコを揺らして、狙いを定め、靴を飛ばして目標を壊す、シンプルだけど豪快なギミックも登場。</description>
+    </item>
+    <item>
+      <title>『Uncanyon』が2027年発売。『Maquette』の開発元による新作アドベンチャーでは謎とパズルに満ちた遺跡が点在する忘れられた世界を探索【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86553</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86553</guid>
+      <pubDate>Thu, 03 Sep 2026 15:55:00 GMT</pubDate>
+      <description>プレイステーションの公式配信“State of Play（ステートオブプレイ）／State of Play 日本”にて、Graceful Decay開発による新作アドベンチャー『Uncanyon』が2027年発売となることが明らかにされた。</description>
+    </item>
+    <item>
+      <title>『レヴ・ノワール』では“選択や判断”を備えたアクションバトルが楽しめる。アッシュ役は大塚剛央、フィーネ役は市ノ瀬加那【KONAMI PRESS START】</title>
+      <link>https://www.famitsu.com/article/202609/86627</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86627</guid>
+      <pubDate>Thu, 03 Sep 2026 15:52:00 GMT</pubDate>
+      <description>『Rev.NOiR』（レヴ・ノワール）の最新情報が公開。アッシュ役は大塚剛央、フィーネ役は市ノ瀬加那に決定。</description>
+    </item>
+    <item>
+      <title>『ラプソディ・イン・スカーレット』主人公エリー役は鬼頭明里、相棒イリヤ役は大西沙織。ジャズが響く1920年代ニューヨークで魔法とビーストを操る【KONAMI PRESS START】</title>
+      <link>https://www.famitsu.com/article/202609/86641</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86641</guid>
+      <pubDate>Thu, 03 Sep 2026 15:45:00 GMT</pubDate>
+      <description>2026年9月4日、『ラプソディ・イン・スカーレット』の最新情報が公開。プロデューサーの村山隆徳氏が登場。主人公のエリー・マイヤーズ役を鬼頭明里さん、相棒のイリヤ・ジョーンズ役を大西沙織さんが担当することを発表した。</description>
+    </item>
+    <item>
+      <title>“魔女狩り”を新たな視点で描く歴史フォークホラー『Hunter&apos;s Moon』10月26日発売。魔女の嫌疑をかけられた女性として人々から逃げ延びる【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86644</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86644</guid>
+      <pubDate>Thu, 03 Sep 2026 15:28:00 GMT</pubDate>
+      <description>2026年9月3日に配信されたプレイステーション関連の最新情報を公開する公式配信“State of Play（ステートオブプレイ）／State of Play 日本”。歴史フォークホラー『Hunter&apos;s Moon』が10月26日に発売する。</description>
+    </item>
+    <item>
+      <title>『ワイワイワールド Craft』が正式発表。誰もが気軽にゲームクリエイターになれるゲーム開発ゲーム。『魂斗羅』『キャッスルヴァニア』などコナミキャラクターも登場予定【KONAMI PRESS START】</title>
+      <link>https://www.famitsu.com/article/202609/86640</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86640</guid>
+      <pubDate>Thu, 03 Sep 2026 15:22:00 GMT</pubDate>
+      <description>2026年9月4日、『ワイワイワールドCraft』の最新情報が公開。コナミデジタルエンタテインメントの谷渕弘プロデューサーが登場し、本作の遊びかたやゲーム内容について紹介した。</description>
+    </item>
+    <item>
+      <title>『サイレントヒル タウンフォール』日本語ボイスの声優発表。サイモンは安元洋貴、ゾーイは甲斐田裕子、リチャードは大塚明夫【KONAMI PRESS START】</title>
+      <link>https://www.famitsu.com/article/202609/86626</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86626</guid>
+      <pubDate>Thu, 03 Sep 2026 15:11:00 GMT</pubDate>
+      <description>『サイレントヒル タウンフォール』の日本語ボイスの声優が発表。サイモンは安元洋貴、ゾーイは甲斐田裕子、リチャードは大塚明夫が演じる。</description>
+    </item>
+    <item>
+      <title>【ゴースト オブ ヨウテイ】新ストーリー『関ケ原 慕情譚』の最新映像公開。かつて篤とともに戦った長門との出会い。過去と現在を描く【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86606</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86606</guid>
+      <pubDate>Thu, 03 Sep 2026 15:10:00 GMT</pubDate>
+      <description>『ゴースト オブ ヨウテイ』の新ストーリー拡張コンテンツ『Ghost of Yōtei: Echoes of Sekigahara／関ケ原 慕情譚』の最新映像が、2026年9月3日配信の“State of Play（ステートオブプレイ）／State of Play 日本”で公開。</description>
+    </item>
+    <item>
+      <title>中国の開発スタジオDarkStar Gamesが手掛けるソウルライク『ダバ：水痕の地』の最新映像が公開。2027年春に発売予定【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86590</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86590</guid>
+      <pubDate>Thu, 03 Sep 2026 14:48:00 GMT</pubDate>
+      <description>中国の開発スタジオ“DarkStar Games”が手掛けるソウルライク『ダバ：水痕の地』の最新映像が公開された。発売は2027年春を予定。同作は、ソニー・インタラクティブエンタテインメント（SIE）による、中国デベロッパー支援プロジェクト“China Hero Project（中国之星計画）”の選出タイトルのひとつ。</description>
+    </item>
+    <item>
+      <title>【SAO】『エコーズ オブ アインクラッド』DLC「創世の巫女」が2026年冬発売。劇場版からミトが登場し、アニメや原作にない物語が展開【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86622</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86622</guid>
+      <pubDate>Thu, 03 Sep 2026 14:38:00 GMT</pubDate>
+      <description>『ソードアート・オンライン』（SAO）家庭用ゲーム最新作『Echoes of Aincrad』（エコーズ オブ アインクラッド）のエキスパンションDLC“創世の巫女”が2026年冬に発売することが発表。劇場版に登場したミトが参戦するほか、新武器種や防具を強化する新システムが追加。</description>
+    </item>
+    <item>
+      <title>異常現象に立ち向かうアクションRPG『世界虚構管理連盟: WPCA』リミナルスペース×ハードアクションな新作【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86585</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86585</guid>
+      <pubDate>Thu, 03 Sep 2026 14:37:00 GMT</pubDate>
+      <description>2026年9月3日に配信されたプレイステーション関連の最新情報を公開する公式配信“State of Play（ステートオブプレイ）／State of Play 日本”。韓国のゲーム開発会社・5minlab Corp.が手掛ける『世界虚構管理連盟: WPCA』の最新映像が公開された。</description>
+    </item>
+    <item>
+      <title>『デジモンストーリー タイムストレンジャー』DLC「英雄の遺志」が2027年発売。エージェントやオリンポス12神たちの戦いから3年後、新たな主人公による物語が展開【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86598</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86598</guid>
+      <pubDate>Thu, 03 Sep 2026 14:33:00 GMT</pubDate>
+      <description>『デジモンストーリー タイムストレンジャー』DLC「英雄の遺志」が2027年に発売される。エージェントやオリンポス12神たちの戦いから3年後を描き、新たな主人公による物語が展開するという。</description>
+    </item>
+    <item>
+      <title>新作ゲーム『CONQ（コンク）』2027年発売。永遠に続く煉獄で戦うアクションRPG×リアルタイムストラテジー【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86616</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86616</guid>
+      <pubDate>Thu, 03 Sep 2026 14:30:00 GMT</pubDate>
+      <description>新作ゲーム『CONQ - Crown Of No Quarter』の映像が世界初公開。逃れることも、死ぬこともできない永遠に続く煉獄で戦うアクションRPG×リアルタイムストラテジー。</description>
+    </item>
+    <item>
+      <title>横スクロール3Dローグライク『SlashZero（スラッシュゼロ）』が2027年春発売。10時間以上プレイ可能な体験版が本日より配信開始に【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86552</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86552</guid>
+      <pubDate>Thu, 03 Sep 2026 14:30:00 GMT</pubDate>
+      <description>“State of Play（ステートオブプレイ）／State of Play 日本”にて、Streetlamp Studioの横スクロール3Dローグライク『SlashZero』（スラッシュゼロ）の最新映像が公開。2027年発売となることが発表された。</description>
+    </item>
+    <item>
+      <title>サイゲームスが小・中規模開発に特化した新ゲームブランド“サイゲームスエッジ”が発表。第1弾タイトル『崩落の国』が2026年11月5日に発売予定【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86591</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86591</guid>
+      <pubDate>Thu, 03 Sep 2026 14:22:00 GMT</pubDate>
+      <description>サイゲームスが小・中規模タイトルならではの機動力を活かし、実験的で尖ったゲーム体験に挑むために立ち上げた新たなゲームブランド“CygamesEdge（サイゲームスエッジ）”を発表。同ブランドの第1弾タイトルとして、『崩落の国』がNintendo Switch2（スイッチ2）、プレイステーション5（PS5）、Steam向けに2026年11月5日に発売予定。</description>
+    </item>
+    <item>
+      <title>『ステューピッド・ネバー・ダイズ』無料体験版“ファーストバイトデモ”が配信開始。冒頭約2時間がプレイでき、製品版への引継ぎも可能【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86577</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86577</guid>
+      <pubDate>Thu, 03 Sep 2026 14:22:00 GMT</pubDate>
+      <description>爆速成長アクションRPG『ステューピッド・ネバー・ダイズ』の体験版が配信。冒頭2時間をプレイでき、製品版へのセーブデータ引き継ぎが可能。</description>
+    </item>
+    <item>
+      <title>『ドラゴンボール ゼノバース3』新たな種族「人造人間」解禁、自分だけの超戦士でジースのクラッシャーボールを放つなど、多彩なカスタマイズ要素を楽しもう【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86597</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86597</guid>
+      <pubDate>Thu, 03 Sep 2026 14:17:00 GMT</pubDate>
+      <description>『ドラゴンボール ゼノバース3』の新たな種族“人造人間”情報が解禁。東京ゲームショウの試遊ノベルティとしてオリジナルチャームセットを配布。</description>
+    </item>
+    <item>
+      <title>陰実ゲーム新作『陰の実力者になりたくて！Phantom Echoes』2027年発売。ジャンルは3Dアクション。アルファのバトルシーンも公開【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86580</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86580</guid>
+      <pubDate>Thu, 03 Sep 2026 14:15:00 GMT</pubDate>
+      <description>『陰実』ことアニメ『陰の実力者になりたくて！』の3Dアクションゲーム『陰の実力者になりたくて！Phantom Echoes』が発表された。アルファの戦闘シーンが先駆けて公開。</description>
+    </item>
+    <item>
+      <title>『ドラクエモンスターズ4』ラスボス!? 魔界座長グルゴーマが登場。ローグライクな新モード、新モンスターや気になる新キャラクターが盛りだくさんの新映像が公開【DQM4】</title>
+      <link>https://www.famitsu.com/article/202609/86608</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86608</guid>
+      <pubDate>Thu, 03 Sep 2026 14:12:00 GMT</pubDate>
+      <description>『ドラゴンクエストモンスターズ4　枯れ木の国のビアンカ・フローラ』新映像が公開。ローグライクな新モードを始め、ボスの風格漂う敵“魔界座長グルゴーマ”や、謎の新キャラクターが登場した。</description>
+    </item>
+    <item>
+      <title>『FF7 リベレーション』発売日が2027年4月8日に決定！ 10分にわたるプレイ映像でシドたちの戦闘やクエスト・探索の新要素も公開【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86568</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86568</guid>
+      <pubDate>Thu, 03 Sep 2026 14:10:00 GMT</pubDate>
+      <description>『ファイナルファンタジーVII リベレーション』の発売日が2027年4月8日に決定。10分におよぶプレイ映像でシドやヴィンセント、ウェアなどの新要素の詳細が公開。3部作をコンプリートした“トリロジーパック”も販売される。</description>
+    </item>
+    <item>
+      <title>『フェイト エクストラ レコード』発売日が2027年1月28日に決定。久しぶりの新映像で“あのキャラクター”の姿が【State of Play】</title>
+      <link>https://www.famitsu.com/article/202609/86593</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86593</guid>
+      <pubDate>Thu, 03 Sep 2026 14:03:00 GMT</pubDate>
+      <description>『Fate/EXTRA』のフルリメイク作品『Fate/EXTRA Record（フェイト エクストラ レコード）』の発売日が2027年1月28日に決定。対応機種はNintendo Switch 2、Nintendo Switch、プレイステーション5（PS5）、プレイステーション4（PS4）、PC（Steam）。</description>
+    </item>
+    <item>
+      <title>初代プレステをレゴブロックで再現。『レゴ PlayStation』が10月4日発売。内部には『グランツーリスモ』のコースや『サルゲッチュ』のピポサルも</title>
+      <link>https://www.famitsu.com/article/202609/86533</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86533</guid>
+      <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
+      <description>初代プレイステーションをレゴブロック（1911ピース）で再現した『レゴ PlayStation』が2026年10月4日より一般販売スタート。サイズも実物にほぼ近しくなっている。</description>
     </item>
   </channel>
 </rss>
