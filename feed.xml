@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Sep 2026 07:28:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:42:00 GMT</lastBuildDate>
+    <item>
+      <title>『歌マクロス』クラファン支援総額が1億円達成。家庭用ゲーム機版が制作決定。スマホ版になかった新規楽曲も追加される</title>
+      <link>https://www.famitsu.com/article/202609/87787</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87787</guid>
+      <pubDate>Sun, 13 Sep 2026 08:42:00 GMT</pubDate>
+      <description>『歌マクロス』クラウドファンディングの支援額が1億円を達成。スマートフォン向けリズムゲーム『歌マクロス スマホDeカルチャー』をベースに、PCとスマートフォン向けに最適化したオフライン版プロジェクト。</description>
+    </item>
     <item>
       <title>『薄桜鬼』Switchシリーズの集大成がSwitch2に。移植作含むオトメイトの新作タイトル公開。『君は雪間に希う』ファンディスクも制作決定</title>
       <link>https://www.famitsu.com/article/202609/87776</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/87309</guid>
       <pubDate>Thu, 10 Sep 2026 01:00:00 GMT</pubDate>
       <description>ハピネットは、『妖怪バスター ナビ之介』をNintendo Switch／Steam向けに2027年に発売することを発表した。</description>
-    </item>
-    <item>
-      <title>猫侍で一撃必殺アクション！『Sa[meow]rai: 銀翼の猫侍』2027年春発売決定＆TGS2026出展情報公開。ネオン輝く街を“サ［ミャオ］ライ”が往く…</title>
-      <link>https://www.famitsu.com/article/202609/87316</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87316</guid>
-      <pubDate>Thu, 10 Sep 2026 01:00:00 GMT</pubDate>
-      <description>サイバーパンク世界を舞台にした2D見下ろし型アクション『Sa[meow]rai: 銀翼の猫侍』が2027年春にSteamで発売決定。東京ゲームショウ2026への出展やノベルティがもらえる試遊企画の情報も公開。</description>
     </item>
   </channel>
 </rss>
