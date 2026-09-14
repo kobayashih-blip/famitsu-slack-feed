@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『キャッ党忍伝てやんでえ』新作ゲーム。山口勝平、折笠愛、堀内賢雄、山寺宏一ら声優陣のコメント公開。新しい場面写真も</title>
+      <link>https://www.famitsu.com/article/202609/87876</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87876</guid>
+      <pubDate>Mon, 14 Sep 2026 21:00:00 GMT</pubDate>
+      <description>PC（Steam）にて発売予定の『キャッ党忍伝てやんでえ ～復活のニャンキー！ やっぱり明日は日本晴れ！』より、山口勝平、山下誠一郎、折笠愛、堀内賢雄、山寺宏一、こおろぎさとみ、あかほりさとるのコメントが公開。</description>
+    </item>
     <item>
       <title>『エースコンバット8』ストーリー映像と最新情報公開。オリジナル機体の可変翼機FA-36 Game、超兵器“メガフロート ファトシア&quot;など明らかに</title>
       <link>https://www.famitsu.com/article/202609/87759</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/87529</guid>
       <pubDate>Thu, 10 Sep 2026 11:20:00 GMT</pubDate>
       <description>2026年9月10日に公開された“『朧村正怪奇譚』紹介映像「朧流遊戯伝」”にて、本作の発売日が2027年2月4日に決定したことが公開された。対応機種はNintendo Switch2/Nintendo Switch/PlayStation5/Steam。</description>
-    </item>
-    <item>
-      <title>『アイアンブランブル』がTGSに出展。9月17日から体験版も配信。『ラスティッド・モス』の開発チームによる、自在な動きとタイトなガンプレイが融合した“モメンタムメトロイドヴァニア”</title>
-      <link>https://www.famitsu.com/article/202609/87518</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87518</guid>
-      <pubDate>Thu, 10 Sep 2026 11:00:00 GMT</pubDate>
-      <description>PLAYISMから2027年に発売予定のSteam用ソフト『Iron Bramble / アイアンブランブル』が、9月17日～21日（17日と18日はビジネスデイ）まで開催される東京ゲームショウ2026に出展。9月17日よりSteamにて体験版の配信を予定していることが発表された。</description>
     </item>
   </channel>
 </rss>
