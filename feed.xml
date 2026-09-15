@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Sep 2026 09:35:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『Cyan Heart』10月9日に発売。自撮り視点で描かれるホラー探索パズルアドベンチャー。進行方向が見えない操作による恐怖が魅力的</title>
+      <link>https://www.famitsu.com/article/202609/87993</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87993</guid>
+      <pubDate>Tue, 15 Sep 2026 10:00:00 GMT</pubDate>
+      <description>ホラー探索パズルアドベンチャー『Cyan Heart』10月9日に発売＆リリース告知トレーラー公開。価格は、1300円（税込）。</description>
+    </item>
     <item>
       <title>『ジョジョ』ジョージアのコラボが9/21より開催。自販機で当たり缶が出ると、限定ジャケットやマルチケースが手に入る</title>
       <link>https://www.famitsu.com/article/202609/88036</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/87573</guid>
       <pubDate>Fri, 11 Sep 2026 03:00:00 GMT</pubDate>
       <description>TGS2026一般公開日である9月19日〜21日の3日間、TKP東京ベイ幕張ホールにて“ファミリーゲームパーク2026”が開催。中学生以下を対象とした入場無料の展示コーナー。</description>
-    </item>
-    <item>
-      <title>フランスの熱烈JRPGファンが作るアクションRPG『エッジ オブ メモリーズ』2026年12月10日発売。脚本は『ニーア』『テイルズ オブ エターニア』の名取佐和子氏</title>
-      <link>https://www.famitsu.com/article/202609/87534</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87534</guid>
-      <pubDate>Thu, 10 Sep 2026 22:00:00 GMT</pubDate>
-      <description>『Edge of Eternity』を手掛けた開発チームの新作『エッジ オブ メモリーズ』の発売日が決定。パッケージ版の予約が開始された。</description>
     </item>
   </channel>
 </rss>
