@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:40:00 GMT</lastBuildDate>
+    <item>
+      <title>変な隣人がやけに干渉してくるホラー『The Apartment』。自分が注文した物や行動まで知られている奇妙な関係</title>
+      <link>https://www.famitsu.com/article/202609/88049</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88049</guid>
+      <pubDate>Tue, 15 Sep 2026 11:40:00 GMT</pubDate>
+      <description>『The Apartment』最新トレーラー映像公開。狂気の隣人によってプライバシーが奪われていくサイコロジカルホラーゲーム。</description>
+    </item>
     <item>
       <title>『マーベル ウルヴァリン』本日（9/15）発売。ウルヴァリンが日本やカナダなど世界各地を巡り、ミュータント存亡を懸けた戦いに身を投じる</title>
       <link>https://www.famitsu.com/article/202609/88012</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/87585</guid>
       <pubDate>Fri, 11 Sep 2026 04:10:00 GMT</pubDate>
       <description>Nintendo Switch 2（スイッチ2）用ソフト『ゼルダの伝説 時のオカリナ』の音声認識機能に対応する“エレクトリック 時のオカリナ”が、2026年11月5日に発売される。</description>
-    </item>
-    <item>
-      <title>2026年8月ソフト・ハード売上ランキング公開。『リズム天国 ミラクルスターズ』が2ヵ月連続首位。累計94.6万本で100万本突破が目前に迫る</title>
-      <link>https://www.famitsu.com/article/202609/87574</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87574</guid>
-      <pubDate>Fri, 11 Sep 2026 04:00:00 GMT</pubDate>
-      <description>ファミ通は、2026年8月の国内家庭用ゲームソフト（パッケージ版のみ）とハードの売上データを公開。Nintendo Switch用ソフト『リズム天国 ミラクルスターズ』が27.1万本を売り上げ、2ヵ月連続で首位を獲得。累計本数は94.6万本に達し、100万本突破が目前となっている。</description>
     </item>
   </channel>
 </rss>
