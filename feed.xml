@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Sep 2026 10:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:30:00 GMT</lastBuildDate>
+    <item>
+      <title>『マーベル ウルヴァリン』本日（9/15）発売。ウルヴァリンが日本やカナダなど世界各地を巡り、ミュータント存亡を懸けた戦いに身を投じる</title>
+      <link>https://www.famitsu.com/article/202609/88012</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88012</guid>
+      <pubDate>Tue, 15 Sep 2026 11:30:00 GMT</pubDate>
+      <description>マーベルヒーローのウルヴァリンが主役のアクションアドベンチャー『Marvel’s Wolverine』がPS5向けに2026年9月15日に発売された。</description>
+    </item>
     <item>
       <title>『NyctoType』“コンピューターウイルス”を模した駒を送り合い勝敗を競う戦略性タイピングゲームがTGS2026に出展。9月下旬にSteam体験版公開予定</title>
       <link>https://www.famitsu.com/article/202609/87998</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/87574</guid>
       <pubDate>Fri, 11 Sep 2026 04:00:00 GMT</pubDate>
       <description>ファミ通は、2026年8月の国内家庭用ゲームソフト（パッケージ版のみ）とハードの売上データを公開。Nintendo Switch用ソフト『リズム天国 ミラクルスターズ』が27.1万本を売り上げ、2ヵ月連続で首位を獲得。累計本数は94.6万本に達し、100万本突破が目前となっている。</description>
-    </item>
-    <item>
-      <title>『エースコンバット8』前日譚を描く実写短編映像“HOUR ZERO”発表。ゲーム発売に向け9月15日より全4本が順次公開予定</title>
-      <link>https://www.famitsu.com/article/202609/87577</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87577</guid>
-      <pubDate>Fri, 11 Sep 2026 03:25:00 GMT</pubDate>
-      <description>『ACE COMBAT 8: WINGS OF THEVE』の前日譚に当たる実写短編映像『ACE COMBAT HOUR ZERO』が発表され、ティザー映像もあわせて公開された。</description>
     </item>
   </channel>
 </rss>
