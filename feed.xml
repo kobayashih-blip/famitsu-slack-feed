@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:32:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:54:00 GMT</lastBuildDate>
+    <item>
+      <title>『トルネコの大冒険 リマスター』Steam版アップデート。向き変更・斜め移動時などの入力感度等が調整。他機種にも順次適用。ほかにもプレイヤーの要望に対応した改善を検討中</title>
+      <link>https://www.famitsu.com/article/202609/88223</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88223</guid>
+      <pubDate>Wed, 16 Sep 2026 11:54:00 GMT</pubDate>
+      <description>2026年9月16日、Steam版『トルネコの大冒険 不思議のダンジョン　ちょっとステキなリマスター』のアップデートが実施された。向きを変える際や斜め移動時の入力感度などを調整。</description>
+    </item>
     <item>
       <title>『ストレンジャー ザン ヘヴン』オープニングらしきプレイ動画が公開【STRANGER THAN HEAVENナイトライブ】</title>
       <link>https://www.famitsu.com/article/202609/88222</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/87728</guid>
       <pubDate>Sat, 12 Sep 2026 21:30:00 GMT</pubDate>
       <description>『餓狼伝説 City of the Wolves』DLCキャラクター“キム・カッファン”が、2026年9月24日より登場。韓国最強のテコンドー師範がいよいよ参戦。</description>
-    </item>
-    <item>
-      <title>『ディアブロ5』2029年春リリース。サンクチュアリは陥落し、ディアブロが勝利した世界が舞台に【BlizzCon】</title>
-      <link>https://www.famitsu.com/article/202609/87752</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87752</guid>
-      <pubDate>Sat, 12 Sep 2026 18:33:00 GMT</pubDate>
-      <description>2026年9月12～13日にアメリカ・アナハイムで開催されたBlizzCon 2026にて、『ディアブロ5』が発表された。</description>
     </item>
   </channel>
 </rss>
