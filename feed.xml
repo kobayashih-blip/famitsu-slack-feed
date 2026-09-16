@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:23:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『レガシーコード』生物から無機物まで、あらゆるパーツで生き物をつくって戦う物理アクションのSteamページが公開。どんな組み合わせでも破綻せず動く独自の物理エンジンを搭載</title>
+      <link>https://www.famitsu.com/article/202609/88123</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88123</guid>
+      <pubDate>Wed, 16 Sep 2026 07:00:00 GMT</pubDate>
+      <description>『Legacy Code』（レガシーコード）Steamストアページが公開。生物素材から無機物まで多種多様なパーツを組み合わせて謎の生き物“メカニマル”を作り上げ、動かして遊ぶ物理シミュレーションゲーム。</description>
+    </item>
     <item>
       <title>ホラーRPG『ノロイあやし』発表。『ミスミソウ』『サユリ』の押切蓮介氏と新川宗平氏がタッグ。呪殺人形をめぐる都市伝説と七不思議の謎に迫る</title>
       <link>https://www.famitsu.com/article/202609/88108</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/87660</guid>
       <pubDate>Fri, 11 Sep 2026 23:00:00 GMT</pubDate>
       <description>“一番くじ 僕のヒーローアカデミア -最高のヒーローになるまでの物語-”が、ファミリーマート、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなどで、本日2026年9月12日に発売。オンラインでは9月14日発売、価格は1回790円［税込］。</description>
-    </item>
-    <item>
-      <title>『スタレ』一番くじ第3弾が本日（9/12）発売。キュレネやファイノンたちがぬいぐるみに。オンパロス編をテーマにしたグッズが多数登場【崩壊：スターレイル】</title>
-      <link>https://www.famitsu.com/article/202609/87610</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/87610</guid>
-      <pubDate>Fri, 11 Sep 2026 21:30:00 GMT</pubDate>
-      <description>“一番くじ 崩壊：スターレイル Vol.3”がローソン、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなどで、本日2026年9月12日より発売。オンライン販売は9月14日からで、価格は1回1450円［税込］。</description>
     </item>
   </channel>
 </rss>
