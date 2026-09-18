@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 07:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 08:00:00 GMT</lastBuildDate>
+    <item>
+      <title>アニメ『パワーパフ ガールズ』ABEMA初配信決定！　シーズン3までの全119話が毎日5話ずつ無料配信。【9月19日開始】</title>
+      <link>https://www.famitsu.com/article/202609/88507</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88507</guid>
+      <pubDate>Fri, 18 Sep 2026 08:00:00 GMT</pubDate>
+      <description>アニメ『パワーパフ ガールズ』シーズン1～シーズン3までの全119話をABEMAにて配信決定。2026年9月19日から10月12日にわたり毎日5話ずつ無料放送</description>
+    </item>
     <item>
       <title>『刃牙道』ひらパーコラボの謎解きイベントが10月31日より開催。アニメ原画資料の初公開やキャラクターと“背比べ”ができるフォトスポットも。ウキウキの闘士たちが目印</title>
       <link>https://www.famitsu.com/article/202609/88521</link>
@@ -357,6 +364,13 @@
       <description>『キタキタ王様』事前登録を開始。あわせて、クローズドベータテストの参加者募集情報も公開。ランダム要素と戦略の駆け引きが合わさった合成RPG。キャラクターを繰り返し合成してスキルを強化し、パーティを編成しながら刻々と変化する戦況に対応していく。</description>
     </item>
     <item>
+      <title>『デイヴ・ザ・ダイバー』スマホ版が本日（9/17）配信。昼は海で魚を獲り、夜は寿司屋でお客をもてなす海洋アドベンチャー。各種DLCも同時発売</title>
+      <link>https://www.famitsu.com/article/202609/88271</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88271</guid>
+      <pubDate>Thu, 17 Sep 2026 03:00:00 GMT</pubDate>
+      <description>『デイヴ・ザ・ダイバー』のスマホ（iOS/Android）版が2026年9月17日より配信開始。『DREDGE』コラボDLCや大型DLC“In the Jungle”なども同時発売。昼は深海を探索して魚を獲り、夜は入手した魚で寿司屋を経営していくハイブリッド海洋アドベンチャーゲーム。</description>
+    </item>
+    <item>
       <title>『FF』40周年コラボPCがガレリアから登場。クラウドやティーダなど歴代ナンバリングタイトルのキャラが描かれた全16種</title>
       <link>https://www.famitsu.com/article/202609/88185</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/88185</guid>
@@ -691,20 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/88106</guid>
       <pubDate>Wed, 16 Sep 2026 03:47:00 GMT</pubDate>
       <description>2026年9月17日から21日（17日・18日はビジネスデイ、19日～21日は一般公開日）にかけて、千葉・幕張メッセにて開催される“東京ゲームショウ2026”。公式サイトの会場マップがまさかのWASDキーに対応し、一人称視点風の画面に切り換え可能。</description>
-    </item>
-    <item>
-      <title>『ソニックレーシング クロスワールド』にベヨネッタが参戦決定。『ゴジラ』『エヴァ』とのコラボも実施されるシーズン2コンテンツが2026年秋より配信</title>
-      <link>https://www.famitsu.com/article/202609/88098</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88098</guid>
-      <pubDate>Wed, 16 Sep 2026 03:21:00 GMT</pubDate>
-      <description>セガは、『ソニックレーシング クロスワールド』にて2026年秋より配信されるシーズン2の無料アップデート第1弾として、ベヨネッタの参戦が決定したことを発表した。また、DLC“シーズンパス2”にて『ゴジラ』、『エヴァンゲリオン』とのコラボレーションも実施。</description>
-    </item>
-    <item>
-      <title>『熱戦少女』最大250連分の召喚チケットを獲得できる2.5周年記念キャンペーンが開催。SSR+／UR“ロクサン”が期間限定で復刻</title>
-      <link>https://www.famitsu.com/article/202609/88043</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88043</guid>
-      <pubDate>Wed, 16 Sep 2026 03:00:00 GMT</pubDate>
-      <description>美少女育成放置系ゲーム『熱戦少女』にて2.5周年記念キャンペーンが2026年9月16日に開催された。</description>
     </item>
   </channel>
 </rss>
