@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Sep 2026 03:07:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 03:30:00 GMT</lastBuildDate>
+    <item>
+      <title>『チェンソーマン レゼ篇』アマプラで本日（9/19）独占配信開始。デンジとレゼ、ふたりの切ない夏の思い出にサメと台風を添えて</title>
+      <link>https://www.famitsu.com/article/202609/88606</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88606</guid>
+      <pubDate>Sat, 19 Sep 2026 03:30:00 GMT</pubDate>
+      <description>劇場版『チェンソーマン レゼ篇』の独占配信が、2026年9月19日よりアマゾンプライムビデオにて開始された。</description>
+    </item>
     <item>
       <title>【P4R】『ペルソナ４ リバイバル』主人公顔選手権【TGS2026】</title>
       <link>https://www.famitsu.com/article/202609/88603</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/88193</guid>
       <pubDate>Wed, 16 Sep 2026 10:15:00 GMT</pubDate>
       <description>『ストレンジャー ザン ヘヴン』の最新情報を公開する番組“『STRANGER THAN HEAVEN』TGS2026 スペシャルオープニングナイトライブ”が2026年9月16日20時より配信される。</description>
-    </item>
-    <item>
-      <title>【コンアカ】『クレイジー・クライマー』9月17日配信。おじゃまマン、鉄球、ゴリラなど妨害を避けながら高層ビルを登り切るアクション</title>
-      <link>https://www.famitsu.com/article/202609/88146</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88146</guid>
-      <pubDate>Wed, 16 Sep 2026 10:00:00 GMT</pubDate>
-      <description>『コンソールアーカイブス クレイジー・クライマー』が2026年9月17日よりNintendo Switch 2、プレイステーション5（PS5）にて配信。　ジャマをしてくるおじゃまマン、鉄球、ゴリラなどを避けながら超高層ビルを登り、屋上を目指すアクションゲーム。</description>
     </item>
   </channel>
 </rss>
