@@ -5,14 +5,7 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Sep 2026 17:45:00 GMT</lastBuildDate>
-    <item>
-      <title>『Let’s Build a Dungeon』ホントに遊べるRPGを作って開発会社を経営するシミュレーションゲームが2027年2月11日に発売決定</title>
-      <link>https://www.famitsu.com/article/202609/88542</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88542</guid>
-      <pubDate>Sun, 20 Sep 2026 17:45:00 GMT</pubDate>
-      <description>MMORPG開発会社経営シミュ『Let’s Build a Dungeon』2027年2月11日に発売。ウィッシュリスト登録数が19万件を突破した注目作。</description>
-    </item>
+    <lastBuildDate>Sun, 20 Sep 2026 13:46:00 GMT</lastBuildDate>
     <item>
       <title>『ミリシタ』10thLIVEが2027年6月26日、27日にKアリーナ横浜で開催決定。出演者は“765 MILLIONSTARS”【『アイマス ミリオンライブ！』14thライブDAY2新情報まとめ】</title>
       <link>https://www.famitsu.com/article/202609/88752</link>
@@ -705,6 +698,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/88347</guid>
       <pubDate>Thu, 17 Sep 2026 08:24:00 GMT</pubDate>
       <description>『ドラゴンクエスト』シリーズの累計出荷・ダウンロード販売本数“1億本”突破が発表された。</description>
+    </item>
+    <item>
+      <title>『トータルウォー：ショーグン2 コンプリートエディション』が10月14日に発売。シリーズ初の日本語フルボイスにも対応し、全DLCを収録した完全版</title>
+      <link>https://www.famitsu.com/article/202609/88343</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88343</guid>
+      <pubDate>Thu, 17 Sep 2026 08:20:00 GMT</pubDate>
+      <description>『トータルウォー：ショーグン２ コンプリートエディション』の発売日が2026年10月14日に決定。『トータルウォー：ショーグン２』にフルボイス化を含む日本語ローカライズなどを行いつつ、過去に配信した全DLCを収録した完全版。</description>
     </item>
   </channel>
 </rss>
