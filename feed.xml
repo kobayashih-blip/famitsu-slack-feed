@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 21 Sep 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 03:40:00 GMT</lastBuildDate>
+    <item>
+      <title>『クッキーラン：オーブンブレイク』マイメロディ、クロミ、シナモロール、ポムポムプリン、ポチャッコ、ハンギョドンがゲームに登場。9月23日よりサンリオコラボがスタート</title>
+      <link>https://www.famitsu.com/article/202609/88853</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88853</guid>
+      <pubDate>Tue, 22 Sep 2026 03:40:00 GMT</pubDate>
+      <description>『クッキーラン：オーブンブレイク』にて、サンリオとのコラボイベントが2026年9月23日より開催されることが発表された。イベントでは、マイメロディ、クロミ、シナモロール、ポムポムプリン、ポチャッコ、ハンギョドンがゲーム内に登場する。</description>
+    </item>
     <item>
       <title>『ぐらんぶる』アニメ4期が制作決定。伊織をめぐる恋のバトルの過熱化を予感させるビジュアルも公開</title>
       <link>https://www.famitsu.com/article/202609/88705</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/88346</guid>
       <pubDate>Thu, 17 Sep 2026 13:00:00 GMT</pubDate>
       <description>ファミ通発表の売上ランキング。今回は2026年9月7日～9月13日のゲームソフト＆ハード週間推定販売数まとめをお届け。</description>
-    </item>
-    <item>
-      <title>『超かぐや姫！』オンラインライブ『ツクヨミ感謝祭』が12月26日21時より開催決定。VRツクヨミワールドを初披露するPV＆ビジュアルが公開</title>
-      <link>https://www.famitsu.com/article/202609/88323</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88323</guid>
-      <pubDate>Thu, 17 Sep 2026 12:30:00 GMT</pubDate>
-      <description>『超かぐや姫！』のオンラインライブ“ツクヨミ感謝祭～めちゃうまパンケーキパーティー～”の最新情報を公開する情報番組第1回が公開。番組では、作中に登場する仮想空間・ツクヨミをVR空間に再現した“VR ツクヨミワールド”のチュートリアルエリアを披露するPVとビジュアルが公開されたほか、開催日が12月26日21時に決定したことが発表された。</description>
     </item>
   </channel>
 </rss>
