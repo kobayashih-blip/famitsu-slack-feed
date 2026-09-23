@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 08:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>【コンアカ】『カラテ・チャンプ』9月24日より配信。ゲーム本編は海外版のみ収録（テキストも英語のみ）</title>
+      <link>https://www.famitsu.com/article/202609/88953</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88953</guid>
+      <pubDate>Wed, 23 Sep 2026 10:00:00 GMT</pubDate>
+      <description>『コンソールアーカイブス カラテ・チャンプ』（コンアカ）が2026年9月24日よりNintendo Switch 2、プレイステーション5（PS5）にて配信。</description>
+    </item>
     <item>
       <title>【アケアカ2】『ゼビウス3D/G』9月24日に配信。ナムコ100タイトル配信、アケアカ500週連続配信の記念として</title>
       <link>https://www.famitsu.com/article/202609/88918</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/88354</guid>
       <pubDate>Fri, 18 Sep 2026 03:10:00 GMT</pubDate>
       <description>無料乙女ゲーム『方舟のイヴ』がノベルゲームコレクションにて公開された。主人公が世界が粛清されたという放送を聞くところから物語は始まり、各キャラと交流を重ねて物語を進めていくが、気を抜くとすぐにバッドエンドになるゲームとなっている。</description>
-    </item>
-    <item>
-      <title>アニメ『幻想水滸伝』初回第1話60分スペシャルが10月3日より順次放送。リリュウやジョウイの新たな姿も描かれる第3弾PVではED主題歌も公開</title>
-      <link>https://www.famitsu.com/article/202609/88381</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88381</guid>
-      <pubDate>Fri, 18 Sep 2026 03:00:00 GMT</pubDate>
-      <description>アニメ『幻想水滸伝』の初回第1話60分スペシャルが、2026年10月3日より順次放送されることが決定した。同日より、各プラットフォームでも順次配信がスタートする。併せて、リリュウやジョウイたちの新たな姿が描かれた第3弾PVも公開。</description>
     </item>
   </channel>
 </rss>
