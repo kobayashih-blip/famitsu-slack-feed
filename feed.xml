@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Sep 2026 11:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>【イニブ】『ガンダム EXVS.2』アムロ搭乗“リ・ガズィ”が10月7日参戦。ダミーバルーンや89式ベース・ジャバーを駆使して戦う万能機</title>
+      <link>https://www.famitsu.com/article/202609/89023</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89023</guid>
+      <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
+      <description>アーケードゲーム『ガンダム エクストリームバーサス2 インフィニットブースト』に、アムロ搭乗のリ・ガズィが2026年10月7日より参戦する。ダミーバルーンや89式ベース・ジャバーを使う、COST 2500の機体だ。</description>
+    </item>
     <item>
       <title>ギリシャ神話アクションRPG『Titan Quest II』2027年1月19日に正式リリース。国内向けPS5版の発売時期は後日発表</title>
       <link>https://www.famitsu.com/article/202609/89041</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/88603</guid>
       <pubDate>Sat, 19 Sep 2026 03:07:00 GMT</pubDate>
       <description>東京ゲームショウ2026のセガ／アトラスブースでもらえる『ペルソナ４ リバイバル』紙メガネがあると、『P4R』主人公の顔を再現できる。大会を開いた。</description>
-    </item>
-    <item>
-      <title>『プラグマタ』と日清カップヌードルがコラボ決定。詳細は後日発表予定【TGS2026】</title>
-      <link>https://www.famitsu.com/article/202609/88604</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88604</guid>
-      <pubDate>Sat, 19 Sep 2026 02:31:00 GMT</pubDate>
-      <description>カプコンのアクションパズルアドベンチャー『プラグマタ』と日清カップヌードルのコラボが実施されることが明らかになった。</description>
     </item>
   </channel>
 </rss>
