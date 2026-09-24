@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Sep 2026 03:57:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『サイレントヒル：タウンフォール』本日（9/24）発売。スコットランドの孤島を舞台に全編一人称視点で描かれる、サイコロジカルホラーシリーズ最新作</title>
+      <link>https://www.famitsu.com/article/202609/88981</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88981</guid>
+      <pubDate>Thu, 24 Sep 2026 04:00:00 GMT</pubDate>
+      <description>『SILENT HILL: Townfall』が本日（2026年9月24日）、プレイステーション5、PC（Steam、Epic Games Store）向けに発売された。スコットランドの孤島を舞台に、全編一人称視点で探索や戦闘、謎解きを体験できる。</description>
+    </item>
     <item>
       <title>『ドラクエ』しまむらコラボが10月7日開催。スライム着る毛布、おどるほうせき巾着、「おたのしみでしたね」枕カバーなど、おもしろデザイン多数</title>
       <link>https://www.famitsu.com/article/202609/88993</link>
@@ -357,6 +364,13 @@
       <description>アニメ『ヒカルの碁』公式Xが開設。今後は商品情報やキャンペーン情報などを発信予定。ほったゆみ氏原作、小畑健氏作画の原作マンガとテレビアニメは、小中学生のあいだに囲碁ブームを巻き起こした。</description>
     </item>
     <item>
+      <title>『逆転裁判』シリーズ25周年記念イラスト公開。『逆転裁判123 成歩堂セレクション』の全世界販売本数が500万本を突破</title>
+      <link>https://www.famitsu.com/article/202609/88732</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88732</guid>
+      <pubDate>Sun, 20 Sep 2026 08:29:00 GMT</pubDate>
+      <description>法廷バトルアドベンチャー『逆転裁判』シリーズ25周年を記念したイラストが公開。『逆転裁判123 成歩堂セレクション』の全世界販売500万本突破も発表された。</description>
+    </item>
+    <item>
       <title>『ストレンジャー ザン ヘヴン』五代武雄（演：黒田崇矢）と白井恵子（演：Ado）の新映像公開。宇垣秀成氏の出演も決定【TGS2026】</title>
       <link>https://www.famitsu.com/article/202609/88730</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/88730</guid>
@@ -691,20 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/88521</guid>
       <pubDate>Fri, 18 Sep 2026 07:50:00 GMT</pubDate>
       <description>アニメ『刃牙道』とひらかたパークのコラボ謎解きイベントが2026年10月31日から開催。宮本武蔵の暴走を食い止めるため、園内に潜む最強の格闘士を探し出せ</description>
-    </item>
-    <item>
-      <title>『ストレンジャー ザン ヘヴン』岩木源造（演：菅原文太、声：宇梶剛士）の新たなシーンなど、3つの映像が初公開。静かな迫力とエモさが同居【TGS2026】</title>
-      <link>https://www.famitsu.com/article/202609/88520</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88520</guid>
-      <pubDate>Fri, 18 Sep 2026 07:32:00 GMT</pubDate>
-      <description>「『STRANGER THAN HEAVEN』トーク＆ライブステージ with 宇梶剛士 &amp; 辻クラシック」が配信され、その中で複数のゲーム映像が初公開となった。</description>
-    </item>
-    <item>
-      <title>『KEMURI（ケムリ）』妖怪と契約し、超常の力をもって敵をなぎ倒すハンターアクションのSteamページが公開。新キャラが登場する最新トレーラーも公開中</title>
-      <link>https://www.famitsu.com/article/202609/88491</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88491</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:00 GMT</pubDate>
-      <description>妖怪憑依アクションアドベンチャー『KEMURI（ケムリ）』のSteamストアページと最新トレーラーが公開された。</description>
     </item>
   </channel>
 </rss>
