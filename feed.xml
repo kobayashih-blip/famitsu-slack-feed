@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Sep 2026 08:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:30:00 GMT</lastBuildDate>
+    <item>
+      <title>『どこ見ても足』操作テクが“稼ぎ効率”を変えるアクション×インフレゲーム。自分の動きをクローンにループさせ、稼いだポイントでアクションを拡張</title>
+      <link>https://www.famitsu.com/article/202609/89040</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89040</guid>
+      <pubDate>Thu, 24 Sep 2026 08:30:00 GMT</pubDate>
+      <description>Steamにて、『IGTAP: どこ見ても足』が2026年10月6日まで10%オフで買えるセールを開催中。ジャンプなどのアクションを駆使して足場から足場へと飛び移っていくプラットフォーマーに、数値がインフレしていくインクリメンタル系ゲームの要素を取り入れた作品。</description>
+    </item>
     <item>
       <title>『ドラプリン』が正式リリース。肉でも岩でも家でもなんでも食べるドラゴン娘を育成するローグライトRPG。「本当の結末」にたどり着く新シナリオ実装</title>
       <link>https://www.famitsu.com/article/202609/89019</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/88432</guid>
       <pubDate>Fri, 18 Sep 2026 11:00:00 GMT</pubDate>
       <description>『バニーガーデン』、『へべれけ ばにーがーでん』、『バニーガーデン2』の試遊台が設置された東京ゲームショウ2026の会場にて、プロデューサーである臼田裕次郎氏にインタビュー。</description>
-    </item>
-    <item>
-      <title>『ウィッチャー3』10周年記念コンサート日本公演が開催決定。ゲームプレイ映像とオーケストラの演奏を融合させ、ゲームのストーリーを再現するライブイベント。チケットは本日（9/18）より抽選受付開始</title>
-      <link>https://www.famitsu.com/article/202609/88543</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88543</guid>
-      <pubDate>Fri, 18 Sep 2026 10:00:00 GMT</pubDate>
-      <description>『ウィッチャー3 ワイルドハント』発売10周年を記念したコンサート“「ウィッチャー」INコンサート”の日本公演が2027年1月24日に開催決定。ゲームプレイ映像を投影しながらオーケストラによる演奏を融合し、ゲームのストーリーを再現。</description>
     </item>
   </channel>
 </rss>
