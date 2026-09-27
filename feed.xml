@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Sep 2026 11:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>【まどドラ】完全新作ストーリー『魔法少女そらな☆マギカ』10月4日開幕。西暦2225年の“宇宙”が舞台の本格ハードSF作品【まどマギ】</title>
+      <link>https://www.famitsu.com/article/202609/89235</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89235</guid>
+      <pubDate>Sun, 27 Sep 2026 12:00:00 GMT</pubDate>
+      <description>『魔法少女まどか☆マギカ Magia Exedra』1.5周年を記念したキャンペーンが開始。初となる完全新作オリジナルシリーズ『魔法少女そらな☆マギカ』も発表された。</description>
+    </item>
     <item>
       <title>モンストアニメ新作『メラ×デス　死神と僕の異常な恋』2027年1月5日に放送開始。ボーイミーツガールと思いきやラストには不穏なセリフも</title>
       <link>https://www.famitsu.com/article/202609/89256</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/88802</guid>
       <pubDate>Mon, 21 Sep 2026 08:05:00 GMT</pubDate>
       <description>眼鏡市場は『遊☆戯☆王デュエルモンスターズ』とのコラボメガネを2027年春に発売すると発表した。</description>
-    </item>
-    <item>
-      <title>『フェイト エクストラ レコード』最新情報を公開する番組が10月15日20時より配信決定。主人公役の阿部敦、石川由依が情報をお届け</title>
-      <link>https://www.famitsu.com/article/202609/88738</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88738</guid>
-      <pubDate>Mon, 21 Sep 2026 08:00:00 GMT</pubDate>
-      <description>『Fate/EXTRA Record』の最新情報を公開する番組“Fate/EXTRA Record TIMES”が2026年10月15日20時より配信される。</description>
     </item>
   </channel>
 </rss>
