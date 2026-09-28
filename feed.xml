@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Sep 2026 11:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:00:00 GMT</lastBuildDate>
+    <item>
+      <title>【ソフト＆ハード週間販売数】『ファイアーエムブレム 万紫千紅』が首位スタート！ 『空の軌跡 the 2nd』『マーベル ウルヴァリン』『アナザーエデン ビギンズ』もトップ10入り【9/14～9/20】</title>
+      <link>https://www.famitsu.com/article/202609/89360</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89360</guid>
+      <pubDate>Mon, 28 Sep 2026 13:00:00 GMT</pubDate>
+      <description>ファミ通発表の売上ランキング。今回は2026年9月14日～9月20日のゲームソフト＆ハード週間推定販売数まとめをお届け。</description>
+    </item>
     <item>
       <title>『ラクガキビースト』描いたイラストで戦う“お絵描きバトル”ゲームがSteamに登場。絵と名前から、属性や技・設定などが自動で決まる</title>
       <link>https://www.famitsu.com/article/202609/89375</link>
@@ -560,18 +567,18 @@
       <description>東京ゲームショウ2026で先行販売された『ペルソナ４ リバイバル』のグッズがアトラスDショップにて販売開始。主人公たちのアクスタ、会場で人気だったジュネスのエプロンも並ぶ。</description>
     </item>
     <item>
-      <title>『ペルソナ3 リロード』新作グッズが予約開始。公式画集の表紙絵を使ったアイテムや「S.E.E.S.」の腕章風シャワーサンダルが登場</title>
-      <link>https://www.famitsu.com/article/202609/89012</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89012</guid>
-      <pubDate>Thu, 24 Sep 2026 09:00:00 GMT</pubDate>
-      <description>『ペルソナ3 リロード』の新作グッズがアトラスDショップで予約受付中。公式設定画集の表紙イラストを使ったアイテムや“S.E.E.S.”の腕章風シャワーサンダルなどが登場し、2027年1月中旬に発売予定。</description>
-    </item>
-    <item>
       <title>アニメ『新 美味しんぼ』海原雄山役は大塚明夫に。山岡士郎役は阿座上洋平、栗田ゆう子役は咲々木 瞳とメインキャストが発表。雄山役は父から子へ引き継ぐ形に</title>
       <link>https://www.famitsu.com/article/202609/88805</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/88805</guid>
       <pubDate>Thu, 24 Sep 2026 09:00:00 GMT</pubDate>
       <description>アニメ『新 美味しんぼ』のメインキャストが公開。山岡士郎役は阿座上洋平さん、栗田ゆう子役は咲々木 瞳さん、海原雄山役は大塚明夫さんに決定した。</description>
+    </item>
+    <item>
+      <title>『ペルソナ3 リロード』新作グッズが予約開始。公式画集の表紙絵を使ったアイテムや「S.E.E.S.」の腕章風シャワーサンダルが登場</title>
+      <link>https://www.famitsu.com/article/202609/89012</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89012</guid>
+      <pubDate>Thu, 24 Sep 2026 09:00:00 GMT</pubDate>
+      <description>『ペルソナ3 リロード』の新作グッズがアトラスDショップで予約受付中。公式設定画集の表紙イラストを使ったアイテムや“S.E.E.S.”の腕章風シャワーサンダルなどが登場し、2027年1月中旬に発売予定。</description>
     </item>
     <item>
       <title>【ポケモン×アディダス】ピカチュウデザインのフットウェアモデルが本日（9/24）に発売。稲妻のグラフィックを3Dハプティックプリントで表現</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/88921</guid>
       <pubDate>Wed, 23 Sep 2026 10:30:00 GMT</pubDate>
       <description>『DEADPACT』（デッドパクト）のSteam体験版が現在配信中。戦闘不可の状況で敵の習性を見極め、怪我や空腹に耐えながらパズルを解き明かす過酷なサバイバルホラー。</description>
-    </item>
-    <item>
-      <title>【コンアカ】『カラテ・チャンプ』9月24日より配信。ゲーム本編は海外版のみ収録（テキストも英語のみ）</title>
-      <link>https://www.famitsu.com/article/202609/88953</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88953</guid>
-      <pubDate>Wed, 23 Sep 2026 10:00:00 GMT</pubDate>
-      <description>『コンソールアーカイブス カラテ・チャンプ』（コンアカ）が2026年9月24日よりNintendo Switch 2、プレイステーション5（PS5）にて配信。</description>
     </item>
   </channel>
 </rss>
