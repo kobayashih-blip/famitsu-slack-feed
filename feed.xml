@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 29 Sep 2026 03:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 03:10:00 GMT</lastBuildDate>
+    <item>
+      <title>【アニメが地球を喰っている】『遊戯王』特集が9月29日24時より放送。MCは中島健人（ケンティー）。梶裕貴、畠中祐、宮下兼史鷹（宮下草薙）も出演</title>
+      <link>https://www.famitsu.com/article/202609/89373</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89373</guid>
+      <pubDate>Tue, 29 Sep 2026 03:10:00 GMT</pubDate>
+      <description>2026年9月29日（火）放送のドキュメントバラエティー番組『アニメが地球を喰っている』。第1部～第2部に分かれており、第2部は『遊☆戯☆王』を特集。</description>
+    </item>
     <item>
       <title>『NARUTO-ナルト-』完全新作アニメ情報がNYコミコン2026で初公開。竹内順子（ナルト役）、杉山紀彰（サスケ役）登壇のステージが10月11日6時より配信</title>
       <link>https://www.famitsu.com/article/202609/89381</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/88985</guid>
       <pubDate>Thu, 24 Sep 2026 02:45:00 GMT</pubDate>
       <description>2026年9月30日より『ポケモン』×スターバックスのコラボレーションがスタート。ピカチュウをイメージしたドリンク“ピカチュウ ハニークリーム ラテ”が販売される。</description>
-    </item>
-    <item>
-      <title>『逆転裁判5 VR』がMeta Quest向けに2027年発売予定。証拠を手に取って突きつけたり主観視点で「異議あり！」できる</title>
-      <link>https://www.famitsu.com/article/202609/88976</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88976</guid>
-      <pubDate>Thu, 24 Sep 2026 01:40:00 GMT</pubDate>
-      <description>カプコンは、Meta Quest向けに『逆転裁判5 VR』を発売することを発表した。発売は2027年を予定。対応機種はMeta VR Glasses、Quest3/3s、Quest Pro、Quest2。タイトルの発表に併せて、アナウンストレーラーも公開されている。</description>
     </item>
   </channel>
 </rss>
