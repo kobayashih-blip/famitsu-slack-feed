@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 11:20:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 11:30:00 GMT</lastBuildDate>
+    <item>
+      <title>映画『遊戯王 THE DARK SIDE OF DIMENSIONS』が11月20日よりリバイバル上映。入場者特典は高橋和希原案イラストを使用した遊戯や海馬のポストカード</title>
+      <link>https://www.famitsu.com/article/202609/89589</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89589</guid>
+      <pubDate>Wed, 30 Sep 2026 11:30:00 GMT</pubDate>
+      <description>『遊戯王』生誕30周年記念で2026年12月より開催される“高橋和希原画展 YU-GI-OH! ART WORKS”にあわせ、劇場版『遊戯王 THE DARK SIDE OF DIMENSIONS』のリバイバル上映が、新宿バルト9ほか全国57館にて11月20日より行われる。</description>
+    </item>
     <item>
       <title>映画『魔法使いの夜』主題歌にてsupercellが再始動。やなぎなぎさんがボーカルを務めるのは約15年ぶり。ryo氏も思いの丈を綴る</title>
       <link>https://www.famitsu.com/article/202609/89610</link>
@@ -357,6 +364,13 @@
       <description>PC（Steam）向け通学アクション『ふまんぐーる』の体験版が2026年10月8日に配信。短めのストーリーやランゲーム、着せ替えなどが楽しめる。</description>
     </item>
     <item>
+      <title>『.hack//G.U. Vol.2 君想フ声』20周年、3rdフォームのハセヲとオーヴァンの記念イラストが公開。新規描き下ろしアクスタ（全6種）が今冬発売</title>
+      <link>https://www.famitsu.com/article/202609/89363</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89363</guid>
+      <pubDate>Mon, 28 Sep 2026 08:30:00 GMT</pubDate>
+      <description>『.hack//G.U. Vol.2 君想フ声』20周年を記念し、お祝いイラストの公開および新規描き下ろしグッズ情報を発表。お祝いイラストは細川誠一郎氏と星樹氏による描き下ろしで、3rdフォームの主人公ハセヲと、彼と対峙するオーヴァンが描かれている。</description>
+    </item>
+    <item>
       <title>『大海獣少女防衛戦』巨大少女どうしによる迫力海上バトル。大海獣少女のヘアピンに艦砲を装備して戦う射撃ディフェンスがSteamに登場</title>
       <link>https://www.famitsu.com/article/202609/89344</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89344</guid>
@@ -691,20 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89112</guid>
       <pubDate>Fri, 25 Sep 2026 05:06:00 GMT</pubDate>
       <description>サントリーコーヒーBOSSと『ポケモン』30周年のコラボキャンペーンに、“1025匹のポケモンから選べる！君に決めた！ボスジャン”などが当たる6缶パックキャンペーンが追加された。</description>
-    </item>
-    <item>
-      <title>『サヤガタリ-妖刀の約束-』美少女にキスされまくるビジュアルノベルが本日（9/25）発売。ビジュアルアーツ新ブランド“VISUAL ARTS Scripts”第一弾タイトル</title>
-      <link>https://www.famitsu.com/article/202609/89105</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89105</guid>
-      <pubDate>Fri, 25 Sep 2026 05:00:00 GMT</pubDate>
-      <description>ビジュアルアーツの新ブランド“VISUAL ARTS Scripts”第一弾タイトル『サヤガタリ-妖刀の約束-』が発売された。ダウンロード版は、DLsiteとDMM GAMESにて990円［税込］で販売中。Steam版も発売予定。</description>
-    </item>
-    <item>
-      <title>『人造昆虫カブトボーグVxV』9月26日深夜より全52話の無料一挙放送が決定。全話最終回、前後のつながりを超越した型破りなストーリーが話題を呼んだ伝説的カオスアニメ</title>
-      <link>https://www.famitsu.com/article/202609/89117</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89117</guid>
-      <pubDate>Fri, 25 Sep 2026 04:31:00 GMT</pubDate>
-      <description>ABEMAは、アニメ『人造昆虫カブトボーグVxV』全52話を2026年9月26日（土）深夜24時（27日午前0時）より一挙放送する。</description>
     </item>
   </channel>
 </rss>
