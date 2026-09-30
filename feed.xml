@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 09:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>【コンアカ】『ちゃっくんぽっぷ』10月1日より配信。迷路の天井や壁を走って“もんすた”からハートを取り戻すアクション</title>
+      <link>https://www.famitsu.com/article/202609/89591</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89591</guid>
+      <pubDate>Wed, 30 Sep 2026 10:00:00 GMT</pubDate>
+      <description>『コンソールアーカイブス ちゃっくんぽっぷ』が2026年10月1日より配信。1985年にタイトーから発売されたアクションゲーム。ちゃっくんを操作し、もんすたにさらわれた迷路内のハートを取り戻していく。</description>
+    </item>
     <item>
       <title>【アケアカ2】『クレイジーバルーン』10月1日配信。左右に揺れる風船を操作してイバラの迷路を進むタイトーのアクション</title>
       <link>https://www.famitsu.com/article/202609/89580</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89111</guid>
       <pubDate>Fri, 25 Sep 2026 03:44:00 GMT</pubDate>
       <description>アニメ『聖痕のクェイサー【ディレクターズカット版】』が2026年9月25日より運営するアニメ見放題サービス“AnimeFesta（アニメフェスタ）”にて、見放題独占配信をスタートした。</description>
-    </item>
-    <item>
-      <title>『Thank You 4 Playing』ゲーム内SNSで情報を集めてボスを倒す推理パズルADVのSteam版がリリース決定。新ボスや新キャラなど、Steam版のみの追加要素も</title>
-      <link>https://www.famitsu.com/article/202609/89064</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89064</guid>
-      <pubDate>Fri, 25 Sep 2026 03:00:00 GMT</pubDate>
-      <description>Libragamesは、ゲーム内SNSで攻略情報を探しながら最速クリアを目指す推理パズルADV『Thank You 4 Playing』のSteam版を、2027年1月8日にリリースすることを発表した。</description>
     </item>
   </channel>
 </rss>
