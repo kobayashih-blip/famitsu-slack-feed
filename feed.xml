@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 05:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『シャーク・マート』客を狩って料理する最大4人協力の店舗運営シミュレーション。魚警察からの尋問は現場を掃除し、嘘をついて切り抜けよう</title>
+      <link>https://www.famitsu.com/article/202609/89544</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89544</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 GMT</pubDate>
+      <description>『シャーク・マート』Steamにて無料デモ版配信開始。イルカの仮面をかぶったサメたちが客を狩りまくる最大4人協力の店舗運営シミュレーション。</description>
+    </item>
     <item>
       <title>『バイオハザード』30周年展、『バイオ7』ジャック・ベイカーが壁から出現するフォトスポットが登場。オリジナルグッズの追加情報も解禁</title>
       <link>https://www.famitsu.com/article/202609/89540</link>
@@ -658,18 +665,18 @@
       <description>個人クリエイターの比良坂（ひらさか）氏が制作するホラー＆コメディアクションゲーム『デス桃太郎』が、2026年9月25日にリリースされる。</description>
     </item>
     <item>
-      <title>『魔女の宅急便』IMAXシアターで上映した4Kリマスター版がディズニーから発売。オリジナルアートカードと劇場予告の映像が特典に</title>
-      <link>https://www.famitsu.com/article/202609/88889</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88889</guid>
-      <pubDate>Fri, 25 Sep 2026 01:00:00 GMT</pubDate>
-      <description>ウォルト・ディズニー・ジャパンは、『魔女の宅急便』の4K UHD＋ブルーレイセットを2026年11月25日（水）に発売する。</description>
-    </item>
-    <item>
       <title>『ゼルダの伝説』40周年コンサートの公式最速抽選予約が受付開始。東京、福岡、北海道、京都、神奈川で公演。マスターシート席では特典のカードホルダー付き</title>
       <link>https://www.famitsu.com/article/202609/89062</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89062</guid>
       <pubDate>Fri, 25 Sep 2026 01:00:00 GMT</pubDate>
       <description>『ゼルダの伝説』40周年記念コンサートのオフィシャル最速先行抽選予約が開始。申込み受付期間は、2026年9⽉25⽇10時〜10⽉12⽇23時59分まで。</description>
+    </item>
+    <item>
+      <title>『魔女の宅急便』IMAXシアターで上映した4Kリマスター版がディズニーから発売。オリジナルアートカードと劇場予告の映像が特典に</title>
+      <link>https://www.famitsu.com/article/202609/88889</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/88889</guid>
+      <pubDate>Fri, 25 Sep 2026 01:00:00 GMT</pubDate>
+      <description>ウォルト・ディズニー・ジャパンは、『魔女の宅急便』の4K UHD＋ブルーレイセットを2026年11月25日（水）に発売する。</description>
     </item>
     <item>
       <title>『EA SPORTS FC 27』自宅でコケて5週間アウト？　ハプニングイベントや移籍システムまでテコ入れされた監督キャリアモードが楽しい</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89101</guid>
       <pubDate>Thu, 24 Sep 2026 21:30:00 GMT</pubDate>
       <description>海外パブリッシャー505 Gamesの親会社の決算報告から、同グループとの契約下での『アームドファンタジア』の開発が中止となっていたことが判明。</description>
-    </item>
-    <item>
-      <title>アニメ『ヤニねこ』夏吉ゆうこら声優陣がOP曲『なんもねえ』を大合唱するMV公開。Blu-ray BOXが2027年発売、サントラが9月30日配信決定</title>
-      <link>https://www.famitsu.com/article/202609/89090</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89090</guid>
-      <pubDate>Thu, 24 Sep 2026 16:00:00 GMT</pubDate>
-      <description>アニメ『ヤニねこ』の最終話放送を記念したMVは、メインキャストの歌唱風景を収めた映像。『MOTHER』などのゲーム音楽も手掛ける鈴木慶一氏によるサントラには、本人が歌う第6話の劇中歌『僕はダーリン』を含む全32曲を収録する。</description>
     </item>
   </channel>
 </rss>
