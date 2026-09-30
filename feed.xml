@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 11:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『赫夜 -カグヤ-』難易度“やさしめ”フルボイス弾幕シューティングが面白そう。アカリとアカネのゆる～い会話を聞きながら、AI機械兵団を殲滅</title>
+      <link>https://www.famitsu.com/article/202609/89597</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89597</guid>
+      <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+      <description>『赫夜 -カグヤ-』が、2026年10月31日開催の“東京ゲームダンジョン14”に出展。Steamにて2027年発売予定。カジュアルにプレイできる“やさしめフルボイス弾幕STG”。</description>
+    </item>
     <item>
       <title>映画『遊戯王 THE DARK SIDE OF DIMENSIONS』が11月20日よりリバイバル上映。入場者特典は高橋和希原案イラストを使用した遊戯や海馬のポストカード</title>
       <link>https://www.famitsu.com/article/202609/89589</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89113</guid>
       <pubDate>Fri, 25 Sep 2026 05:19:00 GMT</pubDate>
       <description>初代『悪魔城ドラキュラ』が本日2026年9月25日よりスマホ向けに期間限定で無料配信される。また、『悪魔城ドラキュラ』シリーズが最大80%オフとなるセールを開催。さらに、コンサートやシリーズ楽曲のアナログ盤発売、ポップアップショップの実施も決定した。</description>
-    </item>
-    <item>
-      <title>『サヤガタリ-妖刀の約束-』美少女にキスされまくるビジュアルノベルが本日（9/25）発売。ビジュアルアーツ新ブランド“VISUAL ARTS Scripts”第一弾タイトル</title>
-      <link>https://www.famitsu.com/article/202609/89105</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89105</guid>
-      <pubDate>Fri, 25 Sep 2026 05:00:00 GMT</pubDate>
-      <description>ビジュアルアーツの新ブランド“VISUAL ARTS Scripts”第一弾タイトル『サヤガタリ-妖刀の約束-』が発売された。ダウンロード版は、DLsiteとDMM GAMESにて990円［税込］で販売中。Steam版も発売予定。</description>
     </item>
   </channel>
 </rss>
