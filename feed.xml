@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 02:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:01:00 GMT</lastBuildDate>
+    <item>
+      <title>マヂカルラブリーがMC＆審査員に！　12組の芸人が優勝賞金100万円をかけてゲームネタで競う「ゲームネタGP」10/28生配信</title>
+      <link>https://www.famitsu.com/article/202609/89452</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89452</guid>
+      <pubDate>Wed, 30 Sep 2026 03:01:00 GMT</pubDate>
+      <description>ゲームを愛するお笑い芸人が、ゲームにまつわるネタで競う“お笑いゲームネタNo.1決定戦 ゲームネタグランプリ”。3年半ぶりの第3回大会は、2026年10月28日（水）19時より“ファミ通TUBE”にて放送決定！</description>
+    </item>
     <item>
       <title>アイディアファクトリーがADV専門の新ブランド“IFChronicle”を発表。第1弾『ICONOLOGY（イコノロジー）』は容疑者の脳内イメージを“絵画”として抽出し、事件を追うクライムサスペンス</title>
       <link>https://www.famitsu.com/article/202609/89483</link>
@@ -350,13 +357,6 @@
       <description>PC（Steam）向け新作タイトル『A列車で行こう9 PRIME LINE』が2026年12月10日に発売決定。今までは不可能だった路線も実現可能に。より進化したシリーズ最新作。</description>
     </item>
     <item>
-      <title>【アジア大会】格闘ゲーム団体戦で日本チームが銀メダル獲得。『スト6』ひぐち選手、『鉄拳8』ノビ選手、『KOF15』スコア選手が奮闘</title>
-      <link>https://www.famitsu.com/article/202609/89231</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89231</guid>
-      <pubDate>Sat, 26 Sep 2026 09:50:00 GMT</pubDate>
-      <description>第20回アジア競技大会にて『Street Fighter 6』『鉄拳8』『THE KING OF FIGHTERS XV』を用いた対戦格闘団体戦の決勝戦が実施。日本選手団の樋口孝治郎（ひぐち）選手、中山大地（ノビ）選手、澤田 彰仁（スコア）選手が銀メダルを獲得した。</description>
-    </item>
-    <item>
       <title>『Billion Egg Farm』超大量のニワトリで、目指せ売上10億。カオスな“養鶏”自動化シミュレーションが発売。何をどう作り売るかはプレイヤー次第</title>
       <link>https://www.famitsu.com/article/202609/89212</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89212</guid>
@@ -581,18 +581,18 @@
       <description>アニメ『聖痕のクェイサー【ディレクターズカット版】』が2026年9月25日より運営するアニメ見放題サービス“AnimeFesta（アニメフェスタ）”にて、見放題独占配信をスタートした。</description>
     </item>
     <item>
-      <title>『Thank You 4 Playing』ゲーム内SNSで情報を集めてボスを倒す推理パズルADVのSteam版がリリース決定。新ボスや新キャラなど、Steam版のみの追加要素も</title>
-      <link>https://www.famitsu.com/article/202609/89064</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89064</guid>
-      <pubDate>Fri, 25 Sep 2026 03:00:00 GMT</pubDate>
-      <description>Libragamesは、ゲーム内SNSで攻略情報を探しながら最速クリアを目指す推理パズルADV『Thank You 4 Playing』のSteam版を、2027年1月8日にリリースすることを発表した。</description>
-    </item>
-    <item>
       <title>漫画『封神演義』原画展が2027年春に開催。藤崎竜（フジリュー）の貴重な肉筆原稿が見られる大型企画</title>
       <link>https://www.famitsu.com/article/202609/88958</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/88958</guid>
       <pubDate>Fri, 25 Sep 2026 03:00:00 GMT</pubDate>
       <description>藤崎竜氏のマンガ『封神演義』の原画展が2027年春に東京で開催。ティザービジュアルや藤崎竜氏の描き下ろしイラストなどが解禁された。</description>
+    </item>
+    <item>
+      <title>『Thank You 4 Playing』ゲーム内SNSで情報を集めてボスを倒す推理パズルADVのSteam版がリリース決定。新ボスや新キャラなど、Steam版のみの追加要素も</title>
+      <link>https://www.famitsu.com/article/202609/89064</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89064</guid>
+      <pubDate>Fri, 25 Sep 2026 03:00:00 GMT</pubDate>
+      <description>Libragamesは、ゲーム内SNSで攻略情報を探しながら最速クリアを目指す推理パズルADV『Thank You 4 Playing』のSteam版を、2027年1月8日にリリースすることを発表した。</description>
     </item>
     <item>
       <title>『ゼルダの伝説』40周年“トライフォースメドレー（オーケストラ映像Ver.）”がNintendo Today!で公開。約4分の演奏シーンが全編楽しめる</title>
@@ -616,18 +616,18 @@
       <description>個人クリエイターの比良坂（ひらさか）氏が制作するホラー＆コメディアクションゲーム『デス桃太郎』が、2026年9月25日にリリースされる。</description>
     </item>
     <item>
-      <title>『ゼルダの伝説』40周年コンサートの公式最速抽選予約が受付開始。東京、福岡、北海道、京都、神奈川で公演。マスターシート席では特典のカードホルダー付き</title>
-      <link>https://www.famitsu.com/article/202609/89062</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89062</guid>
-      <pubDate>Fri, 25 Sep 2026 01:00:00 GMT</pubDate>
-      <description>『ゼルダの伝説』40周年記念コンサートのオフィシャル最速先行抽選予約が開始。申込み受付期間は、2026年9⽉25⽇10時〜10⽉12⽇23時59分まで。</description>
-    </item>
-    <item>
       <title>『魔女の宅急便』IMAXシアターで上映した4Kリマスター版がディズニーから発売。オリジナルアートカードと劇場予告の映像が特典に</title>
       <link>https://www.famitsu.com/article/202609/88889</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/88889</guid>
       <pubDate>Fri, 25 Sep 2026 01:00:00 GMT</pubDate>
       <description>ウォルト・ディズニー・ジャパンは、『魔女の宅急便』の4K UHD＋ブルーレイセットを2026年11月25日（水）に発売する。</description>
+    </item>
+    <item>
+      <title>『ゼルダの伝説』40周年コンサートの公式最速抽選予約が受付開始。東京、福岡、北海道、京都、神奈川で公演。マスターシート席では特典のカードホルダー付き</title>
+      <link>https://www.famitsu.com/article/202609/89062</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89062</guid>
+      <pubDate>Fri, 25 Sep 2026 01:00:00 GMT</pubDate>
+      <description>『ゼルダの伝説』40周年記念コンサートのオフィシャル最速先行抽選予約が開始。申込み受付期間は、2026年9⽉25⽇10時〜10⽉12⽇23時59分まで。</description>
     </item>
     <item>
       <title>『EA SPORTS FC 27』自宅でコケて5週間アウト？　ハプニングイベントや移籍システムまでテコ入れされた監督キャリアモードが楽しい</title>
