@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 14:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:41:00 GMT</lastBuildDate>
+    <item>
+      <title>PS5向けAIアップスケーリング技術QSSR発表。『マーベル ウルヴァリン』『ゴースト・オブ・ヨウテイ』が本日10月2日より対応</title>
+      <link>https://www.famitsu.com/article/202610/89751</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89751</guid>
+      <pubDate>Thu, 01 Oct 2026 16:41:00 GMT</pubDate>
+      <description>SIEがPS5向けAIアップスケーリング技術QSSRを発表。『Marvel’s Wolverine』『Ghost of Yōtei』が10月2日配信のパッチで対応する。PS5 Pro向けPSSRの進化形で、PS5でも映像の精細さと安定性を向上。今後はプレイステーション向けタイトルを開発するデベロッパーに広く提供される予定。</description>
+    </item>
     <item>
       <title>『CottageCore』村人の仕事や暮らしを支えるサンドボックスゲーム。静かな一軒家から豪華な城まで自由に建築【2027年4月14日発売】</title>
       <link>https://www.famitsu.com/article/202610/89674</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89279</guid>
       <pubDate>Sun, 27 Sep 2026 09:05:00 GMT</pubDate>
       <description>『サクラ大戦』シリーズ30周年記念の懐中時計が発売決定。大神一郎が搭乗する光武を立体彫刻で表現。</description>
-    </item>
-    <item>
-      <title>RTX5070搭載AcerゲーミングノートPC“Nitro V 16 AI”を実機検証。『アークナイツ：エンドフィールド』で平均228fps。32GBメモリ＆sRGBカバー率100％の画面でゲームも仕事も1台</title>
-      <link>https://www.famitsu.com/article/202609/86021</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/86021</guid>
-      <pubDate>Sun, 27 Sep 2026 02:30:00 GMT</pubDate>
-      <description>ファミ通.comのゲーミングPC特設サイトに、エイサーの16インチゲーミングノートPC“Nitro V 16 AI”とを追加した。今回のNitro V 16 AIは評価対象の『モンスターハンターワイルズ』と『アークナイツ：エンドフィールド』で★5、『Battlefield 6』で★4を獲得している。</description>
     </item>
   </channel>
 </rss>
