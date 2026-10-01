@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 03:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 03:41:00 GMT</lastBuildDate>
+    <item>
+      <title>『キャッスルヴァニア ベルモンドカース』体験版が配信開始。トレバー・ベルモンドの娘が主人公の最新作。セーブデータは製品版へ引き継げる</title>
+      <link>https://www.famitsu.com/article/202610/89637</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89637</guid>
+      <pubDate>Thu, 01 Oct 2026 03:41:00 GMT</pubDate>
+      <description>『Castlevania』シリーズ最新作『キャッスルヴァニア ベルモンドカース』体験版が配信開始。セーブデータは10/15発売の製品版に引き継げる</description>
+    </item>
     <item>
       <title>『スーパーリアル麻雀VR』Steamオータムセールで10月2日から10%OFF。マウスドラッグで“見渡せる”ようになるアップデートも配信</title>
       <link>https://www.famitsu.com/article/202610/89595</link>
@@ -350,20 +357,6 @@
       <description>『ACE COMBAT 8: WINGS OF THEVE』のアーリーアクセスが2026年9月29日より開始された。アーリーアクセスはデラックスエディションまたは豪華版の購入で参加できる。</description>
     </item>
     <item>
-      <title>『ハイローラーペニー』バニーガールちゃんがかわいいパチンコ風ローグライク。体験版が配信開始。負けると命を落とす危険なギャンブル</title>
-      <link>https://www.famitsu.com/article/202609/89442</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89442</guid>
-      <pubDate>Tue, 29 Sep 2026 03:22:00 GMT</pubDate>
-      <description>パチンコ風ローグライクゲーム『High Roller Penny』体験版がPC（Steam）向けに配信。借金を抱えた主人公がバニーガールに誘拐され、地下賭博場で命がけのデスゲームに挑む。</description>
-    </item>
-    <item>
-      <title>【アニメが地球を喰っている】『遊戯王』特集が9月29日24時より放送。MCは中島健人（ケンティー）。梶裕貴、畠中祐、宮下兼史鷹（宮下草薙）も出演</title>
-      <link>https://www.famitsu.com/article/202609/89373</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89373</guid>
-      <pubDate>Tue, 29 Sep 2026 03:10:00 GMT</pubDate>
-      <description>2026年9月29日（火）放送のドキュメントバラエティー番組『アニメが地球を喰っている』。第1部～第2部に分かれており、第2部は『遊☆戯☆王』を特集。</description>
-    </item>
-    <item>
       <title>『NARUTO-ナルト-』完全新作アニメ情報がNYコミコン2026で初公開。竹内順子（ナルト役）、杉山紀彰（サスケ役）登壇のステージが10月11日6時より配信</title>
       <link>https://www.famitsu.com/article/202609/89381</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89381</guid>
@@ -705,6 +698,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89162</guid>
       <pubDate>Fri, 25 Sep 2026 08:40:00 GMT</pubDate>
       <description>KADOKAWAは、人気ホラーゲームシリーズのノベライズ版[NOLINK]『日本事故物件監視協会　調査報告書』[/NOLINK]を2026年9月30日（水）に発売する。</description>
+    </item>
+    <item>
+      <title>西洋哲学史をピンボールで巡る苦行系ゲーム『Fallosophy』本日（9/25）深夜に発売。奈落に落ちたらやり直し。やがて“真理”にも至れそう</title>
+      <link>https://www.famitsu.com/article/202609/89151</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89151</guid>
+      <pubDate>Fri, 25 Sep 2026 08:13:00 GMT</pubDate>
+      <description>アイルランドのインディーゲームスタジオ、Reliable Plumbing Servicesは、高難度ピンボール・プラットフォームアクションゲーム『Fallosophy』を本日2026年9月25日の深夜に発売する。</description>
     </item>
   </channel>
 </rss>
