@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 01:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 02:01:00 GMT</lastBuildDate>
+    <item>
+      <title>漫画『ケロロ軍曹』全巻無料公開。10月1日・2日の2日間限定で、BOOK☆WALKERやブックライブなど各電子書籍ストアで実施</title>
+      <link>https://www.famitsu.com/article/202610/89635</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89635</guid>
+      <pubDate>Thu, 01 Oct 2026 02:01:00 GMT</pubDate>
+      <description>『ケロロ軍曹』1〜35巻が対象の全巻無料フェア“アニメ化直前！ケロロ軍曹 ぜ～んぶ読み尽くすであります”が10月1日・2日の2日間限定で各電子書籍ストアにて開催されている。</description>
+    </item>
     <item>
       <title>『ほの暮しの庭』TGS先行グッズが通販開始。描き下ろしミニアクリルジオラマやアクスタ、全38曲収録のサントラなどが勢揃い</title>
       <link>https://www.famitsu.com/article/202610/89481</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89151</guid>
       <pubDate>Fri, 25 Sep 2026 08:13:00 GMT</pubDate>
       <description>アイルランドのインディーゲームスタジオ、Reliable Plumbing Servicesは、高難度ピンボール・プラットフォームアクションゲーム『Fallosophy』を本日2026年9月25日の深夜に発売する。</description>
-    </item>
-    <item>
-      <title>『ペルソナ3 リロード』2303円（70％オフ）でSteam最安値を更新。『P4G』990円（50％オフ）、『メタファー』3951円（60％オフ）などアトラス作品がセール中【～10/2】</title>
-      <link>https://www.famitsu.com/article/202609/89144</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89144</guid>
-      <pubDate>Fri, 25 Sep 2026 07:45:00 GMT</pubDate>
-      <description>Steamでアトラスセールが開催中。『ペルソナ3 リロード』が70％オフの2303円で最安値を更新。ほか『ペルソナ4 ザ・ゴールデン』が50％オフ、『ペルソナ5 ザ・ロイヤル』が70％オフ、『メタファー：リファンタジオ』が60％オフなど割引価格で購入できる。期間は2026年10月2日まで。</description>
     </item>
   </channel>
 </rss>
