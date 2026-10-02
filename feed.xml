@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 02 Oct 2026 11:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:10:00 GMT</lastBuildDate>
+    <item>
+      <title>『The Witness』90％オフの“398円”でSteam過去最安値に。500個以上のパズルが待つ島を探索するシングルプレイ専用の謎解きゲーム。セールは10月9日まで</title>
+      <link>https://www.famitsu.com/article/202610/89862</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89862</guid>
+      <pubDate>Fri, 02 Oct 2026 12:10:00 GMT</pubDate>
+      <description>Steamにてパズルゲーム『The Witness』が過去最安値となる90％オフの398円［税込］で購入できるセールが開催中。期間は2026年10月9日まで。島に待ち受けるパズルは500個以上、次第に島全体を巻き込むような謎へと発展していく。</description>
+    </item>
     <item>
       <title>『To LOVEる-とらぶる-ダークネス』が全話無料公開中。10月3日4時59分までの“今夜限定”キャンペーン。ダークネスな夜を過ごそう</title>
       <link>https://www.famitsu.com/article/202610/89853</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89443</guid>
       <pubDate>Tue, 29 Sep 2026 04:00:00 GMT</pubDate>
       <description>『ACE COMBAT 8: WINGS OF THEVE』のアーリーアクセスが2026年9月29日より開始された。アーリーアクセスはデラックスエディションまたは豪華版の購入で参加できる。</description>
-    </item>
-    <item>
-      <title>『ハイローラーペニー』バニーガールちゃんがかわいいパチンコ風ローグライク。体験版が配信開始。負けると命を落とす危険なギャンブル</title>
-      <link>https://www.famitsu.com/article/202609/89442</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89442</guid>
-      <pubDate>Tue, 29 Sep 2026 03:22:00 GMT</pubDate>
-      <description>パチンコ風ローグライクゲーム『High Roller Penny』体験版がPC（Steam）向けに配信。借金を抱えた主人公がバニーガールに誘拐され、地下賭博場で命がけのデスゲームに挑む。</description>
     </item>
   </channel>
 </rss>
