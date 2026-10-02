@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 02 Oct 2026 09:20:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 09:30:00 GMT</lastBuildDate>
+    <item>
+      <title>【Amazon予約数ランキング】Switch2リメイク版『ゼルダの伝説 時のオカリナ』が首位を維持。『エースコンバット8』が2位フィニッシュ【9/20～9/26】</title>
+      <link>https://www.famitsu.com/article/202610/89776</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89776</guid>
+      <pubDate>Fri, 02 Oct 2026 09:30:00 GMT</pubDate>
+      <description>Amazon.co.jpのテレビゲームストアの週間予約数ランキング。2026年9月20日～9月26日の期間、『ゼルダの伝説 時のオカリナ』が首位を獲得。2位に『エースコンバット8』がランクインしている。</description>
+    </item>
     <item>
       <title>『逆転裁判』成歩堂をキスマイ宮田俊哉、御剣を遊佐浩二が演じる。朗読劇『逆転裁判 Re:1』11月29日公演のキャスト陣が発表</title>
       <link>https://www.famitsu.com/article/202610/89822</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89375</guid>
       <pubDate>Mon, 28 Sep 2026 11:30:00 GMT</pubDate>
       <description>自分のイラストで戦うお絵描きバトルゲーム『ラクガキビースト』がPC（Steam）で配信開始。描いたイラストに名前をつけると、絵と名前をもとにAIが属性や技、性格などを生成。誕生したビーストから3体を選んでチームを編成し、属性相性やエネルギー、技・交代・防御を駆使して戦うターン制バトルを楽しめる。</description>
-    </item>
-    <item>
-      <title>『きかんしゃトーマス』トップハム・ハット卿が“金色”になってガチャに帰ってくる。水着姿も健在の“めじるしガチャマスコット”が2027年2月発売</title>
-      <link>https://www.famitsu.com/article/202609/89396</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89396</guid>
-      <pubDate>Mon, 28 Sep 2026 11:20:00 GMT</pubDate>
-      <description>プセルトイ“トップハム・ハット卿 めじるしガチャマスコット-金のハット卿がやってきた-”が2027年2月に発売予定。好評を博したトップハム・ハット卿マスコットが、新たなラインアップとともに再登場。</description>
     </item>
   </channel>
 </rss>
