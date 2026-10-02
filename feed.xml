@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 02 Oct 2026 12:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:50:00 GMT</lastBuildDate>
+    <item>
+      <title>『日本事故物件監視協会4』が“制作中”と発表。実在する事故物件を監視し、朝まで耐え抜く異変探しホラーゲームシリーズ。詳細はまだ不明</title>
+      <link>https://www.famitsu.com/article/202610/89879</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89879</guid>
+      <pubDate>Fri, 02 Oct 2026 12:50:00 GMT</pubDate>
+      <description>『日本事故物件監視協会4』が制作中であることが発表された。現在3作品までリリースされている、事故物件を監視するホラーゲームシリーズ。</description>
+    </item>
     <item>
       <title>『The Witness』90％オフの“398円”でSteam過去最安値に。500個以上のパズルが待つ島を探索するシングルプレイ専用の謎解きゲーム。セールは10月9日まで</title>
       <link>https://www.famitsu.com/article/202610/89862</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89445</guid>
       <pubDate>Tue, 29 Sep 2026 04:12:00 GMT</pubDate>
       <description>Naughty Dogのサバイバルアクション『The Last of Us』シリーズのふたつの新規プロジェクトが進行中と発表された。</description>
-    </item>
-    <item>
-      <title>『エースコンバット8』アーリーアクセスが本日（9/29）開始。臨場感あふれるドッグファイト、英雄として戦場を駆けるキャンペーンモードを楽しめるナンバリング最新作</title>
-      <link>https://www.famitsu.com/article/202609/89443</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89443</guid>
-      <pubDate>Tue, 29 Sep 2026 04:00:00 GMT</pubDate>
-      <description>『ACE COMBAT 8: WINGS OF THEVE』のアーリーアクセスが2026年9月29日より開始された。アーリーアクセスはデラックスエディションまたは豪華版の購入で参加できる。</description>
     </item>
   </channel>
 </rss>
