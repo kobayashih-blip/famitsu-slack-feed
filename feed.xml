@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 02 Oct 2026 08:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:50:00 GMT</lastBuildDate>
+    <item>
+      <title>『戦乱プリンセス』11周年キャンペーンで最大100連無料ガチャ開催。お気に入りのUR将姫を最終進化まで育成可能</title>
+      <link>https://www.famitsu.com/article/202610/89817</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89817</guid>
+      <pubDate>Fri, 02 Oct 2026 08:50:00 GMT</pubDate>
+      <description>美少女戦国RPG『戦乱プリンセス』にて、サービス開始11周年を記念した御礼キャンペーンを開催。期間中は、お気に入りの3人を選んで育成できる最大100連無料ガチャを毎日引ける。</description>
+    </item>
     <item>
       <title>『To 666 Deliver or Die』怪異が潜む団地で命がけのフードデリバリー。“仕事だから逃げられない”ホラーアドベンチャーのSteamページ公開</title>
       <link>https://www.famitsu.com/article/202610/89799</link>
@@ -357,6 +364,20 @@
       <description>『遊戯王』生誕30周年記念で2026年12月より開催される“高橋和希原画展 YU-GI-OH! ART WORKS”にあわせ、劇場版『遊戯王 THE DARK SIDE OF DIMENSIONS』のリバイバル上映が、新宿バルト9ほか全国57館にて11月20日より行われる。</description>
     </item>
     <item>
+      <title>映画『魔法使いの夜』主題歌にてsupercellが再始動。やなぎなぎさんがボーカルを務めるのは約15年ぶり。ryo氏も思いの丈を綴る</title>
+      <link>https://www.famitsu.com/article/202609/89610</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89610</guid>
+      <pubDate>Wed, 30 Sep 2026 11:20:00 GMT</pubDate>
+      <description>映画『魔法使いの夜』の最終予告が公開された。この動画に使用されているのは、supercellの新曲『夜と青』。歌唱は、やなぎなぎさんが務める。</description>
+    </item>
+    <item>
+      <title>マ◯オっぽいキャラの大群を返り討ちにしろ！ 『Hostile Architect』は凶悪ステージを“つくる側”にまわるタワーディフェンスゲーム</title>
+      <link>https://www.famitsu.com/article/202609/89601</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89601</guid>
+      <pubDate>Wed, 30 Sep 2026 10:53:00 GMT</pubDate>
+      <description>SlidgeBitは、横スクロールのタワーディフェンスゲーム『Hostile Architect』を発表。Steamページを公開した。</description>
+    </item>
+    <item>
       <title>【コンアカ】『ちゃっくんぽっぷ』10月1日より配信。迷路の天井や壁を走って“もんすた”からハートを取り戻すアクション</title>
       <link>https://www.famitsu.com/article/202609/89591</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89591</guid>
@@ -684,27 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89399</guid>
       <pubDate>Mon, 28 Sep 2026 10:02:00 GMT</pubDate>
       <description>『FF10』のピアノソロコンサート“FINAL FANTASY X 25th Anniversary Piano Solo Concert”が宮城、福岡、大阪、愛知、東京で開催される。</description>
-    </item>
-    <item>
-      <title>『ふまんぐーる』“遅刻すると死ぬ”呪いにかかった少女の通学アクション体験版が10月8日配信。ランゲームや着せ替えをプレイ可能。ストレス過多でバケモノも出現</title>
-      <link>https://www.famitsu.com/article/202609/89371</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89371</guid>
-      <pubDate>Mon, 28 Sep 2026 10:00:00 GMT</pubDate>
-      <description>PC（Steam）向け通学アクション『ふまんぐーる』の体験版が2026年10月8日に配信。短めのストーリーやランゲーム、着せ替えなどが楽しめる。</description>
-    </item>
-    <item>
-      <title>『.hack//G.U. Vol.2 君想フ声』20周年、3rdフォームのハセヲとオーヴァンの記念イラストが公開。新規描き下ろしアクスタ（全6種）が今冬発売</title>
-      <link>https://www.famitsu.com/article/202609/89363</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89363</guid>
-      <pubDate>Mon, 28 Sep 2026 08:30:00 GMT</pubDate>
-      <description>『.hack//G.U. Vol.2 君想フ声』20周年を記念し、お祝いイラストの公開および新規描き下ろしグッズ情報を発表。お祝いイラストは細川誠一郎氏と星樹氏による描き下ろしで、3rdフォームの主人公ハセヲと、彼と対峙するオーヴァンが描かれている。</description>
-    </item>
-    <item>
-      <title>『大海獣少女防衛戦』巨大少女どうしによる迫力海上バトル。大海獣少女のヘアピンに艦砲を装備して戦う射撃ディフェンスがSteamに登場</title>
-      <link>https://www.famitsu.com/article/202609/89344</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89344</guid>
-      <pubDate>Mon, 28 Sep 2026 08:00:00 GMT</pubDate>
-      <description>巨大少女に現代兵器を装備して自国を防衛する射撃ディフェンス『大海獣少女防衛戦』が発表。本日2026年9月28日よりSteamストアページが公開された。</description>
     </item>
   </channel>
 </rss>
