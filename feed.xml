@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 02 Oct 2026 03:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:20:00 GMT</lastBuildDate>
+    <item>
+      <title>『FF』40周年オケコン世界ツアー開催決定。豪華生演奏とゲーム映像が融合する特別プログラム。日本公演は2027年3月に東京・大阪で実施</title>
+      <link>https://www.famitsu.com/article/202610/89766</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89766</guid>
+      <pubDate>Fri, 02 Oct 2026 03:20:00 GMT</pubDate>
+      <description>『ファイナルファンタジー』40周年記念オーケストラコンサートが世界ツアー開催決定。日本公演は3月20日・21日に東京国際フォーラム、3月27日・28日にグランキューブ大阪で実施される。</description>
+    </item>
     <item>
       <title>『ウルトラマン』が競輪・オートレース投票サービス『TIPSTAR』とコラボ。的中演出で歴代ウルトラヒーローや怪獣が登場</title>
       <link>https://www.famitsu.com/article/202610/89722</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89257</guid>
       <pubDate>Sun, 27 Sep 2026 22:00:00 GMT</pubDate>
       <description>最大6人マルチ対応のラーメン店経営ゲーム『Japanese Ramen Simulator』Steamアーリーアクセス版が2026年9月28日より発売。食材の仕込みから片付けまで体験。ラーメン評論家がやってくることも。</description>
-    </item>
-    <item>
-      <title>『シャニマス』ノクチルの単独xRライブイベントが2027年3月27日、28日にゼビオアリーナ仙台にて開催決定【ソロライブMSP Day2最新情報まとめ】</title>
-      <link>https://www.famitsu.com/article/202609/89303</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89303</guid>
-      <pubDate>Sun, 27 Sep 2026 14:22:00 GMT</pubDate>
-      <description>2026年9月27日、京王アリーナTOKYOにて開催された『アイドルマスター シャイニーカラーズ』（シャニマス）のライブイベント“283 PRODUCTION Solo Live Collection -Master ShowPiece-”DAY2で公開された同作の新情報をまとめてお届け。</description>
     </item>
   </channel>
 </rss>
