@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 04 Oct 2026 07:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 09:10:00 GMT</lastBuildDate>
+    <item>
+      <title>『Figure Me Out』頭に書かれた数字を入力されたら負けのサバイバルアクションのストアページが公開。自分の数字が見られないように敵に数字を見る異色の対戦アクション</title>
+      <link>https://www.famitsu.com/article/202610/89992</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89992</guid>
+      <pubDate>Sun, 04 Oct 2026 09:10:00 GMT</pubDate>
+      <description>頭に書かれた数字を入力して敵を倒す『Figure Me Out』のストアページが公開された。リリースは、2026年10月を予定。</description>
+    </item>
     <item>
       <title>『レゴ プレイステーション』10月4日から一般販売を開始。初代プレイステーションを精巧に再現。フタの中には『サルゲッチュ』と『グランツーリスモ』のジオラマも</title>
       <link>https://www.famitsu.com/article/202610/89988</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89523</guid>
       <pubDate>Tue, 29 Sep 2026 15:30:00 GMT</pubDate>
       <description>サイバーパンク都市のラーメン屋などを営業できる経営シム『Nivalis Nights』がSteamで配信開始。</description>
-    </item>
-    <item>
-      <title>『Project S.U.N.D.I.A.L』終末世界で戦う2D脱出シューター発表。『S.T.A.L.K.E.R.』『Escape from Tarkov』にインスパイアされたPvPvEサバイバル</title>
-      <link>https://www.famitsu.com/article/202609/89490</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89490</guid>
-      <pubDate>Tue, 29 Sep 2026 15:00:00 GMT</pubDate>
-      <description>『S.T.A.L.K.E.R.』『Escape from Tarkov』にインスパイアされたPC向け新作PvPvE脱出シューター『Project S.U.N.D.I.A.L.』が発表。あわせてトレーラーが公開された。</description>
     </item>
   </channel>
 </rss>
