@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Oct 2026 21:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 01:50:00 GMT</lastBuildDate>
+    <item>
+      <title>『DbD（デッドバイデイライト）』が『ニーア オートマタ』とコラボ。10月7日からゲーム内にコレクションが登場予定</title>
+      <link>https://www.famitsu.com/article/202610/89978</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89978</guid>
+      <pubDate>Sun, 04 Oct 2026 01:50:00 GMT</pubDate>
+      <description>『Dead by Daylight』（デッド・バイ・デイライト）のX公式アカウントにて、スクウェア・エニックスのRPG作品『NieR:Automata』（ニーアオートマタ）とのコラボレーションが発表された。</description>
+    </item>
     <item>
       <title>アニメ『デジモン』傑作選『僕らが選んだベストアドベンチャー』本日（10/4）朝9時より放送。シリーズ初期4作品から人気エピソードを厳選</title>
       <link>https://www.famitsu.com/article/202610/89962</link>
@@ -350,20 +357,6 @@
       <description>防衛シューティング『タレットと少女』を手掛けるナナイロ・エンタープライズの新作『LitGirls 文学迷宮と少女』が発表。“Girls World”の第2弾タイトルであり、4人の少女でパーティーを組み、ダンジョンを探索しながらコマンドバトルで戦うRPG。『タレットと少女』のレイヴンも登場する。</description>
     </item>
     <item>
-      <title>【USJ】『薬屋のひとりごと』コラボが再び開催決定。『劇場版 亡妃の秘宝』と連動し、水上都市が舞台の新たなプログラムが登場</title>
-      <link>https://www.famitsu.com/article/202610/89690</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89690</guid>
-      <pubDate>Thu, 01 Oct 2026 06:50:00 GMT</pubDate>
-      <description>ユニバーサル・スタジオ・ジャパンは、アニメ『薬屋のひとりごと』との2回目となるコラボを発表した。2027年2月10日～6月30日の期間限定で開催。『劇場版 薬屋のひとりごと 亡妃の秘宝』と連動したた新たなプログラムも登場する。</description>
-    </item>
-    <item>
-      <title>『アビスリング』モンスターを料理するダンジョン探索アクション。オークはとんかつ、ミノタウロスは丼、スライムはゼリーに調理【10月26日発売】</title>
-      <link>https://www.famitsu.com/article/202610/89672</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89672</guid>
-      <pubDate>Thu, 01 Oct 2026 06:38:00 GMT</pubDate>
-      <description>モンスターを料理しながらダンジョン最深層を目指すアクション『Abyss Ring』（アビスリング）が2026年10月26日15時にPC（Steam）で発売決定した。</description>
-    </item>
-    <item>
       <title>『遺跡掘り』ホリのSwitchギターコントローラがシャベルになる。掘りまくって遺物を発見する発掘ゲームが配信開始</title>
       <link>https://www.famitsu.com/article/202610/89653</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/89653</guid>
@@ -705,6 +698,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89502</guid>
       <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
       <description>ローグライクスピニングRPG『魔法使いの従者SweetWitch』がNintendo Switchで2026年10月1日にリリース。Steam版からグラフィックを刷新したほか、快適なプレイを楽しめる新モード“SweetWitchモード”を追加するなど、大幅なブラッシュアップが施されている。</description>
+    </item>
+    <item>
+      <title>『ボボボーボ・ボーボボ』新作香水がボーボボ展で先行発売。ソフトンは爽やかで甘い香り。「ぬ」のハンドクリームも</title>
+      <link>https://www.famitsu.com/article/202609/89510</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89510</guid>
+      <pubDate>Tue, 29 Sep 2026 10:36:00 GMT</pubDate>
+      <description>『ボボボーボ・ボーボボ』のキャラクターをイメージした香水が、2026年9月30日より“ボボボーボ・ボーボボ展 DIVE INTO THE BO-BOBO WORLD”にて発売される。オンライン受注販売にも対応。</description>
     </item>
   </channel>
 </rss>
