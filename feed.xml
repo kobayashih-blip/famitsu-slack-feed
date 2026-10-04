@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 04 Oct 2026 01:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 03:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『エヴァ』30周年記念フェスがBlu-ray化。緒方恵美や庵野秀明ら登壇のトーク、エヴァ歌舞伎、高橋洋子ライブなど熱狂の3日間を収録</title>
+      <link>https://www.famitsu.com/article/202610/89841</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89841</guid>
+      <pubDate>Sun, 04 Oct 2026 03:00:00 GMT</pubDate>
+      <description>アニメ『エヴァンゲリオン』シリーズ初の30周年記念フェス“EVANGELION:30+； 30th ANNIVERSARY OF EVANGELION”を収録した『EVANGELION:30+； Blu-ray BOX』が2027年2月24日（水）に発売される。</description>
+    </item>
     <item>
       <title>『DbD（デッドバイデイライト）』が『ニーア オートマタ』とコラボ。10月7日からゲーム内にコレクションが登場予定</title>
       <link>https://www.famitsu.com/article/202610/89978</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89514</guid>
       <pubDate>Tue, 29 Sep 2026 12:14:00 GMT</pubDate>
       <description>『RyzaChat:AI ライザと創るあなただけのひと夏の夢物語』の開発や運営を担当するSpiralAIより、キャラクターを守るための方針と今後の対応が発表された。</description>
-    </item>
-    <item>
-      <title>『Nivalis Nights』サイバーパンク都市でラーメン屋を経営できるライフシム。住人たちと交流でき、ときには恋も見つかる？【9月30日発売】</title>
-      <link>https://www.famitsu.com/article/202609/89509</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89509</guid>
-      <pubDate>Tue, 29 Sep 2026 11:30:00 GMT</pubDate>
-      <description>サイバーパンク・ライフシミュレーションゲーム『Nivalis Nights』（二ヴァリス・ナイツ）がPC向けに2026年9月30日に発売された。</description>
     </item>
   </channel>
 </rss>
