@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 04 Oct 2026 11:20:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 11:30:00 GMT</lastBuildDate>
+    <item>
+      <title>『ツイステ』新キャラ・ヌガー（声：福山潤）の情報が解禁。期間限定イベント“シュガー・レース ～おかしな世界と歪んだ王冠～”のストーリーで登場</title>
+      <link>https://www.famitsu.com/article/202610/89876</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89876</guid>
+      <pubDate>Sun, 04 Oct 2026 11:30:00 GMT</pubDate>
+      <description>『ディズニー ツイステッドワンダーランド』期間限定イベント“シュガー・レース ～おかしな世界と歪んだ王冠～”が10月5日より開催。新キャラクターのヌガー（声：福山潤さん）がストーリーにて登場する。</description>
+    </item>
     <item>
       <title>【90%オフ】『ファークライ6』Steam版が924円でセール中。『ファークライ』シリーズ8タイトルがセットのバンドルは32868円が5929円に。数年は遊べそう</title>
       <link>https://www.famitsu.com/article/202610/89994</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89495</guid>
       <pubDate>Wed, 30 Sep 2026 01:00:00 GMT</pubDate>
       <description>Amazonプライムビデオの2026年10月新着作品ラインアップが公開。実写映画『8番出口』や『マインクラフト／ザ・ムービー』、『SAKAMOTO DAYS』（サカモトデイズ）などが配信される。</description>
-    </item>
-    <item>
-      <title>『トイ・ストーリー』一番くじが本日（9/30）発売。シドに改造されたおもちゃたちがフィギュアに。ベビーフェイスやレッグスなどがミニサイズで立体化</title>
-      <link>https://www.famitsu.com/article/202609/89493</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89493</guid>
-      <pubDate>Tue, 29 Sep 2026 21:30:00 GMT</pubDate>
-      <description>『トイ・ストーリー』の一番くじ新作“Playtime pals forever（遊び仲間は永遠に）”が2026年9月30日より順次発売。シドに改造されたおもちゃ“ミュータント・トイ”が多数フィギュア化。</description>
     </item>
   </channel>
 </rss>
