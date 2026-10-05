@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Oct 2026 03:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『ボーン・トゥ・ピック』身元不明の被害者を調査し、犯人を追う法医学ミステリーアドベンチャーが2027年に発売。10月8日より体験版が配信</title>
+      <link>https://www.famitsu.com/article/202610/90023</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90023</guid>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
+      <description>PC（Steam）用ソフト『Bone to Pick/ボーン・トゥ・ピック ～骨から始まる事件簿～』が2027年初頭に発売、2026年10月8日より体験版が配信開始される。本作は、法医学研究機関の新人研修生となり、身元不明となった被害者の遺体を調査して犯人を追うミステリーアドベンチャーゲーム。</description>
+    </item>
     <item>
       <title>『トロッコ問題は、問題じゃない。』ぶつかったものすべてが“車両”になる、異色の列車ローグライトが10月19日より早期アクセス開始。どちらか選べないならどっちも跳ね飛ばせばいい</title>
       <link>https://www.famitsu.com/article/202610/90024</link>
@@ -350,11 +357,11 @@
       <description>PC向けゲーム『CottageCore』のSteamページとアナウンストレーラーを公開。草地に家や塔を建築し、村人の仕事や暮らしを支えながら冬に向けて物資を整えるサンドボックスシミュレーション。</description>
     </item>
     <item>
-      <title>『007 ファーストライト』無料DLCが配信開始。武装したアストンマーティンで爆走するヴァルハラプロトコル、ニューゲーム+、フォトモードなどが追加</title>
-      <link>https://www.famitsu.com/article/202610/89740</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89740</guid>
-      <pubDate>Thu, 01 Oct 2026 13:51:00 GMT</pubDate>
-      <description>『007 ファーストライト』無料大型ダウンロードコンテンツ“Extended Operations”が配信開始。ヴァルハラプロトコル、ニューゲーム+、フォトモードなど多彩な要素が追加されている。</description>
+      <title>【ソフト＆ハード週間販売数】『ダービースタリオン2』が首位！ 『SILENT HILL： Townfall』、Switch2版『ドラクエ11S』、『EA SPORTS FC 27』もトップ10にランクイン【9/21～9/27】</title>
+      <link>https://www.famitsu.com/article/202610/89721</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89721</guid>
+      <pubDate>Thu, 01 Oct 2026 13:00:00 GMT</pubDate>
+      <description>ファミ通発表の売上ランキング。今回は2026年9月21日～9月27日のゲームソフト＆ハード週間推定販売数まとめをお届け。</description>
     </item>
     <item>
       <title>『タイズ オブ トゥモロー』PS5パッケージ版が12月17日発売。ほかプレイヤーの選択が物語に影響するナラティブアドベンチャー</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89535</guid>
       <pubDate>Wed, 30 Sep 2026 03:30:00 GMT</pubDate>
       <description>『星のカービィ』と“黒ひげ危機一発”のコラボ商品が12月26日に発売。タカラトミーグループの関連玩具6種やベビー向け商品、ガチャ商品は11月から順次発売予定。</description>
-    </item>
-    <item>
-      <title>『夢幻桜楼閣』褐色猫耳フード娘のローグライト3Dアクション11月5日発売。限定グッズや先行アクセスキーがもらえるクラウドファンディングがスタート</title>
-      <link>https://www.famitsu.com/article/202609/89539</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89539</guid>
-      <pubDate>Wed, 30 Sep 2026 03:10:00 GMT</pubDate>
-      <description>『夢幻桜楼閣』がNintendo SwitchとSteam向けに2026年11月5日発売予定。褐色猫耳フード娘が絶えず変化する迷宮に挑むローグライト3Dアクション。</description>
     </item>
   </channel>
 </rss>
