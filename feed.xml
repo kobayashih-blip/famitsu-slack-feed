@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 04 Oct 2026 19:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 01:00:00 GMT</lastBuildDate>
+    <item>
+      <title>【彩京メモリーズ】『ストライカーズ1945』『ガンバード』など彩京のアーケードシューティング12タイトルがセットになって発売。小冊子などが同梱される特装版も登場</title>
+      <link>https://www.famitsu.com/article/202610/89986</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89986</guid>
+      <pubDate>Mon, 05 Oct 2026 01:00:00 GMT</pubDate>
+      <description>エディアは、彩京が過去に手掛けたアーケードシューティングゲーム12タイトルをセットにした『彩京Memories』を、2027年2月18日に発売することを発表した。</description>
+    </item>
     <item>
       <title>『新テニスの王子様』跡部景吾とプレミアムガーナがコラボ。「おや… 俺様の好きなプレミアムじゃねーの」などコメント20種、描き下ろし4種も公開</title>
       <link>https://www.famitsu.com/article/202610/89833</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89452</guid>
       <pubDate>Wed, 30 Sep 2026 03:01:00 GMT</pubDate>
       <description>ゲームを愛するお笑い芸人が、ゲームにまつわるネタで競う“お笑いゲームネタNo.1決定戦 ゲームネタグランプリ”。3年半ぶりの第3回大会は、2026年10月28日（水）19時より“ファミ通TUBE”にて放送決定！</description>
-    </item>
-    <item>
-      <title>アイディアファクトリーがADV専門の新ブランド“IFChronicle”を発表。第1弾『ICONOLOGY（イコノロジー）』は容疑者の脳内イメージを“絵画”として抽出し、事件を追うクライムサスペンス</title>
-      <link>https://www.famitsu.com/article/202609/89483</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89483</guid>
-      <pubDate>Wed, 30 Sep 2026 02:30:00 GMT</pubDate>
-      <description>“オトメイト”を展開し、コンパイルハートをグループ会社に持つアイディアファクトリーから、アドベンチャーゲーム専門の新ブランド“IFChronicle”が誕生。第1弾となる新作も発表！</description>
     </item>
   </channel>
 </rss>
