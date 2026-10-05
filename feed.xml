@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Oct 2026 07:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:00:00 GMT</lastBuildDate>
+    <item>
+      <title>【ポケモン】N響クラシックコンサートがYouTubeで無料公開。8月21日開催の東京公演の模様を放送。『赤・緑』のオープニングテーマなど数々の名曲をオーケストラで</title>
+      <link>https://www.famitsu.com/article/202610/90031</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90031</guid>
+      <pubDate>Mon, 05 Oct 2026 08:00:00 GMT</pubDate>
+      <description>2026年10月5日19時より、N響×ポケモン クラシックコンサートツアーの映像がYouTubeでプレミア公開される。</description>
+    </item>
     <item>
       <title>コジマプロダクションのシンボルキャラクター・ルーデンスがプラモ化。プロダクション10周年を記念した立体化</title>
       <link>https://www.famitsu.com/article/202610/89993</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202609/89556</guid>
       <pubDate>Wed, 30 Sep 2026 07:10:00 GMT</pubDate>
       <description>『ウェイ オブ ザ ハンター2』広大な自然を舞台に多彩な狩りが楽しめるハンティングシュミレーション。PC（Steam）、PS5、Xbox Series X|S向けダウンロード版が本日（9/30）発売。</description>
-    </item>
-    <item>
-      <title>『Dinolords』復活した恐竜を従える“中世ジュラ紀”の街づくりストラテジー。最大8人で覇権を競うマルチプレイモードも搭載</title>
-      <link>https://www.famitsu.com/article/202609/89557</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89557</guid>
-      <pubDate>Wed, 30 Sep 2026 07:00:00 GMT</pubDate>
-      <description>『Dinolords』の体験版がSteamにて2026年10月19日に配信予定。リアルタイムストラテジーと街づくり、アクションRPGが融合した“ハック・アンド・ストラテジー”ゲーム。恐竜が復活した中世イングランドを舞台に、プレイヤーは領主として砦を築き、恐竜を従えたデーン人の侵攻に立ち向かう。</description>
     </item>
   </channel>
 </rss>
