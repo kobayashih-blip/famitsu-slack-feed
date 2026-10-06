@@ -5,21 +5,7 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Oct 2026 06:12:00 GMT</lastBuildDate>
-    <item>
-      <title>『モンハンライズ』累計販売本数2000万本を突破。『モンハンワールド』に次いで2番目となるカプコンの2000万本セールスタイトルに</title>
-      <link>https://www.famitsu.com/article/202610/90149</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90149</guid>
-      <pubDate>Tue, 06 Oct 2026 06:12:00 GMT</pubDate>
-      <description>『モンスターハンターライズ』の累計販売本数が2000万本を突破した。</description>
-    </item>
-    <item>
-      <title>『CLAWSTROPHOBIA』命がけのクレーンゲームで借金を返済。スキルの組み合わせでぶっ壊れスコアを叩き出すデッキ構築ローグライトのデモ版がSteamで配信</title>
-      <link>https://www.famitsu.com/article/202610/90121</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90121</guid>
-      <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
-      <description>クレーンゲームが題材のデッキ構築ローグライト『CLAWSTROPHOBIA』（クローストフォビア）のデモ版がSteamにて配信。製品版は2026年11月1日に発売予定。</description>
-    </item>
+    <lastBuildDate>Tue, 06 Oct 2026 05:07:00 GMT</lastBuildDate>
     <item>
       <title>『フロストパンク』Switch版が10月19日発売。極寒世界で地球最後の都市を運営するサバイバルゲーム。蒸気を動力源とした技術で寒さに立ち向かう</title>
       <link>https://www.famitsu.com/article/202610/90131</link>
@@ -32,7 +18,7 @@
       <link>https://www.famitsu.com/article/202610/90145</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90145</guid>
       <pubDate>Tue, 06 Oct 2026 04:50:00 GMT</pubDate>
-      <description>PC向けミステリーアドベンチャーゲーム『天使機構 執行部魂救済課』の無料体験版（デモ版）が、Steamにて2026年10月9日より配信される。</description>
+      <description></description>
     </item>
     <item>
       <title>『Japanese Ramen Simulator』10月9日17時より配信開始。注目のラーメンシミュレーターの新たな発売日が決定</title>
@@ -705,6 +691,20 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/89585</guid>
       <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
       <description>『夜の名前』2000年のアーケード音ゲー文化を描いたノスタルジックなADVの体験版が2026年10月1日に配信開始された。</description>
+    </item>
+    <item>
+      <title>須田剛一氏率いるグラスホッパー・マニファクチュアがNetEase Games傘下から独立を発表。今後も良好な関係を大切に</title>
+      <link>https://www.famitsu.com/article/202609/89620</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89620</guid>
+      <pubDate>Wed, 30 Sep 2026 13:13:00 GMT</pubDate>
+      <description>『シルバー事件』シリーズ、『killer7』、『ノーモア★ヒーローズ』シリーズなどを手掛けるゲーム開発会社のグラスホッパー・マニファクチュアがNetEase Gamesの傘下より独立したことを発表。</description>
+    </item>
+    <item>
+      <title>『肝試しオンライン』怪異が出る夜の校舎でみんなで肝試し。怖い目にあって視聴者を増やしていくオンラインマルチプレイホラーゲーム10月末発売予定</title>
+      <link>https://www.famitsu.com/article/202609/89616</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202609/89616</guid>
+      <pubDate>Wed, 30 Sep 2026 13:00:00 GMT</pubDate>
+      <description>非対称オンライン肝試し『肝試しオンライン』が発表された。配信は10月末予定。パン田氏（開発・ディレクション）、兎澄ツミキ氏（原案・デザイン）が手がけるオンラインマルチプレイホラーゲーム。</description>
     </item>
   </channel>
 </rss>
