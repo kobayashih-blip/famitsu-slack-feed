@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Oct 2026 06:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 07:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『ガンズ・オブ・エスカトン』限られた弾丸とパリィで終末世界と化したアメリカを生き延びろ。西部劇ソウルライクFPSのデモ版がSteamで配信</title>
+      <link>https://www.famitsu.com/article/202610/90132</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90132</guid>
+      <pubDate>Tue, 06 Oct 2026 07:00:00 GMT</pubDate>
+      <description>西部劇ソウルライクFPS『ガンズ・オブ・エスカトン』デモ版がSteamにて配信中。プレイヤーは謎めいたガンスリンガーとなり、限られた弾丸やパリィを駆使しながら終末世界と化した19世紀アメリカを旅する。</description>
+    </item>
     <item>
       <title>『モンハンライズ』累計販売本数2000万本を突破。『モンハンワールド』に次いで2番目となるカプコンの2000万本セールスタイトルに</title>
       <link>https://www.famitsu.com/article/202610/90149</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/89481</guid>
       <pubDate>Thu, 01 Oct 2026 01:00:00 GMT</pubDate>
       <description></description>
-    </item>
-    <item>
-      <title>『夜の名前』平成アーケード音ゲー文化を描いたテキストADV体験版が10月1日配信。特別実装のサウンドルームにて高音質のBGMが試聴可能に</title>
-      <link>https://www.famitsu.com/article/202610/89585</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89585</guid>
-      <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
-      <description>『夜の名前』2000年のアーケード音ゲー文化を描いたノスタルジックなADVの体験版が2026年10月1日に配信開始された。</description>
     </item>
   </channel>
 </rss>
