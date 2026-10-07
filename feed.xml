@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Oct 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 21:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『ドラクエ』しまむらコラボのオンライン発売が本日（10/8）10時からスタート。モーモンとももんじゃのニット帽や、スライムのイヤーマフラーなどが発売</title>
+      <link>https://www.famitsu.com/article/202610/90318</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90318</guid>
+      <pubDate>Wed, 07 Oct 2026 21:00:00 GMT</pubDate>
+      <description>『ドラゴンクエスト』としまむらのコラボが開催中。オンラインでの販売が本日2026年10月8日10時より開始となる。</description>
+    </item>
     <item>
       <title>『ワロタ、俺の家のとなり魔王城www』Steam体験版が配信開始。アイドル魔王のせいで荒れ果てている世界で村を発展させるアクションRPG</title>
       <link>https://www.famitsu.com/article/202610/90310</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/89766</guid>
       <pubDate>Fri, 02 Oct 2026 03:20:00 GMT</pubDate>
       <description>『ファイナルファンタジー』40周年記念オーケストラコンサートが世界ツアー開催決定。日本公演は3月20日・21日に東京国際フォーラム、3月27日・28日にグランキューブ大阪で実施される。</description>
-    </item>
-    <item>
-      <title>『ウルトラマン』が競輪・オートレース投票サービス『TIPSTAR』とコラボ。的中演出で歴代ウルトラヒーローや怪獣が登場</title>
-      <link>https://www.famitsu.com/article/202610/89722</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89722</guid>
-      <pubDate>Fri, 02 Oct 2026 03:00:00 GMT</pubDate>
-      <description>競輪・オートレース投票サービス『TIPSTAR』にて、『ウルトラマン』シリーズとのコラボが開催。ウルトラマン仕様の着せ替え、的中演出などコラボ内容も一挙公開。</description>
     </item>
   </channel>
 </rss>
