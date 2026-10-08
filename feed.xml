@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Oct 2026 09:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:30:00 GMT</lastBuildDate>
+    <item>
+      <title>アニメ『このすば』TVシリーズ全33話＆劇場版、スピンオフ作品を無料でイッキ見！ 10月9日19時よりABEMA特設チャンネルで期間限定配信</title>
+      <link>https://www.famitsu.com/article/202610/90394</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90394</guid>
+      <pubDate>Thu, 08 Oct 2026 09:30:00 GMT</pubDate>
+      <description>ABEMAは、アニメ『この素晴らしい世界に祝福を！』の放送10周年を記念し、2026年10月9日（金）19時より『この素晴らしい世界に祝福を！ ABEMAチャンネル』を期間限定で開設。アニメ第1期から第3期までの全33話に加え、劇場版やスピンオフ作品を5日間にわたって毎日無料配信する。</description>
+    </item>
     <item>
       <title>大型ゲームイベント“WePlay Expo JAPAN 2027”が2027年4月2日～4日に幕張メッセで開催。AAAタイトルからインディータイトルまでが集まる場に</title>
       <link>https://www.famitsu.com/article/202610/90417</link>
@@ -217,13 +224,6 @@
       <description>『映画ちいかわ 人魚の島のひみつ』の入場者特典“第3弾・第4弾・第6弾”が、年内にリバイバル配布される。また、本発表に合わせて第2弾メインビジュアルも解禁された。</description>
     </item>
     <item>
-      <title>ジグソーパズル×整理整頓シム『パニック！アット・ザ・ジグソー』体験版がSteamで配信開始。床一面のピースを片付けながら名画を復元。忍耐強さが試される</title>
-      <link>https://www.famitsu.com/article/202610/90262</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90262</guid>
-      <pubDate>Wed, 07 Oct 2026 07:10:00 GMT</pubDate>
-      <description>PC向け新作整理整頓シミュレーター『パニック！ アット・ザ・ジグソー』の体験版が、Steamにて配信開始。散らかったジグソーパズルをひたすら整理して、美しい名画を完成させよう。</description>
-    </item>
-    <item>
       <title>『ガーデン ソウル』格ゲー的爽快コンボが魅力のローグライトアクション。Steam体験版が配信開始、発表から1週間で1万ウィッシュリストを突破</title>
       <link>https://www.famitsu.com/article/202610/90279</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90279</guid>
@@ -355,6 +355,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90148</guid>
       <pubDate>Tue, 06 Oct 2026 09:30:00 GMT</pubDate>
       <description>『ヴァンサバ』のデッキ構築型カードゲーム『Vampire Crawlers: The Turbo Wildcard from Vampire Survivors』のスマホ版が2026年10月12日に発売決定した。</description>
+    </item>
+    <item>
+      <title>手描きアニメの3Dダンジョンクローラー『Greed &amp; Darkness』の体験版が配信中。リアルタイムアクションのバトルや明暗を使い分ける探索が展開</title>
+      <link>https://www.famitsu.com/article/202610/90166</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90166</guid>
+      <pubDate>Tue, 06 Oct 2026 07:14:00 GMT</pubDate>
+      <description>Steamにて、1人称視点の3Dダンジョンクローラー『Greed &amp; Darkness』の体験版が公開中。松明の明かりを灯すか消すかがカギを握る探索や、リアルタイムアクションでのバトルが展開する。モノトーン調で描かれた手描きアニメーションが印象的。</description>
     </item>
     <item>
       <title>『ガンズ・オブ・エスカトン』限られた弾丸とパリィで終末世界と化したアメリカを生き延びろ。西部劇ソウルライクFPSのデモ版がSteamで配信</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/89840</guid>
       <pubDate>Fri, 02 Oct 2026 10:30:00 GMT</pubDate>
       <description>SIEは、2026年10月24日に“PlayStation 祭”を大阪で開催する。開催時間は11時～19時まで。会場では東京ゲームショウ2026に試遊出展された『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などPS5向けタイトルを体験できる。</description>
-    </item>
-    <item>
-      <title>『RADIOSOL』惑星規模の大災害により荒廃した世界を旅するハードSFウォーキングシミュレーターが販売開始</title>
-      <link>https://www.famitsu.com/article/202610/89581</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89581</guid>
-      <pubDate>Fri, 02 Oct 2026 10:30:00 GMT</pubDate>
-      <description>TripletConceptは、荒廃した世界を旅するゲーム『RADIOSOL』（ラジオソル）を発売した。</description>
     </item>
   </channel>
 </rss>
