@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Oct 2026 10:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『Good Night』“寝相の悪さ”で戦う最大4人対戦パーティーゲーム、無料体験版が配信開始。寝返りともがきで相手を蹴落とし、ベッドでの快適な睡眠を手に入れよう</title>
+      <link>https://www.famitsu.com/article/202610/90409</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90409</guid>
+      <pubDate>Thu, 08 Oct 2026 11:00:00 GMT</pubDate>
+      <description>PC（Steam）向けソフト『Good Night』の体験版が10月8日（木）より配信開始。本作は、物理演算によって動く寝ているキャラクターを操作し、突き飛ばしたり蹴とばしたりしながら、相手をベッドから落とし合う最大4人プレイ可能なパーティーゲームだ。</description>
+    </item>
     <item>
       <title>『さとり中二病相談室 第二現実の翻訳者』中二病の来訪者たちから「隠れた本音」を読み解くアドベンチャーが10月9日に発売。わかってもらえない痛みに寄り添う物語</title>
       <link>https://www.famitsu.com/article/202610/90428</link>
@@ -250,6 +257,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90293</guid>
       <pubDate>Wed, 07 Oct 2026 07:17:00 GMT</pubDate>
       <description>『映画ちいかわ 人魚の島のひみつ』の入場者特典“第3弾・第4弾・第6弾”が、年内にリバイバル配布される。また、本発表に合わせて第2弾メインビジュアルも解禁された。</description>
+    </item>
+    <item>
+      <title>ジグソーパズル×整理整頓シム『パニック！アット・ザ・ジグソー』体験版がSteamで配信開始。床一面のピースを片付けながら名画を復元。忍耐強さが試される</title>
+      <link>https://www.famitsu.com/article/202610/90262</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90262</guid>
+      <pubDate>Wed, 07 Oct 2026 07:10:00 GMT</pubDate>
+      <description>PC向け新作整理整頓シミュレーター『パニック！ アット・ザ・ジグソー』の体験版が、Steamにて配信開始。散らかったジグソーパズルをひたすら整理して、美しい名画を完成させよう。</description>
     </item>
     <item>
       <title>『ガーデン ソウル』格ゲー的爽快コンボが魅力のローグライトアクション。Steam体験版が配信開始、発表から1週間で1万ウィッシュリストを突破</title>
@@ -691,20 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/89911</guid>
       <pubDate>Sat, 03 Oct 2026 03:00:00 GMT</pubDate>
       <description>2026年10月3日～4日開催の『刀剣乱舞』のアイスショー『刀剣乱舞 - ICE BLADE -』。2027年2月24日に発売されるブルーレイ&amp;DVDの情報が公開。</description>
-    </item>
-    <item>
-      <title>『Japanese Ramen Simulator』新しい発売日はSteam審査が終わりしだい発表。発売延期の件について続報公開。クローズドβテストも新たに開催</title>
-      <link>https://www.famitsu.com/article/202610/89905</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89905</guid>
-      <pubDate>Sat, 03 Oct 2026 02:05:00 GMT</pubDate>
-      <description>ラーメン店経営ゲーム『Japanese Ramen Simulator』発売延期の件について、開発が進捗を発表。新しい発売日時は不明。そのお詫びと、動作確認や改善を兼ねた第4回クローズドβテストを開催する。</description>
-    </item>
-    <item>
-      <title>【ガンダム】一番くじが本日（10/3）発売。アムロやシャア、シロッコ、コウ・ウラキの表情チャームが欲しすぎる</title>
-      <link>https://www.famitsu.com/article/202610/89734</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89734</guid>
-      <pubDate>Fri, 02 Oct 2026 21:30:00 GMT</pubDate>
-      <description>宇宙世紀シリーズがテーマの『機動戦士ガンダム』一番くじ新作が本日2026年10月3日より発売される。</description>
     </item>
   </channel>
 </rss>
