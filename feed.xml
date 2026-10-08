@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Oct 2026 10:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:30:00 GMT</lastBuildDate>
+    <item>
+      <title>『トトと魔法の旅』“オズの魔法使い”の忠犬が主人公のパズルアドベンチャー。試練を乗り越えて魔法の力を獲得し、主人のドロシーを探す</title>
+      <link>https://www.famitsu.com/article/202610/90427</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90427</guid>
+      <pubDate>Thu, 08 Oct 2026 10:30:00 GMT</pubDate>
+      <description>Steamにて、『トトと魔法の旅』（原題：『Toto’s Journey』）が2026年第4四半期に発売予定。本作は、『オズの魔法使い』の主人公であるドロシーの愛犬であるトトを主役に据えたパズルアドベンチャーゲーム。</description>
+    </item>
     <item>
       <title>『Order of the Sinking Star』1000以上のパズルが待ち受ける広大な異世界。『Braid』『The Witness』のディレクターが手がける大規模ナゾ解きプレイ【10/9発売】</title>
       <link>https://www.famitsu.com/article/202610/90405</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/89734</guid>
       <pubDate>Fri, 02 Oct 2026 21:30:00 GMT</pubDate>
       <description>宇宙世紀シリーズがテーマの『機動戦士ガンダム』一番くじ新作が本日2026年10月3日より発売される。</description>
-    </item>
-    <item>
-      <title>『日本事故物件監視協会4』が“制作中”と発表。実在する事故物件を監視し、朝まで耐え抜く異変探しホラーゲームシリーズ。詳細はまだ不明</title>
-      <link>https://www.famitsu.com/article/202610/89879</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89879</guid>
-      <pubDate>Fri, 02 Oct 2026 12:50:00 GMT</pubDate>
-      <description>『日本事故物件監視協会4』が制作中であることが発表された。現在3作品までリリースされている、事故物件を監視するホラーゲームシリーズ。</description>
     </item>
   </channel>
 </rss>
