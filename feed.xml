@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Oct 2026 21:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 22:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『EAT-MAN』完全新作アニメのティザービジュアル第2弾公開。“ネジ”が当たるプレゼントキャンペーンも開催</title>
+      <link>https://www.famitsu.com/article/202610/90406</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90406</guid>
+      <pubDate>Thu, 08 Oct 2026 22:00:00 GMT</pubDate>
+      <description>『EAT-MAN』完全新作アニメのティザービジュアル第2弾公開を記念し、公式Xでプレゼントキャンペーンがスタート。プレゼントの中には、主人公“ボルト・クランク”にちなんだ“ネジ”もラインアップ。</description>
+    </item>
     <item>
       <title>アニメ『アイカツ！』アンコール放送が本日（10/9）18:25よりスタート。原点となる1stシーズン全50話を新OP・EDで放送</title>
       <link>https://www.famitsu.com/article/202610/90482</link>
@@ -35,18 +42,18 @@
       <description>The Triple-i Initiative（トリプル アイ イニシアティブ）で、『Inscryption』の制作者による新作『Pony Island 2: Panda Circus』のプレイテストが発表された。前作も期間限定で無料ダウンロード可能になっている。</description>
     </item>
     <item>
-      <title>【エスケーピスト新作】『The Escapists 3』発表。3Dに進化した脱獄シミュレーターでよりハチャメチャな刑務所生活が楽しめる【The Triple-i Initiative 10月】</title>
-      <link>https://www.famitsu.com/article/202610/90469</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90469</guid>
-      <pubDate>Thu, 08 Oct 2026 16:45:00 GMT</pubDate>
-      <description>脱獄シミュレーター『The Escapists 3』（エスケーピスト3）が発表。9年ぶりのシリーズ新作は3Dに進化し、高低差を活かしたアクションも登場。PC、Nintendo Switch 2、PS5、XBOX Series X|S向けに2027年発売予定。</description>
-    </item>
-    <item>
       <title>『デイヴ・ザ・ダイバー』最終DLCで『サブノーティカ2』とコラボ。2027年初頭、“異星の海”がブルーホールに出現【The Triple-i Initiative 10月】</title>
       <link>https://www.famitsu.com/article/202610/90462</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90462</guid>
       <pubDate>Thu, 08 Oct 2026 16:45:00 GMT</pubDate>
       <description>The Triple-i Initiative（トリプル アイ イニシアティブ）で発表された新情報をお届けする。『デイヴ・ザ・ダイバー』で『サブノーティカ2』とのコラボDLCが2027年初頭に配信。</description>
+    </item>
+    <item>
+      <title>【エスケーピスト新作】『The Escapists 3』発表。3Dに進化した脱獄シミュレーターでよりハチャメチャな刑務所生活が楽しめる【The Triple-i Initiative 10月】</title>
+      <link>https://www.famitsu.com/article/202610/90469</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90469</guid>
+      <pubDate>Thu, 08 Oct 2026 16:45:00 GMT</pubDate>
+      <description>脱獄シミュレーター『The Escapists 3』（エスケーピスト3）が発表。9年ぶりのシリーズ新作は3Dに進化し、高低差を活かしたアクションも登場。PC、Nintendo Switch 2、PS5、XBOX Series X|S向けに2027年発売予定。</description>
     </item>
     <item>
       <title>巨大警官に見下ろされる脱出ゲーム『Militsioner』Steamで体験版が配信開始。奇妙な町からケーブルカーで脱出を目指す【The Triple-i Initiative 10月】</title>
@@ -355,6 +362,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90310</guid>
       <pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
       <description>『ワロタ、俺の家のとなり魔王城www』Steam体験版が本日（10/8）より配信開始。Steam Nextフェスへの参加も決定</description>
+    </item>
+    <item>
+      <title>T.M.Revolution『HOT LIMIT』公式コスチュームが全国のドン・キホーテで再販開始。男女兼用</title>
+      <link>https://www.famitsu.com/article/202610/90321</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90321</guid>
+      <pubDate>Wed, 07 Oct 2026 11:00:00 GMT</pubDate>
+      <description>T.M.Revolutionの『HOT LIMIT』公式コスチュームが全国のドン・キホーテで再販売開始された。</description>
     </item>
     <item>
       <title>【シノマス 閃乱カグラ】新作『シノネク』シノビ少女たちの紹介動画やストーリー序章が公開。実機プレイを披露する特番が11月に配信決定</title>
@@ -691,20 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/89993</guid>
       <pubDate>Mon, 05 Oct 2026 07:10:00 GMT</pubDate>
       <description>コジマプロダクションが設立10周年を迎えたことを記念して、コジマプロダクションのシンボルキャラクターであるルーデンスがプラモデルになって発売される。価格は11000円［税込］、2027年3月発売予定。</description>
-    </item>
-    <item>
-      <title>『ムーンフロスト』農業やクラフトで荒廃した村を再建。建築やRPG要素もあるスローライフゲームが10月13日から早期アクセスを開始</title>
-      <link>https://www.famitsu.com/article/202610/90044</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90044</guid>
-      <pubDate>Mon, 05 Oct 2026 07:00:00 GMT</pubDate>
-      <description>隕石によって壊滅的な被害を受けた小さな村の復興を目指すスローライフゲーム『Moonfrost』（ムーンフロスト）が、2026年10月13日から早期アクセスを開始する。価格は1900円［税込］。</description>
-    </item>
-    <item>
-      <title>殺人鬼から届く荷物を“開封配信”する1人称ホラー『bet you won&apos;t』体験版が配信中。箱から謎の手がかりをゲット、開けるべきモノを間違えると……</title>
-      <link>https://www.famitsu.com/article/202610/90032</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90032</guid>
-      <pubDate>Mon, 05 Oct 2026 06:30:00 GMT</pubDate>
-      <description>PC向け新作ホラー『bet you won&apos;t』の体験版が、Steamにて配信開始。開封系配信者として、殺人鬼が送る荷物を開封しながらその裏に隠された真実に迫ろう。</description>
     </item>
   </channel>
 </rss>
