@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Oct 2026 07:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『みんなでポイっと！プリニーすごろく』倒すはずの大魔王をあえて育てる遊びかたも。6つのプレイスタイルやスロットの目押しなどの豆知識が公開</title>
+      <link>https://www.famitsu.com/article/202610/89845</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89845</guid>
+      <pubDate>Thu, 08 Oct 2026 08:00:00 GMT</pubDate>
+      <description>2026年11月12日発売予定の『みんなでポイっと！プリニーすごろく』で、6つのプレイスタイルと豆知識が公開。ほかのプレイヤーを攻撃する“破壊神プレイ”や、倒すはずの大魔王をあえて強化する“スゴロク大魔王育成計画”など、通常とは異なる楽しみ方を紹介。</description>
+    </item>
     <item>
       <title>『キングダム ハーツ コレクション I～III』本日（10/8）発売。シリーズを構成する主要タイトルをまるっと収録したお得なセット</title>
       <link>https://www.famitsu.com/article/202610/90366</link>
@@ -194,13 +201,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90293</guid>
       <pubDate>Wed, 07 Oct 2026 07:17:00 GMT</pubDate>
       <description>『映画ちいかわ 人魚の島のひみつ』の入場者特典“第3弾・第4弾・第6弾”が、年内にリバイバル配布される。また、本発表に合わせて第2弾メインビジュアルも解禁された。</description>
-    </item>
-    <item>
-      <title>ジグソーパズル×整理整頓シム『パニック！アット・ザ・ジグソー』体験版がSteamで配信開始。床一面のピースを片付けながら名画を復元。忍耐強さが試される</title>
-      <link>https://www.famitsu.com/article/202610/90262</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90262</guid>
-      <pubDate>Wed, 07 Oct 2026 07:10:00 GMT</pubDate>
-      <description>PC向け新作整理整頓シミュレーター『パニック！ アット・ザ・ジグソー』の体験版が、Steamにて配信開始。散らかったジグソーパズルをひたすら整理して、美しい名画を完成させよう。</description>
     </item>
     <item>
       <title>『ガーデン ソウル』格ゲー的爽快コンボが魅力のローグライトアクション。Steam体験版が配信開始、発表から1週間で1万ウィッシュリストを突破</title>
@@ -700,11 +700,11 @@
       <description>『Detroit: Become Human』（デトロイト ビカム ヒューマン）をはじめ、『HEAVY RAIN -心の軋むとき-』や『BEYOND: Two Souls』などクアンティック・ドリームの作品がSteamにてセール中。</description>
     </item>
     <item>
-      <title>『ぼくは航空管制官 エアポートヒーロー 成田×ANA』Switchで12月10日発売。舞台は成田国際空港、ANA国際線40年の歩みを振り返れる資料室をゲーム内に用意</title>
-      <link>https://www.famitsu.com/article/202610/89843</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89843</guid>
+      <title>『エースコンバット8』の新作グッズがアソビストアに登場。 TGS2026先行販売アイテムの受注を10/26の23時59分まで受付。</title>
+      <link>https://www.famitsu.com/article/202610/89827</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89827</guid>
       <pubDate>Fri, 02 Oct 2026 09:40:00 GMT</pubDate>
-      <description>Nintendo Switch用ソフト『ぼくは航空管制官エアポートヒーロー成田 × ANA』が2026年12月10日に発売。成田国際空港を舞台にANAとコラボし、A380“FLYING HONU”3機や新要素“ランプ管制”が登場。ANA国際線定期便就航40周年を振り返る“資料室”も収録。価格は7920円［税込］、予約受付は10月2日より開始。</description>
+      <description>東京ゲームショウ2026で先行販売されたバンダイナムコエンターテインメントの新作グッズが、アソビストアで受注販売中。受付期間は2026年9月28日～10月26日23時59分。『エースコンバット8』『テイルズ オブ』『塊魂』『パックマン』『リトルナイトメア』などの商品がそろう。</description>
     </item>
   </channel>
 </rss>
