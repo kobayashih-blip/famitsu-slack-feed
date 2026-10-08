@@ -28,18 +28,18 @@
       <description>The Triple-i Initiative（トリプル アイ イニシアティブ）で、『Inscryption』の制作者による新作『Pony Island 2: Panda Circus』のプレイテストが発表された。前作も期間限定で無料ダウンロード可能になっている。</description>
     </item>
     <item>
-      <title>【エスケーピスト新作】『The Escapists 3』発表。3Dに進化した脱獄シミュレーターでよりハチャメチャな刑務所生活が楽しめる【The Triple-i Initiative 10月】</title>
-      <link>https://www.famitsu.com/article/202610/90469</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90469</guid>
-      <pubDate>Thu, 08 Oct 2026 16:45:00 GMT</pubDate>
-      <description>脱獄シミュレーター『The Escapists 3』（エスケーピスト3）が発表。9年ぶりのシリーズ新作は3Dに進化し、高低差を活かしたアクションも登場。PC、Nintendo Switch 2、PS5、XBOX Series X|S向けに2027年発売予定。</description>
-    </item>
-    <item>
       <title>『デイヴ・ザ・ダイバー』最終DLCで『サブノーティカ2』とコラボ。2027年初頭、“異星の海”がブルーホールに出現【The Triple-i Initiative 10月】</title>
       <link>https://www.famitsu.com/article/202610/90462</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90462</guid>
       <pubDate>Thu, 08 Oct 2026 16:45:00 GMT</pubDate>
       <description>The Triple-i Initiative（トリプル アイ イニシアティブ）で発表された新情報をお届けする。『デイヴ・ザ・ダイバー』で『サブノーティカ2』とのコラボDLCが2027年初頭に配信。</description>
+    </item>
+    <item>
+      <title>【エスケーピスト新作】『The Escapists 3』発表。3Dに進化した脱獄シミュレーターでよりハチャメチャな刑務所生活が楽しめる【The Triple-i Initiative 10月】</title>
+      <link>https://www.famitsu.com/article/202610/90469</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90469</guid>
+      <pubDate>Thu, 08 Oct 2026 16:45:00 GMT</pubDate>
+      <description>脱獄シミュレーター『The Escapists 3』（エスケーピスト3）が発表。9年ぶりのシリーズ新作は3Dに進化し、高低差を活かしたアクションも登場。PC、Nintendo Switch 2、PS5、XBOX Series X|S向けに2027年発売予定。</description>
     </item>
     <item>
       <title>巨大警官に見下ろされる脱出ゲーム『Militsioner』Steamで体験版が配信開始。奇妙な町からケーブルカーで脱出を目指す【The Triple-i Initiative 10月】</title>
@@ -413,13 +413,6 @@
       <description>『映画ちいかわ 人魚の島のひみつ』の入場者特典“第3弾・第4弾・第6弾”が、年内にリバイバル配布される。また、本発表に合わせて第2弾メインビジュアルも解禁された。</description>
     </item>
     <item>
-      <title>ジグソーパズル×整理整頓シム『パニック！アット・ザ・ジグソー』体験版がSteamで配信開始。床一面のピースを片付けながら名画を復元。忍耐強さが試される</title>
-      <link>https://www.famitsu.com/article/202610/90262</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90262</guid>
-      <pubDate>Wed, 07 Oct 2026 07:10:00 GMT</pubDate>
-      <description>PC向け新作整理整頓シミュレーター『パニック！ アット・ザ・ジグソー』の体験版が、Steamにて配信開始。散らかったジグソーパズルをひたすら整理して、美しい名画を完成させよう。</description>
-    </item>
-    <item>
       <title>『ガーデン ソウル』格ゲー的爽快コンボが魅力のローグライトアクション。Steam体験版が配信開始、発表から1週間で1万ウィッシュリストを突破</title>
       <link>https://www.famitsu.com/article/202610/90279</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90279</guid>
@@ -705,6 +698,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90032</guid>
       <pubDate>Mon, 05 Oct 2026 06:30:00 GMT</pubDate>
       <description>PC向け新作ホラー『bet you won&apos;t』の体験版が、Steamにて配信開始。開封系配信者として、殺人鬼が送る荷物を開封しながらその裏に隠された真実に迫ろう。</description>
+    </item>
+    <item>
+      <title>『脱毛サロンシミュレーター』お客の悲鳴が響く脱毛サロン経営シムの無料体験版が本日（10/5）配信開始。医療用レーザーで濃いムダ毛を焼き払え</title>
+      <link>https://www.famitsu.com/article/202610/90036</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90036</guid>
+      <pubDate>Mon, 05 Oct 2026 05:30:00 GMT</pubDate>
+      <description>脱毛サロン経営シミュレーションゲーム『脱毛サロンシミュレーター』の無料体験版が2026年10月5日よりSteamにて配信開始された。配信開始された体験版のセーブデータは、2026年に発売予定の製品版へ引継ぎ可能。</description>
     </item>
   </channel>
 </rss>
