@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 10 Oct 2026 03:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 04:20:00 GMT</lastBuildDate>
+    <item>
+      <title>ホラーゲーム『Amanda the Adventurer』映画化が発表。映画『Fnaf』や『ミーガン』などのスタジオBlumhouseが制作</title>
+      <link>https://www.famitsu.com/article/202610/90617</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90617</guid>
+      <pubDate>Sat, 10 Oct 2026 04:20:00 GMT</pubDate>
+      <description>ホラーゲーム『Amanda the Adventurer』（アマンダ・ザ・アドベンチャー）の映画化が発表された。</description>
+    </item>
     <item>
       <title>アニメ『ゾンビのあふれた世界で俺だけが襲われない』「抱かせろ」のシーンを収録したメインPVが公開。黒瀬時子役は伊藤りかこ、牧浦さやか役は三宅麻理恵</title>
       <link>https://www.famitsu.com/article/202610/90557</link>
@@ -350,13 +357,6 @@
       <description>The Triple-i Initiative（トリプル アイ イニシアティブ）で発表された『Haunted Paws』の新情報をお届けする。</description>
     </item>
     <item>
-      <title>【愛重め】お酒の悪魔との泥酔ロシアンルーレット『PUKEY GODDESS SHOT TRICK』12月8日に発売決定。酔えば酔うほどルールを無視した行動で勝負できる【The Triple-i Initiative 10月】</title>
-      <link>https://www.famitsu.com/article/202610/90460</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90460</guid>
-      <pubDate>Thu, 08 Oct 2026 16:17:00 GMT</pubDate>
-      <description>The Triple-i Initiative（トリプル アイ イニシアティブ）で発表された『PUKEY GODDESS SHOT TRICK』の新情報をお届けする。</description>
-    </item>
-    <item>
       <title>17年ぶりの新作となる『マシナリウム2』が発表。セリフやテキストなしでロボットたちの物語を紡ぐポイント＆クリックADV【The Triple-i Initiative 10月】</title>
       <link>https://www.famitsu.com/article/202610/90467</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90467</guid>
@@ -686,13 +686,6 @@
       <description>『映画ちいかわ 人魚の島のひみつ』の入場者特典“第3弾・第4弾・第6弾”が、年内にリバイバル配布される。また、本発表に合わせて第2弾メインビジュアルも解禁された。</description>
     </item>
     <item>
-      <title>ジグソーパズル×整理整頓シム『パニック！アット・ザ・ジグソー』体験版がSteamで配信開始。床一面のピースを片付けながら名画を復元。忍耐強さが試される</title>
-      <link>https://www.famitsu.com/article/202610/90262</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90262</guid>
-      <pubDate>Wed, 07 Oct 2026 07:10:00 GMT</pubDate>
-      <description>PC向け新作整理整頓シミュレーター『パニック！ アット・ザ・ジグソー』の体験版が、Steamにて配信開始。散らかったジグソーパズルをひたすら整理して、美しい名画を完成させよう。</description>
-    </item>
-    <item>
       <title>『ガーデン ソウル』格ゲー的爽快コンボが魅力のローグライトアクション。Steam体験版が配信開始、発表から1週間で1万ウィッシュリストを突破</title>
       <link>https://www.famitsu.com/article/202610/90279</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90279</guid>
@@ -705,6 +698,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90270</guid>
       <pubDate>Wed, 07 Oct 2026 04:47:00 GMT</pubDate>
       <description>『アークナイツ：エンドフィールド』とラウンドワンのコラボが、2026年11月10日〜2027年2月10日の期間で、全国のラウンドワンで開催となる。</description>
+    </item>
+    <item>
+      <title>『Solar Arena』ドット絵風デザインが目を引く2Dトップビュー対戦シューティング。Steam体験版が配信開始。レーザーや誘導弾を駆使して勝利を目指せ</title>
+      <link>https://www.famitsu.com/article/202610/90256</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90256</guid>
+      <pubDate>Wed, 07 Oct 2026 04:03:00 GMT</pubDate>
+      <description>『Solar Arena』Steam体験版が配信開始。ドット絵風デザインが目を引く2Dトップビュー対戦シューティング。</description>
     </item>
   </channel>
 </rss>
