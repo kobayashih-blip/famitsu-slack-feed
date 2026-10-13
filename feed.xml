@@ -5,7 +5,28 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 12 Oct 2026 05:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 13:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『Bless You Again』注目のアニメ調アクションRPG、無料体験版が配信開始。杖で殴って魔法でキメる独自の戦闘と、こだわりのグラフィックが楽しめる</title>
+      <link>https://www.famitsu.com/article/202610/90718</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90718</guid>
+      <pubDate>Mon, 12 Oct 2026 13:00:00 GMT</pubDate>
+      <description>アニメ調3DのローグライトアクションRPG『Bless You Again』（ブレスユーアゲイン）のSteam体験版が配信開始。セルアニメ表現を追求したグラフィックにも注目。</description>
+    </item>
+    <item>
+      <title>『鵺の陰陽師』アニメ化決定、2027年夏放送。夜島学郎を三浦魁、鵺を大西沙織、周防七咲役を鈴代紗弓が演じる。制作はスタジオ雲雀</title>
+      <link>https://www.famitsu.com/article/202610/90749</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90749</guid>
+      <pubDate>Mon, 12 Oct 2026 11:25:00 GMT</pubDate>
+      <description>『鵺の陰陽師』アニメ化が決定、2027年夏放送されることが発表された。</description>
+    </item>
+    <item>
+      <title>『リズムにのって契約して魔法少女になってよ！』ノリと勢いで魔法少女を変身させるリズムゲームが無料配信中。キュートなイラストにも要注目</title>
+      <link>https://www.famitsu.com/article/202610/90735</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90735</guid>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 GMT</pubDate>
+      <description>unityroomにて、音楽にあわせて女の子を魔法少女にしていく新作タイトル『リズムにのって契約して魔法少女になってよ！』が無料公開中。</description>
+    </item>
     <item>
       <title>『ツイステ』期間限定イベント“シュガー・レース”開催を記念した大型交通広告が渋谷に登場。リリアのカートを再現した立体物も展示</title>
       <link>https://www.famitsu.com/article/202610/90722</link>
@@ -98,6 +119,13 @@
       <description>テディベアの視点を借りて探索するホラーゲーム『Out of Sight』の無料配布がEpic Gamesストアで実施されている。配布期間は2026年10月16日まで。</description>
     </item>
     <item>
+      <title>映画『メイドインアビス 目覚める神秘』ファプタの日常を描くミニアニメが本編終了後に上映決定。「おつうじ」がテーマ</title>
+      <link>https://www.famitsu.com/article/202610/90649</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90649</guid>
+      <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
+      <description>2026年10月23日に公開予定の映画『メイドインアビス 目覚める神秘』の“観る入場者特典”としてミニアニメが本編終了後に上映決定した。</description>
+    </item>
+    <item>
       <title>『ドクターストーン』新作アニメ『Dr.STONE TERRAFORMING』が制作決定。原作マンガ27巻に収録されている本編完結後のエピソードが映像化</title>
       <link>https://www.famitsu.com/article/202610/90628</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90628</guid>
@@ -110,13 +138,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90631</guid>
       <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
       <description>アーケード向けシューティングゲーム『戦刃アレスタ』のNintendo Switch、PS5、PS4版が2027年3月18日に発売決定した。</description>
-    </item>
-    <item>
-      <title>映画『メイドインアビス 目覚める神秘』ファプタの日常を描くミニアニメが本編終了後に上映決定。「おつうじ」がテーマ</title>
-      <link>https://www.famitsu.com/article/202610/90649</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90649</guid>
-      <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
-      <description>2026年10月23日に公開予定の映画『メイドインアビス 目覚める神秘』の“観る入場者特典”としてミニアニメが本編終了後に上映決定した。</description>
     </item>
     <item>
       <title>トラック配達ゲーム『トラックフル』物理演算でバランス不安定な積み荷を慎重に運ぶ。Steam＆Google Play版が本日（10/10）発売</title>
@@ -684,27 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90364</guid>
       <pubDate>Thu, 08 Oct 2026 03:43:00 GMT</pubDate>
       <description>フルトンジャパンは、アニメ『涼宮ハルヒの憂鬱』20周年記念腕時計の涼宮ハルヒモデル、長門有希モデルの予約受付を開始。どちらのモデルも2006個限定で、価格はともに29700円［税込］。文字盤の日付が17日から31日をくり返す“エンドレスエイト”仕様。</description>
-    </item>
-    <item>
-      <title>『アイカツ！アンコール』データカードダス最新作が本日（10/8）より稼働開始。橋本環奈コラボカードがもらえるキャンペーン開催中</title>
-      <link>https://www.famitsu.com/article/202610/90353</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90353</guid>
-      <pubDate>Thu, 08 Oct 2026 03:10:00 GMT</pubDate>
-      <description>データカードダス最新作『アイカツ！アンコール』が2026年10月8日（木）より全国で順次稼働開始。レジェンドコラボパートナーの橋本環奈さんとのコラボカードなどがもらえるプレゼントキャンペーンもスタート。</description>
-    </item>
-    <item>
-      <title>『ツリーオブセイヴァー：ネバーランド』2周年記念イベントが本日（10/8）より開幕。自分だけの家を作れるホーム建築祭がスタート</title>
-      <link>https://www.famitsu.com/article/202610/90313</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90313</guid>
-      <pubDate>Thu, 08 Oct 2026 03:00:00 GMT</pubDate>
-      <description>『ツリーオブセイヴァー：ネバーランド』2周年記念イベントが本日2026年10月8日よりスタート。プレイヤー自身の手で、自分だけのホームを建築しよう。</description>
-    </item>
-    <item>
-      <title>『ムーミン：ムーミン谷の夏まつり』体験版がSteam向けに10月15日に配信決定。ムーミン谷へ帰る旅を描くポイント＆クリックアドベンチャー</title>
-      <link>https://www.famitsu.com/article/202610/90326</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90326</guid>
-      <pubDate>Thu, 08 Oct 2026 03:00:00 GMT</pubDate>
-      <description>PC（Steam）版『ムーミン：ムーミン谷の夏まつり』の体験版が2026年10月15日に配信決定した。</description>
     </item>
   </channel>
 </rss>
