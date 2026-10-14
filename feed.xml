@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:10:00 GMT</lastBuildDate>
+    <item>
+      <title>Switch版『クイズ☆正解は一年後 presents あつしの名探偵』が12月30日をもってダウンロード販売終了。ファミコンオマージュの理不尽ADV</title>
+      <link>https://www.famitsu.com/article/202610/90952</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90952</guid>
+      <pubDate>Wed, 14 Oct 2026 10:10:00 GMT</pubDate>
+      <description>Nintendo Switch版『クイズ☆正解は一年後 presents あつしの名探偵』が2026年12月30日をもってダウンロード販売を終了する。バラエティ番組『クイズ☆正解は一年後』の企画から生まれたファミコンオマージュのADV。</description>
+    </item>
     <item>
       <title>【コンアカ】『ザ・ドラッグストア』10月15日配信。立地や商品の種類、客層を考えながら経営戦略を練るシミュレーションゲーム</title>
       <link>https://www.famitsu.com/article/202610/90938</link>
@@ -350,13 +357,6 @@
       <description>『MARVEL Tōkon: Fighting Souls』のYear 1パス追加キャラクターが一挙公開。フェニックス・サイクロップスに加え、2027年冬にソー（ジェーン・フォスター）、2027年春にヴェノム、2027年夏にジュビリーが参戦する。</description>
     </item>
     <item>
-      <title>【鉄拳8】『刃牙』シリーズより“地上最強の生物”、範馬勇次郎のゲーム内グラフィックが初解禁。背中に“鬼”が宿る脅威の肉体を完全再現ッ!!!!!</title>
-      <link>https://www.famitsu.com/article/202610/90705</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90705</guid>
-      <pubDate>Sun, 11 Oct 2026 14:38:00 GMT</pubDate>
-      <description>『鉄拳8』シーズン3における第4弾として参戦が決定している『刃牙』シリーズとのコラボキャラクター・範馬勇次郎のゲーム内グラフィックが初解禁。</description>
-    </item>
-    <item>
       <title>【マーベル × KADOKAWA】スパイダーマン、グウェン、ヴェノム、デップー、アイアンマンたちが主役の新作漫画5作品のWeb連載がスタート</title>
       <link>https://www.famitsu.com/article/202610/90699</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90699</guid>
@@ -427,6 +427,13 @@
       <description>テディベアの視点を借りて探索するホラーゲーム『Out of Sight』の無料配布がEpic Gamesストアで実施されている。配布期間は2026年10月16日まで。</description>
     </item>
     <item>
+      <title>映画『メイドインアビス 目覚める神秘』ファプタの日常を描くミニアニメが本編終了後に上映決定。「おつうじ」がテーマ</title>
+      <link>https://www.famitsu.com/article/202610/90649</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90649</guid>
+      <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
+      <description>2026年10月23日に公開予定の映画『メイドインアビス 目覚める神秘』の“観る入場者特典”としてミニアニメが本編終了後に上映決定した。</description>
+    </item>
+    <item>
       <title>『ドクターストーン』新作アニメ『Dr.STONE TERRAFORMING』が制作決定。原作マンガ27巻に収録されている本編完結後のエピソードが映像化</title>
       <link>https://www.famitsu.com/article/202610/90628</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90628</guid>
@@ -439,13 +446,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90631</guid>
       <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
       <description>アーケード向けシューティングゲーム『戦刃アレスタ』のNintendo Switch、PS5、PS4版が2027年3月18日に発売決定した。</description>
-    </item>
-    <item>
-      <title>映画『メイドインアビス 目覚める神秘』ファプタの日常を描くミニアニメが本編終了後に上映決定。「おつうじ」がテーマ</title>
-      <link>https://www.famitsu.com/article/202610/90649</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90649</guid>
-      <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
-      <description>2026年10月23日に公開予定の映画『メイドインアビス 目覚める神秘』の“観る入場者特典”としてミニアニメが本編終了後に上映決定した。</description>
     </item>
     <item>
       <title>トラック配達ゲーム『トラックフル』物理演算でバランス不安定な積み荷を慎重に運ぶ。Steam＆Google Play版が本日（10/10）発売</title>
@@ -693,18 +693,18 @@
       <description>ディースリー・パブリッシャーが、『ガールズ＆パンツァーオールスター・タンク・カーニバル』を2027年中に発売予定。最新プロモーション映像が公開された。</description>
     </item>
     <item>
+      <title>ソニックのDNA（遺伝子）入りフィギュアの予約受付がセガストア オンラインで開始。シリアルナンバー入りで330万円【11月1日まで】</title>
+      <link>https://www.famitsu.com/article/202610/90053</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90053</guid>
+      <pubDate>Fri, 09 Oct 2026 01:00:00 GMT</pubDate>
+      <description>『ソニック・ザ・ヘッジホッグ』35周年を記念して制作された“SONIC THE HEDGEHOG DNA FIGURE”の予約受付が2026年10月9日より開始。価格は330万円［税込］となる。</description>
+    </item>
+    <item>
       <title>『遊戯王』風間俊介＆津田健次郎の新録ボイスで熱き決闘が蘇る。バトルシティ編“遊戯vs海馬”戦、最後のワンターンを新たに映像化。高橋和希原画展にて上映</title>
       <link>https://www.famitsu.com/article/202610/90407</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90407</guid>
       <pubDate>Fri, 09 Oct 2026 01:00:00 GMT</pubDate>
       <description>2026年12月12日より開催される“高橋和希原画展 YU-GI-OH! ART WORKS”の新情報が解禁。バトルシティ編決勝を新たに描く“特別映像 ─友として!!─”をはじめ、新グッズやテーマカフェの情報が公開された。</description>
-    </item>
-    <item>
-      <title>『星のカービィ』つばさ文庫の小説シリーズ新刊が12月9日発売。ものしりワドルディの失踪とプププランド住民の記憶喪失。カービィたちが封印図書館でふたつの事件のナゾに迫る</title>
-      <link>https://www.famitsu.com/article/202610/89769</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/89769</guid>
-      <pubDate>Fri, 09 Oct 2026 01:00:00 GMT</pubDate>
-      <description>角川つばさ文庫の『星のカービィ』小説シリーズより、最新刊『星のカービィ 封印図書館のナゾを追え！の巻』が2026年12月9日に発売される。</description>
     </item>
   </channel>
 </rss>
