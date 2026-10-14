@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 06:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『ニエンタム オプス・ゼロ』シンデレラ、アーサー王伝説モチーフなどのミュージカル舞台を駆け抜けるランアクション型リズムゲームが本日（10/14）正式リリース</title>
+      <link>https://www.famitsu.com/article/202610/90911</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90911</guid>
+      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
+      <description>『Nientum - Op.ZERO』 (ニエンタム オプス・ゼロ)がPC（Steam）、Android向けに配信された。シンプルな2キー操作でノーツを叩くリズムゲームで、ストーリー要素もあり。iOS版は後日リリースされる予定。</description>
+    </item>
     <item>
       <title>【ベイブレードX】『コナン』の怪盗キッドをモチーフにしたベイが登場。コロコロ11月号の応募者全員有料サービスでゲット</title>
       <link>https://www.famitsu.com/article/202610/90921</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90469</guid>
       <pubDate>Thu, 08 Oct 2026 16:45:00 GMT</pubDate>
       <description>脱獄シミュレーター『The Escapists 3』（エスケーピスト3）が発表。9年ぶりのシリーズ新作は3Dに進化し、高低差を活かしたアクションも登場。PC、Nintendo Switch 2、PS5、XBOX Series X|S向けに2027年発売予定。</description>
-    </item>
-    <item>
-      <title>『デイヴ・ザ・ダイバー』最終DLCで『サブノーティカ2』とコラボ。2027年初頭、“異星の海”がブルーホールに出現【The Triple-i Initiative 10月】</title>
-      <link>https://www.famitsu.com/article/202610/90462</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90462</guid>
-      <pubDate>Thu, 08 Oct 2026 16:45:00 GMT</pubDate>
-      <description>The Triple-i Initiative（トリプル アイ イニシアティブ）で発表された新情報をお届けする。『デイヴ・ザ・ダイバー』で『サブノーティカ2』とのコラボDLCが2027年初頭に配信。</description>
     </item>
   </channel>
 </rss>
