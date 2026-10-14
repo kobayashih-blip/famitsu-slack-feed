@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 14:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『over the hill』オフロード車で大自然を旅する最大4人協力プレイ対応のドライビングゲーム。気の向くままに美しい景色を走り抜ける【本日発売】</title>
+      <link>https://www.famitsu.com/article/202610/90939</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90939</guid>
+      <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
+      <description>Steamにて、2026年10月15日に『over the hill』が配信される。本作は、森や湖畔、雪山に荒野といった自然の中を四輪駆動車で走り抜けていくアドベンチャーゲーム。オンライン協力プレイにも対応。</description>
+    </item>
     <item>
       <title>『モンギル：STAR DIVE』DMM GAMES PLAYER版の事前登録受付が本日（10/14）開始。ガチャ10連アイテムなど豪華特典がプレゼント</title>
       <link>https://www.famitsu.com/article/202610/90964</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90529</guid>
       <pubDate>Fri, 09 Oct 2026 04:50:00 GMT</pubDate>
       <description>『トリッカル・もちもちほっぺ大作戦』のLINEスタンプ第3弾が2026年10月9日に発売された。</description>
-    </item>
-    <item>
-      <title>『エースコンバット8』シリーズ最速で世界累計出荷100万本を突破、発売からわずか1週間。リアルな空の表現が魅力のフライトシューティング最新作</title>
-      <link>https://www.famitsu.com/article/202610/90502</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90502</guid>
-      <pubDate>Fri, 09 Oct 2026 04:30:00 GMT</pubDate>
-      <description>2026年10月2日（金）に発売されたプレイステーション5（PS5）、Xbox Series X|S、Steam向けソフト『ACE COMBAT 8: WINGS OF THEVE』がシリーズ最速で世界累計出荷本数100万本を突破した。</description>
     </item>
   </channel>
 </rss>
