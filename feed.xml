@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 06:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:30:00 GMT</lastBuildDate>
+    <item>
+      <title>【ベイブレードX】『コナン』の怪盗キッドをモチーフにしたベイが登場。コロコロ11月号の応募者全員有料サービスでゲット</title>
+      <link>https://www.famitsu.com/article/202610/90921</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90921</guid>
+      <pubDate>Wed, 14 Oct 2026 06:30:00 GMT</pubDate>
+      <description>2026年10月15日ころ発売予定の月刊コロコロコミック11月号の応募者全員有料サービスにて、『名探偵コナン』の怪盗キッドをモチーフにしたコラボベイブレード“キッドハントK4-70TK メタルコート：ホワイト”が登場する。</description>
+    </item>
     <item>
       <title>ハシゴでパズルを解きボスと戦う2Dアクション『Ladder Knight』のブラウザ体験版が公開中。2026年12月にSteam登場予定</title>
       <link>https://www.famitsu.com/article/202610/90916</link>
@@ -357,13 +364,6 @@
       <description>テディベアの視点を借りて探索するホラーゲーム『Out of Sight』の無料配布がEpic Gamesストアで実施されている。配布期間は2026年10月16日まで。</description>
     </item>
     <item>
-      <title>映画『メイドインアビス 目覚める神秘』ファプタの日常を描くミニアニメが本編終了後に上映決定。「おつうじ」がテーマ</title>
-      <link>https://www.famitsu.com/article/202610/90649</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90649</guid>
-      <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
-      <description>2026年10月23日に公開予定の映画『メイドインアビス 目覚める神秘』の“観る入場者特典”としてミニアニメが本編終了後に上映決定した。</description>
-    </item>
-    <item>
       <title>『ドクターストーン』新作アニメ『Dr.STONE TERRAFORMING』が制作決定。原作マンガ27巻に収録されている本編完結後のエピソードが映像化</title>
       <link>https://www.famitsu.com/article/202610/90628</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90628</guid>
@@ -376,6 +376,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90631</guid>
       <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
       <description>アーケード向けシューティングゲーム『戦刃アレスタ』のNintendo Switch、PS5、PS4版が2027年3月18日に発売決定した。</description>
+    </item>
+    <item>
+      <title>映画『メイドインアビス 目覚める神秘』ファプタの日常を描くミニアニメが本編終了後に上映決定。「おつうじ」がテーマ</title>
+      <link>https://www.famitsu.com/article/202610/90649</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90649</guid>
+      <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
+      <description>2026年10月23日に公開予定の映画『メイドインアビス 目覚める神秘』の“観る入場者特典”としてミニアニメが本編終了後に上映決定した。</description>
     </item>
     <item>
       <title>トラック配達ゲーム『トラックフル』物理演算でバランス不安定な積み荷を慎重に運ぶ。Steam＆Google Play版が本日（10/10）発売</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90462</guid>
       <pubDate>Thu, 08 Oct 2026 16:45:00 GMT</pubDate>
       <description>The Triple-i Initiative（トリプル アイ イニシアティブ）で発表された新情報をお届けする。『デイヴ・ザ・ダイバー』で『サブノーティカ2』とのコラボDLCが2027年初頭に配信。</description>
-    </item>
-    <item>
-      <title>巨大警官に見下ろされる脱出ゲーム『Militsioner』Steamで体験版が配信開始。奇妙な町からケーブルカーで脱出を目指す【The Triple-i Initiative 10月】</title>
-      <link>https://www.famitsu.com/article/202610/90468</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90468</guid>
-      <pubDate>Thu, 08 Oct 2026 16:33:00 GMT</pubDate>
-      <description>巨大な警察官に見下ろされる奇妙な脱出ゲーム『Militsioner』のSteam体験版が配信開始。ゲームの第1幕を収録し、さまざまな方法でケーブルカーに乗って町からの脱出を目指す。</description>
     </item>
   </channel>
 </rss>
