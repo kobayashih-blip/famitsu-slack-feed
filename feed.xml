@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 11:23:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:30:00 GMT</lastBuildDate>
+    <item>
+      <title>元フロム・ソフトウェア開発者が新作『OVERSEEKER』を発表。『Rise of Rebellion 地罰上らば竜の降る』以来1年の沈黙を破り、9分超のトレーラー公開</title>
+      <link>https://www.famitsu.com/article/202610/90960</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90960</guid>
+      <pubDate>Wed, 14 Oct 2026 11:30:00 GMT</pubDate>
+      <description>『Rise of Rebellion～地罰上らば竜の降る～』を制作したHytacka（ハイタカ）氏が、新作『OVERSEEKER』のトレーラーを公開した。短剣と体術、魔法を掛け合わせたアクションシーンなどが披露されている。</description>
+    </item>
     <item>
       <title>『ペルソナ4 リバイバル』ジュネスのエプロン・エコバッグが再販予約受付スタート。エプロンには陽介と熊田の名札風アクリルバッジ付き</title>
       <link>https://www.famitsu.com/article/202610/90962</link>
@@ -441,13 +448,6 @@
       <description>テディベアの視点を借りて探索するホラーゲーム『Out of Sight』の無料配布がEpic Gamesストアで実施されている。配布期間は2026年10月16日まで。</description>
     </item>
     <item>
-      <title>映画『メイドインアビス 目覚める神秘』ファプタの日常を描くミニアニメが本編終了後に上映決定。「おつうじ」がテーマ</title>
-      <link>https://www.famitsu.com/article/202610/90649</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90649</guid>
-      <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
-      <description>2026年10月23日に公開予定の映画『メイドインアビス 目覚める神秘』の“観る入場者特典”としてミニアニメが本編終了後に上映決定した。</description>
-    </item>
-    <item>
       <title>『ドクターストーン』新作アニメ『Dr.STONE TERRAFORMING』が制作決定。原作マンガ27巻に収録されている本編完結後のエピソードが映像化</title>
       <link>https://www.famitsu.com/article/202610/90628</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90628</guid>
@@ -460,6 +460,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90631</guid>
       <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
       <description>アーケード向けシューティングゲーム『戦刃アレスタ』のNintendo Switch、PS5、PS4版が2027年3月18日に発売決定した。</description>
+    </item>
+    <item>
+      <title>映画『メイドインアビス 目覚める神秘』ファプタの日常を描くミニアニメが本編終了後に上映決定。「おつうじ」がテーマ</title>
+      <link>https://www.famitsu.com/article/202610/90649</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90649</guid>
+      <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
+      <description>2026年10月23日に公開予定の映画『メイドインアビス 目覚める神秘』の“観る入場者特典”としてミニアニメが本編終了後に上映決定した。</description>
     </item>
     <item>
       <title>トラック配達ゲーム『トラックフル』物理演算でバランス不安定な積み荷を慎重に運ぶ。Steam＆Google Play版が本日（10/10）発売</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90500</guid>
       <pubDate>Fri, 09 Oct 2026 03:00:00 GMT</pubDate>
       <description>審査の影響で発売が遅れていた『AKIBA LOST』Steam版の配信日が10月21日に決定。発売記念セールの割引率を20％に変更し、ギャラリー用スチル200枚とPC・モバイル用壁紙も追加する。</description>
-    </item>
-    <item>
-      <title>【ガルパン】新作戦車道アクション『オールスター・タンク・カーニバル』2027年発売決定。西住みほとIV号戦車に乗って大洗町を探索できる</title>
-      <link>https://www.famitsu.com/article/202610/90429</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90429</guid>
-      <pubDate>Fri, 09 Oct 2026 02:00:00 GMT</pubDate>
-      <description>ディースリー・パブリッシャーが、『ガールズ＆パンツァーオールスター・タンク・カーニバル』を2027年中に発売予定。最新プロモーション映像が公開された。</description>
     </item>
   </channel>
 </rss>
