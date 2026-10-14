@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 05:43:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <item>
+      <title>千葉RPG『魔界都市CHI-BA』Steam版が11月2日に発売。フナバシ、モバラ、カシワなど新たな街やイベントを追加した最新版に</title>
+      <link>https://www.famitsu.com/article/202610/90903</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90903</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 GMT</pubDate>
+      <description>『魔界都市CHI-BA』のSteam版が2026年11月2日に発売される。千葉県の歴史や地名、民話を題材にしたRPGで、Steam版では“フナバシ”、“モバラ”、“カシワ”といった新マップやエクストラダンジョンが追加される。</description>
+    </item>
     <item>
       <title>『WAZATO － そのミス、ワザと？』ミニゲームのクリアーを目指す3人と、失敗を狙うスパイの4人用オンラインパーティーゲーム。近日中に発売</title>
       <link>https://www.famitsu.com/article/202610/90904</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90464</guid>
       <pubDate>Thu, 08 Oct 2026 16:29:00 GMT</pubDate>
       <description>The Triple-i Initiative（トリプル アイ イニシアティブ）で発表された新情報をお届けする。</description>
-    </item>
-    <item>
-      <title>見下ろし型ローグライトアクション『Volatiles』が発表。足場を拡張し戦場を広げながら悪夢のような世界を戦い抜く【The Triple-i Initiative 10月】</title>
-      <link>https://www.famitsu.com/article/202610/90474</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90474</guid>
-      <pubDate>Thu, 08 Oct 2026 16:18:00 GMT</pubDate>
-      <description>The Triple-i Initiative（トリプル アイ イニシアティブ）で、見下ろし型ローグライトアクション『Volatiles』が発表された。レベルアップするごとに足場を拡張でき、戦場を広げながら悪夢のような世界で戦っていく。</description>
     </item>
   </channel>
 </rss>
