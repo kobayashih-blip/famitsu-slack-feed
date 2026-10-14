@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 04:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:33:00 GMT</lastBuildDate>
+    <item>
+      <title>『ブリーチ 千年血戦篇』涅マユリを前面にデザインしたカーディガンがインパクト大。グラニフコラボ商品が10月20日より発売</title>
+      <link>https://www.famitsu.com/article/202610/90901</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90901</guid>
+      <pubDate>Wed, 14 Oct 2026 04:33:00 GMT</pubDate>
+      <description>『BLEACH（ブリーチ） 千年血戦篇』とグラニフのコラボ商品が2026年10月20日より発売決定。本日（10/14）0時よりグラニフ公式オンラインストアで予約販売が行われる。</description>
+    </item>
     <item>
       <title>雑巾がけレース『ZOKIN RALLY』がアツい。砂ぼこりではなくガチほこりを巻き上げながら爆走し、お掃除もするブラウザゲーム</title>
       <link>https://www.famitsu.com/article/202610/90898</link>
@@ -350,13 +357,6 @@
       <description>物理演算・トラック配達シミュレーター『Truckful / トラックフル』のPC（Steam）、Google Play版が2026年10月10日に発売された。</description>
     </item>
     <item>
-      <title>ホラーゲーム『Amanda the Adventurer』映画化が発表。映画『Fnaf』や『ミーガン』などのスタジオBlumhouseが制作</title>
-      <link>https://www.famitsu.com/article/202610/90617</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90617</guid>
-      <pubDate>Sat, 10 Oct 2026 04:20:00 GMT</pubDate>
-      <description>ホラーゲーム『Amanda the Adventurer』（アマンダ・ザ・アドベンチャー）の映画化が発表された。</description>
-    </item>
-    <item>
       <title>アニメ『ゾンビのあふれた世界で俺だけが襲われない』「抱かせろ」のシーンを収録したメインPVが公開。黒瀬時子役は伊藤りかこ、牧浦さやか役は三宅麻理恵</title>
       <link>https://www.famitsu.com/article/202610/90557</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90557</guid>
@@ -588,13 +588,6 @@
       <description>ディースリー・パブリッシャーが、『ガールズ＆パンツァーオールスター・タンク・カーニバル』を2027年中に発売予定。最新プロモーション映像が公開された。</description>
     </item>
     <item>
-      <title>ソニックのDNA（遺伝子）入りフィギュアの予約受付がセガストア オンラインで開始。シリアルナンバー入りで330万円【11月1日まで】</title>
-      <link>https://www.famitsu.com/article/202610/90053</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90053</guid>
-      <pubDate>Fri, 09 Oct 2026 01:00:00 GMT</pubDate>
-      <description>『ソニック・ザ・ヘッジホッグ』35周年を記念して制作された“SONIC THE HEDGEHOG DNA FIGURE”の予約受付が2026年10月9日より開始。価格は330万円［税込］となる。</description>
-    </item>
-    <item>
       <title>『遊戯王』風間俊介＆津田健次郎の新録ボイスで熱き決闘が蘇る。バトルシティ編“遊戯vs海馬”戦、最後のワンターンを新たに映像化。高橋和希原画展にて上映</title>
       <link>https://www.famitsu.com/article/202610/90407</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90407</guid>
@@ -607,6 +600,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/89769</guid>
       <pubDate>Fri, 09 Oct 2026 01:00:00 GMT</pubDate>
       <description>角川つばさ文庫の『星のカービィ』小説シリーズより、最新刊『星のカービィ 封印図書館のナゾを追え！の巻』が2026年12月9日に発売される。</description>
+    </item>
+    <item>
+      <title>ソニックのDNA（遺伝子）入りフィギュアの予約受付がセガストア オンラインで開始。シリアルナンバー入りで330万円【11月1日まで】</title>
+      <link>https://www.famitsu.com/article/202610/90053</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90053</guid>
+      <pubDate>Fri, 09 Oct 2026 01:00:00 GMT</pubDate>
+      <description>『ソニック・ザ・ヘッジホッグ』35周年を記念して制作された“SONIC THE HEDGEHOG DNA FIGURE”の予約受付が2026年10月9日より開始。価格は330万円［税込］となる。</description>
     </item>
     <item>
       <title>アニメ『ゴースト・オブ・ツシマ 冥人奇譚』2028年に公開予定。音楽を井内啓二、音響監督を岩浪美和が担当。追加スタッフ＆キャスト情報が解禁</title>
