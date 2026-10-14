@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 11:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 12:31:00 GMT</lastBuildDate>
+    <item>
+      <title>『魔法使いの夜』×『まどマギ』コラボが決定。シャフトとufotable描き下ろしのまどか＆青子のコラボビジュアルが公開</title>
+      <link>https://www.famitsu.com/article/202610/90967</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90967</guid>
+      <pubDate>Wed, 14 Oct 2026 12:31:00 GMT</pubDate>
+      <description>映画『魔法使いの夜』と『魔法少女まどか☆マギカ』のコラボが発表。シャフトとufotable描き下ろしのまどか＆青子のコラボビジュアルが公開された。</description>
+    </item>
     <item>
       <title>元フロム・ソフトウェア開発者が新作『OVERSEEKER』を発表。『Rise of Rebellion 地罰上らば竜の降る』以来1年の沈黙を破り、9分超のトレーラー公開</title>
       <link>https://www.famitsu.com/article/202610/90960</link>
@@ -350,13 +357,6 @@
       <description>『鵺の陰陽師』アニメ化が決定、2027年夏放送されることが発表された。</description>
     </item>
     <item>
-      <title>『リズムにのって契約して魔法少女になってよ！』ノリと勢いで魔法少女を変身させるリズムゲームが無料配信中。キュートなイラストにも要注目</title>
-      <link>https://www.famitsu.com/article/202610/90735</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90735</guid>
-      <pubDate>Mon, 12 Oct 2026 09:00:00 GMT</pubDate>
-      <description>unityroomにて、音楽にあわせて女の子を魔法少女にしていく新作タイトル『リズムにのって契約して魔法少女になってよ！』が無料公開中。</description>
-    </item>
-    <item>
       <title>『ツイステ』期間限定イベント“シュガー・レース”開催を記念した大型交通広告が渋谷に登場。リリアのカートを再現した立体物も展示</title>
       <link>https://www.famitsu.com/article/202610/90722</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90722</guid>
@@ -448,13 +448,6 @@
       <description>テディベアの視点を借りて探索するホラーゲーム『Out of Sight』の無料配布がEpic Gamesストアで実施されている。配布期間は2026年10月16日まで。</description>
     </item>
     <item>
-      <title>映画『メイドインアビス 目覚める神秘』ファプタの日常を描くミニアニメが本編終了後に上映決定。「おつうじ」がテーマ</title>
-      <link>https://www.famitsu.com/article/202610/90649</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90649</guid>
-      <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
-      <description>2026年10月23日に公開予定の映画『メイドインアビス 目覚める神秘』の“観る入場者特典”としてミニアニメが本編終了後に上映決定した。</description>
-    </item>
-    <item>
       <title>『ドクターストーン』新作アニメ『Dr.STONE TERRAFORMING』が制作決定。原作マンガ27巻に収録されている本編完結後のエピソードが映像化</title>
       <link>https://www.famitsu.com/article/202610/90628</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90628</guid>
@@ -467,6 +460,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90631</guid>
       <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
       <description>アーケード向けシューティングゲーム『戦刃アレスタ』のNintendo Switch、PS5、PS4版が2027年3月18日に発売決定した。</description>
+    </item>
+    <item>
+      <title>映画『メイドインアビス 目覚める神秘』ファプタの日常を描くミニアニメが本編終了後に上映決定。「おつうじ」がテーマ</title>
+      <link>https://www.famitsu.com/article/202610/90649</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90649</guid>
+      <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
+      <description>2026年10月23日に公開予定の映画『メイドインアビス 目覚める神秘』の“観る入場者特典”としてミニアニメが本編終了後に上映決定した。</description>
     </item>
     <item>
       <title>トラック配達ゲーム『トラックフル』物理演算でバランス不安定な積み荷を慎重に運ぶ。Steam＆Google Play版が本日（10/10）発売</title>
