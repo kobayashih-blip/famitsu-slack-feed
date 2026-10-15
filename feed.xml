@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Oct 2026 11:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:41:00 GMT</lastBuildDate>
+    <item>
+      <title>『ぱずぎり』にじさんじコラボ配信決定。長尾景が先輩審神者としてイブラヒムとルンルンを導き、パズル好きの星導ショウと魁星がキャンペーンに挑戦</title>
+      <link>https://www.famitsu.com/article/202610/91126</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91126</guid>
+      <pubDate>Thu, 15 Oct 2026 12:41:00 GMT</pubDate>
+      <description>10月19日（月）20時からの第一夜はイブラヒムさんのYouTubeチャンネル、22日（木）20時からの第二夜は星導ショウさんのYouTubeチャンネルで配信。第一夜は『刀剣乱舞』の世界やゲームの魅力を紹介し、第二夜は“みんなでト餓鬼討伐キャンペーン”に挑戦する。</description>
+    </item>
     <item>
       <title>『フェイト エクストラ レコード』敵陣営のマスター＆サーヴァントをピックアップした最新映像が公開。11月には特別体験会も</title>
       <link>https://www.famitsu.com/article/202610/91104</link>
@@ -266,13 +273,6 @@
       <description>『ドラゴンクエスト』と『ファイナルファンタジー』のコラボイベント“横浜・みなとみらい Winter Holiday 2026～ドラゴンクエスト×ファイナルファンタジーが織りなす冬のファンタジー～”が、2026年11月11日よりみなとみらいで開催される。</description>
     </item>
     <item>
-      <title>『重兵装型女子高生』アニメ化に続きゲーム化が発表。ふれあい放置系RPG『JJK: 重兵装型女子高生 ワードレスレコード』スマホ向けに配信決定</title>
-      <link>https://www.famitsu.com/article/202610/90834</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90834</guid>
-      <pubDate>Wed, 14 Oct 2026 09:00:00 GMT</pubDate>
-      <description>一枚のイラストから始まった『重兵装型女子高生』がテレビアニメ化に続き、ゲーム化が発表された。</description>
-    </item>
-    <item>
       <title>Switch版『モナーク／Monark』500円で買えるワンコインセールが開催。異なる結末へと導く4人のバディとの物語が楽しめる学園RPG</title>
       <link>https://www.famitsu.com/article/202610/90923</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90923</guid>
@@ -285,6 +285,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90929</guid>
       <pubDate>Wed, 14 Oct 2026 09:00:00 GMT</pubDate>
       <description>『アーケードアーカイブス2 スティンガー』が2026年10月15日に配信決定した。1983年にセイブ開発から発売されたシューティングゲーム。</description>
+    </item>
+    <item>
+      <title>『重兵装型女子高生』アニメ化に続きゲーム化が発表。ふれあい放置系RPG『JJK: 重兵装型女子高生 ワードレスレコード』スマホ向けに配信決定</title>
+      <link>https://www.famitsu.com/article/202610/90834</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90834</guid>
+      <pubDate>Wed, 14 Oct 2026 09:00:00 GMT</pubDate>
+      <description>一枚のイラストから始まった『重兵装型女子高生』がテレビアニメ化に続き、ゲーム化が発表された。</description>
     </item>
     <item>
       <title>『青鬼』グッズがしまむらパークで本日（10/14）発売。フワッティーのダイカットクッションや檻モチーフの収納ボックスなどが登場</title>
@@ -672,6 +679,13 @@
       <description>テディベアの視点を借りて探索するホラーゲーム『Out of Sight』の無料配布がEpic Gamesストアで実施されている。配布期間は2026年10月16日まで。</description>
     </item>
     <item>
+      <title>映画『メイドインアビス 目覚める神秘』ファプタの日常を描くミニアニメが本編終了後に上映決定。「おつうじ」がテーマ</title>
+      <link>https://www.famitsu.com/article/202610/90649</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90649</guid>
+      <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
+      <description>2026年10月23日に公開予定の映画『メイドインアビス 目覚める神秘』の“観る入場者特典”としてミニアニメが本編終了後に上映決定した。</description>
+    </item>
+    <item>
       <title>『ドクターストーン』新作アニメ『Dr.STONE TERRAFORMING』が制作決定。原作マンガ27巻に収録されている本編完結後のエピソードが映像化</title>
       <link>https://www.famitsu.com/article/202610/90628</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90628</guid>
@@ -686,25 +700,11 @@
       <description>アーケード向けシューティングゲーム『戦刃アレスタ』のNintendo Switch、PS5、PS4版が2027年3月18日に発売決定した。</description>
     </item>
     <item>
-      <title>映画『メイドインアビス 目覚める神秘』ファプタの日常を描くミニアニメが本編終了後に上映決定。「おつうじ」がテーマ</title>
-      <link>https://www.famitsu.com/article/202610/90649</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90649</guid>
-      <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
-      <description>2026年10月23日に公開予定の映画『メイドインアビス 目覚める神秘』の“観る入場者特典”としてミニアニメが本編終了後に上映決定した。</description>
-    </item>
-    <item>
       <title>トラック配達ゲーム『トラックフル』物理演算でバランス不安定な積み荷を慎重に運ぶ。Steam＆Google Play版が本日（10/10）発売</title>
       <link>https://www.famitsu.com/article/202610/90621</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90621</guid>
       <pubDate>Sat, 10 Oct 2026 05:55:00 GMT</pubDate>
       <description>物理演算・トラック配達シミュレーター『Truckful / トラックフル』のPC（Steam）、Google Play版が2026年10月10日に発売された。</description>
-    </item>
-    <item>
-      <title>ホラーゲーム『Amanda the Adventurer』映画化が発表。映画『Fnaf』や『ミーガン』などのスタジオBlumhouseが制作</title>
-      <link>https://www.famitsu.com/article/202610/90617</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90617</guid>
-      <pubDate>Sat, 10 Oct 2026 04:20:00 GMT</pubDate>
-      <description>ホラーゲーム『Amanda the Adventurer』（アマンダ・ザ・アドベンチャー）の映画化が発表された。</description>
     </item>
   </channel>
 </rss>
