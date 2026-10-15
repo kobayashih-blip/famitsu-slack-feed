@@ -5,7 +5,21 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Oct 2026 12:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 13:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『CONTROL Resonant』パッケージ版が本日（10/15）発売。『CONTROL』の続編、壊滅が迫る歪んだマンハッタンを探索</title>
+      <link>https://www.famitsu.com/article/202610/91007</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91007</guid>
+      <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
+      <description>2026年10月15日、『CONTROL』の続編である『CONTROL Resonant』のプレイステーション5、XBOX Series Xパッケージ版が発売。SteekBookエディションにはスチールブックケースやキーアートポスターなどが付属。</description>
+    </item>
+    <item>
+      <title>【ソフト＆ハード週間販売数】『キングダム ハーツ コレクション I～III』が首位獲得。『ドラゴンズドグマ 2：ダークアリズン』、Switch2版『地球防衛軍5』もランクイン【10/5～10/11】</title>
+      <link>https://www.famitsu.com/article/202610/91095</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91095</guid>
+      <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
+      <description>ファミ通発表の売上ランキング。今回は2026年10月5日～10月11日のゲームソフト＆ハード週間推定販売数まとめをお届け。</description>
+    </item>
     <item>
       <title>『ぱずぎり』にじさんじコラボ配信決定。長尾景が先輩審神者としてイブラヒムとルンルンを導き、パズル好きの星導ショウと魁星がキャンペーンに挑戦</title>
       <link>https://www.famitsu.com/article/202610/91126</link>
@@ -679,20 +693,6 @@
       <description>テディベアの視点を借りて探索するホラーゲーム『Out of Sight』の無料配布がEpic Gamesストアで実施されている。配布期間は2026年10月16日まで。</description>
     </item>
     <item>
-      <title>『ドクターストーン』新作アニメ『Dr.STONE TERRAFORMING』が制作決定。原作マンガ27巻に収録されている本編完結後のエピソードが映像化</title>
-      <link>https://www.famitsu.com/article/202610/90628</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90628</guid>
-      <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
-      <description>『Dr.STONE』（ドクターストーン）の新作アニメ『Dr.STONE TERRAFORMING』が制作決定した。</description>
-    </item>
-    <item>
-      <title>『戦刃アレスタ』Switch、PS5、PS4版が2027年3月18日に発売決定。新武装やキャラ切り替え機能を搭載した新モードを収録</title>
-      <link>https://www.famitsu.com/article/202610/90631</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90631</guid>
-      <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
-      <description>アーケード向けシューティングゲーム『戦刃アレスタ』のNintendo Switch、PS5、PS4版が2027年3月18日に発売決定した。</description>
-    </item>
-    <item>
       <title>映画『メイドインアビス 目覚める神秘』ファプタの日常を描くミニアニメが本編終了後に上映決定。「おつうじ」がテーマ</title>
       <link>https://www.famitsu.com/article/202610/90649</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90649</guid>
@@ -700,11 +700,11 @@
       <description>2026年10月23日に公開予定の映画『メイドインアビス 目覚める神秘』の“観る入場者特典”としてミニアニメが本編終了後に上映決定した。</description>
     </item>
     <item>
-      <title>トラック配達ゲーム『トラックフル』物理演算でバランス不安定な積み荷を慎重に運ぶ。Steam＆Google Play版が本日（10/10）発売</title>
-      <link>https://www.famitsu.com/article/202610/90621</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90621</guid>
-      <pubDate>Sat, 10 Oct 2026 05:55:00 GMT</pubDate>
-      <description>物理演算・トラック配達シミュレーター『Truckful / トラックフル』のPC（Steam）、Google Play版が2026年10月10日に発売された。</description>
+      <title>『ドクターストーン』新作アニメ『Dr.STONE TERRAFORMING』が制作決定。原作マンガ27巻に収録されている本編完結後のエピソードが映像化</title>
+      <link>https://www.famitsu.com/article/202610/90628</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90628</guid>
+      <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
+      <description>『Dr.STONE』（ドクターストーン）の新作アニメ『Dr.STONE TERRAFORMING』が制作決定した。</description>
     </item>
   </channel>
 </rss>
