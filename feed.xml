@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Oct 2026 14:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 18:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『クワイエット急行909号室』7日間をくり返す鉄道の謎を解くミステリーの無料体験版が配信開始。脱線事故を回避するパートがプレイ可能</title>
+      <link>https://www.famitsu.com/article/202610/91212</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91212</guid>
+      <pubDate>Fri, 16 Oct 2026 18:00:00 GMT</pubDate>
+      <description>『クワイエット急行909号室』体験版がSteamで配信開始。7日間のループをくり返す鉄道の中で、存在しないはずの“909号室”を求めて探索していくミステリーアドベンチャー。今回の体験版では、7日目に発生する脱線事故を回避する部分をプレイできる。</description>
+    </item>
     <item>
       <title>『ストレンジャー ザン ヘヴン』小倉マップの物語が垣間見える新トレーラーが公開。主人公・大東真がいかにしてアメリカから日本へと渡ったか、密航の様子が描かれる</title>
       <link>https://www.famitsu.com/article/202610/91251</link>
@@ -560,13 +567,6 @@
       <description>『ドラゴンクエスト』と『ファイナルファンタジー』のコラボイベント“横浜・みなとみらい Winter Holiday 2026～ドラゴンクエスト×ファイナルファンタジーが織りなす冬のファンタジー～”が、2026年11月11日よりみなとみらいで開催される。</description>
     </item>
     <item>
-      <title>『重兵装型女子高生』アニメ化に続きゲーム化が発表。ふれあい放置系RPG『JJK: 重兵装型女子高生 ワードレスレコード』スマホ向けに配信決定</title>
-      <link>https://www.famitsu.com/article/202610/90834</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90834</guid>
-      <pubDate>Wed, 14 Oct 2026 09:00:00 GMT</pubDate>
-      <description>一枚のイラストから始まった『重兵装型女子高生』がテレビアニメ化に続き、ゲーム化が発表された。</description>
-    </item>
-    <item>
       <title>Switch版『モナーク／Monark』500円で買えるワンコインセールが開催。異なる結末へと導く4人のバディとの物語が楽しめる学園RPG</title>
       <link>https://www.famitsu.com/article/202610/90923</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90923</guid>
@@ -579,6 +579,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90929</guid>
       <pubDate>Wed, 14 Oct 2026 09:00:00 GMT</pubDate>
       <description>『アーケードアーカイブス2 スティンガー』が2026年10月15日に配信決定した。1983年にセイブ開発から発売されたシューティングゲーム。</description>
+    </item>
+    <item>
+      <title>『重兵装型女子高生』アニメ化に続きゲーム化が発表。ふれあい放置系RPG『JJK: 重兵装型女子高生 ワードレスレコード』スマホ向けに配信決定</title>
+      <link>https://www.famitsu.com/article/202610/90834</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90834</guid>
+      <pubDate>Wed, 14 Oct 2026 09:00:00 GMT</pubDate>
+      <description>一枚のイラストから始まった『重兵装型女子高生』がテレビアニメ化に続き、ゲーム化が発表された。</description>
     </item>
     <item>
       <title>『青鬼』グッズがしまむらパークで本日（10/14）発売。フワッティーのダイカットクッションや檻モチーフの収納ボックスなどが登場</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90890</guid>
       <pubDate>Wed, 14 Oct 2026 02:46:00 GMT</pubDate>
       <description>個人開発を行っているWAQK（ワック）さんの制作したゲーム『だし巻き』がSNSで話題。本作は、その名の通りだし巻きを作るだけのブラウザゲーム。スマートフォン、PCのどちらでもプレイ可能。</description>
-    </item>
-    <item>
-      <title>『プロセカ』ココスコラボが10月21日より開催。初音ミクらバーチャルシンガーや各ユニットをイメージしたコラボメニューが販売</title>
-      <link>https://www.famitsu.com/article/202610/90886</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90886</guid>
-      <pubDate>Wed, 14 Oct 2026 02:39:00 GMT</pubDate>
-      <description>ココスにて、『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』とのコラボキャンペーンが2026年10月21日より開催される。</description>
     </item>
   </channel>
 </rss>
