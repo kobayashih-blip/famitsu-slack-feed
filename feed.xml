@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Oct 2026 09:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 09:40:00 GMT</lastBuildDate>
+    <item>
+      <title>『Japanese Ramen Simulator』ロードマップが公開。バイトのキャラクリ、警備タレット、チャーハンの追加など盛りだくさんのアプデ計画</title>
+      <link>https://www.famitsu.com/article/202610/91215</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91215</guid>
+      <pubDate>Fri, 16 Oct 2026 09:40:00 GMT</pubDate>
+      <description>好評配信中のPC向けラーメン屋シミュレーション『Japanese Ramen Simulator』について、アップデートロードマップが公開。唐揚げやチャーハン、屋台ラーメンなど、さまざまな新コンテンツの追加が予定されている。</description>
+    </item>
     <item>
       <title>『ガンズ・オブ・エスカトン』西部劇ソウルライクFPSの発売日が12/8に決定。怪異はびこる終末世界のアメリカをパリィと銃撃で生き抜け</title>
       <link>https://www.famitsu.com/article/202610/91179</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90832</guid>
       <pubDate>Tue, 13 Oct 2026 09:04:00 GMT</pubDate>
       <description>映画『バイオハザード』が日本公開から4日間で観客動員47万人、興⾏収⼊8億円を突破。全世界興収は『バイオハザード︓ザ・ファイナル』を上回り、シリーズ史上最⾼記録を更新した。</description>
-    </item>
-    <item>
-      <title>舞台『ハンターハンター』キメラアント編、前編のキャストが公開。ゴン役西山蓮都、キルア役阿久津仁愛らが続投、メルエム役に佐藤流司</title>
-      <link>https://www.famitsu.com/article/202610/90810</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90810</guid>
-      <pubDate>Tue, 13 Oct 2026 09:00:00 GMT</pubDate>
-      <description>舞台版『HUNTER×HUNTER』第4弾キメラアント編の出演キャスト・メインビジュアル・公演PVほか、公演情報が一挙解禁。東京公演が2027年1月23日（土）から2月7日（日）天王洲 銀河劇場にて、京都公演が2月13日（土）から2月21日（日）まで京都劇場にて上演される。</description>
     </item>
   </channel>
 </rss>
