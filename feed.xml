@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Oct 2026 01:42:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:00:00 GMT</lastBuildDate>
+    <item>
+      <title>音ゲー×ビジュアルノベル『Morpho Reverie』（モルフォ・レヴァリエ）体験版が配信開始。物語はAIと人間が芸術で対決するSFミステリー</title>
+      <link>https://www.famitsu.com/article/202610/91033</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91033</guid>
+      <pubDate>Fri, 16 Oct 2026 03:00:00 GMT</pubDate>
+      <description>2026年10月15日、『Morpho Reverie』（モルフォ・レヴァリエ）の体験版がSteamにて配信を開始。AIと人間の対決を描くSFミステリーのストーリーが展開するリズムゲーム。体験版では第1章と全11曲をプレイ可能。体験版限定のおまけストーリーも収録。</description>
+    </item>
     <item>
       <title>任天堂、Switch2／Switch本体の修理価格を11月16日に到着した修理品より改定。修理部品の価格高騰にともなって</title>
       <link>https://www.famitsu.com/article/202610/91152</link>
@@ -350,11 +357,11 @@
       <description>学園RPG『モナーク／Monark』Nintendo Switch版のワンコインセールが開催された。PS5/PS4版のセールは2026年10月21日より実施される。</description>
     </item>
     <item>
-      <title>【アケアカ2】『スティンガー』10月15日配信開始。邪悪な生命体がうごめく敵基地を目指すセイブのシューティングゲーム</title>
-      <link>https://www.famitsu.com/article/202610/90929</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90929</guid>
-      <pubDate>Wed, 14 Oct 2026 09:00:00 GMT</pubDate>
-      <description>『アーケードアーカイブス2 スティンガー』が2026年10月15日に配信決定した。1983年にセイブ開発から発売されたシューティングゲーム。</description>
+      <title>『青鬼』グッズがしまむらパークで本日（10/14）発売。フワッティーのダイカットクッションや檻モチーフの収納ボックスなどが登場</title>
+      <link>https://www.famitsu.com/article/202610/90935</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90935</guid>
+      <pubDate>Wed, 14 Oct 2026 08:15:00 GMT</pubDate>
+      <description>しまむらパークにて『青鬼』のグッズが本日2026年10月14日より発売。青鬼やフワッティーの雑貨アイテムなどが登場している。</description>
     </item>
     <item>
       <title>【アケアカ/アケアカ2】『特殊部隊U.A.G.』が10月15日より配信開始。機銃を装備した高速バイクで敵基地を目指すシューティングゲーム</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90678</guid>
       <pubDate>Sun, 11 Oct 2026 06:08:00 GMT</pubDate>
       <description>声優アイドルユニット“i☆Ris（アイリス）”が2027年末での活動終了を発表した。</description>
-    </item>
-    <item>
-      <title>【Amazon予約数ランキング】Switch2リメイク版『ゼルダの伝説 時のオカリナ』が首位を維持。『キングダム ハーツ コレクション I～III』が4位に【9/27～10/3】</title>
-      <link>https://www.famitsu.com/article/202610/90642</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90642</guid>
-      <pubDate>Sun, 11 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Amazon.co.jpのテレビゲームストアの週間予約数ランキング。2026年9月27日～10月3日の期間、『ゼルダの伝説 時のオカリナ』が首位を維持。4位に『キングダム ハーツ コレクション I～III』がランクインしている。</description>
     </item>
   </channel>
 </rss>
