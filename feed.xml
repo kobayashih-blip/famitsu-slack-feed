@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Oct 2026 21:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 21:40:00 GMT</lastBuildDate>
+    <item>
+      <title>『Rain98』無料体験版が配信開始。90年代末期、人類滅亡願望少女と交流するサイコサスペンス・アドベンチャーの序盤を3時間超プレイできる</title>
+      <link>https://www.famitsu.com/article/202610/91272</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91272</guid>
+      <pubDate>Fri, 16 Oct 2026 21:40:00 GMT</pubDate>
+      <description>C#4R4CT3Rは、Steam向けサイコサスペンス＆ロマンスアドベンチャーゲーム『Rain98』の無料体験版（デモ版）を配信開始した。</description>
+    </item>
     <item>
       <title>『ウマ娘』一番くじが本日（10/17）発売。約20センチの“金のゴルシ像”は台座まで金ピカ。“GOLD WEEK”衣装を纏ったステイゴールドらのフィギュアも登場</title>
       <link>https://www.famitsu.com/article/202610/91214</link>
@@ -574,6 +581,13 @@
       <description>『ドラゴンクエスト』と『ファイナルファンタジー』のコラボイベント“横浜・みなとみらい Winter Holiday 2026～ドラゴンクエスト×ファイナルファンタジーが織りなす冬のファンタジー～”が、2026年11月11日よりみなとみらいで開催される。</description>
     </item>
     <item>
+      <title>『重兵装型女子高生』アニメ化に続きゲーム化が発表。ふれあい放置系RPG『JJK: 重兵装型女子高生 ワードレスレコード』スマホ向けに配信決定</title>
+      <link>https://www.famitsu.com/article/202610/90834</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90834</guid>
+      <pubDate>Wed, 14 Oct 2026 09:00:00 GMT</pubDate>
+      <description>一枚のイラストから始まった『重兵装型女子高生』がテレビアニメ化に続き、ゲーム化が発表された。</description>
+    </item>
+    <item>
       <title>Switch版『モナーク／Monark』500円で買えるワンコインセールが開催。異なる結末へと導く4人のバディとの物語が楽しめる学園RPG</title>
       <link>https://www.famitsu.com/article/202610/90923</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90923</guid>
@@ -586,13 +600,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90929</guid>
       <pubDate>Wed, 14 Oct 2026 09:00:00 GMT</pubDate>
       <description>『アーケードアーカイブス2 スティンガー』が2026年10月15日に配信決定した。1983年にセイブ開発から発売されたシューティングゲーム。</description>
-    </item>
-    <item>
-      <title>『重兵装型女子高生』アニメ化に続きゲーム化が発表。ふれあい放置系RPG『JJK: 重兵装型女子高生 ワードレスレコード』スマホ向けに配信決定</title>
-      <link>https://www.famitsu.com/article/202610/90834</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90834</guid>
-      <pubDate>Wed, 14 Oct 2026 09:00:00 GMT</pubDate>
-      <description>一枚のイラストから始まった『重兵装型女子高生』がテレビアニメ化に続き、ゲーム化が発表された。</description>
     </item>
     <item>
       <title>『青鬼』グッズがしまむらパークで本日（10/14）発売。フワッティーのダイカットクッションや檻モチーフの収納ボックスなどが登場</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90893</guid>
       <pubDate>Wed, 14 Oct 2026 03:14:00 GMT</pubDate>
       <description>ハンゲで提供されていたMMORPG『チョコットランド』および、同作のスマートフォン版『チョコットランドSP』が2027年3月29日22時をもってサービスを終了する。これに伴い、未使用ポイントの払い戻しに関する情報もアナウンスされた。</description>
-    </item>
-    <item>
-      <title>『1999 トコヨビル』特技のピッキングで空き巣に入り、同僚の弱みを握りながら共同生活を送るホラーADV。約2時間の体験版が本日（10/14）無料配信</title>
-      <link>https://www.famitsu.com/article/202610/90820</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90820</guid>
-      <pubDate>Wed, 14 Oct 2026 03:00:00 GMT</pubDate>
-      <description>講談社ゲームクリエイターズラボは、ネオノスタルジック×ホラーADV『1999トコヨビル』の発売日が2026年11月10日に決定。また、体験版が本日10月14日よりSteamで配信となる。</description>
     </item>
   </channel>
 </rss>
