@@ -5,7 +5,21 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Oct 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:07:00 GMT</lastBuildDate>
+    <item>
+      <title>『PUKEY GODDESS SHOT TRICK』体験版の一般公開を中止、クローズド形式での体験会に変更。「プレイ動画への対応」と「AIによる模写・再現」の2点を考慮して判断</title>
+      <link>https://www.famitsu.com/article/202610/91245</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91245</guid>
+      <pubDate>Fri, 16 Oct 2026 12:07:00 GMT</pubDate>
+      <description>アライアンス・アーツは、2026年10月19日に配信を予定していたPC（Steam）向けゲーム『PUKEY GODDESS SHOT TRICK』の無料体験版の一般公開を取りやめ。</description>
+    </item>
+    <item>
+      <title>『鉄道の果て』鉛筆画で描かれるノスタルジックなポイント＆クリックアドベンチャーが12月10日発売。文字のない世界で少女が線路の終点に待ち受ける真実を目指す</title>
+      <link>https://www.famitsu.com/article/202610/91206</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91206</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
+      <description>PC（Steam）用ソフト『鉄道の果て』が2026年12月10日（木）にリリースされる。鉄道をテーマにした探し物＆間違い探しゲームで、人影のない駅で電車を降りた少女が線路沿いを歩きながら終点に待ち受ける真実を追う。</description>
+    </item>
     <item>
       <title>【DMM GAMES】『SDガンダム ジージェネ エターナル』1.5周年記念キャンペーンが開催。半額クーポン配布や100万DMMポイント山分けなどが実施</title>
       <link>https://www.famitsu.com/article/202610/91205</link>
@@ -343,18 +357,25 @@
       <description>ディズニー＆ピクサーによる長編アニメーション作品『水の都のネロ』の日本公開日が2027年3月19日に決定。あわせて、新キャラの姿も描かれた新たな場面写真も公開された。</description>
     </item>
     <item>
-      <title>『地球防衛軍』侵略生物α70センチぬい、名セリフタオルなどが買える東京ポップアップストアが10月24日開催</title>
-      <link>https://www.famitsu.com/article/202610/91026</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91026</guid>
-      <pubDate>Thu, 15 Oct 2026 06:30:00 GMT</pubDate>
-      <description>2026年10月24日～11月23日、池袋のバンダイナムコCross Store 東京にて『地球防衛軍』のポップアップショップが開催。2027年3月18日発売予定の『地球防衛軍6.2』も試遊できるほか、最新グッズが販売。</description>
-    </item>
-    <item>
       <title>『東方紅魔郷：New Classic』Switch/Switch2パッケージ版が発売決定。クラシック版やサントラのDLコード付き【12/17発売】</title>
       <link>https://www.famitsu.com/article/202610/91024</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91024</guid>
       <pubDate>Thu, 15 Oct 2026 05:25:00 GMT</pubDate>
       <description>『東方紅魔郷：New Classic ～ the Embodiment of Scarlet Devil.』Switchパッケージ版が12月17日に発売決定（Switch2版含む）。オリジナル版『東方紅魔郷』を可能な限り再現したClassic版のダウンロードコードなどが付属する。</description>
+    </item>
+    <item>
+      <title>アニメ『マジンガーZ』『デビルマン』全話一挙放送。ABEMAで初配信。10月16日（金）より順次スタート</title>
+      <link>https://www.famitsu.com/article/202610/91015</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91015</guid>
+      <pubDate>Thu, 15 Oct 2026 04:37:00 GMT</pubDate>
+      <description>ABEMAにて、2026年10月16日より『マジンガーZ』、2026年10月23日より『デビルマン』の配信が行われる。2作品の配信が行われるのはABEMA初。</description>
+    </item>
+    <item>
+      <title>『テイルズ オブ エターニア リマスター』本日（10/15）発売。空を挟んで向き合うふたつの世界を舞台にした、永遠と絆のRPG</title>
+      <link>https://www.famitsu.com/article/202610/90999</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90999</guid>
+      <pubDate>Thu, 15 Oct 2026 03:56:00 GMT</pubDate>
+      <description>2026年10月15日、バンダイナムコエンターテインメントは『テイルズ オブ エターニア リマスター』を発売した。2005年に発売したPSP版のリマスター版。対応機種はNintendo Switch2 /Nintendo Switch/PlayStation5/PlayStation4/XBOX Series X|S。</description>
     </item>
     <item>
       <title>【アントンブラスト】『ワリオランドアドバンス』インスパイアのオッサン大暴れ横スクアクションが日本語化。Switch、PS5版も配信開始</title>
@@ -684,27 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90806</guid>
       <pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
       <description>怪物が蔓延る架空のナポレオン戦争を戦うソウルライクアクション『Valor Mortis』が2026年10月14日に発売される。</description>
-    </item>
-    <item>
-      <title>映画『魔法使いの夜』が『まどマギ』とコラボ？ 鹿目まどからしきシルエットが映る予告映像が公開。明日（10/14）21時に詳細発表か</title>
-      <link>https://www.famitsu.com/article/202610/90857</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90857</guid>
-      <pubDate>Tue, 13 Oct 2026 12:22:00 GMT</pubDate>
-      <description>映画『魔法使いの夜』公式Xよりコラボ予告映像が公開された。『魔法少女まどか☆マギカ』の主人公・鹿目まどからしきシルエットが確認できるが？</description>
-    </item>
-    <item>
-      <title>Switch向け「ニコニコ」のサービス提供が2027年3月31日をもって終了へ。「Switch2への対応予定がない」ことも明らかに</title>
-      <link>https://www.famitsu.com/article/202610/90849</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90849</guid>
-      <pubDate>Tue, 13 Oct 2026 10:36:00 GMT</pubDate>
-      <description>ドワンゴは、Nintendo Switch向けソフトウェア・ニコニコ（ニコニコ動画）のサービス提供が2027年3月31日に終了することを発表した。</description>
-    </item>
-    <item>
-      <title>『Dyping』の目玉が監視してくれる作業用ホラーアドベンチャー『Dyping Working』が発表。目玉生誕の秘密に迫るストーリーも</title>
-      <link>https://www.famitsu.com/article/202610/90842</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90842</guid>
-      <pubDate>Tue, 13 Oct 2026 10:07:00 GMT</pubDate>
-      <description>累計70万以上プレイされたホラータイピングゲーム『Dyping』のスピンオフ『Dyping Working: 作業監視ゲーム』が発表された。</description>
     </item>
   </channel>
 </rss>
