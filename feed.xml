@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Oct 2026 05:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『ベルセルク』狂戦士の甲冑を纏ったガッツのガラスマウスパッドが10月22日発売。ドラゴンころしを抱える姿を大判ガラスに再現。価格は21100円</title>
+      <link>https://www.famitsu.com/article/202610/91382</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91382</guid>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 GMT</pubDate>
+      <description>漫画『ベルセルク』とWALLHACKのコラボガラスマウスパッドが10月22日19時より発売。狂戦士の甲冑を纏い、ドラゴンころしを抱えるガッツの姿を51×44cmの大判ガラスに再現した。最上位モデル“SP-005”をベースに、特別仕様のシリコンベースやステッカーも付属。価格は21100円[税込]。</description>
+    </item>
     <item>
       <title>獣人たちが集まるホテルで人狼ゲーム『Hotel Carnivalia』無料体験版がSteamで配信中。夜は一人称視点で探索・戦闘、昼は証拠をもとに犯人を探す</title>
       <link>https://www.famitsu.com/article/202610/91375</link>
@@ -350,20 +357,6 @@
       <description>アニメ『ジョジョの奇妙な冒険』とコラボしたオープンイヤー型イヤホン“OpenRun Pro 2 ジョナサン・ジョースターモデル”と“OpenDots 2 ディオ・ブランドーモデル”が、10月23日（金）より数量限定で発売。</description>
     </item>
     <item>
-      <title>白に覆われた終末世界を彷徨う探索RPG『白銀のユークロニア』無料体験版が配信開始。知略的バトルシステムと考察型ナラティブを取り入れたタイトル</title>
-      <link>https://www.famitsu.com/article/202610/91041</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91041</guid>
-      <pubDate>Fri, 16 Oct 2026 03:40:00 GMT</pubDate>
-      <description>ゲームサークル・構想コード：D（制作者：七画 形）は、2026年12月に発売を予定している探索RPG『白銀のユークロニア』のSteam体験版の配信を開始。同作は2026年10月19日より開催される“Steamネクストフェス”に参戦。</description>
-    </item>
-    <item>
-      <title>『ステラーコード』家庭用ゲーム機版が配信開始。宇宙から届いた謎の物体と暗号に挑むSFミステリーノベルアドベンチャー</title>
-      <link>https://www.famitsu.com/article/202610/91155</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91155</guid>
-      <pubDate>Fri, 16 Oct 2026 03:30:00 GMT</pubDate>
-      <description>『ステラーコード』のNintendo Switch 2/Nintendo Switch/プレイステーション5（PS5）/プレイステーション4（PS4）版が2026年10月16日（金）より配信開始。設定資料に加え、コミックマーケット107で頒布された後日談オマケ小説も電子書籍形式で収録される。</description>
-    </item>
-    <item>
       <title>『ポケポケ』新シリーズが10月末開幕、拡張パック追加サイクルが約4週→約6週に。“デュアルタイプ”カードの初登場、デッキコピー機能の追加など新情報解禁</title>
       <link>https://www.famitsu.com/article/202610/91157</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91157</guid>
@@ -705,6 +698,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90945</guid>
       <pubDate>Wed, 14 Oct 2026 09:04:00 GMT</pubDate>
       <description>『ドラゴンクエスト』と『ファイナルファンタジー』のコラボイベント“横浜・みなとみらい Winter Holiday 2026～ドラゴンクエスト×ファイナルファンタジーが織りなす冬のファンタジー～”が、2026年11月11日よりみなとみらいで開催される。</description>
+    </item>
+    <item>
+      <title>『重兵装型女子高生』アニメ化に続きゲーム化が発表。ふれあい放置系RPG『JJK: 重兵装型女子高生 ワードレスレコード』スマホ向けに配信決定</title>
+      <link>https://www.famitsu.com/article/202610/90834</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90834</guid>
+      <pubDate>Wed, 14 Oct 2026 09:00:00 GMT</pubDate>
+      <description>一枚のイラストから始まった『重兵装型女子高生』がテレビアニメ化に続き、ゲーム化が発表された。</description>
     </item>
   </channel>
 </rss>
