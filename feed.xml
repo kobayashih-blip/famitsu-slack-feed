@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Oct 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:30:00 GMT</lastBuildDate>
+    <item>
+      <title>『宇宙人ハルオ君』クローン軍人の食事やトイレを管理しながら水没施設を探索するTPS。倒れるごとに能力が衰えるデメリット付きの復活</title>
+      <link>https://www.famitsu.com/article/202610/91403</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91403</guid>
+      <pubDate>Mon, 19 Oct 2026 10:30:00 GMT</pubDate>
+      <description>水没施設を探索するPC（Steam）向けTPS『宇宙人ハルオ君』のストアページが公開された。</description>
+    </item>
     <item>
       <title>海の魚を1億匹釣り尽くすゲーム『海の魚、ぜんぶ釣る』無料体験版がSteamで配信開始。最初は1匹ずつ、やがて1000匹まとめて釣れるように</title>
       <link>https://www.famitsu.com/article/202610/91395</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90964</guid>
       <pubDate>Wed, 14 Oct 2026 14:00:00 GMT</pubDate>
       <description>ネットマーブルは、最新アクションRPG『モンギル：STAR DIVE』DMM GAMES PLAYER版の事前登録を本日2026年10月14日に開始した。</description>
-    </item>
-    <item>
-      <title>『グランツーリスモ』30周年記念のDualSenseが12月15日に発売決定。10月15日より配信される『GT7』の大型アップデート“Spec IV”第1弾では、ホンダ ステップ ワゴンなど6車種を新規収録</title>
-      <link>https://www.famitsu.com/article/202610/90973</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90973</guid>
-      <pubDate>Wed, 14 Oct 2026 13:56:00 GMT</pubDate>
-      <description>『グランツーリスモ』シリーズの30周年を記念したDualSense ワイヤレスコントローラー “グランツーリスモ” リミテッドエディションが2026年12月10日に発売決定。また、10月15日15時より配信される『グランツーリスモ7』の大型アップデート“Spec IV”第1弾の情報も公開された。</description>
     </item>
   </channel>
 </rss>
