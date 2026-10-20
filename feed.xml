@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Oct 2026 01:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 01:30:00 GMT</lastBuildDate>
+    <item>
+      <title>『RPGツクールU2U』のマップ制作が体験できる『2Dマップエディタ体験版』が配信。制作したマップは保存して製品版に引き継ぎが可能</title>
+      <link>https://www.famitsu.com/article/202610/91419</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91419</guid>
+      <pubDate>Tue, 20 Oct 2026 01:30:00 GMT</pubDate>
+      <description>誰でも手軽にゲーム開発ができる『RPGツクールU2U』のマップ制作が体験できる、『P2Dマップエディタ体験版』がSteamにて公開された。</description>
+    </item>
     <item>
       <title>フリュー新作『アノマリス』『クライムライト』Steam Nextフェスで最新体験版が登場。『まじかる☆プリンセス』『Peripeteia』など4作品とのコラボも発表</title>
       <link>https://www.famitsu.com/article/202610/91418</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90992</guid>
       <pubDate>Thu, 15 Oct 2026 01:01:00 GMT</pubDate>
       <description>『ファイアーエムブレム 万紫千紅』のDLCが発売。『風花雪月』の武器を模した4種の装備が追加されるほか、今冬にはアウロラら3人の神位、2027年にはベルトランら4人の追加ストーリーが登場する。</description>
-    </item>
-    <item>
-      <title>『Car Park Capital』住人たちをクルマ依存にして駐車場だらけの街を作り上げる、邪悪なシムシティ的街づくりゲーム</title>
-      <link>https://www.famitsu.com/article/202610/90983</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90983</guid>
-      <pubDate>Wed, 14 Oct 2026 22:30:00 GMT</pubDate>
-      <description></description>
     </item>
   </channel>
 </rss>
