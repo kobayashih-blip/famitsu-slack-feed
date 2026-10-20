@@ -5,7 +5,21 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Oct 2026 12:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『Mycopunk: 俺たちキノコバスターズ』フレンドリーファイアありのハチャメチャシューターの正式版が10月21日リリース。多彩な武器とビルドを組み合わせてキノコエイリアンをぶっ倒せ</title>
+      <link>https://www.famitsu.com/article/202610/91431</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91431</guid>
+      <pubDate>Tue, 20 Oct 2026 17:00:00 GMT</pubDate>
+      <description>傭兵ロボットになってキノコのエイリアンと戦う『Mycopunk: 俺たちキノコバスターズ』の正式リリース版が、2026年10月21日に配信となる。</description>
+    </item>
+    <item>
+      <title>『ポケポケ』新拡張パック「デュアルフュージョン」が10月29日10時に配信。ほかの人のデッキをコピー可能、おすそわけ・トレード機能やバトルを改修</title>
+      <link>https://www.famitsu.com/article/202610/91550</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91550</guid>
+      <pubDate>Tue, 20 Oct 2026 14:52:00 GMT</pubDate>
+      <description>『Pokémon Trading Card Game Pocket』（ポケポケ）新拡張パック“デュアルフュージョン”が2026年10月29日10時より登場すると発表された。</description>
+    </item>
     <item>
       <title>『サイバーパンク2077』10月22日にアプデ実施。新たなプレイスタイル“二丁持ち”ほか、『エッジランナーズ2』インスパイアの新機能も</title>
       <link>https://www.famitsu.com/article/202610/91544</link>
@@ -341,13 +355,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/90850</guid>
       <pubDate>Sat, 17 Oct 2026 07:00:00 GMT</pubDate>
       <description>タカラトミーアーツは、『ゼルダの伝説』のカプセルトイ“ゼルダの伝説 ヒストリカルチャーム＋”を2026年10月に発売する。価格は1回300円［税込］。</description>
-    </item>
-    <item>
-      <title>『Among the Trolls』フィンランドの神話から着想を得た一人称視点アクションが配信開始。失踪した祖父の謎を追い、魔法と幸運の力でサバイバル</title>
-      <link>https://www.famitsu.com/article/202610/91068</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91068</guid>
-      <pubDate>Sat, 17 Oct 2026 06:00:00 GMT</pubDate>
-      <description>2026年10月15日、Steamにて『Among the Trolls』が配信開始。フィンランドの神話から着想を得た一人称視点サバイバルアクションアドベンチャー。</description>
     </item>
     <item>
       <title>『ポケモン』リラックスするリザードンたちのフィギュアガチャが10月下旬発売。ヒトカゲやピカチュウはリザードンに乗せて飾れる</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91112</guid>
       <pubDate>Thu, 15 Oct 2026 11:11:00 GMT</pubDate>
       <description>『アイドルマスター TOURS』（ツアマス）の新シリーズ2弾が2026年10月29日より稼動開始することが発表。新シリーズ2弾では、追加アイドルとして『アイドルマスター SideM』（アイマスSideM）の山下次郎＆舞田類、追加楽曲『Study Equal Magic!』、『SYMPHONY』が実装される。</description>
-    </item>
-    <item>
-      <title>eスポーツに特化したフリースクールが東京都多摩市に開校。ゲームを通じた交流と個別学習を組み合わせて、子どもたちが安心して過ごせる場所づくりを目指す</title>
-      <link>https://www.famitsu.com/article/202610/91058</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91058</guid>
-      <pubDate>Thu, 15 Oct 2026 09:56:00 GMT</pubDate>
-      <description>小学生以上の不登校またはそれに近い状態の子どもを対象とした、eスポーツに特化したフリースクール“RE:VISION フリースクール 聖蹟桜ヶ丘校”が、東京都多摩市の聖蹟桜ヶ丘に開校。eスポーツを通じて同じ趣味の仲間と関わる時間を持ちながら、天神Xを使用した学習に取り組む形式を採用している。</description>
     </item>
   </channel>
 </rss>
