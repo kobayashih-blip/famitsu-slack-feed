@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Oct 2026 11:36:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:41:00 GMT</lastBuildDate>
+    <item>
+      <title>『Groundwork Simulator』マルチ対応“金発掘”シミュレーター。重機による運搬・整地・発掘・選鉱が楽しめる。本日（10/22）より早期アクセス開始</title>
+      <link>https://www.famitsu.com/article/202610/91746</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91746</guid>
+      <pubDate>Thu, 22 Oct 2026 11:41:00 GMT</pubDate>
+      <description>重機を用いた金鉱石の発掘が楽しめるシミュレーター『Groundwork Simulator』早期アクセスが2026年10月22日より開始。オンラインマルチプレイにも対応。</description>
+    </item>
     <item>
       <title>【マブラヴ】『シュヴァルツェスマーケン』Steam版がリリース決定。『紅血の紋章』『殉教者たち』の2タイトルが登場</title>
       <link>https://www.famitsu.com/article/202610/91804</link>
@@ -350,11 +357,18 @@
       <description>エヌシージャパンは『リネージュ クラシック』の特設サイトをオープン。事前登録の受付を開始した。</description>
     </item>
     <item>
-      <title>『BLEACH Mirrors High』重大発表がある特別放送が10月27日19時より公開。小林千晃、指出毬亜、森田成一、折笠富美子が出演</title>
-      <link>https://www.famitsu.com/article/202610/91568</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91568</guid>
-      <pubDate>Wed, 21 Oct 2026 03:00:00 GMT</pubDate>
-      <description>新作スマートフォン（iOS/Android）向けゲームアプリ『BLEACH Mirrors High』の特別放送が2026年10月27日19時より公開。番組には、小林千晃（右島志燐役）、指出毬亜（佐鳴白祢役）、森田成一（黒崎一護役）、折笠富美子（朽木ルキア役）が出演し、ゲームの最新情報や重大発表が実施される。</description>
+      <title>EAがボクシングゲーム『Fight Night』シリーズの復活を予告。15年以上ぶりのカムバックを目指す</title>
+      <link>https://www.famitsu.com/article/202610/91561</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91561</guid>
+      <pubDate>Tue, 20 Oct 2026 21:00:00 GMT</pubDate>
+      <description></description>
+    </item>
+    <item>
+      <title>『Mycopunk: 俺たちキノコバスターズ』フレンドリーファイアありのハチャメチャシューターの正式版が10月21日リリース。多彩な武器とビルドを組み合わせてキノコエイリアンをぶっ倒せ</title>
+      <link>https://www.famitsu.com/article/202610/91431</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91431</guid>
+      <pubDate>Tue, 20 Oct 2026 17:00:00 GMT</pubDate>
+      <description>傭兵ロボットになってキノコのエイリアンと戦う『Mycopunk: 俺たちキノコバスターズ』の正式リリース版が、2026年10月21日に配信となる。</description>
     </item>
     <item>
       <title>『ポケポケ』新拡張パック「デュアルフュージョン」が10月29日10時に配信。ほかの人のデッキをコピー可能、おすそわけ・トレード機能やバトルを改修</title>
@@ -691,20 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91298</guid>
       <pubDate>Sat, 17 Oct 2026 08:00:00 GMT</pubDate>
       <description>新作映画『アイカツスターズ！～星々のProgress～』が2027年1月22日（金）に全国公開決定。キービジュアル、本予告、場面写真、ムビチケ情報第2弾なども公開。</description>
-    </item>
-    <item>
-      <title>『ゼルダの伝説』トライフォースを模した重量感のあるメタルチャームが10月にガチャで登場。『時のオカリナ』『ブレス オブ ザ ワイルド』などがラインアップ</title>
-      <link>https://www.famitsu.com/article/202610/90850</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90850</guid>
-      <pubDate>Sat, 17 Oct 2026 07:00:00 GMT</pubDate>
-      <description>タカラトミーアーツは、『ゼルダの伝説』のカプセルトイ“ゼルダの伝説 ヒストリカルチャーム＋”を2026年10月に発売する。価格は1回300円［税込］。</description>
-    </item>
-    <item>
-      <title>『Among the Trolls』フィンランドの神話から着想を得た一人称視点アクションが配信開始。失踪した祖父の謎を追い、魔法と幸運の力でサバイバル</title>
-      <link>https://www.famitsu.com/article/202610/91068</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91068</guid>
-      <pubDate>Sat, 17 Oct 2026 06:00:00 GMT</pubDate>
-      <description>2026年10月15日、Steamにて『Among the Trolls』が配信開始。フィンランドの神話から着想を得た一人称視点サバイバルアクションアドベンチャー。</description>
     </item>
   </channel>
 </rss>
