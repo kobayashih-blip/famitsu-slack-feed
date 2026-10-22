@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Oct 2026 04:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:39:00 GMT</lastBuildDate>
+    <item>
+      <title>『ワンピース 海のごちそうレストラン』が本日（10/22）発売。総勢400人以上のキャラが登場。バラティエ2号店のスタッフとしておもてなし</title>
+      <link>https://www.famitsu.com/article/202610/91697</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91697</guid>
+      <pubDate>Thu, 22 Oct 2026 04:39:00 GMT</pubDate>
+      <description>『ONE PIECE海のごちそうレストラン』のSwitch、Switch 2版が2026年10月22日発売。バラティエ2号店の新米スタッフとして海上レストランを経営するシミュレーションゲーム。</description>
+    </item>
     <item>
       <title>『ファイナルファンタジー レゾナンス』本日（10/22）発売。「ドットのまま『FF』が進化していたら？」のifを実現、温故知新の新作HD-2DRPG</title>
       <link>https://www.famitsu.com/article/202610/91692</link>
@@ -217,13 +224,6 @@
       <description>新作スマートフォン（iOS/Android）向けゲームアプリ『UMAWALK』（ウマウォーク）が2026年10月19日より配信開始。毎日の歩数や生活習慣を計測し、競走馬を育成していくヘルスケアゲーム。</description>
     </item>
     <item>
-      <title>『BLEACH Mirrors High』重大発表がある特別放送が10月27日19時より公開。小林千晃、指出毬亜、森田成一、折笠富美子が出演</title>
-      <link>https://www.famitsu.com/article/202610/91568</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91568</guid>
-      <pubDate>Wed, 21 Oct 2026 03:00:00 GMT</pubDate>
-      <description>新作スマートフォン（iOS/Android）向けゲームアプリ『BLEACH Mirrors High』の特別放送が2026年10月27日19時より公開。番組には、小林千晃（右島志燐役）、指出毬亜（佐鳴白祢役）、森田成一（黒崎一護役）、折笠富美子（朽木ルキア役）が出演し、ゲームの最新情報や重大発表が実施される。</description>
-    </item>
-    <item>
       <title>『人間奇想計画』の世界観がぶっ飛びすぎている。水槽頭の花嫁に、ハイヒールを履いたダビデ像。奇想天外なオープンワールドRPGが登場</title>
       <link>https://www.famitsu.com/article/202610/91111</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91111</guid>
@@ -236,6 +236,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91218</guid>
       <pubDate>Wed, 21 Oct 2026 03:00:00 GMT</pubDate>
       <description>エヌシージャパンは『リネージュ クラシック』の特設サイトをオープン。事前登録の受付を開始した。</description>
+    </item>
+    <item>
+      <title>『BLEACH Mirrors High』重大発表がある特別放送が10月27日19時より公開。小林千晃、指出毬亜、森田成一、折笠富美子が出演</title>
+      <link>https://www.famitsu.com/article/202610/91568</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91568</guid>
+      <pubDate>Wed, 21 Oct 2026 03:00:00 GMT</pubDate>
+      <description>新作スマートフォン（iOS/Android）向けゲームアプリ『BLEACH Mirrors High』の特別放送が2026年10月27日19時より公開。番組には、小林千晃（右島志燐役）、指出毬亜（佐鳴白祢役）、森田成一（黒崎一護役）、折笠富美子（朽木ルキア役）が出演し、ゲームの最新情報や重大発表が実施される。</description>
     </item>
     <item>
       <title>EAがボクシングゲーム『Fight Night』シリーズの復活を予告。15年以上ぶりのカムバックを目指す</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91101</guid>
       <pubDate>Fri, 16 Oct 2026 10:00:00 GMT</pubDate>
       <description>クリアレーヴは、Steam向けに制作中のオカルトホラーADV『Resequence: The Orchard』を2026年11月20日に発売することを発表した。併せて、“Steam Next フェス”や“デジゲー博 2026”への参加も決定。</description>
-    </item>
-    <item>
-      <title>11月7日開催「ファミ通40周年フェス」全150種以上のグッズ情報をすべて解禁！ 会場販売＆同時受注販売の2種類をご用意。抽選申し込みも受け付け中【2026年10月18日まで】</title>
-      <link>https://www.famitsu.com/article/202610/90519</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/90519</guid>
-      <pubDate>Fri, 16 Oct 2026 10:00:00 GMT</pubDate>
-      <description>2026年11月7日にベルサール秋葉原で開催される「ファミ通40周年フェス」。本記事では会場販売分、同時受注販売分含めたすべてのグッズを一挙公開します。</description>
     </item>
   </channel>
 </rss>
