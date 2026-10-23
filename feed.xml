@@ -5,7 +5,21 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Oct 2026 11:35:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:30:00 GMT</lastBuildDate>
+    <item>
+      <title>『進撃の巨人』一番くじが発売。馬にまたがるリヴァイ兵長が約30cmサイズで登場。エレンやミカサの“心臓を捧げよ”フィギュアもラインアップ</title>
+      <link>https://www.famitsu.com/article/202610/91878</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91878</guid>
+      <pubDate>Fri, 23 Oct 2026 21:30:00 GMT</pubDate>
+      <description>“一番くじ 進撃の巨人 ～心臓を捧げよ～”が、本日2026年10月24日より順次発売。ラストワン賞は約30センチサイズのリヴァイ兵長フィギュアがカッコいい。A賞～E賞には「心臓を捧げよ」の敬礼ポーズをしたエレン、ミカサ、アルミン、エルヴィン、ハンジのフィギュアが登場。価格は1回850円［税込］。</description>
+    </item>
+    <item>
+      <title>任天堂・青沼英二氏（『ゼルダの伝説』プロデューサー）、フランス芸術文化勲章シュヴァリエの授与式が開催。宮本茂氏の文化勲章受章決定と同日に</title>
+      <link>https://www.famitsu.com/article/202610/91942</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91942</guid>
+      <pubDate>Fri, 23 Oct 2026 21:30:00 GMT</pubDate>
+      <description>『ゼルダの伝説』青沼英二氏のフランス芸術文化勲章シュヴァリエ授与式が2026年10月23日に開催。現地記者が写真と動画を公開した。同日には宮本茂氏の日本の文化勲章受章決定も発表されている。</description>
+    </item>
     <item>
       <title>『ステラーブレイド』×『オーバーウォッチ』コラボが発表。『ニーア』『NIKKE』『ベヨネッタ』に続き新たなクロスオーバーを予告。詳細は未発表</title>
       <link>https://www.famitsu.com/article/202610/91921</link>
@@ -616,13 +630,6 @@
       <description>新作スマートフォン（iOS/Android）向けゲームアプリ『UMAWALK』（ウマウォーク）が2026年10月19日より配信開始。毎日の歩数や生活習慣を計測し、競走馬を育成していくヘルスケアゲーム。</description>
     </item>
     <item>
-      <title>『人間奇想計画』の世界観がぶっ飛びすぎている。水槽頭の花嫁に、ハイヒールを履いたダビデ像。奇想天外なオープンワールドRPGが登場</title>
-      <link>https://www.famitsu.com/article/202610/91111</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91111</guid>
-      <pubDate>Wed, 21 Oct 2026 03:00:00 GMT</pubDate>
-      <description>世界観や独特のビジュアルが印象的な新作オープンワールドゲーム『人間奇想計画』が登場！公開されたPVからその世界観やストーリー、バトルシステムについて見どころをチェックしていく。</description>
-    </item>
-    <item>
       <title>『BLEACH Mirrors High』重大発表がある特別放送が10月27日19時より公開。小林千晃、指出毬亜、森田成一、折笠富美子が出演</title>
       <link>https://www.famitsu.com/article/202610/91568</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91568</guid>
@@ -635,6 +642,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91218</guid>
       <pubDate>Wed, 21 Oct 2026 03:00:00 GMT</pubDate>
       <description>エヌシージャパンは『リネージュ クラシック』の特設サイトをオープン。事前登録の受付を開始した。</description>
+    </item>
+    <item>
+      <title>『人間奇想計画』の世界観がぶっ飛びすぎている。水槽頭の花嫁に、ハイヒールを履いたダビデ像。奇想天外なオープンワールドRPGが登場</title>
+      <link>https://www.famitsu.com/article/202610/91111</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91111</guid>
+      <pubDate>Wed, 21 Oct 2026 03:00:00 GMT</pubDate>
+      <description>世界観や独特のビジュアルが印象的な新作オープンワールドゲーム『人間奇想計画』が登場！公開されたPVからその世界観やストーリー、バトルシステムについて見どころをチェックしていく。</description>
     </item>
     <item>
       <title>EAがボクシングゲーム『Fight Night』シリーズの復活を予告。15年以上ぶりのカムバックを目指す</title>
@@ -691,20 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91433</guid>
       <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
       <description>アニメ『ハイキュー!!』の新作スマホゲーム『ハイキュー!! ALL Challengers』がApp Store、Google Playで事前登録を開始。34名以上の選手を自由に育成し、自分だけのチームで頂点を目指す育成シミュレーションゲームだ。録り下ろしボイス付きのオリジナルストーリーや2Dアニメーションも収録。メインビジュアルと公式PVも公開された。</description>
-    </item>
-    <item>
-      <title>『トロピコ7』日本での発売日がグローバル版と同じ2027年1月28日に決定。PS5、Switch 2パッケージ版、各種DLストアでの予約もスタート</title>
-      <link>https://www.famitsu.com/article/202610/91512</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91512</guid>
-      <pubDate>Tue, 20 Oct 2026 08:00:00 GMT</pubDate>
-      <description>『トロピコ7』日本での発売日が2027年1月28日に決定。PS5、Switch 2パッケージ版、各種ストアでの予約もスタート。</description>
-    </item>
-    <item>
-      <title>『ドラゴンズドグマ』家庭科のドラゴンとコラボしたナップザックのサンプルが公開。公式Xの新作発売記念キャンペーンで当たる</title>
-      <link>https://www.famitsu.com/article/202610/91502</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91502</guid>
-      <pubDate>Tue, 20 Oct 2026 07:46:00 GMT</pubDate>
-      <description>『ドラゴンズドグマ 2：ダークアリズン』発売記念キャンペーンで当たる“家庭科のドラゴンズドグマ”オリジナルナップザックのサンプルが公開。</description>
     </item>
   </channel>
 </rss>
