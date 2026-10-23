@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Oct 2026 06:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:30:00 GMT</lastBuildDate>
+    <item>
+      <title>“推し抱き枕”の女性バージョンが発売。立体バスト＆くびれのメリハリボディで、腕枕や膝枕など好きなポーズで癒されよう。“アナタの推し”に合わせて2サイズが選べる！</title>
+      <link>https://www.famitsu.com/article/202610/91875</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91875</guid>
+      <pubDate>Fri, 23 Oct 2026 06:30:00 GMT</pubDate>
+      <description>BIBILAB（ビビラボ）は、推し活をより楽しく・より便利にする“ビビファボ”シリーズから、“推し抱き枕”の女性ver.を発売した。</description>
+    </item>
     <item>
       <title>『エースコンバット・ゼロ』Steam版が単体起動に対応、『エスコン8』を介さずプレイ可能に。セーブデータの引き継ぎ・共有も</title>
       <link>https://www.famitsu.com/article/202610/91868</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91410</guid>
       <pubDate>Tue, 20 Oct 2026 01:00:00 GMT</pubDate>
       <description>MMORPG『AION2』とXREALのコラボプレゼントキャンペーンが10月20日より開催。公式Xのフォロー＆リポストで、ARグラス“ROG XREAL R1”が抽選で1名に、コラボクリーナークロスが20名に当たる。10月21日からは対象家電量販店でXREAL製品を購入した人を対象に、限定グッズが40名に当たるキャンペーンも実施される。</description>
-    </item>
-    <item>
-      <title>『トロッコ問題は、問題じゃない。』ぶつかるほどに列車が強化される異色のローグライトレールアクション。トロッコ問題は両方の線路を走ることですべて解決。早期アクセスが10/19開始</title>
-      <link>https://www.famitsu.com/article/202610/91413</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91413</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
-      <description>ひとりを犠牲にするか、大勢を犠牲にするかという“トロッコ問題”を題材としたローグライトレールアクション『トロッコ問題は、問題じゃない。』が2026年10月19日にリリースされた。</description>
     </item>
   </channel>
 </rss>
