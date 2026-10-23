@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Oct 2026 09:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:30:00 GMT</lastBuildDate>
+    <item>
+      <title>『ドラクエモンスターズ4』メタルキングらモンスターの“ちょっとざんねん”な生態を紹介！ 『ざんねんないきもの事典』コラボ企画が本日（10/23）開始</title>
+      <link>https://www.famitsu.com/article/202610/91887</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91887</guid>
+      <pubDate>Fri, 23 Oct 2026 09:30:00 GMT</pubDate>
+      <description>『ドラゴンクエストモンスターズ４　枯れ木の国のビアンカ・フローラ』（DQM4）×『ざんねんないきもの事典』コラボ企画が2026年10月23日よりスタート。</description>
+    </item>
     <item>
       <title>『FGO』タマモアリアがいきなり実装。『サムレム』で初登場したタマモナインの1体が星5ライダーとして登場【Fate/Grand Order】</title>
       <link>https://www.famitsu.com/article/202610/91631</link>
@@ -112,20 +119,6 @@
       <description>『ペルソナ4 リバイバル』ベルベットルームをピックアップした最新情報公開。キャラクターボイスはイゴール役を島田敏さん、マーガレット役を大原さやかさん、マリー役を花澤香菜さんが担当する。</description>
     </item>
     <item>
-      <title>『続ポートピア連続殺人事件:忘却の埋葬』2027年3月4日に発売決定。Switchパッケージ版特典でファミコン版がまるごと遊べる</title>
-      <link>https://www.famitsu.com/article/202610/91715</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91715</guid>
-      <pubDate>Fri, 23 Oct 2026 03:00:00 GMT</pubDate>
-      <description>『ポートピア連続殺人事件』リメイクの完全新作『続ポートピア連続殺人事件:忘却の埋葬』が2027年3月4日に発売決定。パッケージ版の予約受付も開始。</description>
-    </item>
-    <item>
-      <title>アニメ『センチメンタルジャーニー』YouTubeにて無料配信が決定。恋愛ゲーム『センチメンタルグラフティ』のスピンオフ作品</title>
-      <link>https://www.famitsu.com/article/202610/91745</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91745</guid>
-      <pubDate>Fri, 23 Oct 2026 03:00:00 GMT</pubDate>
-      <description>サンライズチャンネルにて、『超者ライディーン』『センチメンタルジャーニー』『セイクリッドセブン』の無料初配信が決定。『超魔神英雄伝ワタル』『伝説巨神イデオン』など続き話数から最終回まで配信が決定した4タイトルも</description>
-    </item>
-    <item>
       <title>『SUSPENCIL』お題と違う絵を描く人は誰なのか。お絵かき人狼ゲームが本日（10/23）発売。人狼は見破られてもお題を当てれば逆転勝利</title>
       <link>https://www.famitsu.com/article/202610/91508</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91508</guid>
@@ -133,11 +126,25 @@
       <description>オンラインお絵かきワードウルフゲーム『SUSPENCIL』が本日2026年10月23日にSteamで発売。配られたお題をもとに絵を描き、違うお題の絵を描く人狼を見破ろう。人狼は見破られても市民のお題を当てれば逆転勝利となる。</description>
     </item>
     <item>
+      <title>『続ポートピア連続殺人事件:忘却の埋葬』2027年3月4日に発売決定。Switchパッケージ版特典でファミコン版がまるごと遊べる</title>
+      <link>https://www.famitsu.com/article/202610/91715</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91715</guid>
+      <pubDate>Fri, 23 Oct 2026 03:00:00 GMT</pubDate>
+      <description>『ポートピア連続殺人事件』リメイクの完全新作『続ポートピア連続殺人事件:忘却の埋葬』が2027年3月4日に発売決定。パッケージ版の予約受付も開始。</description>
+    </item>
+    <item>
       <title>『熱戦少女』最大150連分のガチャチケットがもらえるハロウィンイベントがスタート。憑依UR+星霊“雷司・オルル”が新登場、人気の憑依UR+星霊も復刻</title>
       <link>https://www.famitsu.com/article/202610/91723</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91723</guid>
       <pubDate>Fri, 23 Oct 2026 03:00:00 GMT</pubDate>
       <description>『熱戦少女』ハロウィンイベントが本日（10/23）よりスタート。最大150連分のガチャチケ配布や憑依UR+星霊“雷司・オルル”が新登場</description>
+    </item>
+    <item>
+      <title>アニメ『センチメンタルジャーニー』YouTubeにて無料配信が決定。恋愛ゲーム『センチメンタルグラフティ』のスピンオフ作品</title>
+      <link>https://www.famitsu.com/article/202610/91745</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91745</guid>
+      <pubDate>Fri, 23 Oct 2026 03:00:00 GMT</pubDate>
+      <description>サンライズチャンネルにて、『超者ライディーン』『センチメンタルジャーニー』『セイクリッドセブン』の無料初配信が決定。『超魔神英雄伝ワタル』『伝説巨神イデオン』など続き話数から最終回まで配信が決定した4タイトルも</description>
     </item>
     <item>
       <title>『メイドインアビス』劇場シリーズ第2部の制作が決定。スラージョ役は水樹奈々、東山奈央ら追加キャスト5人も発表。第1部『目覚める神秘』は本日公開</title>
@@ -348,13 +355,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91692</guid>
       <pubDate>Thu, 22 Oct 2026 04:15:00 GMT</pubDate>
       <description>2026年10月22日、スクウェア・エニックスは『ファイナルファンタジー レゾナンス』を発売した。対応機種はNintendo Switch 2、Nintendo Switch、プレイステーション5、XBOX Series X|S、XBOX on PC、Steam。Steam版は2026年10月23日発売となる。</description>
-    </item>
-    <item>
-      <title>『ジョジョ』JINSコラボメガネが発売決定。歴代ジョジョやジャイロのイメージを落とし込んだオシャレなデザイン【10月29日発売】</title>
-      <link>https://www.famitsu.com/article/202610/91689</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91689</guid>
-      <pubDate>Thu, 22 Oct 2026 04:06:00 GMT</pubDate>
-      <description>JINSと『ジョジョの奇妙な冒険』によるコラボ眼鏡が2026年10月29日より発売決定。歴代主人公たちのイメージを落とし込んだ全8種がラインアップ。</description>
     </item>
     <item>
       <title>『Nintendo Switch スポーツ リゾート』本日（10/22）発売。定番スポーツからスケートボード、ゆび相撲など新種目も楽しめる</title>
