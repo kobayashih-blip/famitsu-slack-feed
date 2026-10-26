@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Oct 2026 11:23:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『Crazy City Golf』街をまるごとコースにしたパーティゴルフアクションが本日（10/26）発売。道順は自由、事故はごちそう</title>
+      <link>https://www.famitsu.com/article/202610/92130</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92130</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+      <description>開発チームNulpoyoのオンライン・パーティアクションゴルフ『Crazy City Golf』が、PC（Steam）向けに発売。ラウンドごとに自動生成される街がコースで、20種類以上のアイテムや街の仕掛けを使い、最大8人で対戦できる。</description>
+    </item>
     <item>
       <title>『ペルソナ』シリーズ30周年展覧会8キャラ描き下ろしビジュアル第2弾は『ペルソナ2 罪』主人公。第1弾の『女神異聞録ペルソナ』主人公に続いて</title>
       <link>https://www.famitsu.com/article/202610/92142</link>
@@ -357,6 +364,13 @@
       <description>『ロマンシング サガ 2 リベンジオブザセブン』の世界累計出荷・ダウンロード販売本数が100万本を突破。『サガ フロンティア』以来、シリーズ29年ぶりのミリオン達成となった。メインイラストレーター・あんべよしろう氏の描き下ろし記念イラストや、ファンへの感謝を込めた動画も公開された。</description>
     </item>
     <item>
+      <title>『CoD: MW4』本日（10/23）発売。13年ぶりに任天堂ハードに登場、Switch 2版はJoy-Con 2のマウス操作に対応。弟者、k4sen、ボドカら12人がプレイ配信</title>
+      <link>https://www.famitsu.com/article/202610/91856</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91856</guid>
+      <pubDate>Fri, 23 Oct 2026 05:01:00 GMT</pubDate>
+      <description>『コール オブ デューティ』シリーズ最新作『Call of Duty: Modern Warfare 4』（CoD: MW4）が2026年10月23日に発売。朝鮮半島を中心とした世界規模の紛争を描き、“DMZモード”の正式版を実装。13年ぶりの任天堂ハード向け作品となるNintendo Switch 2版も登場し、弟者、k4sen、ボドカら12人がプレイ配信を行う。</description>
+    </item>
+    <item>
       <title>『アズールプロミリア』11月26日に正式リリース決定。『アズレン』ManjuuとYostarが贈る、星霊と旅するファンタジーワールドRPG</title>
       <link>https://www.famitsu.com/article/202610/91861</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91861</guid>
@@ -691,20 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91625</guid>
       <pubDate>Wed, 21 Oct 2026 11:00:00 GMT</pubDate>
       <description>ミステリーアドベンチャーゲーム『薬屋のひとりごと ～偽りの皇弟～』の発売日が2027年3月18日に決定。パッケージ版の予約受付が2026年10月21日、デジタル版の予約受付が10月22日より開始となる。対応機種は、Nintendo Switch 2、Nintendo Switch、プレイステーション5（PS5）、PC（Steam）。</description>
-    </item>
-    <item>
-      <title>『忍者戦隊カクレンジャー 第三部・中年奮闘編』が10/23まで無料公開。サイゾウ/ニンジャブルー役を務めた土田大さんを偲ぶ機会となることを願って</title>
-      <link>https://www.famitsu.com/article/202610/91623</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91623</guid>
-      <pubDate>Wed, 21 Oct 2026 10:30:00 GMT</pubDate>
-      <description>東映特撮ファンクラブが、YouTubeにて『忍者戦隊カクレンジャー 第三部・中年奮闘編』を2026年10月23日23時59分まで無料公開。2026年10月11日に亡くなられたサイゾウ/ニンジャブルー役の俳優・土田大さんの訃報を受けての公開。</description>
-    </item>
-    <item>
-      <title>『Voice of Cards』3部作セットが50％オフの2970円に。単品購入でも72%オフの985円。スクエニのハロウィンセールが11月4日まで開催</title>
-      <link>https://www.famitsu.com/article/202610/91620</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91620</guid>
-      <pubDate>Wed, 21 Oct 2026 10:20:00 GMT</pubDate>
-      <description>ダウンロードタイトルを対象とした“スクエニ HALLOWEEN SALE”をニンテンドーeショップ、ニンテンドーストア、PlayStation Storeで2026年11月4日まで開催。2026年10月28日に5周年を迎える『Voice of Cards』シリーズの3部作セットが50％オフの2970円［税込］となるほか、各シリーズタイトルも72%オフの985円［税込］でラインアップされている。</description>
     </item>
   </channel>
 </rss>
