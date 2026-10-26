@@ -5,7 +5,21 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Oct 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『Crazy City Golf』街をまるごとコースにしたパーティゴルフアクションが本日（10/26）発売。道順は自由、事故はごちそう</title>
+      <link>https://www.famitsu.com/article/202610/92130</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92130</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+      <description>開発チームNulpoyoのオンライン・パーティアクションゴルフ『Crazy City Golf』が、PC（Steam）向けに発売。ラウンドごとに自動生成される街がコースで、20種類以上のアイテムや街の仕掛けを使い、最大8人で対戦できる。</description>
+    </item>
+    <item>
+      <title>『ペルソナ』シリーズ30周年展覧会8キャラ描き下ろしビジュアル第2弾は『ペルソナ2 罪』主人公。第1弾の『女神異聞録ペルソナ』主人公に続いて</title>
+      <link>https://www.famitsu.com/article/202610/92142</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92142</guid>
+      <pubDate>Mon, 26 Oct 2026 11:23:00 GMT</pubDate>
+      <description>“PERSONA 30th EX.”8キャラ描き下ろしビジュアル第2弾は、“周防達哉（すおう たつや）”の名前でも親しまれている『ペルソナ2 罪』主人公の描き下ろしビジュアル。</description>
+    </item>
     <item>
       <title>『REKA』歩く家と旅する魔女探索アドベンチャーの正式版が配信開始。自由自在に建築しながら秋の森を旅しよう。新要素も大幅追加</title>
       <link>https://www.famitsu.com/article/202610/92111</link>
@@ -35,13 +49,6 @@
       <description>Amazon.co.jpのテレビゲームストアの週間予約数ランキング。2026年10月11日～10月17日の期間、『ゼルダの伝説 時のオカリナ』が首位を獲得。3位に『Nintendo Switch スポーツ リゾート』がランクインしている。</description>
     </item>
     <item>
-      <title>『ツイステ』リリア・ヴァンルージュ（声：緑川光）歌唱の楽曲『RACING STAR☆』スペシャルPVが見られる特設サイトが公開</title>
-      <link>https://www.famitsu.com/article/202610/92113</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92113</guid>
-      <pubDate>Mon, 26 Oct 2026 09:00:00 GMT</pubDate>
-      <description>『ディズニー ツイステッドワンダーランド』のイベント“シュガー・レース”に登場する楽曲『RACING STAR☆』のスペシャルPV特設サイトを公開。ピックアップ召喚“リリア＆ルーク＆マレウス”も11月13日まで開催中。</description>
-    </item>
-    <item>
       <title>『ガチアクタ』の指輪がMAYLAから登場。ルド・エンジン・ザンカ・リヨウ・アモをモチーフとしたアイテムか？</title>
       <link>https://www.famitsu.com/article/202610/92072</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/92072</guid>
@@ -54,6 +61,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/92073</guid>
       <pubDate>Mon, 26 Oct 2026 09:00:00 GMT</pubDate>
       <description>夜路地が開発中のADV『MARY - メアリ姫の奪還』のSteamウィッシュリスト登録数が1万件を突破。記念として、unityroomの無料版がスマートフォンに対応し、隠しエンディングと103通りの分岐が追加された。Steam完全版は2027年発売予定。</description>
+    </item>
+    <item>
+      <title>『ツイステ』リリア・ヴァンルージュ（声：緑川光）歌唱の楽曲『RACING STAR☆』スペシャルPVが見られる特設サイトが公開</title>
+      <link>https://www.famitsu.com/article/202610/92113</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92113</guid>
+      <pubDate>Mon, 26 Oct 2026 09:00:00 GMT</pubDate>
+      <description>『ディズニー ツイステッドワンダーランド』のイベント“シュガー・レース”に登場する楽曲『RACING STAR☆』のスペシャルPV特設サイトを公開。ピックアップ召喚“リリア＆ルーク＆マレウス”も11月13日まで開催中。</description>
     </item>
     <item>
       <title>【Apex】ネッシーたちの絵柄がかわいいルームウェアやボクサーパンツ、3足組ソックスがアベイルで10月31日より発売【エーペックスレジェンズ】</title>
@@ -84,18 +98,18 @@
       <description>ArtDock開発の協力レストラン経営ゲーム『どうぶつの町の食堂物語』がSteamで早期アクセスを開始。最大4人のオンライン協力に対応し、通常価格は2,100円。発売から2週間は40%オフの1,260円で購入できる。</description>
     </item>
     <item>
-      <title>自分で描いた絵が魚になって泳ぎだす！ お絵描き水槽シミュレーター『Drawquarium』11月13日にSteamで発売。無料デモ版も配信中</title>
-      <link>https://www.famitsu.com/article/202610/92076</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92076</guid>
-      <pubDate>Mon, 26 Oct 2026 06:00:00 GMT</pubDate>
-      <description>パブリッシャーのrokaplayと個人開発者Kalebによるお絵描き水槽シミュレーター『Drawquarium』が、11月13日にSteamで発売決定。自分で描いた魚や植物が水槽で動き出し、完成した水槽はデスクトップ壁紙にもできる。無料デモ版も配信中。</description>
-    </item>
-    <item>
       <title>『ドラクエモンスターズ4』デザインの“ギルティ炭酸 NOPE”が11月下旬発売。メタルスライムやメタルハンターなどのモンスターたちを描き下ろし</title>
       <link>https://www.famitsu.com/article/202610/92014</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/92014</guid>
       <pubDate>Mon, 26 Oct 2026 06:00:00 GMT</pubDate>
       <description>『ドラゴンクエストモンスターズ４ 枯れ木の国のビアンカ・フローラ』コラボデザインの“ギルティ炭酸 NOPE”が2026年11月下旬に発売される。</description>
+    </item>
+    <item>
+      <title>自分で描いた絵が魚になって泳ぎだす！ お絵描き水槽シミュレーター『Drawquarium』11月13日にSteamで発売。無料デモ版も配信中</title>
+      <link>https://www.famitsu.com/article/202610/92076</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92076</guid>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 GMT</pubDate>
+      <description>パブリッシャーのrokaplayと個人開発者Kalebによるお絵描き水槽シミュレーター『Drawquarium』が、11月13日にSteamで発売決定。自分で描いた魚や植物が水槽で動き出し、完成した水槽はデスクトップ壁紙にもできる。無料デモ版も配信中。</description>
     </item>
     <item>
       <title>『ファイナルファンタジー』40年の軌跡を、珠玉の16曲でたどる。記念盤がレコードとCDで2027年1月6日に発売</title>
@@ -224,18 +238,18 @@
       <description>『ステラーブレイド』公式X（Twitter）にて、チーム対戦型アクションシューター『オーバーウォッチ』とのコラボが告知された。詳細は近日中に発表されると思われる。</description>
     </item>
     <item>
-      <title>『フォールアウト』東京コラボカフェの店内装飾が公開。『Fallout 4』ダイアモンドシティ大型パノラマタペストリーや等身大タカハシパネルを設置</title>
-      <link>https://www.famitsu.com/article/202610/91895</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91895</guid>
-      <pubDate>Fri, 23 Oct 2026 11:00:00 GMT</pubDate>
-      <description>『Fallout』×タワレコのコラボカフェ店内装飾が公開。等身大タカハシパネルやダイアモンドシティの大型パノラマタペストリーが展開され、ゲームの世界に浸りながらの食事が楽しめる。</description>
-    </item>
-    <item>
       <title>『攻殻機動隊』新作アニメの制作が開始。『攻殻機動隊 THE GHOST IN THE SHELL』に続き、サイエンスSARUがアニメーション制作を担当</title>
       <link>https://www.famitsu.com/article/202610/91916</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91916</guid>
       <pubDate>Fri, 23 Oct 2026 11:00:00 GMT</pubDate>
       <description>『攻殻機動隊』を原作とする新作アニメーションの制作が指導したことが発表。制作は『攻殻機動隊 THE GHOST IN THE SHELL』に続いてサイエンスSARUが担当する。</description>
+    </item>
+    <item>
+      <title>『フォールアウト』東京コラボカフェの店内装飾が公開。『Fallout 4』ダイアモンドシティ大型パノラマタペストリーや等身大タカハシパネルを設置</title>
+      <link>https://www.famitsu.com/article/202610/91895</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91895</guid>
+      <pubDate>Fri, 23 Oct 2026 11:00:00 GMT</pubDate>
+      <description>『Fallout』×タワレコのコラボカフェ店内装飾が公開。等身大タカハシパネルやダイアモンドシティの大型パノラマタペストリーが展開され、ゲームの世界に浸りながらの食事が楽しめる。</description>
     </item>
     <item>
       <title>『ウマ娘』中止となったLA公演のグッズ販売を実施。チケット不要の現地販売に加え、すべての人を対象とした事後通販も予定</title>
@@ -287,18 +301,18 @@
       <description>『Fate/Grand Order』（FGO）に2026年10月23日、星5ライダー“タマモアリア”がサプライズ実装。『Fate/Samurai Remnant』で初登場したタマモナインの1体で、同作ではプレイヤーが操作できないNPCだった。同日開幕のレイドバトル“冠位名代戦”にも強敵として登場する。</description>
     </item>
     <item>
-      <title>アニメ『ダンジョン飯』第2期、ファリン・カブルー・ミスルン・シスルの描き下ろしビジュアル＆ミニキャライラストが公開。2027年10月より放送</title>
-      <link>https://www.famitsu.com/article/202610/91902</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91902</guid>
-      <pubDate>Fri, 23 Oct 2026 09:00:00 GMT</pubDate>
-      <description>アニメ『ダンジョン飯 Season2』より、ファリン（声：早見沙織）、カブルー（声：加藤渉）、ミスルン（声：内山昂輝） 、シスル（声：小林ゆう）の新規描き下ろしキャラクタービジュアルとミニキャライラストが公開。</description>
-    </item>
-    <item>
       <title>『Cutout Village』紙を切って、折って、貼って村づくり。ゲームで解放した建物は印刷して、ホントに作れる紙工作シティビルダー。Steam早期アクセスで配信開始</title>
       <link>https://www.famitsu.com/article/202610/91890</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91890</guid>
       <pubDate>Fri, 23 Oct 2026 09:00:00 GMT</pubDate>
       <description>紙工作村作りシミュ『Cutout Village』早期アクセス配信がPC（Steam）向けに開始。過疎化した村を舞台に、紙を切って、折って、貼り合わせながら建物や装飾を作っていく。ゲーム内で解放した建物はペーパークラフトとして実際に作ることもできる。</description>
+    </item>
+    <item>
+      <title>アニメ『ダンジョン飯』第2期、ファリン・カブルー・ミスルン・シスルの描き下ろしビジュアル＆ミニキャライラストが公開。2027年10月より放送</title>
+      <link>https://www.famitsu.com/article/202610/91902</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91902</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 GMT</pubDate>
+      <description>アニメ『ダンジョン飯 Season2』より、ファリン（声：早見沙織）、カブルー（声：加藤渉）、ミスルン（声：内山昂輝） 、シスル（声：小林ゆう）の新規描き下ろしキャラクタービジュアルとミニキャライラストが公開。</description>
     </item>
     <item>
       <title>『古今東西ダービー』お題に沿って付けた名前で馬の強さが決まる！ 競馬パーティーゲームが10月30日配信決定。最大8人のオンライン対戦も可能</title>
@@ -385,11 +399,11 @@
       <description>『ペルソナ4 リバイバル』ベルベットルームをピックアップした最新情報公開。キャラクターボイスはイゴール役を島田敏さん、マーガレット役を大原さやかさん、マリー役を花澤香菜さんが担当する。</description>
     </item>
     <item>
-      <title>『SUSPENCIL』お題と違う絵を描く人は誰なのか。お絵かき人狼ゲームが本日（10/23）発売。人狼は見破られてもお題を当てれば逆転勝利</title>
-      <link>https://www.famitsu.com/article/202610/91508</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91508</guid>
+      <title>『メイドインアビス』劇場シリーズ第2部の制作が決定。スラージョ役は水樹奈々、東山奈央ら追加キャスト5人も発表。第1部『目覚める神秘』は本日公開</title>
+      <link>https://www.famitsu.com/article/202610/91851</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91851</guid>
       <pubDate>Fri, 23 Oct 2026 03:00:00 GMT</pubDate>
-      <description>オンラインお絵かきワードウルフゲーム『SUSPENCIL』が本日2026年10月23日にSteamで発売。配られたお題をもとに絵を描き、違うお題の絵を描く人狼を見破ろう。人狼は見破られても市民のお題を当てれば逆転勝利となる。</description>
+      <description>アニメ『メイドインアビス』の劇場シリーズ【第二部】の制作が決定。2026年10月23日公開の第1部『目覚める神秘』に登場する神秘卿スラージョ役の水樹奈々さんをはじめ、追加キャスト5人が発表された。呪詛船団（ヘイルヘックス）を描いた新キービジュアルも公開。</description>
     </item>
     <item>
       <title>『続ポートピア連続殺人事件:忘却の埋葬』2027年3月4日に発売決定。Switchパッケージ版特典でファミコン版がまるごと遊べる</title>
@@ -399,13 +413,6 @@
       <description>『ポートピア連続殺人事件』リメイクの完全新作『続ポートピア連続殺人事件:忘却の埋葬』が2027年3月4日に発売決定。パッケージ版の予約受付も開始。</description>
     </item>
     <item>
-      <title>『熱戦少女』最大150連分のガチャチケットがもらえるハロウィンイベントがスタート。憑依UR+星霊“雷司・オルル”が新登場、人気の憑依UR+星霊も復刻</title>
-      <link>https://www.famitsu.com/article/202610/91723</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91723</guid>
-      <pubDate>Fri, 23 Oct 2026 03:00:00 GMT</pubDate>
-      <description>『熱戦少女』ハロウィンイベントが本日（10/23）よりスタート。最大150連分のガチャチケ配布や憑依UR+星霊“雷司・オルル”が新登場</description>
-    </item>
-    <item>
       <title>アニメ『センチメンタルジャーニー』YouTubeにて無料配信が決定。恋愛ゲーム『センチメンタルグラフティ』のスピンオフ作品</title>
       <link>https://www.famitsu.com/article/202610/91745</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91745</guid>
@@ -413,11 +420,18 @@
       <description>サンライズチャンネルにて、『超者ライディーン』『センチメンタルジャーニー』『セイクリッドセブン』の無料初配信が決定。『超魔神英雄伝ワタル』『伝説巨神イデオン』など続き話数から最終回まで配信が決定した4タイトルも</description>
     </item>
     <item>
-      <title>『メイドインアビス』劇場シリーズ第2部の制作が決定。スラージョ役は水樹奈々、東山奈央ら追加キャスト5人も発表。第1部『目覚める神秘』は本日公開</title>
-      <link>https://www.famitsu.com/article/202610/91851</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91851</guid>
+      <title>『SUSPENCIL』お題と違う絵を描く人は誰なのか。お絵かき人狼ゲームが本日（10/23）発売。人狼は見破られてもお題を当てれば逆転勝利</title>
+      <link>https://www.famitsu.com/article/202610/91508</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91508</guid>
       <pubDate>Fri, 23 Oct 2026 03:00:00 GMT</pubDate>
-      <description>アニメ『メイドインアビス』の劇場シリーズ【第二部】の制作が決定。2026年10月23日公開の第1部『目覚める神秘』に登場する神秘卿スラージョ役の水樹奈々さんをはじめ、追加キャスト5人が発表された。呪詛船団（ヘイルヘックス）を描いた新キービジュアルも公開。</description>
+      <description>オンラインお絵かきワードウルフゲーム『SUSPENCIL』が本日2026年10月23日にSteamで発売。配られたお題をもとに絵を描き、違うお題の絵を描く人狼を見破ろう。人狼は見破られても市民のお題を当てれば逆転勝利となる。</description>
+    </item>
+    <item>
+      <title>『熱戦少女』最大150連分のガチャチケットがもらえるハロウィンイベントがスタート。憑依UR+星霊“雷司・オルル”が新登場、人気の憑依UR+星霊も復刻</title>
+      <link>https://www.famitsu.com/article/202610/91723</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91723</guid>
+      <pubDate>Fri, 23 Oct 2026 03:00:00 GMT</pubDate>
+      <description>『熱戦少女』ハロウィンイベントが本日（10/23）よりスタート。最大150連分のガチャチケ配布や憑依UR+星霊“雷司・オルル”が新登場</description>
     </item>
     <item>
       <title>『ゴジラ-0.0』高さ約50cmのポップコーンボックスが1万7800円で販売。ドリンクカップは4800円、11月2日より数量限定で登場</title>
@@ -691,20 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91625</guid>
       <pubDate>Wed, 21 Oct 2026 11:00:00 GMT</pubDate>
       <description>ミステリーアドベンチャーゲーム『薬屋のひとりごと ～偽りの皇弟～』の発売日が2027年3月18日に決定。パッケージ版の予約受付が2026年10月21日、デジタル版の予約受付が10月22日より開始となる。対応機種は、Nintendo Switch 2、Nintendo Switch、プレイステーション5（PS5）、PC（Steam）。</description>
-    </item>
-    <item>
-      <title>『忍者戦隊カクレンジャー 第三部・中年奮闘編』が10/23まで無料公開。サイゾウ/ニンジャブルー役を務めた土田大さんを偲ぶ機会となることを願って</title>
-      <link>https://www.famitsu.com/article/202610/91623</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91623</guid>
-      <pubDate>Wed, 21 Oct 2026 10:30:00 GMT</pubDate>
-      <description>東映特撮ファンクラブが、YouTubeにて『忍者戦隊カクレンジャー 第三部・中年奮闘編』を2026年10月23日23時59分まで無料公開。2026年10月11日に亡くなられたサイゾウ/ニンジャブルー役の俳優・土田大さんの訃報を受けての公開。</description>
-    </item>
-    <item>
-      <title>『Voice of Cards』3部作セットが50％オフの2970円に。単品購入でも72%オフの985円。スクエニのハロウィンセールが11月4日まで開催</title>
-      <link>https://www.famitsu.com/article/202610/91620</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91620</guid>
-      <pubDate>Wed, 21 Oct 2026 10:20:00 GMT</pubDate>
-      <description>ダウンロードタイトルを対象とした“スクエニ HALLOWEEN SALE”をニンテンドーeショップ、ニンテンドーストア、PlayStation Storeで2026年11月4日まで開催。2026年10月28日に5周年を迎える『Voice of Cards』シリーズの3部作セットが50％オフの2970円［税込］となるほか、各シリーズタイトルも72%オフの985円［税込］でラインアップされている。</description>
     </item>
   </channel>
 </rss>
