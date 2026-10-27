@@ -105,18 +105,18 @@
       <description>ArtDock開発の協力レストラン経営ゲーム『どうぶつの町の食堂物語』がSteamで早期アクセスを開始。最大4人のオンライン協力に対応し、通常価格は2,100円。発売から2週間は40%オフの1,260円で購入できる。</description>
     </item>
     <item>
-      <title>『ドラクエモンスターズ4』デザインの“ギルティ炭酸 NOPE”が11月下旬発売。メタルスライムやメタルハンターなどのモンスターたちを描き下ろし</title>
-      <link>https://www.famitsu.com/article/202610/92014</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92014</guid>
-      <pubDate>Mon, 26 Oct 2026 06:00:00 GMT</pubDate>
-      <description>『ドラゴンクエストモンスターズ４ 枯れ木の国のビアンカ・フローラ』コラボデザインの“ギルティ炭酸 NOPE”が2026年11月下旬に発売される。</description>
-    </item>
-    <item>
       <title>自分で描いた絵が魚になって泳ぎだす！ お絵描き水槽シミュレーター『Drawquarium』11月13日にSteamで発売。無料デモ版も配信中</title>
       <link>https://www.famitsu.com/article/202610/92076</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/92076</guid>
       <pubDate>Mon, 26 Oct 2026 06:00:00 GMT</pubDate>
       <description>パブリッシャーのrokaplayと個人開発者Kalebによるお絵描き水槽シミュレーター『Drawquarium』が、11月13日にSteamで発売決定。自分で描いた魚や植物が水槽で動き出し、完成した水槽はデスクトップ壁紙にもできる。無料デモ版も配信中。</description>
+    </item>
+    <item>
+      <title>『ドラクエモンスターズ4』デザインの“ギルティ炭酸 NOPE”が11月下旬発売。メタルスライムやメタルハンターなどのモンスターたちを描き下ろし</title>
+      <link>https://www.famitsu.com/article/202610/92014</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92014</guid>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 GMT</pubDate>
+      <description>『ドラゴンクエストモンスターズ４ 枯れ木の国のビアンカ・フローラ』コラボデザインの“ギルティ炭酸 NOPE”が2026年11月下旬に発売される。</description>
     </item>
     <item>
       <title>『ファイナルファンタジー』40年の軌跡を、珠玉の16曲でたどる。記念盤がレコードとCDで2027年1月6日に発売</title>
@@ -355,6 +355,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91875</guid>
       <pubDate>Fri, 23 Oct 2026 06:30:00 GMT</pubDate>
       <description>BIBILAB（ビビラボ）は、推し活をより楽しく・より便利にする“ビビファボ”シリーズから、“推し抱き枕”の女性ver.を発売した。</description>
+    </item>
+    <item>
+      <title>『エースコンバット・ゼロ』Steam版が単体起動に対応、『エスコン8』を介さずプレイ可能に。セーブデータの引き継ぎ・共有も</title>
+      <link>https://www.famitsu.com/article/202610/91868</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91868</guid>
+      <pubDate>Fri, 23 Oct 2026 06:10:00 GMT</pubDate>
+      <description>『ACE COMBAT 8: WINGS OF THEVE』のプレオーダー特典『ACE COMBAT ZERO』について、Steamにて単体アプリケーション版の配信を開始。セーブデータの引き継ぎ・共有にも対応している。</description>
     </item>
     <item>
       <title>『ロマサガ2』リメイクが100万本突破。『サガフロ』以来29年ぶりのシリーズミリオン達成、記念イラストも公開【リベサガ】</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91632</guid>
       <pubDate>Wed, 21 Oct 2026 11:30:00 GMT</pubDate>
       <description>Cygamesは『ウマ娘 プリティーダービー』、『グランブルーファンタジー』、『Shadowverse: Worlds Beyond』など運営中のタイトルの緊急メンテナンスを、2026年10月21日23時より実施する。</description>
-    </item>
-    <item>
-      <title>『薬屋のひとりごと ～偽りの皇弟～』発売日が2027年3月18日に決定。パッケージ版が本日（10/21）より予約開始。豪華アイテムが同梱するボックスも発売</title>
-      <link>https://www.famitsu.com/article/202610/91625</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91625</guid>
-      <pubDate>Wed, 21 Oct 2026 11:00:00 GMT</pubDate>
-      <description>ミステリーアドベンチャーゲーム『薬屋のひとりごと ～偽りの皇弟～』の発売日が2027年3月18日に決定。パッケージ版の予約受付が2026年10月21日、デジタル版の予約受付が10月22日より開始となる。対応機種は、Nintendo Switch 2、Nintendo Switch、プレイステーション5（PS5）、PC（Steam）。</description>
     </item>
   </channel>
 </rss>
