@@ -28,18 +28,18 @@
       <description>カプコンは、2027年春発売予定の『ロックマン: デュアル オーバーライド』について、新ボス・タンクマンの詳細情報を公開。ロボットオイルの管理を担いながらも、オイル貯蔵施設の支配を目論むタンクマンの設定や、滑る床やガス充満エリアを攻略するステージの特徴が明らかになった。</description>
     </item>
     <item>
-      <title>『めっちゃカメレオン』Tシャツ2種が発売決定。絵画に潜む姿、エモート中のプレイヤーをあしらったユニークなデザイン</title>
-      <link>https://www.famitsu.com/article/202610/92075</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92075</guid>
-      <pubDate>Tue, 27 Oct 2026 03:00:00 GMT</pubDate>
-      <description>人気ゲーム『めっちゃカメレオン』と“SuperGroupies”のコラのTシャツ2種が発売決定。2026年10月27日12時より予約受付が開始された。予約期間は11月24日12時まで。</description>
-    </item>
-    <item>
       <title>【放置少女】『生徒会にも穴はある！』コラボイベントが本日（10/27）より開催。EX副将・陸奥こまろ、古都吹寿子が登場。照井有栖は無料で手に入る</title>
       <link>https://www.famitsu.com/article/202610/91962</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91962</guid>
       <pubDate>Tue, 27 Oct 2026 03:00:00 GMT</pubDate>
       <description>アニメ『生徒会にも穴はある！』の陸奥こまろ、古都吹寿子、照井有栖が登場する、『放置少女』コラボイベントが開催された。</description>
+    </item>
+    <item>
+      <title>『めっちゃカメレオン』Tシャツ2種が発売決定。絵画に潜む姿、エモート中のプレイヤーをあしらったユニークなデザイン</title>
+      <link>https://www.famitsu.com/article/202610/92075</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92075</guid>
+      <pubDate>Tue, 27 Oct 2026 03:00:00 GMT</pubDate>
+      <description>人気ゲーム『めっちゃカメレオン』と“SuperGroupies”のコラのTシャツ2種が発売決定。2026年10月27日12時より予約受付が開始された。予約期間は11月24日12時まで。</description>
     </item>
     <item>
       <title>【仮面ライダー龍騎】ゾルダ／北岡秀一役・小田井涼平の温泉宿巡り番組にOREジャーナル編集長役・津田寛治と『ルパパト』奥山かずさが出演</title>
@@ -147,18 +147,18 @@
       <description>ArtDock開発の協力レストラン経営ゲーム『どうぶつの町の食堂物語』がSteamで早期アクセスを開始。最大4人のオンライン協力に対応し、通常価格は2,100円。発売から2週間は40%オフの1,260円で購入できる。</description>
     </item>
     <item>
-      <title>自分で描いた絵が魚になって泳ぎだす！ お絵描き水槽シミュレーター『Drawquarium』11月13日にSteamで発売。無料デモ版も配信中</title>
-      <link>https://www.famitsu.com/article/202610/92076</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92076</guid>
-      <pubDate>Mon, 26 Oct 2026 06:00:00 GMT</pubDate>
-      <description>パブリッシャーのrokaplayと個人開発者Kalebによるお絵描き水槽シミュレーター『Drawquarium』が、11月13日にSteamで発売決定。自分で描いた魚や植物が水槽で動き出し、完成した水槽はデスクトップ壁紙にもできる。無料デモ版も配信中。</description>
-    </item>
-    <item>
       <title>『ドラクエモンスターズ4』デザインの“ギルティ炭酸 NOPE”が11月下旬発売。メタルスライムやメタルハンターなどのモンスターたちを描き下ろし</title>
       <link>https://www.famitsu.com/article/202610/92014</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/92014</guid>
       <pubDate>Mon, 26 Oct 2026 06:00:00 GMT</pubDate>
       <description>『ドラゴンクエストモンスターズ４ 枯れ木の国のビアンカ・フローラ』コラボデザインの“ギルティ炭酸 NOPE”が2026年11月下旬に発売される。</description>
+    </item>
+    <item>
+      <title>自分で描いた絵が魚になって泳ぎだす！ お絵描き水槽シミュレーター『Drawquarium』11月13日にSteamで発売。無料デモ版も配信中</title>
+      <link>https://www.famitsu.com/article/202610/92076</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92076</guid>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 GMT</pubDate>
+      <description>パブリッシャーのrokaplayと個人開発者Kalebによるお絵描き水槽シミュレーター『Drawquarium』が、11月13日にSteamで発売決定。自分で描いた魚や植物が水槽で動き出し、完成した水槽はデスクトップ壁紙にもできる。無料デモ版も配信中。</description>
     </item>
     <item>
       <title>『ファイナルファンタジー』40年の軌跡を、珠玉の16曲でたどる。記念盤がレコードとCDで2027年1月6日に発売</title>
@@ -448,13 +448,6 @@
       <description>『ペルソナ4 リバイバル』ベルベットルームをピックアップした最新情報公開。キャラクターボイスはイゴール役を島田敏さん、マーガレット役を大原さやかさん、マリー役を花澤香菜さんが担当する。</description>
     </item>
     <item>
-      <title>『SUSPENCIL』お題と違う絵を描く人は誰なのか。お絵かき人狼ゲームが本日（10/23）発売。人狼は見破られてもお題を当てれば逆転勝利</title>
-      <link>https://www.famitsu.com/article/202610/91508</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91508</guid>
-      <pubDate>Fri, 23 Oct 2026 03:00:00 GMT</pubDate>
-      <description>オンラインお絵かきワードウルフゲーム『SUSPENCIL』が本日2026年10月23日にSteamで発売。配られたお題をもとに絵を描き、違うお題の絵を描く人狼を見破ろう。人狼は見破られても市民のお題を当てれば逆転勝利となる。</description>
-    </item>
-    <item>
       <title>『続ポートピア連続殺人事件:忘却の埋葬』2027年3月4日に発売決定。Switchパッケージ版特典でファミコン版がまるごと遊べる</title>
       <link>https://www.famitsu.com/article/202610/91715</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91715</guid>
@@ -483,6 +476,13 @@
       <description>アニメ『メイドインアビス』の劇場シリーズ【第二部】の制作が決定。2026年10月23日公開の第1部『目覚める神秘』に登場する神秘卿スラージョ役の水樹奈々さんをはじめ、追加キャスト5人が発表された。呪詛船団（ヘイルヘックス）を描いた新キービジュアルも公開。</description>
     </item>
     <item>
+      <title>『SUSPENCIL』お題と違う絵を描く人は誰なのか。お絵かき人狼ゲームが本日（10/23）発売。人狼は見破られてもお題を当てれば逆転勝利</title>
+      <link>https://www.famitsu.com/article/202610/91508</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91508</guid>
+      <pubDate>Fri, 23 Oct 2026 03:00:00 GMT</pubDate>
+      <description>オンラインお絵かきワードウルフゲーム『SUSPENCIL』が本日2026年10月23日にSteamで発売。配られたお題をもとに絵を描き、違うお題の絵を描く人狼を見破ろう。人狼は見破られても市民のお題を当てれば逆転勝利となる。</description>
+    </item>
+    <item>
       <title>『ゴジラ-0.0』高さ約50cmのポップコーンボックスが1万7800円で販売。ドリンクカップは4800円、11月2日より数量限定で登場</title>
       <link>https://www.famitsu.com/article/202610/91839</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91839</guid>
@@ -504,18 +504,18 @@
       <description>『ムーミン』新作一番くじが、ムーミンショップや一番くじ公式ショップ、一番くじONLINEなど2026年10月23日から順次発売。</description>
     </item>
     <item>
-      <title>『OUTLIER』ウロウロする防護服NPCに紛れるオンラインかくれんぼ。ふざけたことをしたくなる衝動がバレないようにやり過ごせ</title>
-      <link>https://www.famitsu.com/article/202610/91615</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91615</guid>
-      <pubDate>Thu, 22 Oct 2026 13:00:00 GMT</pubDate>
-      <description>PC（Steam）用ソフト『OUTLIER』が2027年初頭に発売。防護服NPCのようになりすまし、監視員にバレないようにするオンラインかくれんぼゲーム。</description>
-    </item>
-    <item>
       <title>【ソフト＆ハード週間販売数】『テイルズ オブ エターニア リマスター』が首位獲得＆3機種揃ってトップ10入り！ 『キャッスルヴァニア ベルモンドカース』もランクイン【10/12～10/18】</title>
       <link>https://www.famitsu.com/article/202610/91765</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91765</guid>
       <pubDate>Thu, 22 Oct 2026 13:00:00 GMT</pubDate>
       <description>ファミ通発表の売上ランキング。今回は2026年10月12日～10月18日のゲームソフト＆ハード週間推定販売数まとめをお届け。</description>
+    </item>
+    <item>
+      <title>『OUTLIER』ウロウロする防護服NPCに紛れるオンラインかくれんぼ。ふざけたことをしたくなる衝動がバレないようにやり過ごせ</title>
+      <link>https://www.famitsu.com/article/202610/91615</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91615</guid>
+      <pubDate>Thu, 22 Oct 2026 13:00:00 GMT</pubDate>
+      <description>PC（Steam）用ソフト『OUTLIER』が2027年初頭に発売。防護服NPCのようになりすまし、監視員にバレないようにするオンラインかくれんぼゲーム。</description>
     </item>
     <item>
       <title>『薬屋のひとりごと』金曜ロードショースペシャルエディションが12月11日に放送決定。アニメ2期2クールを中心とした特別編集版。2期ラストシーンに繋がる新規映像も</title>
@@ -700,11 +700,11 @@
       <description>任天堂の体感スポーツシリーズ最新作『Nintendo Switch Sports Resort』が2026年10月22日発売。ウーフーアイランドを舞台に全12種類のスポーツが遊べる。</description>
     </item>
     <item>
-      <title>シリアルキラー（人殺し）が攻略対象な恋愛シミュ×リズムゲーム『Serial Lover』日本語版が配信開始。命を奪われる前にハートを奪え！</title>
-      <link>https://www.famitsu.com/article/202610/91683</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91683</guid>
-      <pubDate>Thu, 22 Oct 2026 02:58:00 GMT</pubDate>
-      <description>カナダ・トロントを拠点とするインディーゲーム開発スタジオのSugar Slipは、『Serial Lover』の日本語版を配信開始したことを発表した。本作は、シリアルキラー（連続殺人鬼）を攻略する恋愛シミュレーションとリズムゲームが融合した、ダークコメディビジュアルノベル。</description>
+      <title>『Beyond the Dark:ナイトウォッチ』2人の情報を共有して脱出を目指すホラーゲームが本日（10/22）発売。2人1組でスコアを競う世界大会も開催</title>
+      <link>https://www.famitsu.com/article/202610/91608</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/91608</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+      <description>2人プレイ専用の非対称型協力ホラーゲーム『Beyond the Dark:ナイトウォッチ』が2026年10月22日にNintendo Switch 2向けに発売。1人のプレイヤーが探索者、もう1人のプレイヤーが監視役となり、それぞれの異なる視点から得られる情報を組み合わせていき、不気味な屋敷からの脱出を目指す。</description>
     </item>
   </channel>
 </rss>
