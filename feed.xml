@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:19:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:33:00 GMT</lastBuildDate>
+    <item>
+      <title>フロム新作『ダスクブラッド』2027年に発売延期。8月のネットワークテストを踏まえ、ゲームルールやバランスを最終調整</title>
+      <link>https://www.famitsu.com/article/202610/92543</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92543</guid>
+      <pubDate>Thu, 29 Oct 2026 14:33:00 GMT</pubDate>
+      <description>フロム・ソフトウェアは、Nintendo Switch 2用ソフト『The Duskbloods』の発売時期を2027年に変更すると発表。ネットワークテストで評価された、多様な立ち回りや戦略を楽しめるというコンセプトをより高い水準で実現するため、ゲームルールやバランスの最終調整を行う。</description>
+    </item>
     <item>
       <title>『エステラ - 時ノ罪 -』少女たちの選択が別の誰かの運命を動かす群像サスペンス。複数の視点でハロウィンを迎える街の3日間を追う。体験版が配信開始</title>
       <link>https://www.famitsu.com/article/202610/92539</link>
@@ -455,18 +462,18 @@
       <description>ローソンにて、『ゼルダの伝説 時のオカリナ』のコラボキャンペーンが2026年11月3日より開催決定した。</description>
     </item>
     <item>
-      <title>【アケアカ2】『スイマー』障害物と怪物だらけのステージを泳いで最後の宝島を目指す1982年リリースのアクションゲーム。2026年10月29日より配信</title>
-      <link>https://www.famitsu.com/article/202610/92331</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92331</guid>
-      <pubDate>Wed, 28 Oct 2026 09:00:00 GMT</pubDate>
-      <description>『アーケードアーカイブス2 スイマー』が2026年10月29日より配信する。価格は1100円［税込］。1982年にテーカン（現コーエーテクモゲームス）から発売されたアクションゲーム。</description>
-    </item>
-    <item>
       <title>11月7日開催「ファミ通40周年フェス」まであと10日！ プレイステーション特別展示＆『サクラ大戦』イラストの原画を公開する展示コーナー／体験コーナー／ノベルティの全貌を紹介</title>
       <link>https://www.famitsu.com/article/202610/91528</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/91528</guid>
       <pubDate>Wed, 28 Oct 2026 09:00:00 GMT</pubDate>
       <description>2026年11月7日にベルサール秋葉原で開催される「ファミ通40周年フェス」。プレイステーション5の分解標本や『サクラ大戦』イラストの原画などを公開する展示コーナーの全貌を紹介。さらに、体験コーナーやノベルティについてもお届けします。</description>
+    </item>
+    <item>
+      <title>【アケアカ2】『スイマー』障害物と怪物だらけのステージを泳いで最後の宝島を目指す1982年リリースのアクションゲーム。2026年10月29日より配信</title>
+      <link>https://www.famitsu.com/article/202610/92331</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92331</guid>
+      <pubDate>Wed, 28 Oct 2026 09:00:00 GMT</pubDate>
+      <description>『アーケードアーカイブス2 スイマー』が2026年10月29日より配信する。価格は1100円［税込］。1982年にテーカン（現コーエーテクモゲームス）から発売されたアクションゲーム。</description>
     </item>
     <item>
       <title>『ゼルダの伝説』マスターソードを引き抜ける目覚まし時計が発表。勇者のような気持ちで目覚められる。12月5日発売の一番くじで登場</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/92183</guid>
       <pubDate>Tue, 27 Oct 2026 06:15:00 GMT</pubDate>
       <description>『原神』のグッズが当たる”fantasy village原神くじ 第4弾”が、2026年10月27日に発売された。価格は1回495円［税込］。ワイヤレスイヤホンギフトボックス、トレーディングBOXなど豪華なアイテムが用意されている。</description>
-    </item>
-    <item>
-      <title>『MIMESIS（ミメシス）』リリース1周年記念グッズがエビテンで予約受付中。Tシャツやアクスタ、デスクマットなどがラインアップ</title>
-      <link>https://www.famitsu.com/article/202610/92164</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92164</guid>
-      <pubDate>Tue, 27 Oct 2026 06:00:00 GMT</pubDate>
-      <description>『MIMESIS』（ミメシス）リリース1周年を記念したオフィシャルライセンスグッズがエビテンにて予約受付中。ReLU Gamesによるオリジナルデザインのイラストを使用したTシャツなどがラインアップ。2027年1月下旬に発売予定。</description>
     </item>
   </channel>
 </rss>
