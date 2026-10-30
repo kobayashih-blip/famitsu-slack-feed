@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 06:30:00 GMT</lastBuildDate>
+    <item>
+      <title>『原神』『スタレ』のホヨバが贈る初のスローライフゲーム『プチプラネット』が12月4日にリリース決定。12月1日より事前ダウンロードが開始</title>
+      <link>https://www.famitsu.com/article/202610/92589</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92589</guid>
+      <pubDate>Fri, 30 Oct 2026 06:30:00 GMT</pubDate>
+      <description>HoYoverse（ホヨバ―ス）は、スローライフゲーム『プチプラネット』を2026年12月4日に正式リリースすることを発表。12月1日より事前ダウンロードを開始する。</description>
+    </item>
     <item>
       <title>『Cairn』3種のクライミングエリアと新モードが登場する無料DLCが本日（10/30）より配信開始。異なる技術やスタイルを持つマルコでもプレイ可能に</title>
       <link>https://www.famitsu.com/article/202610/92596</link>
@@ -392,18 +399,18 @@
       <description>個人ゲーム開発者のNovare Orbisは、『Cozy Cat Room ～ねこと過ごす集中時間～』をSteamにて2026年11月17日の午前3時に配信開始する。</description>
     </item>
     <item>
-      <title>『Phantom Blade Zero』VITUREとのコラボXRグラスが登場。本日（10/29）より予約受付が開始。専用グラスケースや脱着式グラスストラップなどが付属</title>
-      <link>https://www.famitsu.com/article/202610/92336</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92336</guid>
-      <pubDate>Thu, 29 Oct 2026 01:00:00 GMT</pubDate>
-      <description>暗黒武侠アクションアドベンチャー『Phantom Blade Zero』とVITUREの公式コラボXRグラス“VITURE Phantom Beast XRグラス”が2026年10月29日午前10時より予約受付が開始された。専用グラスケース、脱着式のグラスストラップ、特製ステッカーシートやグラスクロスが同梱される。</description>
-    </item>
-    <item>
       <title>フリュー新作『アノマリス／ANOMALITH』本日（10/29）発売。昭和レトロ日本で少女が異界を探査するサバイバルTPS。シナリオは田中ロミオが担当</title>
       <link>https://www.famitsu.com/article/202610/92193</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/92193</guid>
       <pubDate>Thu, 29 Oct 2026 01:00:00 GMT</pubDate>
       <description>2026年10月29日、フリューは『アノマリス／ANOMALITH』Nintendo Switch 2、プレイステーション5（PS5）、PC（Steam）にて発売。昭和レトロの雰囲気が漂う日本を舞台に、突如発生した特殊空間“異界”を調査する少女・水無月 玲緒奈を描くサバイバルTPS。</description>
+    </item>
+    <item>
+      <title>『Phantom Blade Zero』VITUREとのコラボXRグラスが登場。本日（10/29）より予約受付が開始。専用グラスケースや脱着式グラスストラップなどが付属</title>
+      <link>https://www.famitsu.com/article/202610/92336</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92336</guid>
+      <pubDate>Thu, 29 Oct 2026 01:00:00 GMT</pubDate>
+      <description>暗黒武侠アクションアドベンチャー『Phantom Blade Zero』とVITUREの公式コラボXRグラス“VITURE Phantom Beast XRグラス”が2026年10月29日午前10時より予約受付が開始された。専用グラスケース、脱着式のグラスストラップ、特製ステッカーシートやグラスクロスが同梱される。</description>
     </item>
     <item>
       <title>“インディーワールド2026.10.28”まとめ。『都市伝説解体センター』『ココフォリア』のSwitch2版や『R.E.P.O.』『タヌキ：ポンの夏』『狐ト蛙ノ旅』など注目作の新情報が続々発表</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/92284</guid>
       <pubDate>Wed, 28 Oct 2026 04:14:00 GMT</pubDate>
       <description>マリオがデザインされたプロテクションケースが2026年11月18日に発売。10月28日より予約受付を開始された。対応機種は、Nintendo Switch 2、Nintendo Switch、Nintendo Switch（有機ELモデル）。</description>
-    </item>
-    <item>
-      <title>『Chair Chase』イスがパルクールで逃げ回るパーティー椅子取りゲームの体験版が11月3日より配信。友達を押しのけて多くのイスに座れ</title>
-      <link>https://www.famitsu.com/article/202610/92276</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92276</guid>
-      <pubDate>Wed, 28 Oct 2026 04:00:00 GMT</pubDate>
-      <description>PC（Steam）用ソフト『Chair Chase』が2027年3月8日に発売。あわせて、体験版が2026年11月3日より配信開始となる。障害物で満ちたコースを命を宿したイスが逃げ回る、最大8人でプレイ可能なオンラインパーティーゲーム。</description>
     </item>
   </channel>
 </rss>
