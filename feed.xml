@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Oct 2026 13:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『キングスフィールド』から影響を受けた高難度ファンタジーアクションRPG『Queen’s Domain』が本日（10/31）発売。50種以上の武器で挑む骨太バトル</title>
+      <link>https://www.famitsu.com/article/202610/92661</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92661</guid>
+      <pubDate>Fri, 30 Oct 2026 17:00:00 GMT</pubDate>
+      <description>『キングスフィールド』にインスパイアされたレトロファンタジーアクションRPG『Queen’s Domain』が発売。ノスタルジックなグラフィックで緊張感のあるバトルが楽しめる。</description>
+    </item>
     <item>
       <title>『ポケモン』1025匹から好きな“てもち”を選んで作れるカスタマイズグッズが登場。キーホルダーに入れて連れ歩いたり、もちものチャームも付けられる</title>
       <link>https://www.famitsu.com/article/202610/92679</link>
@@ -32,7 +39,7 @@
       <link>https://www.famitsu.com/article/202610/92675</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/92675</guid>
       <pubDate>Fri, 30 Oct 2026 11:45:00 GMT</pubDate>
-      <description>『カリアのアトリエ ～夜の王国と追憶の道標～』に関連して、“カリアの体型変化ムービー”を公開した。</description>
+      <description>『カリアのアトリエ ～夜の王国と追憶の道標～』に関連して、“カリアの体型変化ムービー”が公開された。</description>
     </item>
     <item>
       <title>『D.C.5 Future Link ～ダ・カーポ5～ フューチャーリンク』の予約がカドストで開始。せつなの描き下ろしB2タペストリーがエビテン限定特典で登場</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/92329</guid>
       <pubDate>Wed, 28 Oct 2026 10:00:00 GMT</pubDate>
       <description>『コンソールアーカイブス マールじゃん!!』が2026年10月29日より配信開始。対応機種は、Nintendo Switch 2、プレイステーション5（PS5）。対戦相手よりも早く同じ絵柄のパイを3つずつ、計3組を揃えたら勝利となる麻雀風ゲーム。</description>
-    </item>
-    <item>
-      <title>『War Thunder』独特な目力の“例の広告キャラ”が漫画に、ちょぼらうにょぽみの4コマが11/13より連載スタート</title>
-      <link>https://www.famitsu.com/article/202610/92357</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92357</guid>
-      <pubDate>Wed, 28 Oct 2026 09:59:00 GMT</pubDate>
-      <description>『War Thunder』の日本公式X（旧：Twitter）にて、ちょぼらうにょぽみ先生が描く、“例の広告キャラクター”の4コママンガ連載が2026年11月13日よりスタートする。マンガは毎月3回投稿され、特別番外編など含め2027年5月ごろまで連載予定。</description>
     </item>
   </channel>
 </rss>
