@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Oct 2026 05:20:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:30:00 GMT</lastBuildDate>
+    <item>
+      <title>セブンイレブンのジオラマが『トミカ』より12月16日発売。2種類のLEDライトで夜のコンビニも演出できるなどリアルに再現。“tomica VIEW”シリーズ第1弾</title>
+      <link>https://www.famitsu.com/article/202610/92588</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92588</guid>
+      <pubDate>Fri, 30 Oct 2026 05:30:00 GMT</pubDate>
+      <description>“リアルな日本の情景”がモチーフの情景ジオラマ“tomica VIEW （トミカ ビュー）”が2026年12月より展開。第1弾商品は“コンビニエンスストア　セブン-イレブン”と“小型駐車場（自動販売機付）”。</description>
+    </item>
     <item>
       <title>『PUBG』がネットフリックスで実写ドラマシリーズ化を発表。エミー賞のドナルド・グローヴァーが監督、脚本、製作総指揮、主演を務める</title>
       <link>https://www.famitsu.com/article/202610/92593</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/92274</guid>
       <pubDate>Wed, 28 Oct 2026 03:30:00 GMT</pubDate>
       <description>『ダンガンロンパ』シリーズ15周年を記念した公式グッズ第2弾がエビテンで2026年11月23日まで予約受付中。総勢48名の生徒たちが華やかにドレスアップ。缶バッジ、イラストカード、アクリルアートパネル、アクリルフィギュアがラインアップしている。</description>
-    </item>
-    <item>
-      <title>『SaviorS : Oath of the Blade』走りモーションで話題を呼んだベルスクARPGがトレーラーを公開。ランダム生成の世界で敵味方入り乱れる戦いに挑む</title>
-      <link>https://www.famitsu.com/article/202610/92269</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92269</guid>
-      <pubDate>Wed, 28 Oct 2026 03:19:00 GMT</pubDate>
-      <description>2027年にSteamで配信を予定している『SaviorS : Oath of the Blade』のトレーラーが公開された。本作は戦闘を奥行きのあるベルトスクロールアクションで行う、ローグライト・アクションRPGだ。</description>
     </item>
   </channel>
 </rss>
