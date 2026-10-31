@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 31 Oct 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 14:09:00 GMT</lastBuildDate>
+    <item>
+      <title>『ピクミン』ショート動画シリーズが始動。1本目は11月1日に公開【Pikmin Day Direct】</title>
+      <link>https://www.famitsu.com/article/202610/92747</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92747</guid>
+      <pubDate>Sat, 31 Oct 2026 14:09:00 GMT</pubDate>
+      <description>任天堂公式YouTubeチャンネルにて、Pikmin Day Directが公開された。</description>
+    </item>
     <item>
       <title>『バーチャファイター クロスロード』新キャラのリオネル・ラファールの映像が公開。格闘スタイルは蟷螂拳？</title>
       <link>https://www.famitsu.com/article/202610/92722</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/92390</guid>
       <pubDate>Wed, 28 Oct 2026 14:26:00 GMT</pubDate>
       <description>『RACCOIN: Chaos Max Edition』ローグライク要素を備えたコイン落としゲームのNintendo Switch 2版が2026年11月10日に配信。</description>
-    </item>
-    <item>
-      <title>サバイバルクライミングゲーム『Cairn』（ケルン）のSwitch2版が2027年春に登場。体験版の配信がスタート【インディーワールド】</title>
-      <link>https://www.famitsu.com/article/202610/92393</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92393</guid>
-      <pubDate>Wed, 28 Oct 2026 14:25:00 GMT</pubDate>
-      <description>“Indie World（インディーワールド）2026.10.28”にて、サバイバルクライミングゲーム『Cairn』（ケルン）がNintendo Switch 2向けに、2027年に配信されることが明らかになった。</description>
     </item>
   </channel>
 </rss>
