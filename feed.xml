@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Nov 2026 02:55:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 03:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『ATMOSFAR』空島を飛空艇に乗って自由に冒険。未知の惑星探索アドベンチャーがアーリーアクセス開始</title>
+      <link>https://www.famitsu.com/article/202611/92743</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92743</guid>
+      <pubDate>Sun, 01 Nov 2026 03:00:00 GMT</pubDate>
+      <description>集英社ゲームズは空島探索サバイバル『ATMOSFAR』のSteam向けアーリーアクセスを開始。10％オフセールも実施中だ。</description>
+    </item>
     <item>
       <title>【Amazon予約数ランキング】Switch2リメイク版『ゼルダの伝説 時のオカリナ』が首位を維持。Switch2版『マインクラフト』が4位【10/18～10/24】</title>
       <link>https://www.famitsu.com/article/202611/92691</link>
@@ -357,6 +364,13 @@
       <description>『紅の砂漠Enhanced』初となるダウンロードコンテンツ“未知なる旅路”が、2026年10月30日に発売された。クリフ、ウンカ、デミアンが生きる目的を探す新たな物語が描かれる。</description>
     </item>
     <item>
+      <title>【アマプラ11月配信作品】映画『新劇場版 銀魂 吉原大炎上』が独占配信。『シュタゲ』『Xファイル』『マッド・マックス』も見放題</title>
+      <link>https://www.famitsu.com/article/202610/92515</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92515</guid>
+      <pubDate>Fri, 30 Oct 2026 01:00:00 GMT</pubDate>
+      <description>2026年11月から見放題となる、アマゾンプライムビデオのラインアップが公開された。</description>
+    </item>
+    <item>
       <title>フロム新作『ダスクブラッド』2027年に発売延期。8月のネットワークテストを踏まえ、ゲームルールやバランスを最終調整</title>
       <link>https://www.famitsu.com/article/202610/92543</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/92543</guid>
@@ -691,20 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/92391</guid>
       <pubDate>Wed, 28 Oct 2026 14:47:00 GMT</pubDate>
       <description>タイムトラベルRPG『スレッド・オブ・タイム』のNintendo Switch/Nintendo Switch 2版が2027年夏にリリース。鮮やかな世界で2Dのキャラクターが動くビジュアルで、時空を超えた冒険を描く。</description>
-    </item>
-    <item>
-      <title>和風3Dアクションアドベンチャー『狐ト蛙ノ旅 アダシノ島のコトロ鬼』Switch2/Switchで2027年春配信【インディーワールド】</title>
-      <link>https://www.famitsu.com/article/202610/92399</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92399</guid>
-      <pubDate>Wed, 28 Oct 2026 14:39:00 GMT</pubDate>
-      <description>任天堂は、2026年10月28日にNintendo Switch 2とNintendo Switchで遊べるインディーゲームを紹介するプログラム“Indie World（インディーワールド）2026.10.28”を公開。その中で発表された内容を速報でお届けする。</description>
-    </item>
-    <item>
-      <title>『RACCOIN: Chaos Max Edition』ローグライクコイン落としゲームのSwitch2版が11月10日配信。体験版も配信【インディーワールド】</title>
-      <link>https://www.famitsu.com/article/202610/92390</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92390</guid>
-      <pubDate>Wed, 28 Oct 2026 14:26:00 GMT</pubDate>
-      <description>『RACCOIN: Chaos Max Edition』ローグライク要素を備えたコイン落としゲームのNintendo Switch 2版が2026年11月10日に配信。</description>
     </item>
   </channel>
 </rss>
