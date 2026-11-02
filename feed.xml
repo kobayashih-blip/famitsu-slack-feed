@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 02 Nov 2026 03:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 03:50:00 GMT</lastBuildDate>
+    <item>
+      <title>名越スタジオが解散。昨年『GANG OF DRAGON』を発表するも、ネットイースからの資金提供が停止。開発継続が不安視される状況で</title>
+      <link>https://www.famitsu.com/article/202611/92820</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92820</guid>
+      <pubDate>Mon, 02 Nov 2026 03:50:00 GMT</pubDate>
+      <description>名越スタジオが2026年10月31日の株主総会の決議により解散。『龍が如く』をはじめ、『デイトナUSA』や『スパイクアウト』、『スーパーモンキーボール』など多岐にわたるヒット作を手掛けてきた名越稔洋氏が率いてきた開発スタジオ。</description>
+    </item>
     <item>
       <title>『サクラ大戦』30周年記念オーケストラコンサート開催決定。田中公平氏音楽総合監修、歴代キャストが集結</title>
       <link>https://www.famitsu.com/article/202611/92811</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/92432</guid>
       <pubDate>Thu, 29 Oct 2026 02:16:00 GMT</pubDate>
       <description>『ダンガンロンパ』シリーズのラジオがふたたび公開決定。10月30日19時よりYouTube、Spotifyなどで配信。</description>
-    </item>
-    <item>
-      <title>猫といっしょに仕事や勉強を。『Cozy Cat Room』11月17日発売。ポモドーロタイマーやToDoリスト搭載で集中して作業・休憩できる</title>
-      <link>https://www.famitsu.com/article/202610/92429</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92429</guid>
-      <pubDate>Thu, 29 Oct 2026 02:00:00 GMT</pubDate>
-      <description>個人ゲーム開発者のNovare Orbisは、『Cozy Cat Room ～ねこと過ごす集中時間～』をSteamにて2026年11月17日の午前3時に配信開始する。</description>
     </item>
   </channel>
 </rss>
