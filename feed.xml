@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Nov 2026 09:07:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:30:00 GMT</lastBuildDate>
+    <item>
+      <title>『NO HUMANS LEFT』巨大な怪物が人類をお片付け。クレヨンと鉛筆のあたたかビジュアルで描く人類滅亡インフレお散歩ゲーム</title>
+      <link>https://www.famitsu.com/article/202611/93188</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93188</guid>
+      <pubDate>Thu, 05 Nov 2026 09:30:00 GMT</pubDate>
+      <description>クレヨンと鉛筆で描かれたビジュアルのグラフィックで巨大な怪物が人類を食べながら世界各地をお散歩していく『NO HUMANS LEFT』のストアページがSteamで公開。</description>
+    </item>
     <item>
       <title>『スト6』新作一番くじのラストワン賞はJPのフィギュア。2027年3月13日に発売【ストリートファイター6】</title>
       <link>https://www.famitsu.com/article/202611/93190</link>
@@ -588,18 +595,18 @@
       <description>アニメ調美少女サバイバルサンドボックス『漂流ダイアリー ～未知の諸島と次元の扉～』のリリース時期が、2026年後半から2027年に変更された。新規ハウジングテーマ“学園” “メイドカフェ”のスクリーンショットと、早期アクセスまでのロードマップも公開。第1弾のプレイテストは2027年第1四半期にSteamで実施予定。</description>
     </item>
     <item>
-      <title>シナモロールやクロミがドット絵のガラケーに。『サンリオキャラクターズ』ぱかぱかガラケー風キーホルダー第2弾・第3弾、11月11日より「かぷえぼ」で展開</title>
-      <link>https://www.famitsu.com/article/202611/92814</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92814</guid>
-      <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
-      <description>『サンリオキャラクターズ』のカプセルトイ「ぱかぱかガラケー風キーホルダー」第2弾・第3弾が、11月11日より完全キャッシュレスカプセルトイマシン「かぷえぼ」で順次展開される。シナモロールやクロミなど全10種で、価格は599円[税込]。</description>
-    </item>
-    <item>
       <title>高難度あみだくじパズルゲーム『あみだキュウ』体験版がSteamとブラウザで公開中。見た目と仕組みはシンプルだが脳みそフル回転のパズル</title>
       <link>https://www.famitsu.com/article/202611/92818</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/92818</guid>
       <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
       <description>Steamとunityroomにて、高難度あみだくじパズルゲーム『あみだキュウ』の体験版が公開中。unityroom版はPC、スマートフォンのどちらからでもブラウザでプレイ可能だ。製品版リリースは2026年11月を予定。</description>
+    </item>
+    <item>
+      <title>シナモロールやクロミがドット絵のガラケーに。『サンリオキャラクターズ』ぱかぱかガラケー風キーホルダー第2弾・第3弾、11月11日より「かぷえぼ」で展開</title>
+      <link>https://www.famitsu.com/article/202611/92814</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92814</guid>
+      <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
+      <description>『サンリオキャラクターズ』のカプセルトイ「ぱかぱかガラケー風キーホルダー」第2弾・第3弾が、11月11日より完全キャッシュレスカプセルトイマシン「かぷえぼ」で順次展開される。シナモロールやクロミなど全10種で、価格は599円[税込]。</description>
     </item>
     <item>
       <title>名越スタジオが解散。昨年『GANG OF DRAGON』を発表するも、ネットイースからの資金提供が停止。開発継続が不安視される状況で</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/92743</guid>
       <pubDate>Sun, 01 Nov 2026 03:00:00 GMT</pubDate>
       <description>集英社ゲームズは空島探索サバイバル『ATMOSFAR』のSteam向けアーリーアクセスを開始。10％オフセールも実施中だ。</description>
-    </item>
-    <item>
-      <title>【Amazon予約数ランキング】Switch2リメイク版『ゼルダの伝説 時のオカリナ』が首位を維持。Switch2版『マインクラフト』が4位【10/18～10/24】</title>
-      <link>https://www.famitsu.com/article/202611/92691</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92691</guid>
-      <pubDate>Sun, 01 Nov 2026 02:55:00 GMT</pubDate>
-      <description>Amazon.co.jpのテレビゲームストアの週間予約数ランキング。2026年10月18日～10月24日の期間、『ゼルダの伝説 時のオカリナ』が首位を獲得。4位に『マインクラフト』がランクインしている。</description>
     </item>
   </channel>
 </rss>
