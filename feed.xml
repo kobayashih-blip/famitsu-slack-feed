@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Nov 2026 21:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:00:00 GMT</lastBuildDate>
+    <item>
+      <title>森永アイス『MOW』の表記が『もう…』に変更（！？）。 「キミにとっていちばんのバニラになりたい」切ない想いを表現</title>
+      <link>https://www.famitsu.com/article/202611/93065</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93065</guid>
+      <pubDate>Thu, 05 Nov 2026 01:00:00 GMT</pubDate>
+      <description>森永乳業のカップアイス“MOW（モウ）”のロゴが「もう...」に変化した限定デザインパッケージが、数量限定で11月2日より全国にて順次販売されている。</description>
+    </item>
     <item>
       <title>『ゴッド・オブ・ウォー ラウフェイ』発売日が2027年5月20日に延期。最後の仕上げに注力するため</title>
       <link>https://www.famitsu.com/article/202611/93098</link>
@@ -77,18 +84,18 @@
       <description>『カタルシス～最後のアトリエ～』が2026年12月1日（火）にPC（Steam）にて発売。現在体験版が配信中。ゴッホやモネ、ドラクロワなど有名絵画をモチーフにした10の世界を旅するウォーキングシミュレーター。プレイヤーは絵画の世界に入り込み、そこに宿る“記憶”を集めていく。</description>
     </item>
     <item>
-      <title>『モンハン』の世界が文化祭に！ バンタン文化祭2026が11月14日開催。謎解きクエストやコラボカフェなど特別企画を実施【バンタン文化祭2026】</title>
-      <link>https://www.famitsu.com/article/202611/91788</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/91788</guid>
-      <pubDate>Wed, 04 Nov 2026 10:00:00 GMT</pubDate>
-      <description>バンタンと『モンスターハンター』コラボによる“バンタン文化祭2026”が、2026年11月14日に開催。学生が企画・デザイン・制作に挑戦し、さまざまな内容を実施。</description>
-    </item>
-    <item>
       <title>【コンアカ】『エレベーターアクション』が11月5日配信。ピストルとジャンプキックを武器に機密書類を盗み出すスパイアクション</title>
       <link>https://www.famitsu.com/article/202611/93047</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93047</guid>
       <pubDate>Wed, 04 Nov 2026 10:00:00 GMT</pubDate>
       <description>『コンソールアーカイブス エレベーターアクション』が2026年11月5日より配信開始。対応機種はSwitch2、PS5。1985年にタイトーから8ビットの家庭用ゲーム機向けに発売されたアクション。ピストルとジャンプキックを武器に、ビル内に隠された機密書類を全て盗み、地下に用意してある逃走車から脱出することを目指す。</description>
+    </item>
+    <item>
+      <title>『モンハン』の世界が文化祭に！ バンタン文化祭2026が11月14日開催。謎解きクエストやコラボカフェなど特別企画を実施【バンタン文化祭2026】</title>
+      <link>https://www.famitsu.com/article/202611/91788</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/91788</guid>
+      <pubDate>Wed, 04 Nov 2026 10:00:00 GMT</pubDate>
+      <description>バンタンと『モンスターハンター』コラボによる“バンタン文化祭2026”が、2026年11月14日に開催。学生が企画・デザイン・制作に挑戦し、さまざまな内容を実施。</description>
     </item>
     <item>
       <title>【アケアカ/アケアカ2】『イグジーザス』が11月5日より配信。コズモファイター・ロビンを操作し巨大ロボを撃破するタイトーのシューティング</title>
@@ -350,11 +357,95 @@
       <description>Epic Gamesが、『ONE PIECE』をフィーチャーした『フォートナイト』の新シーズン開幕を記念し、リアル宝探しイベント「東京トレジャーハンターズ」を11月1日より開催している。都内に隠されたQRコードを探してデジタルスタンプを集めると、ポスターの入手や、トレジャーボックス、「Gold Mercedes-AMG G 63」の抽選応募ができる。11月8日まで。</description>
     </item>
     <item>
-      <title>『ゼルダの伝説 時のオカリナ』Googleの検索画面でオリジナル版が発売された1998年に飛べる仕掛けが展開中。あまりにも懐かしい画面がお出迎え</title>
-      <link>https://www.famitsu.com/article/202611/92878</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92878</guid>
-      <pubDate>Mon, 02 Nov 2026 09:40:00 GMT</pubDate>
-      <description>PCブラウザのGoogleにて、2026年11月5日予定となっているNintendo Switch 2版『ゼルダの伝説 時のオカリナ』にちなんだ仕掛けが展開中。“ゼルダの伝説”や“時のオカリナ”といったキーワードで検索すると1998年風の検索画面に飛ぶことができる。</description>
+      <title>『BALL MAZE』（迷路ボール）ボクセルアートの球体を転がしてゴールを目指すパズルがチルい。協力プレイやステージエディットなどの機能も搭載</title>
+      <link>https://www.famitsu.com/article/202611/92858</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92858</guid>
+      <pubDate>Mon, 02 Nov 2026 09:10:00 GMT</pubDate>
+      <description>Steamにて、『BALL MAZE』（迷路ボール）が販売中。本作は、3Dの迷路を回転させ、ボールを転がしてゴールへと導くパズルゲーム。ボクセルアートで描かれた暖かみのあるグラフィックもあり、プレイしながら癒やされそうな作品。体験版も配信中。</description>
+    </item>
+    <item>
+      <title>伝説の『ファミ通WAVEポッドキャスティング』が一夜限りの復活！ 11月7日19時よりYouTubeにて生放送が決定</title>
+      <link>https://www.famitsu.com/article/202611/92806</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92806</guid>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 GMT</pubDate>
+      <description>『ファミ通WAVEポッドキャスティング』の生配信を2026年11月7日に実施。同日昼の“ファミ通40周年フェス”ステージを終えたメンバーが集結し、当時の思い出話や裏話をお届け。</description>
+    </item>
+    <item>
+      <title>『フレミング邸の殺人事件』がSteamで明日（11/3）配信。1959年のロンドン郊外で、法医学的見地から事件の謎に迫るミステリーADV</title>
+      <link>https://www.famitsu.com/article/202611/92863</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92863</guid>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 GMT</pubDate>
+      <description>2026年11月3日、Steamにて『フレミング邸の殺人事件』がリリースされる。本作は、死亡診断書といった公的文書を作成し、法医学的検知から事件の謎に迫るミステリーアドベンチャーだ。体験版も配信中。</description>
+    </item>
+    <item>
+      <title>『Football Manager 27』の無料プレイが11月4日午前3時まで実施中。新マルチモード「Shuffle Draft」も体験可能</title>
+      <link>https://www.famitsu.com/article/202611/92853</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92853</guid>
+      <pubDate>Mon, 02 Nov 2026 08:10:00 GMT</pubDate>
+      <description>セガは、サッカークラブ経営シミュレーション『Football Manager 27』のローンチプレビュー版の無料プレイを、10月30日から11月4日午前3時まで実施している。新マルチプレイモード「Shuffle Draft」を含む全モードが遊べる。予約購入で10%オフになり、購入すればローンチプレビュー版を発売日の11月11日まで継続してプレイできる。</description>
+    </item>
+    <item>
+      <title>“きのこの山”のワイヤレスイヤホンがProとなって商品化。10分で3500台が完売した初代から2年半、わずか48分で1000台を突破</title>
+      <link>https://www.famitsu.com/article/202611/92839</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92839</guid>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 GMT</pubDate>
+      <description>“きのこの山”を再現した“きのこの山ワイヤレスイヤホン Pro”が、Makuakeで商品化条件の1000台を開始わずか48分で突破し、商品化が正式に決定。申込期限は12月13日で、台数に上限のない受注生産。発送は2027年3月中旬以降の予定。</description>
+    </item>
+    <item>
+      <title>映画『さよなら銀河鉄道999』4Kリマスター版が12月18日より2週間限定でリバイバル上映。鉄郎とメーテルの別れをもう一度、劇場で</title>
+      <link>https://www.famitsu.com/article/202611/92854</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92854</guid>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 GMT</pubDate>
+      <description>Filmarksリバイバルの公式X（旧：Twitter）にて、映画『さよなら銀河鉄道999 アンドロメダ終着駅 4Kリマスター版』が2026年12月18日より全国77館にて上映されることが発表された。オリジナルの来場者特典も配布予定。</description>
+    </item>
+    <item>
+      <title>『キューピークロウ』失くした婚約指輪を新調するために挑むはちゃめちゃクレーンゲームが11月12日リリース。景品をゲットして得たお金でさらなるゲームにチャレンジ</title>
+      <link>https://www.famitsu.com/article/202611/92857</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92857</guid>
+      <pubDate>Mon, 02 Nov 2026 07:50:00 GMT</pubDate>
+      <description>『キューピークロウ』がNintendo Switch向けに2026年11月12日発売。価格は990円［税込］。失くした婚約指輪を取り戻すため、プレイヤーはゲームセンターのクレーンゲームに挑み、景品を獲得・売却して資金を稼ぎながらフロアを攻略していく。</description>
+    </item>
+    <item>
+      <title>テレビアニメ『瑠璃の宝石』荒砥凪の作中バッグを再現した“凪のウエストバッグ”が予約開始。内生地は鉱物をイメージしたオリジナル柄</title>
+      <link>https://www.famitsu.com/article/202611/92832</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92832</guid>
+      <pubDate>Mon, 02 Nov 2026 07:01:00 GMT</pubDate>
+      <description>TVアニメ『瑠璃の宝石』のグッズとして、荒砥凪が作中で使用しているバッグを再現した「凪のウエストバッグ」が登場。価格は10780円[税込]で、11月2日よりAKROSオフィシャルサイトとアニメイトオンラインで予約を受け付けている。発売は2027年3月。</description>
+    </item>
+    <item>
+      <title>『バイオハザード サバイバルユニット』に『RE:4』のレオンとエイダが11月5日のアップデートで登場。1周年記念イベントも開催予定</title>
+      <link>https://www.famitsu.com/article/202611/92826</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92826</guid>
+      <pubDate>Mon, 02 Nov 2026 06:00:00 GMT</pubDate>
+      <description>スマートフォン向けストラテジーゲーム『BIOHAZARD Survival Unit』で、サービス開始1周年に向けたシネマティックトレーラーが公開された。11月5日より1周年記念イベントが開催予定で、同日のアップデートでは『バイオハザード RE:4』のレオン・S・ケネディとエイダ・ウォンが新たな英雄として登場する。</description>
+    </item>
+    <item>
+      <title>『Phantom Blade Zero』発売後72時間で販売本数400万突破、Steam最大同接は83万超。流れるような剣戟でカンフー映画体験ができる暗黒武侠アクションのすさまじい勢い</title>
+      <link>https://www.famitsu.com/article/202611/92836</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92836</guid>
+      <pubDate>Mon, 02 Nov 2026 05:50:00 GMT</pubDate>
+      <description>『Phantom Blade Zero』が、2026年10月29日（日本時間11時）の発売から、72時間で販売本数400万本を突破した。Steamで配信されている各タイトルのデータを集めた第三者データベースのSteamDBによると、発売後の最大同時接続ユーザー数は83万を超えており、その盛況ぶりがうかがえる。</description>
+    </item>
+    <item>
+      <title>美少女サバイバル『漂流ダイアリー』のリリースは2027年へ。プレイテストは第1四半期予定、“学園テーマ” “メイドカフェテーマ”のハウジングも公開</title>
+      <link>https://www.famitsu.com/article/202611/92824</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92824</guid>
+      <pubDate>Mon, 02 Nov 2026 05:00:00 GMT</pubDate>
+      <description>アニメ調美少女サバイバルサンドボックス『漂流ダイアリー ～未知の諸島と次元の扉～』のリリース時期が、2026年後半から2027年に変更された。新規ハウジングテーマ“学園” “メイドカフェ”のスクリーンショットと、早期アクセスまでのロードマップも公開。第1弾のプレイテストは2027年第1四半期にSteamで実施予定。</description>
+    </item>
+    <item>
+      <title>シナモロールやクロミがドット絵のガラケーに。『サンリオキャラクターズ』ぱかぱかガラケー風キーホルダー第2弾・第3弾、11月11日より「かぷえぼ」で展開</title>
+      <link>https://www.famitsu.com/article/202611/92814</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92814</guid>
+      <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
+      <description>『サンリオキャラクターズ』のカプセルトイ「ぱかぱかガラケー風キーホルダー」第2弾・第3弾が、11月11日より完全キャッシュレスカプセルトイマシン「かぷえぼ」で順次展開される。シナモロールやクロミなど全10種で、価格は599円[税込]。</description>
+    </item>
+    <item>
+      <title>高難度あみだくじパズルゲーム『あみだキュウ』体験版がSteamとブラウザで公開中。見た目と仕組みはシンプルだが脳みそフル回転のパズル</title>
+      <link>https://www.famitsu.com/article/202611/92818</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92818</guid>
+      <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
+      <description>Steamとunityroomにて、高難度あみだくじパズルゲーム『あみだキュウ』の体験版が公開中。unityroom版はPC、スマートフォンのどちらからでもブラウザでプレイ可能だ。製品版リリースは2026年11月を予定。</description>
     </item>
     <item>
       <title>名越スタジオが解散。昨年『GANG OF DRAGON』を発表するも、ネットイースからの資金提供が停止。開発継続が不安視される状況で</title>
@@ -614,97 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202610/92640</guid>
       <pubDate>Fri, 30 Oct 2026 08:40:00 GMT</pubDate>
       <description>2026年11月11日から2027年1月11日に開催される『ドラゴンクエスト』と『ファイナルファンタジー』のコラボイベント“横浜・みなとみらい Winter Holiday 2026～ドラゴンクエスト×ファイナルファンタジーが織りなす冬のファンタジー～”の特設サイトが公開。イベントで登場するコラボメニューが公開された。</description>
-    </item>
-    <item>
-      <title>『ジョジョ』ディオたち“宿敵”をテーマとした一番くじが11月21日発売。スタンドの矢フィギュアやロードローラーチャームなど注目グッズが目白押し</title>
-      <link>https://www.famitsu.com/article/202610/92629</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92629</guid>
-      <pubDate>Fri, 30 Oct 2026 08:30:00 GMT</pubDate>
-      <description>“一番くじ ジョジョの奇妙な冒険 The Gathering of RIVALS”のラインアップが公開。シリーズに登場する宿敵をテーマとしたラインアップで、フィギュアをはじめとした多彩なアイテムが登場。</description>
-    </item>
-    <item>
-      <title>『ペルソナ』30周年一番くじの全ラインアップ公開。お部屋をベルベットルームにできちゃう『全ての人の魂の詩』収録のエフェクトーンが当たる</title>
-      <link>https://www.famitsu.com/article/202610/92622</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92622</guid>
-      <pubDate>Fri, 30 Oct 2026 08:15:00 GMT</pubDate>
-      <description>『ペルソナ』シリーズ30周年記念グッズが当たる“一番くじ 『ペルソナ』シリーズ30th ANNIVERSARY”の賞品ラインアップが公開。『3』～『5』各主人公のフィギュアや『全ての人の魂の詩』を収録したエフェクトーンなどが用意されている。</description>
-    </item>
-    <item>
-      <title>『ヴァイスシュヴァルツ オンライン』コンプリートエディションがエビテンで予約開始。特典には『SAO』のキリト、アスナのクリアカード付属</title>
-      <link>https://www.famitsu.com/article/202610/92637</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92637</guid>
-      <pubDate>Fri, 30 Oct 2026 08:10:00 GMT</pubDate>
-      <description>『ヴァイスシュヴァルツ オンライン Complete Edition』の予約が開始。エビテンで予約した場合、限定特典で“キリト＆アスナ クリアカード2枚セット”がもらえる。</description>
-    </item>
-    <item>
-      <title>『クーロンズゲートSuzaku』Switchダウンロード版が販売開始。伝説のカルトゲーム『クーロンズ・ゲート』の世界を再構築した至極の「陰界お散歩ゲーム」</title>
-      <link>https://www.famitsu.com/article/202610/92632</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92632</guid>
-      <pubDate>Fri, 30 Oct 2026 07:38:00 GMT</pubDate>
-      <description>ジェットマンは、『クーロンズゲートSuzaku』Nintendo Switch版のダウンロード販売を2026年10月29日に開始した。</description>
-    </item>
-    <item>
-      <title>『ゼルダの伝説』ハートの器フィギュアは衝撃でライトが消えてダメージを表現。引っこ抜けるマスターソードのマスコットも。プライズにて11月上旬より登場</title>
-      <link>https://www.famitsu.com/article/202610/92610</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92610</guid>
-      <pubDate>Fri, 30 Oct 2026 07:01:00 GMT</pubDate>
-      <description>タイトープライズより『ゼルダの伝説』の新グッズが2026年11月上旬に登場。“引っこ抜きマスコット　マスターソード”と“ぴかっとフィギュア　ハートの器”の2商品が展開。</description>
-    </item>
-    <item>
-      <title>『Mouthwashing』長編映画化が決定。救出確率0％の宇宙船クルーを描く、キツすぎる心理ホラーを劇場でもう一度。Switch、PS5/4、XBOX版は本日（10/30）発売</title>
-      <link>https://www.famitsu.com/article/202610/92563</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92563</guid>
-      <pubDate>Fri, 30 Oct 2026 07:00:00 GMT</pubDate>
-      <description>SF心理ホラーゲーム『Mouthwashing』の長編映画化が発表。Screen Gemsのもと、製作はCrooked Highwayのスコット・デリクソン、C・ロバート・カーギル、ヴィンス・チェンが担当し、 監督はカリン・クサマ、脚本はマット・マンフレディとフィル・ヘイが担当することが発表された。</description>
-    </item>
-    <item>
-      <title>SF純愛アドベンチャー『アインシュタインより愛を込めて』がSwitchで2027年に発売。続編『APOLLOCRISIS』も収録。描き下ろしメインビジュアルが公開</title>
-      <link>https://www.famitsu.com/article/202610/92612</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92612</guid>
-      <pubDate>Fri, 30 Oct 2026 06:54:00 GMT</pubDate>
-      <description>『アインシュタインより愛を込めて＋APOLLOCRISIS』を2027年に発売。対応機種は、Nintendo Switch。原画を担当したきみしま青による描き下ろしメインビジュアルも公開。</description>
-    </item>
-    <item>
-      <title>「混沌」の“見た目”とは……？ クトゥルフ神話の生き物を「文章を頼りに」お絵描きする『ミスカトニック大学美術部』本日（10/30）配信開始</title>
-      <link>https://www.famitsu.com/article/202610/92617</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92617</guid>
-      <pubDate>Fri, 30 Oct 2026 06:45:00 GMT</pubDate>
-      <description>オンラインお絵描きゲーム『ミスカトニック大学美術部』がSteam（Windows／Mac）、Google Play（Android）で本日2026年10月30日に発売した。iOS版（iPhone／iPad）は現在App Storeの審査中となっている。</description>
-    </item>
-    <item>
-      <title>『原神』『スタレ』のホヨバが贈る初のスローライフゲーム『プチプラネット』が12月4日にリリース決定。12月1日より事前ダウンロードが開始</title>
-      <link>https://www.famitsu.com/article/202610/92589</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92589</guid>
-      <pubDate>Fri, 30 Oct 2026 06:30:00 GMT</pubDate>
-      <description>HoYoverse（ホヨバ―ス）は、スローライフゲーム『プチプラネット』を2026年12月4日に正式リリースすることを発表。12月1日より事前ダウンロードを開始する。</description>
-    </item>
-    <item>
-      <title>『Cairn』3種のクライミングエリアと新モードが登場する無料DLCが本日（10/30）より配信開始。異なる技術やスタイルを持つマルコでもプレイ可能に</title>
-      <link>https://www.famitsu.com/article/202610/92596</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92596</guid>
-      <pubDate>Fri, 30 Oct 2026 06:00:00 GMT</pubDate>
-      <description>サバイバルクライミングゲーム『Cairn』の無料DLC第1弾“Cairn - On the Trail: Deep Water”が2026年10月30日より配信。3種類の新たなクライミングエリア、新モードの“ウォーター・ソロ”が追加。</description>
-    </item>
-    <item>
-      <title>『ポケモン赤・緑』Fenderコラボギター発表。ボディには当時のゲーム画面をドット絵で大胆デザイン。ノブ操作で8-bitサウンドが加わるギミックも</title>
-      <link>https://www.famitsu.com/article/202610/92600</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92600</guid>
-      <pubDate>Fri, 30 Oct 2026 05:58:00 GMT</pubDate>
-      <description>『ポケットモンスター 赤・緑』をモチーフにしたFenderコラボモデルのギターが発表。2026年11月19日12時よりポケモンセンターオンラインにて抽選販売される予定だ。</description>
-    </item>
-    <item>
-      <title>携帯電話や双眼鏡でカンニングする悪ガキシミュレーター『Finals Week』が発売。最大4人で協力し、教師からバレずに合格を目指せ</title>
-      <link>https://www.famitsu.com/article/202610/92586</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92586</guid>
-      <pubDate>Fri, 30 Oct 2026 05:45:00 GMT</pubDate>
-      <description>最大4人でプレイできる協力型カンニングシミュレーター『Finals Week』が本日2026年10月30日よりSteamで発売。あらゆる方法を駆使して答えを見つけ出し、合格を目指す。</description>
-    </item>
-    <item>
-      <title>セブンイレブンのジオラマが『トミカ』より12月16日発売。2種類のLEDライトで夜のコンビニも演出できるなどリアルに再現。“tomica VIEW”シリーズ第1弾</title>
-      <link>https://www.famitsu.com/article/202610/92588</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202610/92588</guid>
-      <pubDate>Fri, 30 Oct 2026 05:30:00 GMT</pubDate>
-      <description>“リアルな日本の情景”がモチーフの情景ジオラマ“tomica VIEW （トミカ ビュー）”が2026年12月より展開。第1弾商品は“コンビニエンスストア　セブン-イレブン”と“小型駐車場（自動販売機付）”。</description>
     </item>
   </channel>
 </rss>
