@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Nov 2026 10:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 10:20:00 GMT</lastBuildDate>
+    <item>
+      <title>『ストレンジャー ザン ヘヴン』全国体験会が11月14日より順次開催。バトル体験モードに加えて、新たに“ストーリー体験モード”をプレイできる</title>
+      <link>https://www.famitsu.com/article/202611/93298</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93298</guid>
+      <pubDate>Fri, 06 Nov 2026 10:20:00 GMT</pubDate>
+      <description>RGGスタジオ最新作『STRANGER THAN HEAVEN』の全国体験会が2026年11月14日より順次開催される。</description>
+    </item>
     <item>
       <title>ゲームアワード“Golden Joystick Awards 2026”がニコ生で11月12日に日本語字幕付き生放送。『ぽこポケ』『プラグマタ』『バイオ レクイエム』がUGOTY候補に</title>
       <link>https://www.famitsu.com/article/202611/93300</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/92884</guid>
       <pubDate>Mon, 02 Nov 2026 10:22:00 GMT</pubDate>
       <description>YouTubeのTales of YouTube Channelにて、アニメ『テイルズ オブ エターニア THE ANIMATION』全13話が期間限定で公開。公開期間は2026年11月30日23時59分まで。</description>
-    </item>
-    <item>
-      <title>『Aeruta（アルタ）』Switch、PS5用パッケージ版・コレクターズBOXの発売日が12月24日に延期。キツネ耳少女のパン屋経営＆ダンジョン探索RPG</title>
-      <link>https://www.famitsu.com/article/202611/92867</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92867</guid>
-      <pubDate>Mon, 02 Nov 2026 10:20:00 GMT</pubDate>
-      <description>『Aeruta（アルタ）』Nintendo Switch、PS5用パッケージ通常版およびコレクターズBOX版の発売日が2026年12月10日から12月24日へと延期。理由は製造上の事情によるもの。</description>
     </item>
   </channel>
 </rss>
