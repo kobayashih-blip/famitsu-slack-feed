@@ -147,13 +147,6 @@
       <description>『作って！からあげ』注文通りにからあげを作り、スコアを競うクッキングゲームが2026年11月5日に配信開始。対象ハードはNintendo Switch、PC（Steam）。</description>
     </item>
     <item>
-      <title>『崩壊：ネクサスアニマ』正式リリースが2027年春に決定。ファイナルβテストが11月25日より開催。本日（11/5）より応募受付が開始</title>
-      <link>https://www.famitsu.com/article/202611/93148</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93148</guid>
-      <pubDate>Thu, 05 Nov 2026 07:40:00 GMT</pubDate>
-      <description>HoYoverseの新作RPG『崩壊：ネクサスアニマ』の正式リリースが2027年春に決定。2026年11月25日より、PC、スマホ（iOS/Android）を対象としたファイナルβテストが開催。11月5日より募集受付を開始した。</description>
-    </item>
-    <item>
       <title>【任天堂決算】映画『スーパーマリオギャラクシー』のヒットでIP関連収入等が大きく増加。『スプラ レイダース』は242万本</title>
       <link>https://www.famitsu.com/article/202611/93163</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93163</guid>
@@ -355,6 +348,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93047</guid>
       <pubDate>Wed, 04 Nov 2026 10:00:00 GMT</pubDate>
       <description>『コンソールアーカイブス エレベーターアクション』が2026年11月5日より配信開始。対応機種はSwitch2、PS5。1985年にタイトーから8ビットの家庭用ゲーム機向けに発売されたアクション。ピストルとジャンプキックを武器に、ビル内に隠された機密書類を全て盗み、地下に用意してある逃走車から脱出することを目指す。</description>
+    </item>
+    <item>
+      <title>【アケアカ/アケアカ2】『イグジーザス』が11月5日より配信。コズモファイター・ロビンを操作し巨大ロボを撃破するタイトーのシューティング</title>
+      <link>https://www.famitsu.com/article/202611/93051</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93051</guid>
+      <pubDate>Wed, 04 Nov 2026 09:34:00 GMT</pubDate>
+      <description>アーケードアーカイブス/アーケードアーカイブス2『イグジーザス』11月5日に配信。1987年にタイトーから発売されたシューティングゲームが復刻。プレイヤーはコズモファイター・ロビンを操作し、第四銀河系にはびこる謎の軍団をブラスターやミサイルで倒していく。</description>
     </item>
     <item>
       <title>ファミ通ロゴがデデン！ グラッテとクッキーをアニメイト秋葉原ANNEXで期間限定販売！ 11月7日開催「ファミ通40周年フェス」のおともにどうぞ</title>
@@ -700,11 +700,11 @@
       <description>『サンリオキャラクターズ』のカプセルトイ「ぱかぱかガラケー風キーホルダー」第2弾・第3弾が、11月11日より完全キャッシュレスカプセルトイマシン「かぷえぼ」で順次展開される。シナモロールやクロミなど全10種で、価格は599円[税込]。</description>
     </item>
     <item>
-      <title>高難度あみだくじパズルゲーム『あみだキュウ』体験版がSteamとブラウザで公開中。見た目と仕組みはシンプルだが脳みそフル回転のパズル</title>
-      <link>https://www.famitsu.com/article/202611/92818</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92818</guid>
-      <pubDate>Mon, 02 Nov 2026 04:00:00 GMT</pubDate>
-      <description>Steamとunityroomにて、高難度あみだくじパズルゲーム『あみだキュウ』の体験版が公開中。unityroom版はPC、スマートフォンのどちらからでもブラウザでプレイ可能だ。製品版リリースは2026年11月を予定。</description>
+      <title>名越スタジオが解散。昨年『GANG OF DRAGON』を発表するも、ネットイースからの資金提供が停止。開発継続が不安視される状況で</title>
+      <link>https://www.famitsu.com/article/202611/92820</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92820</guid>
+      <pubDate>Mon, 02 Nov 2026 03:50:00 GMT</pubDate>
+      <description>名越スタジオが2026年10月31日の株主総会の決議により解散。『龍が如く』をはじめ、『デイトナUSA』や『スパイクアウト』、『スーパーモンキーボール』など多岐にわたるヒット作を手掛けてきた名越稔洋氏が率いてきた開発スタジオ。</description>
     </item>
   </channel>
 </rss>
