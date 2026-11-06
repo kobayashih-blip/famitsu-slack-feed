@@ -210,13 +210,6 @@
       <description>『作って！からあげ』注文通りにからあげを作り、スコアを競うクッキングゲームが2026年11月5日に配信開始。対象ハードはNintendo Switch、PC（Steam）。</description>
     </item>
     <item>
-      <title>『崩壊：ネクサスアニマ』正式リリースが2027年春に決定。ファイナルβテストが11月25日より開催。本日（11/5）より応募受付が開始</title>
-      <link>https://www.famitsu.com/article/202611/93148</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93148</guid>
-      <pubDate>Thu, 05 Nov 2026 07:40:00 GMT</pubDate>
-      <description>HoYoverseの新作RPG『崩壊：ネクサスアニマ』の正式リリースが2027年春に決定。2026年11月25日より、PC、スマホ（iOS/Android）を対象としたファイナルβテストが開催。11月5日より募集受付を開始した。</description>
-    </item>
-    <item>
       <title>【任天堂決算】映画『スーパーマリオギャラクシー』のヒットでIP関連収入等が大きく増加。『スプラ レイダース』は242万本</title>
       <link>https://www.famitsu.com/article/202611/93163</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93163</guid>
@@ -441,18 +434,18 @@
       <description>『学園アイドルマスター』ローソンキャンペーンが、2026年11月10日より開始。マルチファイル配布、オリジナルグッズ販売、ブロマイドのローソンプリントなど、さまざまな取り組みが行われる。</description>
     </item>
     <item>
-      <title>『ブラッドボーン』狩人、人形、時計塔のマリア、ミコラーシュのキーチャームが登場。デフォルメ姿の描き起こしイラストを使用</title>
-      <link>https://www.famitsu.com/article/202611/93024</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93024</guid>
-      <pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
-      <description>『Bloodborne』の狩人、人形、時計塔のマリア、悪夢の主、ミコラーシュの描き起こしデフォルメチャームが予約開始された。</description>
-    </item>
-    <item>
       <title>【アケアカ2】『エレベーターアクション』が11月5日より配信。エレベーターを駆使して敵を倒すタイトーのアクションゲーム</title>
       <link>https://www.famitsu.com/article/202611/93028</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93028</guid>
       <pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
       <description>『アーケードアーカイブス2 エレベーターアクション』が2026年11月5日より配信。1983年にタイトーから発売されたアクションゲーム。スパイとして単身ビルへ潜入し、すべての機密書類を手に入れて脱出することが目的。エレベーターを操作して敵を押しつぶしたり、ランプを使った攻撃で敵を倒したりと、さまざまなアクションを楽しめる。</description>
+    </item>
+    <item>
+      <title>『ブラッドボーン』狩人、人形、時計塔のマリア、ミコラーシュのキーチャームが登場。デフォルメ姿の描き起こしイラストを使用</title>
+      <link>https://www.famitsu.com/article/202611/93024</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93024</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
+      <description>『Bloodborne』の狩人、人形、時計塔のマリア、悪夢の主、ミコラーシュの描き起こしデフォルメチャームが予約開始された。</description>
     </item>
     <item>
       <title>『パラノマサイト 伊勢人魚物語』Switch版とスマホ版が30%オフで買えるセールが開催。公式Xにて登場人物の日常を描いたスマホ壁紙も公開</title>
@@ -705,6 +698,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/92863</guid>
       <pubDate>Mon, 02 Nov 2026 09:00:00 GMT</pubDate>
       <description>2026年11月3日、Steamにて『フレミング邸の殺人事件』がリリースされる。本作は、死亡診断書といった公的文書を作成し、法医学的検知から事件の謎に迫るミステリーアドベンチャーだ。体験版も配信中。</description>
+    </item>
+    <item>
+      <title>『Football Manager 27』の無料プレイが11月4日午前3時まで実施中。新マルチモード「Shuffle Draft」も体験可能</title>
+      <link>https://www.famitsu.com/article/202611/92853</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92853</guid>
+      <pubDate>Mon, 02 Nov 2026 08:10:00 GMT</pubDate>
+      <description>セガは、サッカークラブ経営シミュレーション『Football Manager 27』のローンチプレビュー版の無料プレイを、10月30日から11月4日午前3時まで実施している。新マルチプレイモード「Shuffle Draft」を含む全モードが遊べる。予約購入で10%オフになり、購入すればローンチプレビュー版を発売日の11月11日まで継続してプレイできる。</description>
     </item>
   </channel>
 </rss>
