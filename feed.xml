@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Nov 2026 11:47:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 02:28:00 GMT</lastBuildDate>
+    <item>
+      <title>『ドラクエ』ファミコンカセット風名刺ケースが登場。冒険を彩る楽曲やレベルアップ音が鳴り響くボタン付き。『I』～『IV』の計4種類</title>
+      <link>https://www.famitsu.com/article/202611/93406</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93406</guid>
+      <pubDate>Sun, 08 Nov 2026 02:28:00 GMT</pubDate>
+      <description>『ドラゴンクエスト』シリーズのファミコンカセットを再現した名刺ケースが登場した。スクウェア・エニックス e-STOREで予約受付中。</description>
+    </item>
     <item>
       <title>『UNDERTALE』『DELTARUNE』『ホロウナイト』などインディーゲーム集合イラストが公開。見た目は岡山県ネタ。Fangamer × GiGOショップ設立記念</title>
       <link>https://www.famitsu.com/article/202611/93378</link>
@@ -350,13 +357,6 @@
       <description>“一番くじ ストリートファイター6 vol.2”が2027年3月13日に発売決定。ケンやJP、エドがフィギュアになって登場する。価格は1回800円［税込］。</description>
     </item>
     <item>
-      <title>水上悟志の漫画『スピリットサークル』TVアニメ化決定。『機動戦艦ナデシコ』の故・佐藤竜雄による最後の監督作に【2026年12月放送】</title>
-      <link>https://www.famitsu.com/article/202611/93096</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93096</guid>
-      <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
-      <description>『惑星のさみだれ』『戦国妖狐』『プラネット・ウィズ』などを手掛ける水上悟志氏のマンガ『スピリットサークル』のテレビアニメ化が決定した。</description>
-    </item>
-    <item>
       <title>『コードギアス 星追いのアスパル』新作アニメは奴隷少年と“首だけの女性”の出会い。柴田あいばん、山村響が出演。2027年1月より先行試写会が開催</title>
       <link>https://www.famitsu.com/article/202611/93157</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93157</guid>
@@ -602,18 +602,18 @@
       <description>『学園アイドルマスター』ローソンキャンペーンが、2026年11月10日より開始。マルチファイル配布、オリジナルグッズ販売、ブロマイドのローソンプリントなど、さまざまな取り組みが行われる。</description>
     </item>
     <item>
-      <title>『ブラッドボーン』狩人、人形、時計塔のマリア、ミコラーシュのキーチャームが登場。デフォルメ姿の描き起こしイラストを使用</title>
-      <link>https://www.famitsu.com/article/202611/93024</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93024</guid>
-      <pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
-      <description>『Bloodborne』の狩人、人形、時計塔のマリア、悪夢の主、ミコラーシュの描き起こしデフォルメチャームが予約開始された。</description>
-    </item>
-    <item>
       <title>【アケアカ2】『エレベーターアクション』が11月5日より配信。エレベーターを駆使して敵を倒すタイトーのアクションゲーム</title>
       <link>https://www.famitsu.com/article/202611/93028</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93028</guid>
       <pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
       <description>『アーケードアーカイブス2 エレベーターアクション』が2026年11月5日より配信。1983年にタイトーから発売されたアクションゲーム。スパイとして単身ビルへ潜入し、すべての機密書類を手に入れて脱出することが目的。エレベーターを操作して敵を押しつぶしたり、ランプを使った攻撃で敵を倒したりと、さまざまなアクションを楽しめる。</description>
+    </item>
+    <item>
+      <title>『ブラッドボーン』狩人、人形、時計塔のマリア、ミコラーシュのキーチャームが登場。デフォルメ姿の描き起こしイラストを使用</title>
+      <link>https://www.famitsu.com/article/202611/93024</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93024</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
+      <description>『Bloodborne』の狩人、人形、時計塔のマリア、悪夢の主、ミコラーシュの描き起こしデフォルメチャームが予約開始された。</description>
     </item>
     <item>
       <title>『パラノマサイト 伊勢人魚物語』Switch版とスマホ版が30%オフで買えるセールが開催。公式Xにて登場人物の日常を描いたスマホ壁紙も公開</title>
