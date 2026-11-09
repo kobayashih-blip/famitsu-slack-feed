@@ -1,6 +1,7 @@
 {
   "initialized": true,
   "seen": {
+    "https://www.famitsu.com/article/202611/93506": "2026-11-09T17:20:00+09:00",
     "https://www.famitsu.com/article/202611/93501": "2026-11-09T16:03:00+09:00",
     "https://www.famitsu.com/article/202611/93488": "2026-11-09T15:20:00+09:00",
     "https://www.famitsu.com/article/202611/93479": "2026-11-09T13:50:00+09:00",
@@ -1429,6 +1430,6 @@
     "https://www.famitsu.com/article/202608/83741": "2026-08-06T18:40:00+09:00",
     "https://www.famitsu.com/article/202608/83711": "2026-08-06T18:30:00+09:00"
   },
-  "maxArticleId": 93501,
-  "lastCheckedAt": "2026-11-09T08:20:24.205Z"
+  "maxArticleId": 93506,
+  "lastCheckedAt": "2026-11-09T08:30:33.559Z"
 }
