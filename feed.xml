@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 04:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『魔物と紙幣』魔物を売りさばいて裏社会で成り上がるシミュレーションSteamストアページ公開。血統や個体値を見極め、突然変異や特殊配合で希少な個体を生み出す</title>
+      <link>https://www.famitsu.com/article/202611/93468</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93468</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:00 GMT</pubDate>
+      <description>『魔物と紙幣 / Monsters &amp; Banknotes』のストアページが公開された。犯罪組織がしのぎを削る街で、魔物の繁殖や売買を通じ、商売を広げていくシミュレーション。魔物を闘技場で戦わせ、優勝の肩書きを得れば売値も上がる。</description>
+    </item>
     <item>
       <title>『仮面ライダービルド』がカップヌードル55周年記念商品『異世界合体シリーズ』とコラボ。雑コラ感がたまらないベストマッチな動画を公開</title>
       <link>https://www.famitsu.com/article/202611/93479</link>
@@ -357,6 +364,13 @@
       <description>『ポケットモンスター ダイヤモンド・パール』の“209ばんどうろ”など、各シリーズのどうろを再現したジオラマオルゴールが公開された。ポケモンセンターオンラインで2026年11月12日に発売予定。</description>
     </item>
     <item>
+      <title>『メタファー：リファンタジオ』ダウンロード版が9878円→3990円に値下げ。Switch2版発売にあわせて11月12日から価格改定</title>
+      <link>https://www.famitsu.com/article/202611/93252</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93252</guid>
+      <pubDate>Fri, 06 Nov 2026 05:00:00 GMT</pubDate>
+      <description>『メタファー：リファンタジオ』のプレイステーション5（PS5）、プレイステーション4（PS4）、XBOX Series X|S、PC（Steam）向けダウンロード版が2026年11月12日（木）より価格改定。通常版は9878円［税込］から3990円［税込］、豪華版“アトラスブランド35thデジタル・アニバーサリーエディション”は15500円［税込］から5990円［税込］に。</description>
+    </item>
+    <item>
       <title>『ジョジョ』「To Be Continued」の矢印ライトが12月よりプライズで登場。横幅約25cmとそれなりにデカい</title>
       <link>https://www.famitsu.com/article/202611/93261</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93261</guid>
@@ -691,20 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93053</guid>
       <pubDate>Wed, 04 Nov 2026 10:42:00 GMT</pubDate>
       <description>『ボーダーランズ』シリーズの累計販売本数1億本突破が報告された。</description>
-    </item>
-    <item>
-      <title>『カタルシス～最後のアトリエ～』発売日が12月1日に決定。ゴッホやモネの名画の“中”を渡り歩き、美しい世界に浸れるウォーキングシミュ</title>
-      <link>https://www.famitsu.com/article/202611/93011</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93011</guid>
-      <pubDate>Wed, 04 Nov 2026 10:30:00 GMT</pubDate>
-      <description>『カタルシス～最後のアトリエ～』が2026年12月1日（火）にPC（Steam）にて発売。現在体験版が配信中。ゴッホやモネ、ドラクロワなど有名絵画をモチーフにした10の世界を旅するウォーキングシミュレーター。プレイヤーは絵画の世界に入り込み、そこに宿る“記憶”を集めていく。</description>
-    </item>
-    <item>
-      <title>『モンハン』の世界が文化祭に！ バンタン文化祭2026が11月14日開催。謎解きクエストやコラボカフェなど特別企画を実施【バンタン文化祭2026】</title>
-      <link>https://www.famitsu.com/article/202611/91788</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/91788</guid>
-      <pubDate>Wed, 04 Nov 2026 10:00:00 GMT</pubDate>
-      <description>バンタンと『モンスターハンター』コラボによる“バンタン文化祭2026”が、2026年11月14日に開催。学生が企画・デザイン・制作に挑戦し、さまざまな内容を実施。</description>
     </item>
   </channel>
 </rss>
