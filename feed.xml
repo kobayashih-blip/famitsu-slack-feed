@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 05:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:50:00 GMT</lastBuildDate>
+    <item>
+      <title>『宝箱クラッシャー』宝箱を開けて中身を売りさばく経営シミュレーション。裏通りの小さな道具屋を冒険者が殺到する人気店に</title>
+      <link>https://www.famitsu.com/article/202611/93476</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93476</guid>
+      <pubDate>Mon, 09 Nov 2026 05:50:00 GMT</pubDate>
+      <description>PC（Steam）向け新作インクリメンタルゲーム『TAKARABAKO ～宝箱クラッシャー～』のストアページが公開。本作は、剣と魔法の世界の裏通りにある小さな道具屋を舞台に、宝箱を殴って開け、中から出てきた品物を売って店を大きくしていく経営シミュレーションだ。</description>
+    </item>
     <item>
       <title>『エルシャダイ』のリバーシ『El Shaddai: Zero Nine Reversi』にオンラインモードが追加。Steam版も本日（11/9）発売</title>
       <link>https://www.famitsu.com/article/202611/93473</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93064</guid>
       <pubDate>Wed, 04 Nov 2026 11:40:00 GMT</pubDate>
       <description></description>
-    </item>
-    <item>
-      <title>『アクションゲームツクールG』MacやLinuxでもゲーム制作が可能に。iOSへの出力にも対応し、ヴィジュアルスクリプトのUIも刷新されたバージョン2.1が配信</title>
-      <link>https://www.famitsu.com/article/202611/93056</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93056</guid>
-      <pubDate>Wed, 04 Nov 2026 10:57:00 GMT</pubDate>
-      <description>『アクションゲームツクールG』アップデートバージョン2.1がリリース。macOS、Linuxで動作するように対応環境が追加。さらに、XcodeをインストールしたAppleシリコン（M1以降）搭載のMacからiOSにゲームを出力できる機能も追加。作成したゲームにバーチャルゲームパッドを簡単に導入できる機能なども搭載された。</description>
     </item>
   </channel>
 </rss>
