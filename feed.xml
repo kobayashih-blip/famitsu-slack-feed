@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 02:29:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 02:40:00 GMT</lastBuildDate>
+    <item>
+      <title>『Guns and Dragons』最大4人で協力できるローグライトFPSのプレイテストが11/23まで開催中。ファンタジー世界で銃や弓を手にモンスター退治</title>
+      <link>https://www.famitsu.com/article/202611/93457</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93457</guid>
+      <pubDate>Mon, 09 Nov 2026 02:40:00 GMT</pubDate>
+      <description>Steamにて、2026年11月9日より第3回となる『Guns and Dragons』のプレイテストが開催。本作は最大4人でプレイできるファンタジーローグライトFPS。プレイテスト期間は2026年11月23日まで。</description>
+    </item>
     <item>
       <title>『原神』マクドナルドコラボが11月18日開催。ヴァレサ＆エスコフィエのてりやきマックバーガーが登場。風の翼や名刺などのゲーム内アイテムもゲットできる</title>
       <link>https://www.famitsu.com/article/202611/93460</link>
@@ -679,13 +686,6 @@
       <description>『学園アイドルマスター』ローソンキャンペーンが、2026年11月10日より開始。マルチファイル配布、オリジナルグッズ販売、ブロマイドのローソンプリントなど、さまざまな取り組みが行われる。</description>
     </item>
     <item>
-      <title>【アケアカ2】『エレベーターアクション』が11月5日より配信。エレベーターを駆使して敵を倒すタイトーのアクションゲーム</title>
-      <link>https://www.famitsu.com/article/202611/93028</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93028</guid>
-      <pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
-      <description>『アーケードアーカイブス2 エレベーターアクション』が2026年11月5日より配信。1983年にタイトーから発売されたアクションゲーム。スパイとして単身ビルへ潜入し、すべての機密書類を手に入れて脱出することが目的。エレベーターを操作して敵を押しつぶしたり、ランプを使った攻撃で敵を倒したりと、さまざまなアクションを楽しめる。</description>
-    </item>
-    <item>
       <title>『ブラッドボーン』狩人、人形、時計塔のマリア、ミコラーシュのキーチャームが登場。デフォルメ姿の描き起こしイラストを使用</title>
       <link>https://www.famitsu.com/article/202611/93024</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93024</guid>
@@ -693,18 +693,18 @@
       <description>『Bloodborne』の狩人、人形、時計塔のマリア、悪夢の主、ミコラーシュの描き起こしデフォルメチャームが予約開始された。</description>
     </item>
     <item>
+      <title>【アケアカ2】『エレベーターアクション』が11月5日より配信。エレベーターを駆使して敵を倒すタイトーのアクションゲーム</title>
+      <link>https://www.famitsu.com/article/202611/93028</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93028</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
+      <description>『アーケードアーカイブス2 エレベーターアクション』が2026年11月5日より配信。1983年にタイトーから発売されたアクションゲーム。スパイとして単身ビルへ潜入し、すべての機密書類を手に入れて脱出することが目的。エレベーターを操作して敵を押しつぶしたり、ランプを使った攻撃で敵を倒したりと、さまざまなアクションを楽しめる。</description>
+    </item>
+    <item>
       <title>『パラノマサイト 伊勢人魚物語』Switch版とスマホ版が30%オフで買えるセールが開催。公式Xにて登場人物の日常を描いたスマホ壁紙も公開</title>
       <link>https://www.famitsu.com/article/202611/93036</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93036</guid>
       <pubDate>Wed, 04 Nov 2026 08:50:00 GMT</pubDate>
       <description>『パラノマサイト FILE38 伊勢人魚物語』の30％オフセールがNintendo Store、AppStore、Google Playにて開催中。期間はNintendo Storeは2026年11月20日まで、AppStore、Google Playは2026年11月18日まで。</description>
-    </item>
-    <item>
-      <title>【パワプロアプリ】『らんま1/2』コラボ開催。早乙女乱馬、天道あかね、響良牙、シャンプーがコラボキャラで登場。録り下ろしボイスを収録</title>
-      <link>https://www.famitsu.com/article/202611/93035</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93035</guid>
-      <pubDate>Wed, 04 Nov 2026 08:10:00 GMT</pubDate>
-      <description>『実況パワフルプロ野球』（パワプロアプリ）で『らんま1/2』とのコラボが開催。早乙女乱馬、天道あかね、響良牙、シャンプーがコラボキャラクターとして登場する。</description>
     </item>
   </channel>
 </rss>
