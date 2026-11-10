@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 12:20:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:30:00 GMT</lastBuildDate>
+    <item>
+      <title>あなた以外の“誰か”が居る屋敷を探索するポイント＆クリック式謎解きホラー『Shroud of Gloom』2027年2月16日にリリース</title>
+      <link>https://www.famitsu.com/article/202611/93580</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93580</guid>
+      <pubDate>Tue, 10 Nov 2026 12:30:00 GMT</pubDate>
+      <description>『Shroud of Gloom』が2027年2月16日にPC（Steam）でリリース。古びた屋敷を探索し、パズルと謎を解いていくポイント＆クリック形式のホラーアドベンチャーゲーム。</description>
+    </item>
     <item>
       <title>『エンダーリリーズ』『エンダーマグノリア』TGSグッズのオンライン販売開始。地下研究室・最下層の再現アクリルジオラマ、刺繍Tシャツなど</title>
       <link>https://www.famitsu.com/article/202611/93596</link>
@@ -357,6 +364,13 @@
       <description>アニメ『ガールズバンドクライ』の全話無料公開が2026年11月21日～12月5日の期間限定で実施される。</description>
     </item>
     <item>
+      <title>【5期】アニメ『みなみけ これから』2027年4月に放送決定。南家三姉妹の日常を描くほのぼの癒し系コメディ。ティザーPVなども公開</title>
+      <link>https://www.famitsu.com/article/202611/93405</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93405</guid>
+      <pubDate>Sun, 08 Nov 2026 06:00:00 GMT</pubDate>
+      <description>テレビアニメシリーズ『みなみけ』の第5期『みなみけ これから』が2027年4月に放送決定した。</description>
+    </item>
+    <item>
       <title>『ダレカレ』のyona氏と講談社ゲームラボの片山裕貴氏をゲストにインディーゲーム制作の現場を深堀りする、“吉Pラジオ・吉Pナイト”が11月29日に開催</title>
       <link>https://www.famitsu.com/article/202611/93353</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93353</guid>
@@ -691,20 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93207</guid>
       <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
       <description>映画『魔法使いの夜』8大タイアップの第3弾として、新宿マルイ アネックスにてPOP UP SHOPの実施が決定した。これに合わせ、ufotable描き下ろしのイラストが公開されている。</description>
-    </item>
-    <item>
-      <title>『ちょっと失礼。』ペンギンになって好き放題するドタバタコメディゲーム。世界征服をたくらむペンギンがかわいい</title>
-      <link>https://www.famitsu.com/article/202611/93199</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93199</guid>
-      <pubDate>Thu, 05 Nov 2026 10:46:00 GMT</pubDate>
-      <description>Steamにて、『ちょっと失礼。』のストアページが公開中。ある日見た夢をきっかけに動物園を出て世界を征服することにしたペンギンを操作し、人々にいたずらを仕掛けていくコメディゲーム。2026年第4四半期の発売を予定。</description>
-    </item>
-    <item>
-      <title>『病能探偵』認知異常を持つ13人のデスゲーム推理アドベンチャー。嘘がつけない、○○が見えない、その異常は伝染して事件現場を歪ませる【本日発売】</title>
-      <link>https://www.famitsu.com/article/202611/93184</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93184</guid>
-      <pubDate>Thu, 05 Nov 2026 10:00:00 GMT</pubDate>
-      <description>本格ミステリーと認知異常を組み合わせたサスペンス推理アドベンチャーゲーム『病能探偵』が2026年11月5日に発売。対応機種は、PC（Steam／STOVE／Epic Games Store）。</description>
     </item>
   </channel>
 </rss>
