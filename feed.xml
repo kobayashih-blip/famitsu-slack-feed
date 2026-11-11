@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 02:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 02:36:00 GMT</lastBuildDate>
+    <item>
+      <title>『刀剣乱舞』新刀剣男士“八八王国吉（ぱちぱちおうくによし）”（声：檜山修之、絵：lack）が登場するイベント“江戸城潜入調査”が開催【とうらぶ】</title>
+      <link>https://www.famitsu.com/article/202611/93681</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93681</guid>
+      <pubDate>Wed, 11 Nov 2026 02:36:00 GMT</pubDate>
+      <description>『刀剣乱舞ONLINE』にて、新刀剣男士“八八王国吉”（ぱちぱちおうくによし）（声：檜山修之、絵：lack）が報酬として登場するイベント“江戸城潜入調査”が開催。期間は2026年11月24日（火）12:59まで。</description>
+    </item>
     <item>
       <title>映画『魔法使いの夜』入場者特典の第1弾が公開、描き下ろし色紙が配布。原作・奈須きのこ氏のメッセージや、武内崇氏が描いた有珠などからランダム配布</title>
       <link>https://www.famitsu.com/article/202611/93680</link>
@@ -264,6 +271,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93504</guid>
       <pubDate>Mon, 09 Nov 2026 08:30:00 GMT</pubDate>
       <description>『Bel&apos;s Fanfare』のSteamストアページが公開中。本作は、『ゼルダの伝説』や『アンダーテール』、『千と千尋の神隠し』などにインスパイアされたアクションRPG。2027年後半にSteamや家庭用ゲーム機向けにリリース予定。</description>
+    </item>
+    <item>
+      <title>『Rasterfall』すべてのピクセルに物理演算・化学反応が働くサバイバルクラフト。最大4人で遊べるオープンβテストが11月23日まで開催</title>
+      <link>https://www.famitsu.com/article/202611/93506</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93506</guid>
+      <pubDate>Mon, 09 Nov 2026 08:20:00 GMT</pubDate>
+      <description>PC（Steam）向けソフト『Rasterfall』のオープンβテストが2026年11月23日まで開催。全ピクセルに物理演算や化学反応が適用される世界で、物質の合成や設備の自動化が楽しめる。最大4人での協力プレイも可能。</description>
     </item>
     <item>
       <title>『ブルアカ』「一日一惡」ワッペンを忍ばせたアルのアウターが登場。ムツキのバッグ、リオやトキの腕時計、ヒナのアウターとともに予約開始</title>
@@ -691,20 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93245</guid>
       <pubDate>Fri, 06 Nov 2026 03:30:00 GMT</pubDate>
       <description>2026年11月6日（金）よりPC（Steam）向けソフト『BIGGER BANG』が発売。本作は、午前3時に響く隣人の騒音に耐えかね、ハンマーで壁を壊す短期周回型アクションゲーム。カーソルで狙った場所をハンマーで叩き、クリック操作でダイナマイトを投げて壁を破壊していく。</description>
-    </item>
-    <item>
-      <title>『デスクトップメイト』で『スト6』DLCが11月12日に発売。リュウと春麗が波動拳やスピニングバードキックでウィンドウを吹き飛ばす。やり過ぎるとバーンアウトする</title>
-      <link>https://www.famitsu.com/article/202611/93172</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93172</guid>
-      <pubDate>Fri, 06 Nov 2026 03:00:00 GMT</pubDate>
-      <description>デスクトップマスコットソフト『Desktop Mate』（デスクトップメイト）にて、対戦格闘ゲーム『ストリートファイター6』DLCが2026年11月12日に発売。シリーズを代表するファイターであるリュウと春麗の2種が展開。</description>
-    </item>
-    <item>
-      <title>『スーパーリアル麻雀VR』のアーケード版『スーパーリアル麻雀AC』が2026年冬に稼働。全国を巡る体験イベントのクラウドファンディングも11/22より開始</title>
-      <link>https://www.famitsu.com/article/202611/93189</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93189</guid>
-      <pubDate>Fri, 06 Nov 2026 03:00:00 GMT</pubDate>
-      <description>約28年ぶりに、『スーパーリアル麻雀』がゲームセンターへ。『スーパーリアル麻雀AC』が2026年冬に稼働。</description>
     </item>
   </channel>
 </rss>
