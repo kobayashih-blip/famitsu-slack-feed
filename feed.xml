@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 21:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 23:30:00 GMT</lastBuildDate>
+    <item>
+      <title>森でできるのは「祈る」ことだけ。朝ごはんの食材を集める手描き短編アドベンチャー『朝餉（ASAGE）』11月13日に140円で発売</title>
+      <link>https://www.famitsu.com/article/202611/93636</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93636</guid>
+      <pubDate>Tue, 10 Nov 2026 23:30:00 GMT</pubDate>
+      <description>手描きアニメーションで描かれた短編アドベンチャー『朝餉(ASAGE)』が、11月13日にSteamで発売。価格は140円[税込]。不思議な青緑色の森で「祈る」ことだけで朝ごはんの食材を集め、住人たちと出会う。プレイ時間は約10分で、言葉による説明を極力省いている。</description>
+    </item>
     <item>
       <title>『ストリートファイター』一番くじが本日（11/11）発売。ラストワン賞は殺意カラーのリュウ。ボーナスステージのドラム缶の湯呑みも</title>
       <link>https://www.famitsu.com/article/202611/93640</link>
@@ -245,13 +252,6 @@
       <description>『Bel&apos;s Fanfare』のSteamストアページが公開中。本作は、『ゼルダの伝説』や『アンダーテール』、『千と千尋の神隠し』などにインスパイアされたアクションRPG。2027年後半にSteamや家庭用ゲーム機向けにリリース予定。</description>
     </item>
     <item>
-      <title>『Rasterfall』すべてのピクセルに物理演算・化学反応が働くサバイバルクラフト。最大4人で遊べるオープンβテストが11月23日まで開催</title>
-      <link>https://www.famitsu.com/article/202611/93506</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93506</guid>
-      <pubDate>Mon, 09 Nov 2026 08:20:00 GMT</pubDate>
-      <description>PC（Steam）向けソフト『Rasterfall』のオープンβテストが2026年11月23日まで開催。全ピクセルに物理演算や化学反応が適用される世界で、物質の合成や設備の自動化が楽しめる。最大4人での協力プレイも可能。</description>
-    </item>
-    <item>
       <title>『ブルアカ』「一日一惡」ワッペンを忍ばせたアルのアウターが登場。ムツキのバッグ、リオやトキの腕時計、ヒナのアウターとともに予約開始</title>
       <link>https://www.famitsu.com/article/202611/93501</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93501</guid>
@@ -355,6 +355,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93457</guid>
       <pubDate>Mon, 09 Nov 2026 02:40:00 GMT</pubDate>
       <description>Steamにて、2026年11月9日より第3回となる『Guns and Dragons』のプレイテストが開催。本作は最大4人でプレイできるファンタジーローグライトFPS。プレイテスト期間は2026年11月23日まで。</description>
+    </item>
+    <item>
+      <title>『原神』マクドナルドコラボが11月18日開催。ヴァレサ＆エスコフィエのてりやきマックバーガーが登場。風の翼や名刺などのゲーム内アイテムもゲットできる</title>
+      <link>https://www.famitsu.com/article/202611/93460</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93460</guid>
+      <pubDate>Mon, 09 Nov 2026 02:29:00 GMT</pubDate>
+      <description>『原神』とマクドナルドのコラボが2026年11月18日～12月8日に開催決定した。</description>
     </item>
     <item>
       <title>PlayStation Portalの日本向け新モデルが12/10発売、価格は39980円。将来的な機能も見据えて新たな本体ストレージも搭載</title>
@@ -691,13 +698,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93248</guid>
       <pubDate>Fri, 06 Nov 2026 02:48:00 GMT</pubDate>
       <description>任天堂は2026年11月5日、2027年3月期第2四半期（2026年4月1日〜9月30日）の決算短信および決算説明資料を発表した。</description>
-    </item>
-    <item>
-      <title>『ゴブリン・ノーム・ホーン』続編発表、今回は“横スクロール2Dアクション謎解き脱出ゲーム”に。川尻こだま「最高の脱出ゲーム作ってる」</title>
-      <link>https://www.famitsu.com/article/202611/93242</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93242</guid>
-      <pubDate>Fri, 06 Nov 2026 01:59:00 GMT</pubDate>
-      <description>川尻こだま氏、Kazuho氏が手掛けるPC向けゲーム『ゴブリン・ノーム・ホーン』の続編『ゴブリン・ノーム・ホーン ダッシュ・ツー』が発表。Steamストアページが公開されている。</description>
     </item>
     <item>
       <title>『ウルティマ』や『テーマホスピタル』など、EAの名作25タイトルのPC版が配信開始。『ウィングコマンダー』シリーズは実写映像のリマスターも</title>
