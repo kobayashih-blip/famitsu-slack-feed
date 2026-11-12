@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 09:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:20:00 GMT</lastBuildDate>
+    <item>
+      <title>『MONOMOON』本日（11/12）発売。幾重にも張り巡らされた“秘密”を「キャラ操作+マウス」で解き明かすアクションアドベンチャー。アイテムではなく“閃き”が道を切り拓く</title>
+      <link>https://www.famitsu.com/article/202611/93867</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93867</guid>
+      <pubDate>Thu, 12 Nov 2026 09:20:00 GMT</pubDate>
+      <description>2026年11月12日、Steamにて『MONOMOON』がリリース。足場を飛び移る2Dアクションと、マウス操作で仕掛けを解くポイント＆クリックアドベンチャーの要素を融合させたゲーム。2026年11月19日まで10％オフの1512円［税込］で購入可能。</description>
+    </item>
     <item>
       <title>【にゃんこ大戦争】新作TCG『にゃんこ・ザ・カードゲーム』発表。スターターデッキ2種とブースターパック第1弾が2027年3月26日発売</title>
       <link>https://www.famitsu.com/article/202611/93832</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93460</guid>
       <pubDate>Mon, 09 Nov 2026 02:29:00 GMT</pubDate>
       <description>『原神』とマクドナルドのコラボが2026年11月18日～12月8日に開催決定した。</description>
-    </item>
-    <item>
-      <title>PlayStation Portalの日本向け新モデルが12/10発売、価格は39980円。将来的な機能も見据えて新たな本体ストレージも搭載</title>
-      <link>https://www.famitsu.com/article/202611/93456</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93456</guid>
-      <pubDate>Mon, 09 Nov 2026 02:00:00 GMT</pubDate>
-      <description>“PlayStation Portal プレーヤー ミッドナイトブラック 日本語専用”が2026年12月10日に発売される。価格は39980円［税込］。2026年11月13日10時より、順次予約受付を開始。</description>
     </item>
   </channel>
 </rss>
