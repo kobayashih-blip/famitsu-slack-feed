@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 22:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 23:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『バン！バン！バンディッツ』Switch2版の無料体験版が配信開始。弾数制限なし＆フルオート移動で遊べるパーティー系ガンシューティング</title>
+      <link>https://www.famitsu.com/article/202611/93803</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93803</guid>
+      <pubDate>Thu, 12 Nov 2026 23:00:00 GMT</pubDate>
+      <description>『バン！バン！バンディッツ Nintendo Switch 2 Edition』は、フランス語、ドイツ語、中南米スペイン語、ブラジルポルトガル語に新たに対応。価格は6930円[税込]で、アップグレードパスは550円[税込]。</description>
+    </item>
     <item>
       <title>『ドラクエモンスターズ4』カレキの国から始まる序盤の冒険を解説。スカウトQやお見合い、共闘に闘技場など冒険が楽しくなる要素もたっぷりの最新作、発売迫る！【ドラゴンクエストモンスターズ４　枯れ木の国のビアンカ・フローラ】</title>
       <link>https://www.famitsu.com/article/202611/93313</link>
@@ -350,13 +357,6 @@
       <description>SuperGroupiesより、『メタファー：リファンタジオ』コラボデザインの懐中時計とAirPods Pro 2 ケースが登場した。</description>
     </item>
     <item>
-      <title>『ゼルダの伝説 時のオカリナ』リメイク版が発売4日間で520万本を販売。Switch2ソフトの初動4日間の販売本数として過去最高に</title>
-      <link>https://www.famitsu.com/article/202611/93721</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93721</guid>
-      <pubDate>Wed, 11 Nov 2026 06:54:00 GMT</pubDate>
-      <description>Nintendo Switch 2向けリメイク版『ゼルダの伝説 時のオカリナ』が発売後4日間で520万本を販売した。</description>
-    </item>
-    <item>
       <title>『英雄伝説 界の軌跡』完結編が2027年9月期に発売決定。新規タイトルの制作や移植タイトルの展開も予定【日本ファルコム決算】</title>
       <link>https://www.famitsu.com/article/202611/93715</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93715</guid>
@@ -588,18 +588,18 @@
       <description>危険人物たちと交流しながら遊園地からの脱出を目指すホラーアドベンチャー『1999トコヨビル』がPC（Steam）向けに2026年11月10日に発売された。</description>
     </item>
     <item>
-      <title>『メダロット クラシックス プラス』Steam版が12月に発売。シリーズナンバリング『1』～『5』と『ナビ』『G』『弐CORE』の合計8作品を収録</title>
-      <link>https://www.famitsu.com/article/202611/93576</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93576</guid>
-      <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
-      <description>イマジニアは、『メダロット クラシックス プラス カブトVer.』『メダロット クラシックス プラス クワガタVer.』のSteam版を2026年12月に発売。</description>
-    </item>
-    <item>
       <title>【アニメジョジョ7部】『スティール・ボール・ラン』スタンドに焦点を当てた最新映像が公開。次の能力は……？ 新規カットも登場</title>
       <link>https://www.famitsu.com/article/202611/93577</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93577</guid>
       <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
       <description>Netflixにて独占先行配信中のアニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』に登場するスタンドをピックアップした特別PVが公開。</description>
+    </item>
+    <item>
+      <title>『メダロット クラシックス プラス』Steam版が12月に発売。シリーズナンバリング『1』～『5』と『ナビ』『G』『弐CORE』の合計8作品を収録</title>
+      <link>https://www.famitsu.com/article/202611/93576</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93576</guid>
+      <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
+      <description>イマジニアは、『メダロット クラシックス プラス カブトVer.』『メダロット クラシックス プラス クワガタVer.』のSteam版を2026年12月に発売。</description>
     </item>
     <item>
       <title>『ピクミン』コカ・コーラ2本を買うとぷっくりシール（全4種）がひとつもらえる。ファミマのキャンペーンが本日（11/10）より開始</title>
@@ -672,6 +672,13 @@
       <description>『Bel&apos;s Fanfare』のSteamストアページが公開中。本作は、『ゼルダの伝説』や『アンダーテール』、『千と千尋の神隠し』などにインスパイアされたアクションRPG。2027年後半にSteamや家庭用ゲーム機向けにリリース予定。</description>
     </item>
     <item>
+      <title>『Rasterfall』すべてのピクセルに物理演算・化学反応が働くサバイバルクラフト。最大4人で遊べるオープンβテストが11月23日まで開催</title>
+      <link>https://www.famitsu.com/article/202611/93506</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93506</guid>
+      <pubDate>Mon, 09 Nov 2026 08:20:00 GMT</pubDate>
+      <description>PC（Steam）向けソフト『Rasterfall』のオープンβテストが2026年11月23日まで開催。全ピクセルに物理演算や化学反応が適用される世界で、物質の合成や設備の自動化が楽しめる。最大4人での協力プレイも可能。</description>
+    </item>
+    <item>
       <title>『ブルアカ』「一日一惡」ワッペンを忍ばせたアルのアウターが登場。ムツキのバッグ、リオやトキの腕時計、ヒナのアウターとともに予約開始</title>
       <link>https://www.famitsu.com/article/202611/93501</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93501</guid>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93476</guid>
       <pubDate>Mon, 09 Nov 2026 05:50:00 GMT</pubDate>
       <description>PC（Steam）向け新作インクリメンタルゲーム『TAKARABAKO ～宝箱クラッシャー～』のストアページが公開。本作は、剣と魔法の世界の裏通りにある小さな道具屋を舞台に、宝箱を殴って開け、中から出てきた品物を売って店を大きくしていく経営シミュレーションだ。</description>
-    </item>
-    <item>
-      <title>『魔物と紙幣』魔物を売りさばいて裏社会で成り上がるシミュレーションSteamストアページ公開。血統や個体値を見極め、突然変異や特殊配合で希少な個体を生み出す</title>
-      <link>https://www.famitsu.com/article/202611/93468</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93468</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:00 GMT</pubDate>
-      <description>『魔物と紙幣 / Monsters &amp; Banknotes』のストアページが公開された。犯罪組織がしのぎを削る街で、魔物の繁殖や売買を通じ、商売を広げていくシミュレーション。魔物を闘技場で戦わせ、優勝の肩書きを得れば売値も上がる。</description>
     </item>
   </channel>
 </rss>
