@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 06:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 07:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『ペルソナ5: The Phantom X』「駿・生命欲の暴走」「星輝・生命欲の暴走」のグッズがアトラスDショップで予約開始</title>
+      <link>https://www.famitsu.com/article/202611/93825</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93825</guid>
+      <pubDate>Thu, 12 Nov 2026 07:00:00 GMT</pubDate>
+      <description>『ペルソナ5: The Phantom X』のグッズは、“アクリルスタンド”“アクリルスライドキーホルダー”“スクエア缶バッジ2種セット”の3種類。価格は1210円[税込]から1540円[税込]。</description>
+    </item>
     <item>
       <title>『メタファー：リファンタジオ』Switch2版が本日発売。新価格3990円で登場、副島成記氏の記念イラストや主人公陣営トレーラーも公開</title>
       <link>https://www.famitsu.com/article/202611/93814</link>
@@ -350,11 +357,18 @@
       <description>『ENDER LILIES』『ENDER MAGNOLIA』の公式ライセンスグッズがINFOLENS GEEK SHOPで取り扱い開始。東京ゲームショウ2026の販売アイテムに加え、刺繍入りバックプリントTシャツなど第2弾の新入荷商品も登場。</description>
     </item>
     <item>
-      <title>『凝視男』日本のコンビニを舞台にしたホラーゲームが本日（11/10）Steamで配信開始。店の外に現れる謎の男、目を離すと少しずつ近づいてくる恐怖</title>
-      <link>https://www.famitsu.com/article/202611/93633</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93633</guid>
-      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
-      <description></description>
+      <title>新作スマホゲー『ドラクエRPG 魔界樹と導かれし島』2027年にリリース。クローズドβテストが2026年12月に開催＆募集開始</title>
+      <link>https://www.famitsu.com/article/202611/93592</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93592</guid>
+      <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
+      <description>『ドラゴンクエストRPG　魔界樹と導かれし島』のアナウンストレーラーが公開。2027年に配信予定。2026年12月からはじまるクローズドβテストの応募も開始された。</description>
+    </item>
+    <item>
+      <title>ネットミーム「ヒョーゴスラビア」本気のRPG化。「全セリフ神戸弁に切替可能」な兵庫県ファンタジー『ヒョーゴスラビア興亡記』11月20日発売</title>
+      <link>https://www.famitsu.com/article/202611/93628</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93628</guid>
+      <pubDate>Tue, 10 Nov 2026 10:46:00 GMT</pubDate>
+      <description>兵庫県を五国からなる連邦国家に見立てたRPG『ヒョーゴスラビア興亡記』が、iPhone・Android向けに11月20日に発売。Steam版は12月10日発売予定。ネットミーム「ヒョーゴスラビア」から着想を得ており、全セリフを神戸弁に切り替えられる「セッツ語モード」を搭載する。回復アイテムはイカナゴのくぎ煮やそばめしなど、兵庫のご当地グルメ。</description>
     </item>
     <item>
       <title>『アンナチュラル』『MIU404』『SPEC』『チェンソーマン』などから影響を受けたクトゥルフ神話TRPG用シナリオ『交差検証捜査隊（교차검증수사대）』が話題。2027年2月に日本語翻訳版を公開</title>
@@ -434,6 +448,13 @@
       <description></description>
     </item>
     <item>
+      <title>『1999トコヨビル』危険人物ばかりの遊園地から脱出を目指すホラーアドベンチャー。会話パートでは即DEAD ENDのリスクが【本日発売】</title>
+      <link>https://www.famitsu.com/article/202611/93483</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93483</guid>
+      <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
+      <description>危険人物たちと交流しながら遊園地からの脱出を目指すホラーアドベンチャー『1999トコヨビル』がPC（Steam）向けに2026年11月10日に発売された。</description>
+    </item>
+    <item>
       <title>『メダロット クラシックス プラス』Steam版が12月に発売。シリーズナンバリング『1』～『5』と『ナビ』『G』『弐CORE』の合計8作品を収録</title>
       <link>https://www.famitsu.com/article/202611/93576</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93576</guid>
@@ -446,13 +467,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93577</guid>
       <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
       <description>Netflixにて独占先行配信中のアニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』に登場するスタンドをピックアップした特別PVが公開。</description>
-    </item>
-    <item>
-      <title>『1999トコヨビル』危険人物ばかりの遊園地から脱出を目指すホラーアドベンチャー。会話パートでは即DEAD ENDのリスクが【本日発売】</title>
-      <link>https://www.famitsu.com/article/202611/93483</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93483</guid>
-      <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
-      <description>危険人物たちと交流しながら遊園地からの脱出を目指すホラーアドベンチャー『1999トコヨビル』がPC（Steam）向けに2026年11月10日に発売された。</description>
     </item>
     <item>
       <title>『ピクミン』コカ・コーラ2本を買うとぷっくりシール（全4種）がひとつもらえる。ファミマのキャンペーンが本日（11/10）より開始</title>
@@ -691,20 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93353</guid>
       <pubDate>Sun, 08 Nov 2026 06:00:00 GMT</pubDate>
       <description>2026年11月29日、渋谷サクラステージ“404 Not Found”にて、yospの吉田修平氏とSkeleton Crew Studioの村上雅彦氏がホストを務める“吉Pラジオ・吉Pナイト”が開催。インディーゲームクリエイターのyona氏と講談社ゲームラボ 総合チーフの片山裕貴氏をゲストに招き、個人制作の歩みと、編集者がクリエイターに伴走する講談社のゲームづくりをテーマにトークを行う。</description>
-    </item>
-    <item>
-      <title>『Chill with You : Lo-Fi Story』サトネとの1年後を描く無料大型アプデが11月25日配信。まったりすごす新ステータス“マイペース”などを収録したDLCも発表</title>
-      <link>https://www.famitsu.com/article/202611/93409</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93409</guid>
-      <pubDate>Sun, 08 Nov 2026 03:50:00 GMT</pubDate>
-      <description></description>
-    </item>
-    <item>
-      <title>『ドラクエ』ファミコンカセット風名刺ケースが登場。冒険を彩る楽曲やレベルアップ音が鳴り響くボタン付き。『I』～『IV』の計4種類</title>
-      <link>https://www.famitsu.com/article/202611/93406</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93406</guid>
-      <pubDate>Sun, 08 Nov 2026 02:28:00 GMT</pubDate>
-      <description>『ドラゴンクエスト』シリーズのファミコンカセットを再現した名刺ケースが登場した。スクウェア・エニックス e-STOREで予約受付中。</description>
     </item>
   </channel>
 </rss>
