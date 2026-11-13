@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 07:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『DARK MACHINE THE GAME』最大7対7のメカアクションシューティング。テクニカルβテストが12月18日より開催</title>
+      <link>https://www.famitsu.com/article/202611/93931</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93931</guid>
+      <pubDate>Fri, 13 Nov 2026 07:00:00 GMT</pubDate>
+      <description>PC（Steam）向けメカアクションシューティング『DARK MACHINE THE GAME』のテクニカルβテストが2026年12月18日より開催決定。テスト期間中に1試合以上プレイすると、正式リリース後に使用できるデカールと称号がプレゼントされる。</description>
+    </item>
     <item>
       <title>『進撃の巨人』エレン、ジャン、ハンジ、リヴァイの額縁風指輪が登場。スーツ姿の描き下ろしイラストを使用</title>
       <link>https://www.famitsu.com/article/202611/93949</link>
@@ -357,6 +364,20 @@
       <description>Nintendo Switch 2パッケージ版『Stray』が2026年11月12日に発売された。</description>
     </item>
     <item>
+      <title>『パラソーシャル』Switch2版が本日（11/12）発売。配信者をテーマにしたチラズアートのホラー作品。新規エンディングやマスコット集めの要素が追加</title>
+      <link>https://www.famitsu.com/article/202611/93641</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93641</guid>
+      <pubDate>Wed, 11 Nov 2026 15:00:00 GMT</pubDate>
+      <description>『パラソーシャル』Nintendo Switch 2版が本日2026年11月12日に発売。チラズアートが2023年にSteamでリリースした、ライブ配信者を題材にしたホラーゲーム。</description>
+    </item>
+    <item>
+      <title>【アケアカ/アケアカ2】『ショットライダー』が11月12日に配信。バイク乗りを操作し、敵ライダーを蹴散らしながらゴールを目指すレースゲーム</title>
+      <link>https://www.famitsu.com/article/202611/93764</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93764</guid>
+      <pubDate>Wed, 11 Nov 2026 12:30:00 GMT</pubDate>
+      <description>アーケードアーカイブスおよびアーケードアーカイブス2向けに『ショットライダー』が2026年11月12日に配信される。</description>
+    </item>
+    <item>
       <title>【スクエニ決算】2027年3月期中間決算は営業利益42.2％増と大幅伸長。『FF7 リバース』マルチ展開やSwitch2向けカタログ好調で通期上方修正</title>
       <link>https://www.famitsu.com/article/202611/93759</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93759</guid>
@@ -684,27 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93594</guid>
       <pubDate>Tue, 10 Nov 2026 05:10:00 GMT</pubDate>
       <description>『トリッカル・もちもちほっぺ大作戦』のローネのアサイド情報が公開された。</description>
-    </item>
-    <item>
-      <title>『脱毛サロンシミュレーター』医療用レーザー、ブラックホールも使ってムダ毛を取り除く。金稼ぎのために闇に堕ちるダークサイドルートも【本日配信】</title>
-      <link>https://www.famitsu.com/article/202611/93588</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93588</guid>
-      <pubDate>Tue, 10 Nov 2026 04:44:00 GMT</pubDate>
-      <description>『脱毛サロンシミュレーター』が本日2026年11月10日にSteamでリリース。火炎放射器やブラックホールといった常識外れの施術道具や“デザイン植毛、悪党営業モードといった要素が追加された。</description>
-    </item>
-    <item>
-      <title>『Toastie』iPhone Duoが“世界一高級なトースター”に。パンと具材を選び、折り畳みスマホをパタンと閉じて焼くホットサンドゲーム</title>
-      <link>https://www.famitsu.com/article/202611/92998</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/92998</guid>
-      <pubDate>Tue, 10 Nov 2026 03:31:00 GMT</pubDate>
-      <description></description>
-    </item>
-    <item>
-      <title>『1999トコヨビル』危険人物ばかりの遊園地から脱出を目指すホラーアドベンチャー。会話パートでは即DEAD ENDのリスクが【本日発売】</title>
-      <link>https://www.famitsu.com/article/202611/93483</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93483</guid>
-      <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
-      <description>危険人物たちと交流しながら遊園地からの脱出を目指すホラーアドベンチャー『1999トコヨビル』がPC（Steam）向けに2026年11月10日に発売された。</description>
     </item>
   </channel>
 </rss>
