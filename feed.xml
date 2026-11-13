@@ -5,7 +5,28 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 02:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:10:00 GMT</lastBuildDate>
+    <item>
+      <title>【テニプリ】『テニスの王子様 ドキドキサバイバル』リマスター版DLC“財前光”が配信開始！ 『ドキサバ』20％オフのセールも実施</title>
+      <link>https://www.famitsu.com/article/202611/93893</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93893</guid>
+      <pubDate>Fri, 13 Nov 2026 03:10:00 GMT</pubDate>
+      <description>2026年11月13日、『テニスの王子様 ぎゅ～っと！ ドキドキサバイバル Tie break ♡ game』にて第2弾有償ダウンロードコンテンツ（以下、有償DLC）の追加攻略キャラクター・財前光が配信開始。</description>
+    </item>
+    <item>
+      <title>『トリッカル』メイド服スピッキーがまもなく登場？ ネルではなく、今度はクレープになりすます</title>
+      <link>https://www.famitsu.com/article/202611/93926</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93926</guid>
+      <pubDate>Fri, 13 Nov 2026 03:08:00 GMT</pubDate>
+      <description>『トリッカル・もちもちほっペ大作戦』の新使徒のシルエットが公開。メイド服を身に着けたスピッキーの姿がうっすらと確認できる。</description>
+    </item>
+    <item>
+      <title>『ソニック』新作短編アニメがYouTubeにて無料配信開始。シリーズ35周年を記念したアニメの日本語音声版</title>
+      <link>https://www.famitsu.com/article/202611/93923</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93923</guid>
+      <pubDate>Fri, 13 Nov 2026 03:00:00 GMT</pubDate>
+      <description>ソニック・ザ・ヘッジホッグのYouTube公式チャンネルにて、『Sonic The Hedgehog: Memories and Beyond ～記憶の未来(さき)へ～』の無料公開が開始された。</description>
+    </item>
     <item>
       <title>小説『星のカービィ』最新巻“封印図書館のナゾを追え！の巻”が12月9日発売。行方不明事件と記憶喪失事件の謎を追ってカービィたちが地下書庫に挑む</title>
       <link>https://www.famitsu.com/article/202611/93914</link>
@@ -336,27 +357,6 @@
       <description>『人形の影：ピヨリタの物語』の公式トレーラー第1弾が公開。発売時期は2027年後半予定で、PC（Steam）および家庭用ゲーム機向けに展開される。『魔女の泉』の世界観をもとにしたKIWIWALKS初のアクションRPG。</description>
     </item>
     <item>
-      <title>『呪術廻戦』とエナドリ“ゾーンエナジー”がコラボ。虎杖悠仁と伏黒恵のラベル缶や、乙骨憂太や日車寛見らの400mlボトル缶が12月1日発売</title>
-      <link>https://www.famitsu.com/article/202611/93748</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93748</guid>
-      <pubDate>Wed, 11 Nov 2026 09:47:00 GMT</pubDate>
-      <description>アニメ『呪術廻戦』のコラボラベル缶“ZONe ENERGY（ゾーンエナジー）”が2026年12月1日より発売される。</description>
-    </item>
-    <item>
-      <title>『ファンタジスタ明日翔』Switchパッケージ版が2027年2月25日に発売。レプリカユニフォームなどが付属する限定版も登場</title>
-      <link>https://www.famitsu.com/article/202611/93728</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93728</guid>
-      <pubDate>Wed, 11 Nov 2026 09:30:00 GMT</pubDate>
-      <description>『ファンタジスタ明日翔』Switchパッケージ版が2027年2月25日（木）に発売。現在予約受付中。レプリカユニフォームやビジュアルブックなどの特典が同梱された限定版も発売される。</description>
-    </item>
-    <item>
-      <title>【アケアカ2】『レゾン』が11月12日より配信。VAWSを搭載した戦闘機で侵略者との戦いに挑むアルュメのシューティング</title>
-      <link>https://www.famitsu.com/article/202611/93716</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93716</guid>
-      <pubDate>Wed, 11 Nov 2026 09:00:00 GMT</pubDate>
-      <description>ハムスターは、2026年11月12日より『アーケードアーカイブス2 レゾン』をNintendo Switch 2、プレイステーション5（PS5）、XBOX Series X|S、Windows PC（XBOX Play Anywhere対応）向けに配信する。</description>
-    </item>
-    <item>
       <title>『星織ユメミライ Converted Edition』等身大の恋愛を丁寧に描いた純愛アドベンチャーがSwitchで発売。Vita版追加イベントCGとエピソードも収録</title>
       <link>https://www.famitsu.com/article/202611/93702</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93702</guid>
@@ -623,6 +623,13 @@
       <description></description>
     </item>
     <item>
+      <title>『1999トコヨビル』危険人物ばかりの遊園地から脱出を目指すホラーアドベンチャー。会話パートでは即DEAD ENDのリスクが【本日発売】</title>
+      <link>https://www.famitsu.com/article/202611/93483</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93483</guid>
+      <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
+      <description>危険人物たちと交流しながら遊園地からの脱出を目指すホラーアドベンチャー『1999トコヨビル』がPC（Steam）向けに2026年11月10日に発売された。</description>
+    </item>
+    <item>
       <title>『メダロット クラシックス プラス』Steam版が12月に発売。シリーズナンバリング『1』～『5』と『ナビ』『G』『弐CORE』の合計8作品を収録</title>
       <link>https://www.famitsu.com/article/202611/93576</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93576</guid>
@@ -635,13 +642,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93577</guid>
       <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
       <description>Netflixにて独占先行配信中のアニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』に登場するスタンドをピックアップした特別PVが公開。</description>
-    </item>
-    <item>
-      <title>『1999トコヨビル』危険人物ばかりの遊園地から脱出を目指すホラーアドベンチャー。会話パートでは即DEAD ENDのリスクが【本日発売】</title>
-      <link>https://www.famitsu.com/article/202611/93483</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93483</guid>
-      <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
-      <description>危険人物たちと交流しながら遊園地からの脱出を目指すホラーアドベンチャー『1999トコヨビル』がPC（Steam）向けに2026年11月10日に発売された。</description>
     </item>
     <item>
       <title>『ピクミン』コカ・コーラ2本を買うとぷっくりシール（全4種）がひとつもらえる。ファミマのキャンペーンが本日（11/10）より開始</title>
@@ -686,25 +686,25 @@
       <description>YouTubeのBEMANI CHANNELにて、『ポップンミュージック』の撫子ロックこと『凛として咲く花の如く』（紅色リトマス）の楽曲動画が公開。“アミューズメントエキスポ 2026”にて発表された、人気BEMANI楽曲動画公開する企画の一環として。</description>
     </item>
     <item>
-      <title>『ゼルダの伝説』にインスパイアされたアクションRPG『Bel&apos;s Fanfare』がPCや家庭用ゲーム機向けに2027年発売予定。クラファンで2億円以上を集めた注目作</title>
-      <link>https://www.famitsu.com/article/202611/93504</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93504</guid>
-      <pubDate>Mon, 09 Nov 2026 08:30:00 GMT</pubDate>
-      <description>『Bel&apos;s Fanfare』のSteamストアページが公開中。本作は、『ゼルダの伝説』や『アンダーテール』、『千と千尋の神隠し』などにインスパイアされたアクションRPG。2027年後半にSteamや家庭用ゲーム機向けにリリース予定。</description>
+      <title>『キン肉マン マッスルタッグマッチ 令和復活編』スマホで本日配信。懐かしの対戦アクションが50人の超人参戦で復活</title>
+      <link>https://www.famitsu.com/article/202611/93523</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93523</guid>
+      <pubDate>Mon, 09 Nov 2026 10:00:00 GMT</pubDate>
+      <description>スマートフォン向け新作アプリ『キン肉マン マッスルタッグマッチ 令和復活編』が2026年11月9日より配信開始。価格は1000円［税込］。</description>
     </item>
     <item>
-      <title>『Rasterfall』すべてのピクセルに物理演算・化学反応が働くサバイバルクラフト。最大4人で遊べるオープンβテストが11月23日まで開催</title>
-      <link>https://www.famitsu.com/article/202611/93506</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93506</guid>
-      <pubDate>Mon, 09 Nov 2026 08:20:00 GMT</pubDate>
-      <description>PC（Steam）向けソフト『Rasterfall』のオープンβテストが2026年11月23日まで開催。全ピクセルに物理演算や化学反応が適用される世界で、物質の合成や設備の自動化が楽しめる。最大4人での協力プレイも可能。</description>
+      <title>『カリアのアトリエ』新キャラや新PVなど最新情報を公開する番組が本日（11/9）21時より放送。Switch2版の実機プレイも20分超えでお届け</title>
+      <link>https://www.famitsu.com/article/202611/93530</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93530</guid>
+      <pubDate>Mon, 09 Nov 2026 09:59:00 GMT</pubDate>
+      <description>『カリアのアトリエ ～夜の王国と追憶の道標～』の最新情報やSwitch2版の実機プレイが披露される特別番組が2026年11月9日21時より放送される。</description>
     </item>
     <item>
-      <title>『ブルアカ』「一日一惡」ワッペンを忍ばせたアルのアウターが登場。ムツキのバッグ、リオやトキの腕時計、ヒナのアウターとともに予約開始</title>
-      <link>https://www.famitsu.com/article/202611/93501</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93501</guid>
-      <pubDate>Mon, 09 Nov 2026 07:03:00 GMT</pubDate>
-      <description>SuperGroupiesより、『ブルーアーカイブ -Blue Archive-』の新商品が登場。アルとヒナをイメージしたアウターなどがラインアップしている。</description>
+      <title>舞台『ペルソナ5』全4作品の無料公開が決定。1作目と2作目は11月14日にYouTubeでプレミア公開。1週間限定でアーカイブも用意</title>
+      <link>https://www.famitsu.com/article/202611/93522</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93522</guid>
+      <pubDate>Mon, 09 Nov 2026 09:14:00 GMT</pubDate>
+      <description>『ペルソナ5』を舞台化した『PERSONA5 the Stage』全4作品がマーベラス公式YouTubeチャンネルにて期間限定で無料公開される。</description>
     </item>
   </channel>
 </rss>
