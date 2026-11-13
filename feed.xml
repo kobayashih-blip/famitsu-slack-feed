@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:22:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:30:00 GMT</lastBuildDate>
+    <item>
+      <title>『ラグナロク：ニューワールド』2027年上半期に配信決定。ガンホーが手掛けるシリーズ初のオープンワールドMMORPG</title>
+      <link>https://www.famitsu.com/article/202611/93966</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93966</guid>
+      <pubDate>Fri, 13 Nov 2026 09:30:00 GMT</pubDate>
+      <description>スマートフォン・PC向けMMORPG『ラグナロク：ニューワールド』の日本国内サービスが2027年上半期に開始決定。『ラグナロクオンライン』を再構築したシリーズ初のオープンワールドMMORPG。</description>
+    </item>
     <item>
       <title>『ガルパン オールスター・タンク・カーニバル』ファミ通DXパックが本日（11/13）より予約開始。ダージリンのカップ＆ソーサーやランチョンマットなどが付属</title>
       <link>https://www.famitsu.com/article/202611/93969</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93617</guid>
       <pubDate>Tue, 10 Nov 2026 08:00:00 GMT</pubDate>
       <description>高湿度・激重感情RPG『勇者パーティはぜんめつしました。』がSteamにてリリース。ダンジョンの最奥で壊滅した勇者パーティのひとりを選んで脱出を目指すターン制カードバトル。</description>
-    </item>
-    <item>
-      <title>『ロックマン: デュアル オーバーライド』ボスキャラ応募の優勝者がTwitchCon 2026で発表。最優秀作品はゲーム内に登場</title>
-      <link>https://www.famitsu.com/article/202611/93603</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93603</guid>
-      <pubDate>Tue, 10 Nov 2026 06:39:00 GMT</pubDate>
-      <description>『ロックマン: デュアル オーバーライド』ボスキャラクターデザインコンテスト優勝者が、2026年11月16日開催のTwitchCon 2026で発表。</description>
     </item>
   </channel>
 </rss>
