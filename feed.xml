@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 12:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『STRANGER THAN HEAVEN』広島・呉を舞台とする新PVが公開。極道として成り上がる大東真（城田優）の姿を描く。ディーン・フジオカ、藤原聡ら演じる登場人物も紹介</title>
+      <link>https://www.famitsu.com/article/202611/94007</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94007</guid>
+      <pubDate>Fri, 13 Nov 2026 14:00:00 GMT</pubDate>
+      <description>2026年11月13日、セガは新作『ストレンジャーザンヘヴン』の広島・呉を舞台とするストーリートレーラー第2弾を公開。極道の世界へと足を踏み入れ、組で成り上がろうとする主人公・大東真の姿が描かれる。</description>
+    </item>
     <item>
       <title>『あたしンちNEXT』新作エピソードが2027年1月1日より配信決定。新たなキービジュアルも解禁。監督はアニメ『ヤニねこ』を手掛けた木村拓氏</title>
       <link>https://www.famitsu.com/article/202611/94004</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93633</guid>
       <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
       <description></description>
-    </item>
-    <item>
-      <title>新作スマホゲー『ドラクエRPG 魔界樹と導かれし島』2027年にリリース。クローズドβテストが2026年12月に開催＆募集開始</title>
-      <link>https://www.famitsu.com/article/202611/93592</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93592</guid>
-      <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
-      <description>『ドラゴンクエストRPG　魔界樹と導かれし島』のアナウンストレーラーが公開。2027年に配信予定。2026年12月からはじまるクローズドβテストの応募も開始された。</description>
     </item>
   </channel>
 </rss>
