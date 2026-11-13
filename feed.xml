@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 03:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:45:00 GMT</lastBuildDate>
+    <item>
+      <title>【スレスパ2】過去最大規模のベータパッチが配信。新キャラクター“フール”やふたつの新モードが追加され、さらに混沌極める</title>
+      <link>https://www.famitsu.com/article/202611/93928</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93928</guid>
+      <pubDate>Fri, 13 Nov 2026 03:45:00 GMT</pubDate>
+      <description>『Slay the Spire 2』にて、新キャラクター“フール（The Fool）”が追加される大型アップデート“v0.113.0”が配信された。</description>
+    </item>
     <item>
       <title>【テニプリ】『テニスの王子様 ドキドキサバイバル』リマスター版DLC“財前光”が配信開始！ 『ドキサバ』20％オフのセールも実施</title>
       <link>https://www.famitsu.com/article/202611/93893</link>
@@ -350,13 +357,6 @@
       <description>『コンソールアーカイブス 織田信長伝』が2026年11月12日より配信。対応機種はSwitch2、PS5。史実通りの戦闘シーンはもちろん、作戦の選択や戦闘結果などで、史実とは異なる展開に分岐するストーリーを通じて信長の生涯を描く光栄のシミュレーション。</description>
     </item>
     <item>
-      <title>『魔女の泉』開発スタジオの新作『人形の影』が2027年後半発売予定。巨大ボスの魔法を跳ね返し、武器を切り替えながら戦うアクションRPG</title>
-      <link>https://www.famitsu.com/article/202611/93746</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93746</guid>
-      <pubDate>Wed, 11 Nov 2026 09:59:00 GMT</pubDate>
-      <description>『人形の影：ピヨリタの物語』の公式トレーラー第1弾が公開。発売時期は2027年後半予定で、PC（Steam）および家庭用ゲーム機向けに展開される。『魔女の泉』の世界観をもとにしたKIWIWALKS初のアクションRPG。</description>
-    </item>
-    <item>
       <title>『星織ユメミライ Converted Edition』等身大の恋愛を丁寧に描いた純愛アドベンチャーがSwitchで発売。Vita版追加イベントCGとエピソードも収録</title>
       <link>https://www.famitsu.com/article/202611/93702</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93702</guid>
@@ -630,18 +630,18 @@
       <description>危険人物たちと交流しながら遊園地からの脱出を目指すホラーアドベンチャー『1999トコヨビル』がPC（Steam）向けに2026年11月10日に発売された。</description>
     </item>
     <item>
-      <title>『メダロット クラシックス プラス』Steam版が12月に発売。シリーズナンバリング『1』～『5』と『ナビ』『G』『弐CORE』の合計8作品を収録</title>
-      <link>https://www.famitsu.com/article/202611/93576</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93576</guid>
-      <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
-      <description>イマジニアは、『メダロット クラシックス プラス カブトVer.』『メダロット クラシックス プラス クワガタVer.』のSteam版を2026年12月に発売。</description>
-    </item>
-    <item>
       <title>【アニメジョジョ7部】『スティール・ボール・ラン』スタンドに焦点を当てた最新映像が公開。次の能力は……？ 新規カットも登場</title>
       <link>https://www.famitsu.com/article/202611/93577</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93577</guid>
       <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
       <description>Netflixにて独占先行配信中のアニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』に登場するスタンドをピックアップした特別PVが公開。</description>
+    </item>
+    <item>
+      <title>『メダロット クラシックス プラス』Steam版が12月に発売。シリーズナンバリング『1』～『5』と『ナビ』『G』『弐CORE』の合計8作品を収録</title>
+      <link>https://www.famitsu.com/article/202611/93576</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93576</guid>
+      <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
+      <description>イマジニアは、『メダロット クラシックス プラス カブトVer.』『メダロット クラシックス プラス クワガタVer.』のSteam版を2026年12月に発売。</description>
     </item>
     <item>
       <title>『ピクミン』コカ・コーラ2本を買うとぷっくりシール（全4種）がひとつもらえる。ファミマのキャンペーンが本日（11/10）より開始</title>
