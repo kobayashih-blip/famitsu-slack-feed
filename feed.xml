@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 01:00:00 GMT</lastBuildDate>
+    <item>
+      <title>長編アニメ映画『オロチ -Seventh Echoes-』パイロットフィルムがYouTubeで無料公開。原案・監督は『ファンタジックチルドレン』なかむらたかし</title>
+      <link>https://www.famitsu.com/article/202611/93864</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93864</guid>
+      <pubDate>Fri, 13 Nov 2026 01:00:00 GMT</pubDate>
+      <description>『オロチ -Seventh Echoes-』は、音の波動に支えられた国“ククルカン”を舞台に、千年前に死んだはずの厄災・オロチを呼び覚ました少年アグニを描く。主題歌は『Zankyo』で、歌はneNna。</description>
+    </item>
     <item>
       <title>『ピックアドベンチャー』言葉の通じない星で、異星語を読み解く言語解読パズル。2027年第2四半期に発売予定</title>
       <link>https://www.famitsu.com/article/202611/93876</link>
@@ -350,13 +357,6 @@
       <description>“横浜・みなとみらい Winter Holiday 2026 ～ドラゴンクエスト×ファイナルファンタジーが織りなす冬のファンタジー～”が2026年11月11日開幕。会期は2027年1月11日まで。スライムやチョコボをはじめとして世代を超えて愛されてきたキャラクターたちが、横浜・みなとみらいに集結。</description>
     </item>
     <item>
-      <title>サイバーエージェント、『呪術廻戦』『チェンソーマン』制作のMAPPAと業務提携。親会社MHDへの出資も発表</title>
-      <link>https://www.famitsu.com/article/202611/93725</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93725</guid>
-      <pubDate>Wed, 11 Nov 2026 07:06:00 GMT</pubDate>
-      <description>サイバーエージェントは2026年11月11日、『呪術廻戦』『チェンソーマン』などを手掛けるアニメ制作会社MAPPAとの業務提携を発表。MAPPAの親会社MHDにも出資し、アニメ制作からゲーム化、配信、グッズ、イベントまで幅広い領域での連携を検討する。</description>
-    </item>
-    <item>
       <title>『メタファー』本を読む主人公をデザインした懐中時計、覚醒器を再現したAirPods Pro 2 ケースが登場。本日（11/11）予約スタート</title>
       <link>https://www.famitsu.com/article/202611/93705</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93705</guid>
@@ -602,18 +602,18 @@
       <description>危険人物たちと交流しながら遊園地からの脱出を目指すホラーアドベンチャー『1999トコヨビル』がPC（Steam）向けに2026年11月10日に発売された。</description>
     </item>
     <item>
-      <title>【アニメジョジョ7部】『スティール・ボール・ラン』スタンドに焦点を当てた最新映像が公開。次の能力は……？ 新規カットも登場</title>
-      <link>https://www.famitsu.com/article/202611/93577</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93577</guid>
-      <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
-      <description>Netflixにて独占先行配信中のアニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』に登場するスタンドをピックアップした特別PVが公開。</description>
-    </item>
-    <item>
       <title>『メダロット クラシックス プラス』Steam版が12月に発売。シリーズナンバリング『1』～『5』と『ナビ』『G』『弐CORE』の合計8作品を収録</title>
       <link>https://www.famitsu.com/article/202611/93576</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93576</guid>
       <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
       <description>イマジニアは、『メダロット クラシックス プラス カブトVer.』『メダロット クラシックス プラス クワガタVer.』のSteam版を2026年12月に発売。</description>
+    </item>
+    <item>
+      <title>【アニメジョジョ7部】『スティール・ボール・ラン』スタンドに焦点を当てた最新映像が公開。次の能力は……？ 新規カットも登場</title>
+      <link>https://www.famitsu.com/article/202611/93577</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93577</guid>
+      <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
+      <description>Netflixにて独占先行配信中のアニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』に登場するスタンドをピックアップした特別PVが公開。</description>
     </item>
     <item>
       <title>『ピクミン』コカ・コーラ2本を買うとぷっくりシール（全4種）がひとつもらえる。ファミマのキャンペーンが本日（11/10）より開始</title>
