@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『モンハン』バンタン文化祭2026のコラボ企画が公開。カプコン協力のもと学生たちが考案した謎解きやコラボメニュー、Tシャツなどが登場</title>
+      <link>https://www.famitsu.com/article/202611/93045</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93045</guid>
+      <pubDate>Fri, 13 Nov 2026 10:00:00 GMT</pubDate>
+      <description>バンタン文化祭2026で実施される『モンスターハンター』シリーズとのコラボ企画が公開された。</description>
+    </item>
     <item>
       <title>『ラグナロク：ニューワールド』2027年上半期に配信決定。ガンホーが手掛けるシリーズ初のオープンワールドMMORPG</title>
       <link>https://www.famitsu.com/article/202611/93966</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93484</guid>
       <pubDate>Tue, 10 Nov 2026 09:00:00 GMT</pubDate>
       <description>集英社ゲームズが『NIGHTMARE OPERATOR』のパブリッシャーに決定。ティザートレーラーと新キービジュアルを公開し、主人公ミーシャ役を沢城みゆきさんが担当することも発表。</description>
-    </item>
-    <item>
-      <title>『勇者パーティはぜんめつしました。』壊滅したパーティの中から“ひとりだけ”を選んで救出する高湿度・激重感情カードバトルRPG。Steamにて本日（11/10）リリース</title>
-      <link>https://www.famitsu.com/article/202611/93617</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93617</guid>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 GMT</pubDate>
-      <description>高湿度・激重感情RPG『勇者パーティはぜんめつしました。』がSteamにてリリース。ダンジョンの最奥で壊滅した勇者パーティのひとりを選んで脱出を目指すターン制カードバトル。</description>
     </item>
   </channel>
 </rss>
