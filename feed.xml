@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:50:00 GMT</lastBuildDate>
+    <item>
+      <title>『進撃の巨人』エレン、ジャン、ハンジ、リヴァイの額縁風指輪が登場。スーツ姿の描き下ろしイラストを使用</title>
+      <link>https://www.famitsu.com/article/202611/93949</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93949</guid>
+      <pubDate>Fri, 13 Nov 2026 06:50:00 GMT</pubDate>
+      <description>アニメ『進撃の巨人』オリジナルグッズの予約が本日2026年11月13日より予約開始。スーツ姿でクールに座るエレン、ジャン、ハンジ、リヴァイの描き下ろしイラストを使用したポルトレリング、デスクマット、クリスタルプリントセットの全3アイテムがラインアップしている。</description>
+    </item>
     <item>
       <title>『Fable』あらゆる選択が旅路を作るオープンワールドアクションRPG、最新映像が公開。剣や弓、魔法を駆使したバトルシーンも</title>
       <link>https://www.famitsu.com/article/202611/93940</link>
@@ -350,20 +357,6 @@
       <description>Nintendo Switch 2パッケージ版『Stray』が2026年11月12日に発売された。</description>
     </item>
     <item>
-      <title>『パラソーシャル』Switch2版が本日（11/12）発売。配信者をテーマにしたチラズアートのホラー作品。新規エンディングやマスコット集めの要素が追加</title>
-      <link>https://www.famitsu.com/article/202611/93641</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93641</guid>
-      <pubDate>Wed, 11 Nov 2026 15:00:00 GMT</pubDate>
-      <description>『パラソーシャル』Nintendo Switch 2版が本日2026年11月12日に発売。チラズアートが2023年にSteamでリリースした、ライブ配信者を題材にしたホラーゲーム。</description>
-    </item>
-    <item>
-      <title>【アケアカ/アケアカ2】『ショットライダー』が11月12日に配信。バイク乗りを操作し、敵ライダーを蹴散らしながらゴールを目指すレースゲーム</title>
-      <link>https://www.famitsu.com/article/202611/93764</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93764</guid>
-      <pubDate>Wed, 11 Nov 2026 12:30:00 GMT</pubDate>
-      <description>アーケードアーカイブスおよびアーケードアーカイブス2向けに『ショットライダー』が2026年11月12日に配信される。</description>
-    </item>
-    <item>
       <title>【スクエニ決算】2027年3月期中間決算は営業利益42.2％増と大幅伸長。『FF7 リバース』マルチ展開やSwitch2向けカタログ好調で通期上方修正</title>
       <link>https://www.famitsu.com/article/202611/93759</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93759</guid>
@@ -705,6 +698,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/92998</guid>
       <pubDate>Tue, 10 Nov 2026 03:31:00 GMT</pubDate>
       <description></description>
+    </item>
+    <item>
+      <title>『1999トコヨビル』危険人物ばかりの遊園地から脱出を目指すホラーアドベンチャー。会話パートでは即DEAD ENDのリスクが【本日発売】</title>
+      <link>https://www.famitsu.com/article/202611/93483</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93483</guid>
+      <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
+      <description>危険人物たちと交流しながら遊園地からの脱出を目指すホラーアドベンチャー『1999トコヨビル』がPC（Steam）向けに2026年11月10日に発売された。</description>
     </item>
   </channel>
 </rss>
