@@ -5,14 +5,7 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 14:00:00 GMT</lastBuildDate>
-    <item>
-      <title>『STRANGER THAN HEAVEN』広島・呉を舞台とする新PVが公開。極道として成り上がる大東真（城田優）の姿を描く。ディーン・フジオカ、藤原聡ら演じる登場人物も紹介</title>
-      <link>https://www.famitsu.com/article/202611/94007</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94007</guid>
-      <pubDate>Fri, 13 Nov 2026 14:00:00 GMT</pubDate>
-      <description>2026年11月13日、セガは新作『ストレンジャーザンヘヴン』の広島・呉を舞台とするストーリートレーラー第2弾を公開。極道の世界へと足を踏み入れ、組で成り上がろうとする主人公・大東真の姿が描かれる。</description>
-    </item>
+    <lastBuildDate>Fri, 13 Nov 2026 12:50:00 GMT</lastBuildDate>
     <item>
       <title>『あたしンちNEXT』新作エピソードが2027年1月1日より配信決定。新たなキービジュアルも解禁。監督はアニメ『ヤニねこ』を手掛けた木村拓氏</title>
       <link>https://www.famitsu.com/article/202611/94004</link>
@@ -355,6 +348,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93825</guid>
       <pubDate>Thu, 12 Nov 2026 07:00:00 GMT</pubDate>
       <description>『ペルソナ5: The Phantom X』のグッズは、“アクリルスタンド”“アクリルスライドキーホルダー”“スクエア缶バッジ2種セット”の3種類。価格は1210円[税込]から1540円[税込]。</description>
+    </item>
+    <item>
+      <title>『メタファー：リファンタジオ』Switch2版が本日発売。新価格3990円で登場、副島成記氏の記念イラストや主人公陣営トレーラーも公開</title>
+      <link>https://www.famitsu.com/article/202611/93814</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93814</guid>
+      <pubDate>Thu, 12 Nov 2026 06:45:00 GMT</pubDate>
+      <description>『メタファー：リファンタジオ』Nintendo Switch 2版が2026年11月12日発売。新価格は3990円［税込］で、ほかのプラットフォームのダウンロード版も同日より価格改定。Switch 2版では携帯モード・テレビモードともに“パフォーマンス”、“平均的”、“グラフィック”の3種類から動作モードを選択できる。</description>
     </item>
     <item>
       <title>『カービィのエアライダー』カービィ＆ドラグーンが超合金に！ 磁石内蔵で乗り降り可能。LED搭載でブースター部分が発光するギミックも【予約開始】</title>
@@ -700,11 +700,11 @@
       <description></description>
     </item>
     <item>
-      <title>新作スマホゲー『ドラクエRPG 魔界樹と導かれし島』2027年にリリース。クローズドβテストが2026年12月に開催＆募集開始</title>
-      <link>https://www.famitsu.com/article/202611/93592</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93592</guid>
-      <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
-      <description>『ドラゴンクエストRPG　魔界樹と導かれし島』のアナウンストレーラーが公開。2027年に配信予定。2026年12月からはじまるクローズドβテストの応募も開始された。</description>
+      <title>ネットミーム「ヒョーゴスラビア」本気のRPG化。「全セリフ神戸弁に切替可能」な兵庫県ファンタジー『ヒョーゴスラビア興亡記』11月20日発売</title>
+      <link>https://www.famitsu.com/article/202611/93628</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93628</guid>
+      <pubDate>Tue, 10 Nov 2026 10:46:00 GMT</pubDate>
+      <description>兵庫県を五国からなる連邦国家に見立てたRPG『ヒョーゴスラビア興亡記』が、iPhone・Android向けに11月20日に発売。Steam版は12月10日発売予定。ネットミーム「ヒョーゴスラビア」から着想を得ており、全セリフを神戸弁に切り替えられる「セッツ語モード」を搭載する。回復アイテムはイカナゴのくぎ煮やそばめしなど、兵庫のご当地グルメ。</description>
     </item>
   </channel>
 </rss>
