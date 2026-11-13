@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 07:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『Void Reaver』10京通り以上のビルドを楽しめる弾幕ローグライクアクション。Steam版が先行リリース。今後、家庭用ゲーム機版も発売予定</title>
+      <link>https://www.famitsu.com/article/202611/93944</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93944</guid>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 GMT</pubDate>
+      <description>インベントリ管理ローグライクアクション『Void Reaver』のPC（Steam）版が先行リリースされた。今後はNintendo Switch 2、Nintendo Switch、PS5、PS4向けにも発売予定。</description>
+    </item>
     <item>
       <title>『ユーロトラックシミュレーター2』長距離バスが登場する新DLCが本日（11/13）配信。貨物ではなく旅客を乗せ、ヨーロッパの各地を回ろう</title>
       <link>https://www.famitsu.com/article/202611/93961</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93598</guid>
       <pubDate>Tue, 10 Nov 2026 06:16:00 GMT</pubDate>
       <description>『みんなでティア表!』がSteamで2026年11月12日発売。「カレーに入れるなら？」や「朝に食べたい順は？」といったお題に対して、ティア表（ランキング）を作成。ほかのプレイヤーがその並び順を予想する2～6人向けのオンラインパーティーゲーム。</description>
-    </item>
-    <item>
-      <title>戦国城下町作り、防衛・侵略ストラテジー『Jyoka -城下-』11月16日に発売決定。実在した73の城が登場、ゆくゆく目指すは天下統一</title>
-      <link>https://www.famitsu.com/article/202611/93589</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93589</guid>
-      <pubDate>Tue, 10 Nov 2026 05:51:00 GMT</pubDate>
-      <description>個人開発者Yutoによる戦国城下町作り+ストラテジー『Jyoka -城下-』がSteamで11月16日12:00に発売決定。価格は3850円[税込]で、発売日から2週間は2965円の割引価格。街作り、他国からの防衛、侵略の三段階で天下統一を目指す。ウィッシュリストは数日で約1万を集めた。</description>
     </item>
   </channel>
 </rss>
