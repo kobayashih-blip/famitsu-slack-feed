@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『スーパー戦隊』シリーズの主題歌コンプリートBOXが2027年1月20日に発売。『秘密戦隊ゴレンジャー』～『ナンバーワン戦隊ゴジュウジャー』まで、ボーナストラックを加えた全258曲を収録</title>
+      <link>https://www.famitsu.com/article/202611/93939</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93939</guid>
+      <pubDate>Sat, 14 Nov 2026 15:00:00 GMT</pubDate>
+      <description>『スーパー戦隊』シリーズの主題歌を収録したコンプリートBOX“スーパー戦隊シリーズ50周年記念主題歌BOX　INFINITE SONGS”が2027年1月20日に発売。『秘密戦隊ゴレンジャー』から『ナンバーワン戦隊ゴジュウジャー』までのOPとEDにボーナストラックを加えた全258曲が収録されている。</description>
+    </item>
     <item>
       <title>アニメ『Re:ゼロから始める異世界生活』5th seasonが製作決定。ウルトラティザービジュアルと原作者長月達平のコメントが到着</title>
       <link>https://www.famitsu.com/article/202611/94048</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93694</guid>
       <pubDate>Wed, 11 Nov 2026 04:53:00 GMT</pubDate>
       <description>『絶対音感チンアナゴ』がPC（Steam）にてリリース。メロディの音の高さに合わせて伸び縮みするチンアナゴの動きをヒントに音の高さを当てる音感クイズゲーム。問題をクリアするごとにさまざまな姿のチンアナゴが図鑑に登録されていくといった収集要素も楽しめる。</description>
-    </item>
-    <item>
-      <title>『ダンガンロンパ』200円。『AI: ソムニウム』『極限脱出』『シュタゲ』『428』スパチュンのアドベンチャー尽くしセール開催</title>
-      <link>https://www.famitsu.com/article/202611/93688</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93688</guid>
-      <pubDate>Wed, 11 Nov 2026 04:17:00 GMT</pubDate>
-      <description>スパチュンのSwitch、Steam向けセールが開始。『ダンガンロンパ』シリーズをはじめ、『超探偵事件簿 レインコード』や『終天教団』、『AI: ソムニウム』シリーズ、『極限脱出（ZERO ESCAPE）』シリーズ、『Ever17』『Never7』リマスター版、『STEINS;GATE ELITE』、『428 〜封鎖された渋谷で〜』などアドベンチャータイトルが目白押し。</description>
     </item>
   </channel>
 </rss>
