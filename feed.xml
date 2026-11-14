@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 22:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:30:00 GMT</lastBuildDate>
+    <item>
+      <title>【ガルパン】新作麻雀ゲーム『白熱！ 麻雀タッグバトルです！』発表。あんこうチームら総勢30名がタッグを組んで対局、Switch2/PS5で2027年発売予定</title>
+      <link>https://www.famitsu.com/article/202611/93973</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93973</guid>
+      <pubDate>Sat, 14 Nov 2026 00:30:00 GMT</pubDate>
+      <description>『ガールズ＆パンツァー』の新作ゲーム『ガールズ＆パンツァー 白熱！ 麻雀タッグバトルです！』がNintendo Switch 2およびプレイステーション5（PS5）向けに2027年発売予定。本作は、戦車道強豪校による麻雀大会を舞台にしたタッグ打ち麻雀ゲームだ。</description>
+    </item>
     <item>
       <title>『ワンピース』チョッパーたち“動物キャラ”のグッズが当たる新作一番くじが本日（11/14）発売。ラストワン賞はカルーのビッグぬいぐるみ</title>
       <link>https://www.famitsu.com/article/202611/93983</link>
@@ -54,6 +61,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93991</guid>
       <pubDate>Fri, 13 Nov 2026 11:30:00 GMT</pubDate>
       <description>Com2uS Japanは、アニメ『桃源暗鬼』のゲーム『桃源暗鬼 Crimson Inferno』のPC版の事前登録を2026年11月13日よりスタートした。</description>
+    </item>
+    <item>
+      <title>【Amazon予約数ランキング】発売迫る『GTA6』が首位。Switch2版『メタファー：リファンタジオ』が3位に【11/1～11/7】</title>
+      <link>https://www.famitsu.com/article/202611/93993</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93993</guid>
+      <pubDate>Fri, 13 Nov 2026 11:02:00 GMT</pubDate>
+      <description>Amazon.co.jpのテレビゲームストアの週間予約数ランキング。2026年11月1日～11月7日の期間、『グランド・セフト・オートVI』（GTA6）が首位を獲得。3位に『メタファー：リファンタジオ』がランクインしている。</description>
     </item>
     <item>
       <title>【トリッカル パティマ】『トリッカル』開発元の新作は会社経営がテーマ!? 舞台となるパティマチを紹介する最新映像が公開</title>
@@ -691,20 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93667</guid>
       <pubDate>Tue, 10 Nov 2026 14:29:00 GMT</pubDate>
       <description>ロックスター・ゲームスより2026年11月19日発売予定の『グランド・セフト・オートVI』。全世界で始まったプリロードを記念するトレーラーが公開された。</description>
-    </item>
-    <item>
-      <title>新作スマホゲー『ドラクエRPG 魔界樹と導かれし島』2027年にリリース。クローズドβテストが2026年12月に開催＆募集開始</title>
-      <link>https://www.famitsu.com/article/202611/93592</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93592</guid>
-      <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
-      <description>『ドラゴンクエストRPG　魔界樹と導かれし島』のアナウンストレーラーが公開。2027年に配信予定。2026年12月からはじまるクローズドβテストの応募も開始された。</description>
-    </item>
-    <item>
-      <title>ネットミーム「ヒョーゴスラビア」本気のRPG化。「全セリフ神戸弁に切替可能」な兵庫県ファンタジー『ヒョーゴスラビア興亡記』11月20日発売</title>
-      <link>https://www.famitsu.com/article/202611/93628</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93628</guid>
-      <pubDate>Tue, 10 Nov 2026 10:46:00 GMT</pubDate>
-      <description>兵庫県を五国からなる連邦国家に見立てたRPG『ヒョーゴスラビア興亡記』が、iPhone・Android向けに11月20日に発売。Steam版は12月10日発売予定。ネットミーム「ヒョーゴスラビア」から着想を得ており、全セリフを神戸弁に切り替えられる「セッツ語モード」を搭載する。回復アイテムはイカナゴのくぎ煮やそばめしなど、兵庫のご当地グルメ。</description>
     </item>
   </channel>
 </rss>
