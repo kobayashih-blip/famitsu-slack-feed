@@ -112,18 +112,18 @@
       <description>オーケストラコンサート“FINAL FANTASY 40th Anniversary Distant Worlds: music from FINAL FANTASY - Eternal / 悠久”日本公演の最速先行販売受付が2026年11月16日より開始。期限は11月30日まで。コンサート関連グッズの事前通販も実施決定した。</description>
     </item>
     <item>
-      <title>『If you die, you die!』死んだら二度と遊べない死体探索ホラーがSteamに登場。全プレイヤーの調査データで隠された真相に迫る</title>
-      <link>https://www.famitsu.com/article/202611/94172</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94172</guid>
-      <pubDate>Mon, 16 Nov 2026 10:00:00 GMT</pubDate>
-      <description>PC（Steam）向けソフト『If you die, you die!』のストアページが公開。神の死体内部を探査機で探索し、暗闇に潜む存在を撮影する一度きりのプレイが特徴のホラーゲーム。</description>
-    </item>
-    <item>
       <title>カイロソフトの経営シミュレーション7作品がPS Storeで最大50%オフ。『箱庭シティ鉄道』『開園ピクセル牧場』などが750円に</title>
       <link>https://www.famitsu.com/article/202611/94170</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/94170</guid>
       <pubDate>Mon, 16 Nov 2026 10:00:00 GMT</pubDate>
       <description>カイロソフトのPlayStation向け7作品がPS Storeの“Black Friday pt twoセール”で最大50%オフ。『海鮮!!すし街道』など5作品が750円、2作品が1050円に。11月30日まで。</description>
+    </item>
+    <item>
+      <title>『If you die, you die!』死んだら二度と遊べない死体探索ホラーがSteamに登場。全プレイヤーの調査データで隠された真相に迫る</title>
+      <link>https://www.famitsu.com/article/202611/94172</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94172</guid>
+      <pubDate>Mon, 16 Nov 2026 10:00:00 GMT</pubDate>
+      <description>PC（Steam）向けソフト『If you die, you die!』のストアページが公開。神の死体内部を探査機で探索し、暗闇に潜む存在を撮影する一度きりのプレイが特徴のホラーゲーム。</description>
     </item>
     <item>
       <title>『ドラゴンボール Sparking! ZERO』限界超突破DLC“NEO”がPS5版初セールで15%オフ。新モード“力の塔”は12月上旬に配信決定</title>
@@ -355,13 +355,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/94031</guid>
       <pubDate>Sat, 14 Nov 2026 03:30:00 GMT</pubDate>
       <description>大川ぶくぶ氏が描き下ろした、カプコンのアクションゲーム『大神』の新グッズがカドストにて予約受付を開始した。</description>
-    </item>
-    <item>
-      <title>『Sloppy Forgeries 名画のつもり！』世界の名画を“マウス”で“3分以内”に模写する、対戦お絵かきゲームが本日（11/14）発売。シビアな条件で再現を目指す</title>
-      <link>https://www.famitsu.com/article/202611/94000</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94000</guid>
-      <pubDate>Sat, 14 Nov 2026 03:00:00 GMT</pubDate>
-      <description>3分以内に名画を模写する対戦型お絵かきゲーム『Sloppy Forgeries 名画のつもり！』が発売。マウスのみかつ色と筆が限られるというシビアな条件で、どこまで再現できるかがカギとなる。</description>
     </item>
     <item>
       <title>『ほの暮しの庭』7月発売のファミ通DXパックが再販決定。パッケージと描き下ろしキャンバスボードなどのグッズがセットになった限定版</title>
@@ -705,6 +698,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93869</guid>
       <pubDate>Thu, 12 Nov 2026 09:40:00 GMT</pubDate>
       <description>『エストポリス伝記 I＆II』の新キービジュアルが公開。安藤賢司氏による描き下ろし。シリーズ楽曲に携わる塩生康範氏の参加ほか、オーケストラコンサートの開催も決定。</description>
+    </item>
+    <item>
+      <title>『MONOMOON』本日（11/12）発売。幾重にも張り巡らされた“秘密”を「キャラ操作+マウス」で解き明かすアクションアドベンチャー。アイテムではなく“閃き”が道を切り拓く</title>
+      <link>https://www.famitsu.com/article/202611/93867</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93867</guid>
+      <pubDate>Thu, 12 Nov 2026 09:20:00 GMT</pubDate>
+      <description>2026年11月12日、Steamにて『MONOMOON』がリリース。足場を飛び移る2Dアクションと、マウス操作で仕掛けを解くポイント＆クリックアドベンチャーの要素を融合させたゲーム。2026年11月19日まで10％オフの1512円［税込］で購入可能。</description>
     </item>
   </channel>
 </rss>
