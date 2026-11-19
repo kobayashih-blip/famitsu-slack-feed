@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 01:24:00 GMT</lastBuildDate>
+    <item>
+      <title>『ロックマン: デュアル オーバーライド』新ボス“ボートマン”が公開。水中バトルをくり広げる近海漁業ロボット</title>
+      <link>https://www.famitsu.com/article/202611/94455</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94455</guid>
+      <pubDate>Thu, 19 Nov 2026 01:24:00 GMT</pubDate>
+      <description>2027年春に発売予定の『ロックマン: デュアル オーバーライド』より、新ボスの“ボートマン”が、韓国最大級のゲームショウ「G-STAR 2026」にて公開された。</description>
+    </item>
     <item>
       <title>『GTA6』ついに本日（11/19）発売、前作から13年ぶりの最新作。舞台はネオン輝くバイスシティを含む広大なレオナイダ州</title>
       <link>https://www.famitsu.com/article/202611/94415</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93991</guid>
       <pubDate>Fri, 13 Nov 2026 11:30:00 GMT</pubDate>
       <description>Com2uS Japanは、アニメ『桃源暗鬼』のゲーム『桃源暗鬼 Crimson Inferno』のPC版の事前登録を2026年11月13日よりスタートした。</description>
-    </item>
-    <item>
-      <title>【Amazon予約数ランキング】発売迫る『GTA6』が首位。Switch2版『メタファー：リファンタジオ』が3位に【11/1～11/7】</title>
-      <link>https://www.famitsu.com/article/202611/93993</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/93993</guid>
-      <pubDate>Fri, 13 Nov 2026 11:02:00 GMT</pubDate>
-      <description>Amazon.co.jpのテレビゲームストアの週間予約数ランキング。2026年11月1日～11月7日の期間、『グランド・セフト・オートVI』（GTA6）が首位を獲得。3位に『メタファー：リファンタジオ』がランクインしている。</description>
     </item>
   </channel>
 </rss>
