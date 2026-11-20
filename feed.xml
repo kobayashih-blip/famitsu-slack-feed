@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 04:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 04:10:00 GMT</lastBuildDate>
+    <item>
+      <title>スマホ版『魔法使いの夜』が本日（11/20）発売。『Fate』『月姫』の奈須きのこ氏が描く、少年と魔女の物語。映画も本日より公開！【まほよ】</title>
+      <link>https://www.famitsu.com/article/202611/94575</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94575</guid>
+      <pubDate>Fri, 20 Nov 2026 04:10:00 GMT</pubDate>
+      <description>TYPE-MOONが手掛ける正統派ビジュアルノベル『魔法使いの夜』のiOS、Android向けスマートフォンアプリ版が2026年11月20日に発売。価格は2900円［税込］。</description>
+    </item>
     <item>
       <title>『FF14』チョコボレースVRがティフォニウムお台場に登場。チョコボに乗って冒険の舞台を駆け抜けるVRアトラクション。新宿店では12月3日より展開</title>
       <link>https://www.famitsu.com/article/202611/94573</link>
@@ -357,6 +364,13 @@
       <description>オンライン対戦型麻雀ゲーム『雀魂-じゃんたま-』とテレビアニメ『葬送のフリーレン』とのコラボが2026年11月18日より開始。期間限定コラボ雀士としてフリーレン、フェルン、シュタルク、ユーベルが登場。</description>
     </item>
     <item>
+      <title>『ダンガンロンパ』音楽イベント『ダンガンライブ2026』が12月20日に開催。緒方恵美が歌い、音楽家・高田雅史が演奏。本日（11/18）より先行受付が開始</title>
+      <link>https://www.famitsu.com/article/202611/94388</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94388</guid>
+      <pubDate>Wed, 18 Nov 2026 06:55:00 GMT</pubDate>
+      <description>『ダンガンロンパ』苗木誠、狛枝凪斗役を担当した緒方恵美、シリーズの全楽曲を担当した音楽家・高田雅史がコラボする音楽イベント“ダンガンライブ2026-希望のタカダと絶望のオガタ”が東京・神田明神ホールにて開催。11月18日より先行受付が開始された。</description>
+    </item>
+    <item>
       <title>『Braveforce』ゲームボーイ調の懐かしさあふれるPRGが体験版を配信中。モダンな遊びやすさを追求したレトロな王道体験【12月10日発売】</title>
       <link>https://www.famitsu.com/article/202611/94384</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/94384</guid>
@@ -691,20 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/94121</guid>
       <pubDate>Mon, 16 Nov 2026 04:10:00 GMT</pubDate>
       <description>レトロゲームの異変を探すホラーゲーム『ノロイステーション』が2027年に発売。Steamストアページを2026年11月16日に公開、2027年2月に開催されるSteam Next Festにて、本作の無料体験版が配信される。</description>
-    </item>
-    <item>
-      <title>自分を魅せるパフォーマンスで観客を虜にする『Keep Farming Aura』が発売。オーラを稼ぎ、自分だけの盛大なショーを目指せ</title>
-      <link>https://www.famitsu.com/article/202611/94116</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94116</guid>
-      <pubDate>Mon, 16 Nov 2026 04:00:00 GMT</pubDate>
-      <description>自分を魅せるパフォーマンスで観客を虜にするアクティブ3Dインクリメンタルゲーム『Keep Farming Aura』が2026年11月13日に発売。</description>
-    </item>
-    <item>
-      <title>放置系ダンジョンRPG『Dragon’s Tear』無料デモ版がSteamで11月17日より配信。全100階層を開発者が設計、ゲームを閉じても冒険が進む</title>
-      <link>https://www.famitsu.com/article/202611/94113</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94113</guid>
-      <pubDate>Mon, 16 Nov 2026 03:30:00 GMT</pubDate>
-      <description>オートバトル・放置系ダンジョンRPG『Dragon’s Tear』の無料デモ版が11月17日にSteamで配信。体験版では4人の冒険者を操作して10階層までプレイでき、セーブデータは製品版に引き継げる。</description>
     </item>
   </channel>
 </rss>
