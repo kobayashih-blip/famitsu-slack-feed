@@ -5,14 +5,7 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:20:00 GMT</lastBuildDate>
-    <item>
-      <title>『Human Forge』人間を作って、生まれた人間の人生を“放送”。「派手なイベントが起きる人生」ほどお金が貰えるギャンブル系ローグライトが2027年上半期に発売</title>
-      <link>https://www.famitsu.com/article/202611/94763</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94763</guid>
-      <pubDate>Sun, 22 Nov 2026 12:20:00 GMT</pubDate>
-      <description>開発チームのJebi Studioは、一人称ローグライトゲーム『Human Forge』をSteam向けに開発中。2027年上半期に発売予定だ。</description>
-    </item>
+    <lastBuildDate>Sun, 22 Nov 2026 08:30:00 GMT</lastBuildDate>
     <item>
       <title>ショートアニメ『緋弾のアリアCorto』2027年4月より配信開始。おなじみアリア（釘宮理恵）らに加え、新キャラのビジュアル・声優も公開</title>
       <link>https://www.famitsu.com/article/202611/94729</link>
@@ -705,6 +698,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/94349</guid>
       <pubDate>Wed, 18 Nov 2026 03:00:00 GMT</pubDate>
       <description>テレ東系列にて毎週月曜日から金曜日にかけて放送中の『おはスタ』のコーナー“おはスタ第五学園”がショートアニメ化。2026年11月24日より全4話にわたって毎週火曜日に放送、全4話のタイトルと場面カットが公開された。</description>
+    </item>
+    <item>
+      <title>ガラケー向けに配信された『ドルアーガの迷宮』Switch、PCで復刻決定。『ドルアーガの塔』の正統続編</title>
+      <link>https://www.famitsu.com/article/202611/94287</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94287</guid>
+      <pubDate>Wed, 18 Nov 2026 03:00:00 GMT</pubDate>
+      <description>フィーチャーフォンゲーム復刻プロジェクト“G-MODEアーカイブス+”より『ドルアーガの迷宮』がNintendo Switch、PC（Steam）向けに配信。Switch版が2026年11月19日、Steam版が12月2日より配信開始となる。</description>
     </item>
   </channel>
 </rss>
