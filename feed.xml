@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 11:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:40:00 GMT</lastBuildDate>
+    <item>
+      <title>『ノヤキ コントロールド・バーン』野焼きを見守るパズルゲーム体験版が配信。焼いた面積、点火回数の節約などで総合ランクを出す</title>
+      <link>https://www.famitsu.com/article/202611/94944</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94944</guid>
+      <pubDate>Tue, 24 Nov 2026 11:40:00 GMT</pubDate>
+      <description>草原を狙いどおりに焼き払う“野焼き”をテーマにしたパズルゲーム『ノヤキ コントロールド・バーン』の体験版が2026年11月24日より配信。10ステージがプレイできる。</description>
+    </item>
     <item>
       <title>『エースコンバット8』オンラインモードシーズン2が12月1日より開幕。有料プレイアブル機体にSu-30SM -MIHALY-（『ACE7』のミハイスキン）が登場</title>
       <link>https://www.famitsu.com/article/202611/94875</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/94404</guid>
       <pubDate>Wed, 18 Nov 2026 10:00:00 GMT</pubDate>
       <description>『コンソールアーカイブス』シリーズの新作『コンソールアーカイブス ザ・ファイヤーメン2 ピート＆ダニー』が2026年11月19日より配信開始。対応機種はNintendo Switch 2、プレイステーション5（PS5）。</description>
-    </item>
-    <item>
-      <title>惑星を丸ごと壊す放置ゲーム『DeCube』無料体験版が公開。最初の2ワールドを遊べ、セーブデータは製品版に引き継ぎ可能</title>
-      <link>https://www.famitsu.com/article/202611/94163</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94163</guid>
-      <pubDate>Wed, 18 Nov 2026 10:00:00 GMT</pubDate>
-      <description>惑星を丸ごと壊すノスタルジックな放置ゲーム『DeCube』のSteam無料体験版が11月18日19時に公開。全6ワールドのうち最初の2ワールドを遊べ、セーブデータは製品版に引き継げる。</description>
     </item>
   </channel>
 </rss>
