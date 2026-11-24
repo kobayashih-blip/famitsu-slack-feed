@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 03:59:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 04:31:00 GMT</lastBuildDate>
+    <item>
+      <title>『Who&apos;s NULL?』足音で推理するオンライン人狼ゲームが本日（11/24）発売。脱出をメインにした鬼ごっこモードも搭載</title>
+      <link>https://www.famitsu.com/article/202611/94860</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94860</guid>
+      <pubDate>Tue, 24 Nov 2026 04:31:00 GMT</pubDate>
+      <description>プレイヤーごとに異なる足音を手がかりに殺人鬼を推理する新作オンライン人狼ゲーム『Who&apos;s NULL?』が2026年11月24日に発売。脱出をメインにした鬼ごっこモードも搭載。</description>
+    </item>
     <item>
       <title>『進撃の巨人3』の必要容量は「125GB」、Steam版の動作環境が公開。壁内編の実機プレイ映像も</title>
       <link>https://www.famitsu.com/article/202611/94862</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/94372</guid>
       <pubDate>Wed, 18 Nov 2026 07:04:00 GMT</pubDate>
       <description>ネットの闇と承認欲求を描く心理ホラービジュアルノベル『承認欲求ニート姫』のSteamストアページが公開された。発売日は未定。</description>
-    </item>
-    <item>
-      <title>『雀魂』×『葬送のフリーレン』コラボがスタート。フリーレン、フェルン、シュタルクらが雀士に。コラボ和了演出として花畑を出す魔法も登場</title>
-      <link>https://www.famitsu.com/article/202611/94371</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94371</guid>
-      <pubDate>Wed, 18 Nov 2026 07:00:00 GMT</pubDate>
-      <description>オンライン対戦型麻雀ゲーム『雀魂-じゃんたま-』とテレビアニメ『葬送のフリーレン』とのコラボが2026年11月18日より開始。期間限定コラボ雀士としてフリーレン、フェルン、シュタルク、ユーベルが登場。</description>
     </item>
   </channel>
 </rss>
