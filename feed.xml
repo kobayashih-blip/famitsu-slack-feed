@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 08:29:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 09:47:00 GMT</lastBuildDate>
+    <item>
+      <title>『デトロイト ビカム ヒューマン』Steam版が450円。2038年のデトロイト、数多くの選択がアンドロイド3人の運命を左右する人気アドベンチャー</title>
+      <link>https://www.famitsu.com/article/202611/94914</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94914</guid>
+      <pubDate>Tue, 24 Nov 2026 09:47:00 GMT</pubDate>
+      <description>アドベンチャーゲーム『デトロイト ビカム ヒューマン』Steam版を450円［税込］で購入できる90％オフセールが開催されている。</description>
+    </item>
     <item>
       <title>『昭和米国物語』2027年に発売延期か、Steamストアの表記が変更。昭和アメリカという新概念で話題を集めたレトロポップなアクションRPG</title>
       <link>https://www.famitsu.com/article/202611/94923</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/94397</guid>
       <pubDate>Wed, 18 Nov 2026 09:00:00 GMT</pubDate>
       <description>ハムスターは、『アーケードアーカイブス2 セクターゾーン』を2026年11月19日に配信する。</description>
-    </item>
-    <item>
-      <title>カラフル&amp;スタイリッシュなガラケー新機種「INFOBAR ZERO」KDDIより12月25日に発売。通話やSMS、カメラなどに特化。32780円で予約受付スタート</title>
-      <link>https://www.famitsu.com/article/202611/94394</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94394</guid>
-      <pubDate>Wed, 18 Nov 2026 08:52:00 GMT</pubDate>
-      <description>au公式のSIMフリーブランド“au Flex Style”初のオリジナルモデル“INFOBAR ZERO（インフォバーゼロ）”を2026年12月25日に発売。価格は32780円［税込］。全国のKDDI・沖縄セルラー直営店、au Style、auショップ、auオンラインショップにて、11月18日より予約受付が開始された。</description>
     </item>
   </channel>
 </rss>
