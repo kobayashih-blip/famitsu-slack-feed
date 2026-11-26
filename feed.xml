@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 13:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:00:00 GMT</lastBuildDate>
+    <item>
+      <title>『仮面ライダーマイス＆ゼッツ』一番くじが本日（11/27）発売。司令官ゼロのティーカップが小物入れとなって登場</title>
+      <link>https://www.famitsu.com/article/202611/95173</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/95173</guid>
+      <pubDate>Thu, 26 Nov 2026 21:00:00 GMT</pubDate>
+      <description>『仮面ライダーマイス』『仮面ライダーゼッツ』のグッズが当たる“一番くじ 仮面ライダーマイス＆仮面ライダーゼッツ”が、2026年11月27日よりローソン、ミニストップ、デイリーヤマザキほかにて順次発売される。価格は1回850円［税込］。</description>
+    </item>
     <item>
       <title>【ソフト＆ハード週間販売数】発売初日だけで約6000億円を売り上げた『GTA6』が首位スタート！ 体験版の配信で再注目の『桃鉄2』もトップ10に返り咲き【11/16～11/22】</title>
       <link>https://www.famitsu.com/article/202611/95209</link>
@@ -266,18 +273,18 @@
       <description>『デジモンカードゲーム』のスマホ向けゲームアプリ『DIGIMON ALYSION（デジモンアリシオン）』が2026年11月25日より、正式にリリースされた。</description>
     </item>
     <item>
-      <title>『ホロじゃん』本日（11/25）配信開始。ホロライブの推しタレントといっしょに麻雀。オリジナルストーリーも楽しめる。11/27にはリリース記念生配信も実施</title>
-      <link>https://www.famitsu.com/article/202611/95070</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/95070</guid>
-      <pubDate>Wed, 25 Nov 2026 10:30:00 GMT</pubDate>
-      <description>『ホロライブ麻雀-ホロじゃん-』が本日2026年11月25日に配信開始。ホロライブのタレント総勢37名が参加する、“推しと楽しむ”麻雀ゲーム。</description>
-    </item>
-    <item>
       <title>『モンハンライズ』モバイル版が配信開始、Netflix会員向けに提供。スマホでの狩猟をサポートする新機能を搭載</title>
       <link>https://www.famitsu.com/article/202611/95064</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/95064</guid>
       <pubDate>Wed, 25 Nov 2026 10:30:00 GMT</pubDate>
       <description>Netflixゲームにて、カプコンのハンティングアクション『モンスターハンターライズ』のモバイル版が配信開始。プレイにはNetflixのメンバーシップが必要となる。</description>
+    </item>
+    <item>
+      <title>『ホロじゃん』本日（11/25）配信開始。ホロライブの推しタレントといっしょに麻雀。オリジナルストーリーも楽しめる。11/27にはリリース記念生配信も実施</title>
+      <link>https://www.famitsu.com/article/202611/95070</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/95070</guid>
+      <pubDate>Wed, 25 Nov 2026 10:30:00 GMT</pubDate>
+      <description>『ホロライブ麻雀-ホロじゃん-』が本日2026年11月25日に配信開始。ホロライブのタレント総勢37名が参加する、“推しと楽しむ”麻雀ゲーム。</description>
     </item>
     <item>
       <title>『Midnight Toybox』負ければ死亡のターン制ホラーボードゲーム、12/9にSteamでリリース。緊張感満載の新PVも公開</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/93041</guid>
       <pubDate>Sun, 22 Nov 2026 02:30:00 GMT</pubDate>
       <description>挿絵画家・小松崎茂氏によるイラスト“イルカがせめてきたぞっ”をモチーフにしたカプセルトイが、2026年12月より順次展開される。</description>
-    </item>
-    <item>
-      <title>何かをふんばる犬フィギュア“ふんばり～ぬ”第4弾が12月下旬発売。あの野球選手も大好きコーイケルホンディエが新登場。サモエドやポメラニアンもかわいい！</title>
-      <link>https://www.famitsu.com/article/202611/94082</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94082</guid>
-      <pubDate>Sun, 22 Nov 2026 01:00:00 GMT</pubDate>
-      <description>ふんばるワンちゃんたちのフィギュアシリーズ“ふんばり～ぬ”に第4弾が登場。サモエドやポメラニアンなどの人気犬種に加え、話題のコーイケルホンディエも新登場。</description>
     </item>
   </channel>
 </rss>
