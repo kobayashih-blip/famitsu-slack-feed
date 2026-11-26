@@ -21,7 +21,7 @@
       <description>dramatic createは、Nintendo Switch版『大穢』の体験版を、本日2026年11月26日（木）よりニンテンドーeショップにて配信開始した。</description>
     </item>
     <item>
-      <title>『大戦略 SSB2』にて『R-TYPE TACTICS』コラボDLCが無料配信決定。毎月1本のシナリオマップ追加や隔月での兵器追加など、2027年の開発ロードマップ公開</title>
+      <title>『大戦略SSB2』にて『R-TYPE TACTICS』コラボDLCが無料配信決定。毎月1本のシナリオマップ追加や隔月での兵器追加など、2027年の開発ロードマップ公開</title>
       <link>https://www.famitsu.com/article/202611/95125</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/95125</guid>
       <pubDate>Thu, 26 Nov 2026 03:00:00 GMT</pubDate>
@@ -77,18 +77,18 @@
       <description>『デジモンカードゲーム』のスマホ向けゲームアプリ『DIGIMON ALYSION（デジモンアリシオン）』が2026年11月25日より、正式にリリースされた。</description>
     </item>
     <item>
-      <title>『モンハンライズ』モバイル版が配信開始、Netflix会員向けに提供。スマホでの狩猟をサポートする新機能を搭載</title>
-      <link>https://www.famitsu.com/article/202611/95064</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/95064</guid>
-      <pubDate>Wed, 25 Nov 2026 10:30:00 GMT</pubDate>
-      <description>Netflixゲームにて、カプコンのハンティングアクション『モンスターハンターライズ』のモバイル版が配信開始。プレイにはNetflixのメンバーシップが必要となる。</description>
-    </item>
-    <item>
       <title>『ホロじゃん』本日（11/25）配信開始。ホロライブの推しタレントといっしょに麻雀。オリジナルストーリーも楽しめる。11/27にはリリース記念生配信も実施</title>
       <link>https://www.famitsu.com/article/202611/95070</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/95070</guid>
       <pubDate>Wed, 25 Nov 2026 10:30:00 GMT</pubDate>
       <description>『ホロライブ麻雀-ホロじゃん-』が本日2026年11月25日に配信開始。ホロライブのタレント総勢37名が参加する、“推しと楽しむ”麻雀ゲーム。</description>
+    </item>
+    <item>
+      <title>『モンハンライズ』モバイル版が配信開始、Netflix会員向けに提供。スマホでの狩猟をサポートする新機能を搭載</title>
+      <link>https://www.famitsu.com/article/202611/95064</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/95064</guid>
+      <pubDate>Wed, 25 Nov 2026 10:30:00 GMT</pubDate>
+      <description>Netflixゲームにて、カプコンのハンティングアクション『モンスターハンターライズ』のモバイル版が配信開始。プレイにはNetflixのメンバーシップが必要となる。</description>
     </item>
     <item>
       <title>『Midnight Toybox』負ければ死亡のターン制ホラーボードゲーム、12/9にSteamでリリース。緊張感満載の新PVも公開</title>
@@ -119,18 +119,18 @@
       <description>PC（Steam）向けソフト『No Asteroids』が2026年11月25日発売。地球に迫る小惑星を採掘して破壊する最大8人協力プレイ対応ゲーム。</description>
     </item>
     <item>
-      <title>アニメ『幼稚園WARS』2027年4月に放送決定。AdoがOP主題歌を担当。個性豊かな幼稚園教諭たちの日常を描いたPVも公開</title>
-      <link>https://www.famitsu.com/article/202611/95048</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/95048</guid>
-      <pubDate>Wed, 25 Nov 2026 09:00:00 GMT</pubDate>
-      <description>テレビアニメ『幼稚園WARS』がテレ東系列6局ネットで2027年4月に放送決定した。</description>
-    </item>
-    <item>
       <title>【アケアカ2】『レインボーアイランド』が11月26日配信開始。1987年にタイトーから発売された『バブルボブル』の続編アクションゲーム</title>
       <link>https://www.famitsu.com/article/202611/95055</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/95055</guid>
       <pubDate>Wed, 25 Nov 2026 09:00:00 GMT</pubDate>
       <description>ハムスターは、『アーケードアーカイブス2 レインボーアイランド』を2026年11月26日に配信する。</description>
+    </item>
+    <item>
+      <title>アニメ『幼稚園WARS』2027年4月に放送決定。AdoがOP主題歌を担当。個性豊かな幼稚園教諭たちの日常を描いたPVも公開</title>
+      <link>https://www.famitsu.com/article/202611/95048</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/95048</guid>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 GMT</pubDate>
+      <description>テレビアニメ『幼稚園WARS』がテレ東系列6局ネットで2027年4月に放送決定した。</description>
     </item>
     <item>
       <title>『クライムライト』Steam版の発売日が12月1日に決定。ローンチセールは20％オフに、書き下ろしショートストーリーも近日公開</title>
@@ -355,6 +355,13 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/94853</guid>
       <pubDate>Tue, 24 Nov 2026 05:00:00 GMT</pubDate>
       <description>PC向け短編ゾンビサバイバルアドベンチャー『Terminus: Day Zero』が、Steamにて無料で配信されている。</description>
+    </item>
+    <item>
+      <title>『仁王3』DLC第2弾“天草大乱”の配信日が12月17日に決定。天草四郎らが登場する新ステージ“島原”が舞台、新エンドコンテンツも追加</title>
+      <link>https://www.famitsu.com/article/202611/94854</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94854</guid>
+      <pubDate>Tue, 24 Nov 2026 03:19:00 GMT</pubDate>
+      <description>ダーク戦国アクションRPG『仁王3』のダウンロードコンテンツ（DLC）第2弾“天草大乱”が2026年12月17日に発売決定。さらに、本編と有料DLC2部作を収録した『仁王3 Complete Edition』が2027年1月28日に発売決定した。</description>
     </item>
     <item>
       <title>【INDIE Live Expo 2026.12.1】『魔法少女ノ因習村』はじめ100作品以上紹介するインディーゲーム情報番組のプレゼンターに吉田修平氏、ライムスター宇多丸氏らが決定</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/94577</guid>
       <pubDate>Fri, 20 Nov 2026 03:53:00 GMT</pubDate>
       <description>水槽の中で暮らすエビ“ビーシュリンプ”を眺めて楽しむ3Dアクアリウムゲーム『Bee Shrimp Aquarium』が本日2026年11月20日に配信。小さなハサミでコケや葉の表面をツマツマしたり、泳いだり、毛づくろいしたりする姿を、カメラの回転やズームで好きな角度・距離から観察できる。</description>
-    </item>
-    <item>
-      <title>『ウマ娘』×NFLデンバー・ブロンコスのコラボが12月6日開催。ゴールドシップとメジロマックイーンがユニフォーム姿に。ホームゲームでノベルティ配布</title>
-      <link>https://www.famitsu.com/article/202611/94569</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94569</guid>
-      <pubDate>Fri, 20 Nov 2026 03:30:00 GMT</pubDate>
-      <description>『ウマ娘』がNFLチーム デンバー・ブロンコスとパートナーシップ契約を締結。12月6日（現地時間）のホームゲームで、ユニフォーム姿のゴールドシップとメジロマックイーンのフォトスポットやノベルティが登場する。</description>
     </item>
   </channel>
 </rss>
