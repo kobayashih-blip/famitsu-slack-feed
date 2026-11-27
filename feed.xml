@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 09:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:15:00 GMT</lastBuildDate>
+    <item>
+      <title>『魔法使いの夜』青子＆有珠と新幹線の旅へ。JR東海“推し旅”コラボが明日（11/28）スタート。時間帯で変わる限定ボイスや冬服姿の描き下ろしグッズも登場</title>
+      <link>https://www.famitsu.com/article/202611/95343</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/95343</guid>
+      <pubDate>Fri, 27 Nov 2026 10:15:00 GMT</pubDate>
+      <description>劇場アニメーション『魔法使いの夜』とJR東海の“推し旅”コラボキャンペーンが、2026年11月28日～2027年2月28日に開催される。東海道新幹線の車内では限定ボイスが配信される。</description>
+    </item>
     <item>
       <title>美術部オタク女子との恋愛ノベル『美術部カノジョ』ヒロイン4名のフルボイス化が決定。『ウマ娘』『トラペジウム』『原神』『正反対な君と僕』などの出演声優が名を連ねる</title>
       <link>https://www.famitsu.com/article/202611/95247</link>
@@ -189,18 +196,18 @@
       <description>2026年12月1日から2027年1月11日にかけて、ピザハットと『鳴潮』とのコラボキャンペーンが開催。指定のクーポンを使って1500円［税込］以上の注文をすれば数量限定でオリジナルA5クリアファイル＆ポストカードがプレゼント。</description>
     </item>
     <item>
-      <title>“あのころのニコ動”から恋が始まるラブコメ『ニコ動見てただけなのに』がニコニコ漫画にて連載スタート。約20年前、ぼくらの青春はニコ動だった──</title>
-      <link>https://www.famitsu.com/article/202611/95204</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/95204</guid>
-      <pubDate>Fri, 27 Nov 2026 01:00:00 GMT</pubDate>
-      <description>『ニコ動見てただけなのに』の連載がニコニコ漫画にて開始。ニコ動黎明期の2007年を舞台に、冴えない学生・藤ノ宮万生が、ひょんなことからクラスの人気者・千歳澪と一緒に動画を見ることになるところから始まる初恋ラブコメディ。</description>
-    </item>
-    <item>
       <title>【アマプラ12月配信作品】大河ドラマ『鎌倉殿の13人』が見放題配信に登場。『グレンラガン』『コードギアス』『物語』シリーズなどアニメも充実</title>
       <link>https://www.famitsu.com/article/202611/95199</link>
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/95199</guid>
       <pubDate>Fri, 27 Nov 2026 01:00:00 GMT</pubDate>
       <description>プライムビデオより、2026年12月より見放題配信となる新着ラインアップが公開された。大河ドラマ『鎌倉殿の13人』や『Michael／マイケル』、『エルヴィス』などが登場。嵐のドキュメンタリー映画も。</description>
+    </item>
+    <item>
+      <title>“あのころのニコ動”から恋が始まるラブコメ『ニコ動見てただけなのに』がニコニコ漫画にて連載スタート。約20年前、ぼくらの青春はニコ動だった──</title>
+      <link>https://www.famitsu.com/article/202611/95204</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/95204</guid>
+      <pubDate>Fri, 27 Nov 2026 01:00:00 GMT</pubDate>
+      <description>『ニコ動見てただけなのに』の連載がニコニコ漫画にて開始。ニコ動黎明期の2007年を舞台に、冴えない学生・藤ノ宮万生が、ひょんなことからクラスの人気者・千歳澪と一緒に動画を見ることになるところから始まる初恋ラブコメディ。</description>
     </item>
     <item>
       <title>『仮面ライダーマイス＆ゼッツ』一番くじが本日（11/27）発売。司令官ゼロのティーカップが小物入れとなって登場</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/94942</guid>
       <pubDate>Tue, 24 Nov 2026 10:50:00 GMT</pubDate>
       <description>『サイバーパンク: エッジランナーズ２』のコラボ香水が2027年2月に発売。D、ロマン、タリア、ウィークの全4種の香りが登場する。</description>
-    </item>
-    <item>
-      <title>『GTA6』PS5版のユーザー数が3900万人を突破。累計プレイ時間は6億8300万時間、プレイステーション史上最多の同時プレイ人数も記録</title>
-      <link>https://www.famitsu.com/article/202611/94935</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94935</guid>
-      <pubDate>Tue, 24 Nov 2026 09:59:00 GMT</pubDate>
-      <description>『グランド・セフト・オートVI』はプレイステーション史上最大のローンチを記録した。3900万人を超えるPS5プレイヤーが本作をプレイしている。</description>
     </item>
   </channel>
 </rss>
