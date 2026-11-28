@@ -5,7 +5,14 @@
     <link>https://www.famitsu.com/category/news/page/1</link>
     <description>ファミ通.com /news カテゴリの非公式フィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:21:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:30:00 GMT</lastBuildDate>
+    <item>
+      <title>『ペルソナ』30周年記念一番くじが本日（11/28）発売。“全ての人の魂の詩”が流れるエフェクトーンや、主人公たちが集う豪華描き下ろしアクリルボードが登場</title>
+      <link>https://www.famitsu.com/article/202611/95184</link>
+      <guid isPermaLink="true">https://www.famitsu.com/article/202611/95184</guid>
+      <pubDate>Fri, 27 Nov 2026 21:30:00 GMT</pubDate>
+      <description>“一番くじ『ペルソナ』シリーズ30th ANNIVERSARY”が本日2026年11月28日より、ローソン、書店、ホビーショップ、一番くじ公式ショップなどで発売開始（オンライン販売は12月1日より開始）。価格は1回850円［税込］。</description>
+    </item>
     <item>
       <title>『ホロウナイト シルクソング』無料拡張DLC「Sea of Sorrow」は12月11日に配信決定。新たなボスが多数登場、ホーネットが釣りをする場面も？</title>
       <link>https://www.famitsu.com/article/202611/95382</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="true">https://www.famitsu.com/article/202611/94893</guid>
       <pubDate>Wed, 25 Nov 2026 03:00:00 GMT</pubDate>
       <description>“ネット流行語100”にて、2026年のノミネート100単語が公開。『ぽこ あ ポケモン』、『トリッカル・もちもちほっぺ大作戦』のｽﾋﾟｷなどゲームネタほか、アニメ、ネットミーム、社会現象から候補が挙がった。</description>
-    </item>
-    <item>
-      <title>『遊戯王』海馬瀬人イメージのアウターが公開。特徴的なロングシルエットに裏地はワインレッド。藍神のペンダント風ネックレスも登場</title>
-      <link>https://www.famitsu.com/article/202611/94877</link>
-      <guid isPermaLink="true">https://www.famitsu.com/article/202611/94877</guid>
-      <pubDate>Wed, 25 Nov 2026 03:00:00 GMT</pubDate>
-      <description>劇場版『遊☆戯☆王 THE DARK SIDE OF DIMENSIONS』コラボアイテムがSuperGroupies、アニメイト通販、全国のアニメイト店舗、KAIBA CORPORATION STOREで予約開始。ラインアップは、海馬瀬人の衣装をイメージしたアウターやニット、バッグに加え、藍神のペンダントをモチーフにしたネックレスの全4種類。</description>
     </item>
   </channel>
 </rss>
